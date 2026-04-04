@@ -134,12 +134,12 @@ def process_local_shot_data(base_team_dir="team", base_player_dir="player", targ
         df.to_csv(filename, index=False)
         print(f" - {filename} ({len(df)} rows)")
 
-    export_index(team_index_rs, "team_index.csv", ['year', 'team_name'])
-    export_index(team_index_ps, "team_index_ps.csv", ['year', 'team_name'])
+    export_index(team_index_rs, "wteam_index.csv", ['year', 'team_name'])
+    export_index(team_index_ps, "wteam_index_ps.csv", ['year', 'team_name'])
     
     # Updated sort to group multi-team players neatly
-    export_index(player_index_rs, "player_index.csv", ['year', 'player_name', 'team_id'])
-    export_index(player_index_ps, "player_index_ps.csv", ['year', 'player_name', 'team_id'])
+    export_index(player_index_rs, "wplayer_index.csv", ['year', 'player_name', 'team_id'])
+    export_index(player_index_ps, "wplayer_index_ps.csv", ['year', 'player_name', 'team_id'])
     
     print("\nData processing complete!")
 
