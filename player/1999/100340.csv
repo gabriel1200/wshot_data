@@ -1,0 +1,14 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1029900008,407,100340,Kara Wolters,1611661316,Houston Comets,2,0,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990612,HOU,WAS,1999-00
+Shot Chart Detail,1029900008,409,100340,Kara Wolters,1611661316,Houston Comets,2,0,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990612,HOU,WAS,1999-00
+Shot Chart Detail,1029900008,416,100340,Kara Wolters,1611661316,Houston Comets,2,0,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990612,HOU,WAS,1999-00
+Shot Chart Detail,1029900017,423,100340,Kara Wolters,1611661316,Houston Comets,2,0,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,18,53,1,0,19990617,HOU,UTA,1999-00
+Shot Chart Detail,1029900096,353,100340,Kara Wolters,1611661316,Houston Comets,2,0,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,29,40,1,0,19990718,LAS,HOU,1999-00
+Shot Chart Detail,1029900096,362,100340,Kara Wolters,1611661316,Houston Comets,2,0,18,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,33,1,1,19990718,LAS,HOU,1999-00
+Shot Chart Detail,1029900118,366,100340,Kara Wolters,1611661316,Houston Comets,2,5,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990727,HOU,DET,1999-00
+Shot Chart Detail,1029900118,369,100340,Kara Wolters,1611661316,Houston Comets,2,5,6,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-29,57,1,0,19990727,HOU,DET,1999-00
+Shot Chart Detail,1029900118,372,100340,Kara Wolters,1611661316,Houston Comets,2,4,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,27,53,1,0,19990727,HOU,DET,1999-00
+Shot Chart Detail,1029900118,414,100340,Kara Wolters,1611661316,Houston Comets,2,0,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990727,HOU,DET,1999-00
+Shot Chart Detail,1029900146,335,100340,Kara Wolters,1611661316,Houston Comets,2,4,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,66,18,1,0,19990806,HOU,CHA,1999-00
+Shot Chart Detail,1029900164,405,100340,Kara Wolters,1611661316,Houston Comets,2,0,52,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-8,63,1,0,19990812,HOU,LAS,1999-00
+Shot Chart Detail,1029900170,329,100340,Kara Wolters,1611661316,Houston Comets,2,3,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990814,HOU,MIN,1999-00

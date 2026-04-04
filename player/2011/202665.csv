@@ -1,0 +1,47 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1021100005,133,202665,Chastity Reed,1611661321,Tulsa Shock,2,6,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-106,37,1,0,20110604,SAN,TUL,2011-12
+Shot Chart Detail,1021100005,389,202665,Chastity Reed,1611661321,Tulsa Shock,4,6,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,4,85,1,0,20110604,SAN,TUL,2011-12
+Shot Chart Detail,1021100005,467,202665,Chastity Reed,1611661321,Tulsa Shock,4,0,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,-3,1,1,20110604,SAN,TUL,2011-12
+Shot Chart Detail,1021100008,108,202665,Chastity Reed,1611661321,Tulsa Shock,1,0,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-2,184,1,0,20110607,MIN,TUL,2011-12
+Shot Chart Detail,1021100012,83,202665,Chastity Reed,1611661321,Tulsa Shock,1,1,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-138,142,1,1,20110610,TUL,SAN,2011-12
+Shot Chart Detail,1021100012,140,202665,Chastity Reed,1611661321,Tulsa Shock,2,6,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-180,9,1,0,20110610,TUL,SAN,2011-12
+Shot Chart Detail,1021100012,173,202665,Chastity Reed,1611661321,Tulsa Shock,2,3,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,21,194,1,0,20110610,TUL,SAN,2011-12
+Shot Chart Detail,1021100012,208,202665,Chastity Reed,1611661321,Tulsa Shock,3,9,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-43,36,1,0,20110610,TUL,SAN,2011-12
+Shot Chart Detail,1021100012,305,202665,Chastity Reed,1611661321,Tulsa Shock,3,0,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,95,151,1,1,20110610,TUL,SAN,2011-12
+Shot Chart Detail,1021100012,343,202665,Chastity Reed,1611661321,Tulsa Shock,4,7,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,124,97,1,1,20110610,TUL,SAN,2011-12
+Shot Chart Detail,1021100012,348,202665,Chastity Reed,1611661321,Tulsa Shock,4,7,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-111,138,1,1,20110610,TUL,SAN,2011-12
+Shot Chart Detail,1021100012,383,202665,Chastity Reed,1611661321,Tulsa Shock,4,4,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-109,157,1,1,20110610,TUL,SAN,2011-12
+Shot Chart Detail,1021100012,389,202665,Chastity Reed,1611661321,Tulsa Shock,4,3,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-199,-13,1,0,20110610,TUL,SAN,2011-12
+Shot Chart Detail,1021100012,406,202665,Chastity Reed,1611661321,Tulsa Shock,4,2,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-141,71,1,0,20110610,TUL,SAN,2011-12
+Shot Chart Detail,1021100018,39,202665,Chastity Reed,1611661321,Tulsa Shock,1,5,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,6,1,0,20110612,CON,TUL,2011-12
+Shot Chart Detail,1021100018,70,202665,Chastity Reed,1611661321,Tulsa Shock,1,2,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-125,137,1,1,20110612,CON,TUL,2011-12
+Shot Chart Detail,1021100018,148,202665,Chastity Reed,1611661321,Tulsa Shock,2,6,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,37,1,0,20110612,CON,TUL,2011-12
+Shot Chart Detail,1021100018,360,202665,Chastity Reed,1611661321,Tulsa Shock,4,5,30,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,7,110,1,0,20110612,CON,TUL,2011-12
+Shot Chart Detail,1021100019,73,202665,Chastity Reed,1611661321,Tulsa Shock,1,3,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,157,44,1,0,20110614,IND,TUL,2011-12
+Shot Chart Detail,1021100019,203,202665,Chastity Reed,1611661321,Tulsa Shock,2,0,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-51,66,1,0,20110614,IND,TUL,2011-12
+Shot Chart Detail,1021100019,205,202665,Chastity Reed,1611661321,Tulsa Shock,2,0,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-67,176,1,0,20110614,IND,TUL,2011-12
+Shot Chart Detail,1021100019,332,202665,Chastity Reed,1611661321,Tulsa Shock,4,8,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,25,1,1,20110614,IND,TUL,2011-12
+Shot Chart Detail,1021100019,352,202665,Chastity Reed,1611661321,Tulsa Shock,4,5,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,129,74,1,0,20110614,IND,TUL,2011-12
+Shot Chart Detail,1021100019,356,202665,Chastity Reed,1611661321,Tulsa Shock,4,4,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,136,75,1,1,20110614,IND,TUL,2011-12
+Shot Chart Detail,1021100019,400,202665,Chastity Reed,1611661321,Tulsa Shock,4,0,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,165,-17,1,0,20110614,IND,TUL,2011-12
+Shot Chart Detail,1021100034,148,202665,Chastity Reed,1611661321,Tulsa Shock,2,7,42,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,28,34,1,1,20110621,TUL,SEA,2011-12
+Shot Chart Detail,1021100034,169,202665,Chastity Reed,1611661321,Tulsa Shock,2,5,12,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-213,1,1,0,20110621,TUL,SEA,2011-12
+Shot Chart Detail,1021100034,314,202665,Chastity Reed,1611661321,Tulsa Shock,3,1,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,125,126,1,0,20110621,TUL,SEA,2011-12
+Shot Chart Detail,1021100034,366,202665,Chastity Reed,1611661321,Tulsa Shock,4,5,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-82,14,1,0,20110621,TUL,SEA,2011-12
+Shot Chart Detail,1021100036,92,202665,Chastity Reed,1611661321,Tulsa Shock,1,4,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-41,34,1,0,20110623,TUL,NYL,2011-12
+Shot Chart Detail,1021100036,114,202665,Chastity Reed,1611661321,Tulsa Shock,1,2,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,118,78,1,0,20110623,TUL,NYL,2011-12
+Shot Chart Detail,1021100045,103,202665,Chastity Reed,1611661321,Tulsa Shock,1,1,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,0,173,1,0,20110626,WAS,TUL,2011-12
+Shot Chart Detail,1021100045,119,202665,Chastity Reed,1611661321,Tulsa Shock,1,0,1,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,69,126,1,1,20110626,WAS,TUL,2011-12
+Shot Chart Detail,1021100045,139,202665,Chastity Reed,1611661321,Tulsa Shock,2,9,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,-40,1,0,20110626,WAS,TUL,2011-12
+Shot Chart Detail,1021100045,159,202665,Chastity Reed,1611661321,Tulsa Shock,2,7,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-8,154,1,1,20110626,WAS,TUL,2011-12
+Shot Chart Detail,1021100045,377,202665,Chastity Reed,1611661321,Tulsa Shock,3,0,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-150,71,1,0,20110626,WAS,TUL,2011-12
+Shot Chart Detail,1021100045,398,202665,Chastity Reed,1611661321,Tulsa Shock,4,8,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,177,4,1,1,20110626,WAS,TUL,2011-12
+Shot Chart Detail,1021100045,401,202665,Chastity Reed,1611661321,Tulsa Shock,4,8,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,10,165,1,1,20110626,WAS,TUL,2011-12
+Shot Chart Detail,1021100045,439,202665,Chastity Reed,1611661321,Tulsa Shock,4,4,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,144,-5,1,0,20110626,WAS,TUL,2011-12
+Shot Chart Detail,1021100045,499,202665,Chastity Reed,1611661321,Tulsa Shock,4,1,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-136,102,1,0,20110626,WAS,TUL,2011-12
+Shot Chart Detail,1021100051,77,202665,Chastity Reed,1611661321,Tulsa Shock,1,1,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,10,157,1,0,20110630,TUL,MIN,2011-12
+Shot Chart Detail,1021100051,149,202665,Chastity Reed,1611661321,Tulsa Shock,2,4,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-95,145,1,1,20110630,TUL,MIN,2011-12
+Shot Chart Detail,1021100051,303,202665,Chastity Reed,1611661321,Tulsa Shock,3,3,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,83,123,1,1,20110630,TUL,MIN,2011-12
+Shot Chart Detail,1021100051,330,202665,Chastity Reed,1611661321,Tulsa Shock,3,1,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-32,173,1,0,20110630,TUL,MIN,2011-12
+Shot Chart Detail,1021100051,484,202665,Chastity Reed,1611661321,Tulsa Shock,4,0,8,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,2,56,1,1,20110630,TUL,MIN,2011-12
+Shot Chart Detail,1021100066,108,202665,Chastity Reed,1611661321,Tulsa Shock,2,8,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,92,137,1,0,20110710,PHO,TUL,2011-12

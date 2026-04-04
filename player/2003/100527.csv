@@ -1,0 +1,11 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020300123,283,100527,Mactabene Amachree,1611661328,Seattle Storm,2,8,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,33,1,1,20030715,SEA,HOU,2003-04
+Shot Chart Detail,1020300125,145,100527,Mactabene Amachree,1611661328,Seattle Storm,1,5,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-6,20,1,0,20030717,CON,SEA,2003-04
+Shot Chart Detail,1020300125,147,100527,Mactabene Amachree,1611661328,Seattle Storm,1,5,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030717,CON,SEA,2003-04
+Shot Chart Detail,1020300130,76,100527,Mactabene Amachree,1611661328,Seattle Storm,1,10,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030718,DET,SEA,2003-04
+Shot Chart Detail,1020300130,89,100527,Mactabene Amachree,1611661328,Seattle Storm,1,8,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030718,DET,SEA,2003-04
+Shot Chart Detail,1020300130,113,100527,Mactabene Amachree,1611661328,Seattle Storm,1,5,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,13,1,1,20030718,DET,SEA,2003-04
+Shot Chart Detail,1020300144,282,100527,Mactabene Amachree,1611661328,Seattle Storm,2,9,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030723,SEA,NYL,2003-04
+Shot Chart Detail,1020300150,151,100527,Mactabene Amachree,1611661328,Seattle Storm,1,6,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,23,1,0,20030725,SEA,PHO,2003-04
+Shot Chart Detail,1020300150,431,100527,Mactabene Amachree,1611661328,Seattle Storm,2,2,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,8,40,1,0,20030725,SEA,PHO,2003-04
+Shot Chart Detail,1020300154,270,100527,Mactabene Amachree,1611661328,Seattle Storm,2,10,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-51,22,1,0,20030726,SAC,SEA,2003-04

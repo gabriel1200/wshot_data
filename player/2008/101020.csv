@@ -1,0 +1,326 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020800004,23,101020,Tan White,1611661325,Indiana Fever,1,7,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-176,66,1,0,20080517,IND,WAS,2008-09
+Shot Chart Detail,1020800004,46,101020,Tan White,1611661325,Indiana Fever,1,4,59,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-39,-9,1,1,20080517,IND,WAS,2008-09
+Shot Chart Detail,1020800004,121,101020,Tan White,1611661325,Indiana Fever,2,6,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-6,192,1,0,20080517,IND,WAS,2008-09
+Shot Chart Detail,1020800004,151,101020,Tan White,1611661325,Indiana Fever,2,2,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,163,163,1,0,20080517,IND,WAS,2008-09
+Shot Chart Detail,1020800004,173,101020,Tan White,1611661325,Indiana Fever,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,37,5,376,1,0,20080517,IND,WAS,2008-09
+Shot Chart Detail,1020800004,180,101020,Tan White,1611661325,Indiana Fever,3,9,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,69,1,0,20080517,IND,WAS,2008-09
+Shot Chart Detail,1020800004,256,101020,Tan White,1611661325,Indiana Fever,3,1,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,71,196,1,0,20080517,IND,WAS,2008-09
+Shot Chart Detail,1020800004,294,101020,Tan White,1611661325,Indiana Fever,4,8,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,7,1,0,20080517,IND,WAS,2008-09
+Shot Chart Detail,1020800004,296,101020,Tan White,1611661325,Indiana Fever,4,8,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,2,1,1,20080517,IND,WAS,2008-09
+Shot Chart Detail,1020800004,343,101020,Tan White,1611661325,Indiana Fever,4,3,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,161,-29,1,1,20080517,IND,WAS,2008-09
+Shot Chart Detail,1020800011,8,101020,Tan White,1611661325,Indiana Fever,1,8,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,66,219,1,0,20080521,DET,IND,2008-09
+Shot Chart Detail,1020800011,43,101020,Tan White,1611661325,Indiana Fever,1,5,0,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-15,114,1,0,20080521,DET,IND,2008-09
+Shot Chart Detail,1020800011,46,101020,Tan White,1611661325,Indiana Fever,1,4,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,-67,222,1,1,20080521,DET,IND,2008-09
+Shot Chart Detail,1020800011,50,101020,Tan White,1611661325,Indiana Fever,1,4,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-143,186,1,0,20080521,DET,IND,2008-09
+Shot Chart Detail,1020800011,77,101020,Tan White,1611661325,Indiana Fever,1,0,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080521,DET,IND,2008-09
+Shot Chart Detail,1020800011,100,101020,Tan White,1611661325,Indiana Fever,2,8,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080521,DET,IND,2008-09
+Shot Chart Detail,1020800011,142,101020,Tan White,1611661325,Indiana Fever,2,4,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,39,171,1,0,20080521,DET,IND,2008-09
+Shot Chart Detail,1020800011,164,101020,Tan White,1611661325,Indiana Fever,2,1,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,209,76,1,1,20080521,DET,IND,2008-09
+Shot Chart Detail,1020800011,208,101020,Tan White,1611661325,Indiana Fever,3,7,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,47,224,1,0,20080521,DET,IND,2008-09
+Shot Chart Detail,1020800011,213,101020,Tan White,1611661325,Indiana Fever,3,7,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,125,97,1,0,20080521,DET,IND,2008-09
+Shot Chart Detail,1020800011,218,101020,Tan White,1611661325,Indiana Fever,3,6,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,-52,227,1,1,20080521,DET,IND,2008-09
+Shot Chart Detail,1020800011,240,101020,Tan White,1611661325,Indiana Fever,3,5,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,108,197,1,0,20080521,DET,IND,2008-09
+Shot Chart Detail,1020800011,281,101020,Tan White,1611661325,Indiana Fever,3,1,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,121,209,1,0,20080521,DET,IND,2008-09
+Shot Chart Detail,1020800011,311,101020,Tan White,1611661325,Indiana Fever,4,8,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080521,DET,IND,2008-09
+Shot Chart Detail,1020800011,318,101020,Tan White,1611661325,Indiana Fever,4,7,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,6,179,1,0,20080521,DET,IND,2008-09
+Shot Chart Detail,1020800011,349,101020,Tan White,1611661325,Indiana Fever,4,4,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-102,48,1,0,20080521,DET,IND,2008-09
+Shot Chart Detail,1020800011,353,101020,Tan White,1611661325,Indiana Fever,4,4,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),24+ ft.,23,227,40,1,0,20080521,DET,IND,2008-09
+Shot Chart Detail,1020800011,393,101020,Tan White,1611661325,Indiana Fever,4,0,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080521,DET,IND,2008-09
+Shot Chart Detail,1020800011,400,101020,Tan White,1611661325,Indiana Fever,4,0,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-18,217,1,0,20080521,DET,IND,2008-09
+Shot Chart Detail,1020800021,14,101020,Tan White,1611661325,Indiana Fever,1,8,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,156,3,1,0,20080527,CON,IND,2008-09
+Shot Chart Detail,1020800021,39,101020,Tan White,1611661325,Indiana Fever,1,5,17,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-1,1,0,20080527,CON,IND,2008-09
+Shot Chart Detail,1020800021,41,101020,Tan White,1611661325,Indiana Fever,1,5,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-97,71,1,1,20080527,CON,IND,2008-09
+Shot Chart Detail,1020800021,45,101020,Tan White,1611661325,Indiana Fever,1,4,34,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-236,10,1,1,20080527,CON,IND,2008-09
+Shot Chart Detail,1020800021,63,101020,Tan White,1611661325,Indiana Fever,1,3,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-163,51,1,1,20080527,CON,IND,2008-09
+Shot Chart Detail,1020800021,68,101020,Tan White,1611661325,Indiana Fever,1,2,9,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-29,0,1,1,20080527,CON,IND,2008-09
+Shot Chart Detail,1020800021,70,101020,Tan White,1611661325,Indiana Fever,1,1,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,17,1,1,20080527,CON,IND,2008-09
+Shot Chart Detail,1020800021,123,101020,Tan White,1611661325,Indiana Fever,2,5,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,85,13,1,0,20080527,CON,IND,2008-09
+Shot Chart Detail,1020800021,125,101020,Tan White,1611661325,Indiana Fever,2,5,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,47,51,1,0,20080527,CON,IND,2008-09
+Shot Chart Detail,1020800021,200,101020,Tan White,1611661325,Indiana Fever,3,8,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,8,23,1,0,20080527,CON,IND,2008-09
+Shot Chart Detail,1020800021,202,101020,Tan White,1611661325,Indiana Fever,3,8,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,11,23,1,0,20080527,CON,IND,2008-09
+Shot Chart Detail,1020800021,219,101020,Tan White,1611661325,Indiana Fever,3,6,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-214,71,1,0,20080527,CON,IND,2008-09
+Shot Chart Detail,1020800021,223,101020,Tan White,1611661325,Indiana Fever,3,6,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,20,1,0,20080527,CON,IND,2008-09
+Shot Chart Detail,1020800021,241,101020,Tan White,1611661325,Indiana Fever,3,3,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-217,59,1,0,20080527,CON,IND,2008-09
+Shot Chart Detail,1020800021,301,101020,Tan White,1611661325,Indiana Fever,4,7,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,133,100,1,1,20080527,CON,IND,2008-09
+Shot Chart Detail,1020800021,304,101020,Tan White,1611661325,Indiana Fever,4,7,10,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-28,28,1,0,20080527,CON,IND,2008-09
+Shot Chart Detail,1020800021,316,101020,Tan White,1611661325,Indiana Fever,4,6,29,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,143,72,1,1,20080527,CON,IND,2008-09
+Shot Chart Detail,1020800021,328,101020,Tan White,1611661325,Indiana Fever,4,5,8,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-36,17,1,0,20080527,CON,IND,2008-09
+Shot Chart Detail,1020800021,336,101020,Tan White,1611661325,Indiana Fever,4,4,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,18,1,0,20080527,CON,IND,2008-09
+Shot Chart Detail,1020800024,27,101020,Tan White,1611661325,Indiana Fever,1,6,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-69,22,1,0,20080529,IND,LAS,2008-09
+Shot Chart Detail,1020800024,42,101020,Tan White,1611661325,Indiana Fever,1,5,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,195,109,1,1,20080529,IND,LAS,2008-09
+Shot Chart Detail,1020800024,57,101020,Tan White,1611661325,Indiana Fever,1,3,39,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,-32,1,1,20080529,IND,LAS,2008-09
+Shot Chart Detail,1020800024,79,101020,Tan White,1611661325,Indiana Fever,1,0,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-11,1,1,20080529,IND,LAS,2008-09
+Shot Chart Detail,1020800024,129,101020,Tan White,1611661325,Indiana Fever,2,6,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,118,179,1,0,20080529,IND,LAS,2008-09
+Shot Chart Detail,1020800024,143,101020,Tan White,1611661325,Indiana Fever,2,5,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,15,80,132,1,0,20080529,IND,LAS,2008-09
+Shot Chart Detail,1020800024,149,101020,Tan White,1611661325,Indiana Fever,2,4,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-186,143,1,0,20080529,IND,LAS,2008-09
+Shot Chart Detail,1020800024,152,101020,Tan White,1611661325,Indiana Fever,2,4,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,-3,1,0,20080529,IND,LAS,2008-09
+Shot Chart Detail,1020800024,183,101020,Tan White,1611661325,Indiana Fever,2,2,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,149,160,1,0,20080529,IND,LAS,2008-09
+Shot Chart Detail,1020800024,287,101020,Tan White,1611661325,Indiana Fever,3,3,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-61,8,1,0,20080529,IND,LAS,2008-09
+Shot Chart Detail,1020800024,423,101020,Tan White,1611661325,Indiana Fever,4,1,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-51,-23,1,0,20080529,IND,LAS,2008-09
+Shot Chart Detail,1020800024,459,101020,Tan White,1611661325,Indiana Fever,5,3,4,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,12,1,0,20080529,IND,LAS,2008-09
+Shot Chart Detail,1020800024,490,101020,Tan White,1611661325,Indiana Fever,5,0,5,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,21,-26,1,0,20080529,IND,LAS,2008-09
+Shot Chart Detail,1020800024,503,101020,Tan White,1611661325,Indiana Fever,6,4,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-171,156,1,0,20080529,IND,LAS,2008-09
+Shot Chart Detail,1020800024,516,101020,Tan White,1611661325,Indiana Fever,6,3,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,82,-13,1,1,20080529,IND,LAS,2008-09
+Shot Chart Detail,1020800024,519,101020,Tan White,1611661325,Indiana Fever,6,2,16,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-133,53,1,1,20080529,IND,LAS,2008-09
+Shot Chart Detail,1020800024,528,101020,Tan White,1611661325,Indiana Fever,6,1,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-99,141,1,0,20080529,IND,LAS,2008-09
+Shot Chart Detail,1020800024,535,101020,Tan White,1611661325,Indiana Fever,6,0,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,-19,1,1,20080529,IND,LAS,2008-09
+Shot Chart Detail,1020800024,539,101020,Tan White,1611661325,Indiana Fever,6,0,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,3,1,1,20080529,IND,LAS,2008-09
+Shot Chart Detail,1020800030,2,101020,Tan White,1611661325,Indiana Fever,1,9,51,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-28,1,1,20080531,IND,DET,2008-09
+Shot Chart Detail,1020800030,10,101020,Tan White,1611661325,Indiana Fever,1,8,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-46,66,1,0,20080531,IND,DET,2008-09
+Shot Chart Detail,1020800030,103,101020,Tan White,1611661325,Indiana Fever,2,8,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,31,156,1,0,20080531,IND,DET,2008-09
+Shot Chart Detail,1020800030,113,101020,Tan White,1611661325,Indiana Fever,2,7,41,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,-3,1,1,20080531,IND,DET,2008-09
+Shot Chart Detail,1020800030,116,101020,Tan White,1611661325,Indiana Fever,2,7,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,89,76,1,0,20080531,IND,DET,2008-09
+Shot Chart Detail,1020800030,189,101020,Tan White,1611661325,Indiana Fever,2,0,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-108,118,1,1,20080531,IND,DET,2008-09
+Shot Chart Detail,1020800030,205,101020,Tan White,1611661325,Indiana Fever,3,9,4,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,97,118,1,1,20080531,IND,DET,2008-09
+Shot Chart Detail,1020800030,244,101020,Tan White,1611661325,Indiana Fever,3,4,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-92,89,1,0,20080531,IND,DET,2008-09
+Shot Chart Detail,1020800030,306,101020,Tan White,1611661325,Indiana Fever,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,37,202,312,1,0,20080531,IND,DET,2008-09
+Shot Chart Detail,1020800030,365,101020,Tan White,1611661325,Indiana Fever,4,3,50,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,30,1,1,20080531,IND,DET,2008-09
+Shot Chart Detail,1020800030,386,101020,Tan White,1611661325,Indiana Fever,4,2,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-117,5,1,0,20080531,IND,DET,2008-09
+Shot Chart Detail,1020800046,8,101020,Tan White,1611661325,Indiana Fever,1,8,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-11,1,0,20080607,IND,HOU,2008-09
+Shot Chart Detail,1020800046,24,101020,Tan White,1611661325,Indiana Fever,1,7,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-163,178,1,0,20080607,IND,HOU,2008-09
+Shot Chart Detail,1020800046,26,101020,Tan White,1611661325,Indiana Fever,1,7,16,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,5,31,1,0,20080607,IND,HOU,2008-09
+Shot Chart Detail,1020800046,39,101020,Tan White,1611661325,Indiana Fever,1,5,31,Made Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,24,-237,48,1,1,20080607,IND,HOU,2008-09
+Shot Chart Detail,1020800046,57,101020,Tan White,1611661325,Indiana Fever,1,3,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,3,48,1,0,20080607,IND,HOU,2008-09
+Shot Chart Detail,1020800046,178,101020,Tan White,1611661325,Indiana Fever,2,3,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,5,1,0,20080607,IND,HOU,2008-09
+Shot Chart Detail,1020800046,190,101020,Tan White,1611661325,Indiana Fever,2,2,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-3,45,1,0,20080607,IND,HOU,2008-09
+Shot Chart Detail,1020800046,213,101020,Tan White,1611661325,Indiana Fever,2,0,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,-13,1,1,20080607,IND,HOU,2008-09
+Shot Chart Detail,1020800046,215,101020,Tan White,1611661325,Indiana Fever,2,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,22,1,1,20080607,IND,HOU,2008-09
+Shot Chart Detail,1020800046,222,101020,Tan White,1611661325,Indiana Fever,3,9,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,61,153,1,0,20080607,IND,HOU,2008-09
+Shot Chart Detail,1020800046,238,101020,Tan White,1611661325,Indiana Fever,3,7,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,151,173,1,1,20080607,IND,HOU,2008-09
+Shot Chart Detail,1020800046,343,101020,Tan White,1611661325,Indiana Fever,4,8,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-131,178,1,1,20080607,IND,HOU,2008-09
+Shot Chart Detail,1020800046,373,101020,Tan White,1611661325,Indiana Fever,4,3,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-168,210,1,0,20080607,IND,HOU,2008-09
+Shot Chart Detail,1020800055,2,101020,Tan White,1611661325,Indiana Fever,1,9,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-99,48,1,0,20080611,SAN,IND,2008-09
+Shot Chart Detail,1020800055,31,101020,Tan White,1611661325,Indiana Fever,1,6,39,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-72,-1,1,1,20080611,SAN,IND,2008-09
+Shot Chart Detail,1020800055,119,101020,Tan White,1611661325,Indiana Fever,2,7,40,Missed Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-110,43,1,0,20080611,SAN,IND,2008-09
+Shot Chart Detail,1020800055,204,101020,Tan White,1611661325,Indiana Fever,3,9,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-128,74,1,0,20080611,SAN,IND,2008-09
+Shot Chart Detail,1020800055,213,101020,Tan White,1611661325,Indiana Fever,3,7,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,8,210,1,0,20080611,SAN,IND,2008-09
+Shot Chart Detail,1020800055,222,101020,Tan White,1611661325,Indiana Fever,3,7,24,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,20,-207,2,1,0,20080611,SAN,IND,2008-09
+Shot Chart Detail,1020800055,232,101020,Tan White,1611661325,Indiana Fever,3,5,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,72,135,1,1,20080611,SAN,IND,2008-09
+Shot Chart Detail,1020800055,244,101020,Tan White,1611661325,Indiana Fever,3,3,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,144,156,1,1,20080611,SAN,IND,2008-09
+Shot Chart Detail,1020800055,247,101020,Tan White,1611661325,Indiana Fever,3,3,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-43,40,1,0,20080611,SAN,IND,2008-09
+Shot Chart Detail,1020800055,263,101020,Tan White,1611661325,Indiana Fever,3,2,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,-3,1,1,20080611,SAN,IND,2008-09
+Shot Chart Detail,1020800055,265,101020,Tan White,1611661325,Indiana Fever,3,1,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-115,61,1,0,20080611,SAN,IND,2008-09
+Shot Chart Detail,1020800055,282,101020,Tan White,1611661325,Indiana Fever,3,0,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,8,1,0,20080611,SAN,IND,2008-09
+Shot Chart Detail,1020800055,284,101020,Tan White,1611661325,Indiana Fever,3,0,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-122,118,1,0,20080611,SAN,IND,2008-09
+Shot Chart Detail,1020800055,293,101020,Tan White,1611661325,Indiana Fever,4,9,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080611,SAN,IND,2008-09
+Shot Chart Detail,1020800055,312,101020,Tan White,1611661325,Indiana Fever,4,7,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,-9,1,1,20080611,SAN,IND,2008-09
+Shot Chart Detail,1020800055,326,101020,Tan White,1611661325,Indiana Fever,4,6,1,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,74,20,1,1,20080611,SAN,IND,2008-09
+Shot Chart Detail,1020800059,19,101020,Tan White,1611661325,Indiana Fever,1,7,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-184,12,1,0,20080613,ATL,IND,2008-09
+Shot Chart Detail,1020800059,29,101020,Tan White,1611661325,Indiana Fever,1,6,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080613,ATL,IND,2008-09
+Shot Chart Detail,1020800059,33,101020,Tan White,1611661325,Indiana Fever,1,5,30,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,18,40,1,0,20080613,ATL,IND,2008-09
+Shot Chart Detail,1020800059,39,101020,Tan White,1611661325,Indiana Fever,1,4,53,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080613,ATL,IND,2008-09
+Shot Chart Detail,1020800059,47,101020,Tan White,1611661325,Indiana Fever,1,4,9,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,11,130,1,1,20080613,ATL,IND,2008-09
+Shot Chart Detail,1020800059,97,101020,Tan White,1611661325,Indiana Fever,2,9,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-153,173,1,1,20080613,ATL,IND,2008-09
+Shot Chart Detail,1020800059,179,101020,Tan White,1611661325,Indiana Fever,2,1,22,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-67,33,1,1,20080613,ATL,IND,2008-09
+Shot Chart Detail,1020800059,256,101020,Tan White,1611661325,Indiana Fever,3,4,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,23,192,130,1,0,20080613,ATL,IND,2008-09
+Shot Chart Detail,1020800059,285,101020,Tan White,1611661325,Indiana Fever,3,1,1,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,0,71,1,1,20080613,ATL,IND,2008-09
+Shot Chart Detail,1020800059,329,101020,Tan White,1611661325,Indiana Fever,4,8,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,24,-233,87,1,0,20080613,ATL,IND,2008-09
+Shot Chart Detail,1020800059,333,101020,Tan White,1611661325,Indiana Fever,4,7,39,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,220,8,1,1,20080613,ATL,IND,2008-09
+Shot Chart Detail,1020800059,389,101020,Tan White,1611661325,Indiana Fever,4,1,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,215,58,1,0,20080613,ATL,IND,2008-09
+Shot Chart Detail,1020800067,30,101020,Tan White,1611661325,Indiana Fever,1,6,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,164,141,1,1,20080615,IND,SAN,2008-09
+Shot Chart Detail,1020800067,45,101020,Tan White,1611661325,Indiana Fever,1,3,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-94,125,1,1,20080615,IND,SAN,2008-09
+Shot Chart Detail,1020800067,126,101020,Tan White,1611661325,Indiana Fever,2,6,14,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,-11,1,1,20080615,IND,SAN,2008-09
+Shot Chart Detail,1020800067,141,101020,Tan White,1611661325,Indiana Fever,2,4,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-89,79,1,0,20080615,IND,SAN,2008-09
+Shot Chart Detail,1020800067,190,101020,Tan White,1611661325,Indiana Fever,3,9,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,1,112,1,0,20080615,IND,SAN,2008-09
+Shot Chart Detail,1020800067,213,101020,Tan White,1611661325,Indiana Fever,3,6,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,117,194,1,0,20080615,IND,SAN,2008-09
+Shot Chart Detail,1020800067,225,101020,Tan White,1611661325,Indiana Fever,3,4,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,172,187,1,0,20080615,IND,SAN,2008-09
+Shot Chart Detail,1020800067,241,101020,Tan White,1611661325,Indiana Fever,3,3,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-118,-16,1,0,20080615,IND,SAN,2008-09
+Shot Chart Detail,1020800067,283,101020,Tan White,1611661325,Indiana Fever,4,9,34,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-33,-11,1,0,20080615,IND,SAN,2008-09
+Shot Chart Detail,1020800067,302,101020,Tan White,1611661325,Indiana Fever,4,7,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-51,23,1,0,20080615,IND,SAN,2008-09
+Shot Chart Detail,1020800071,16,101020,Tan White,1611661325,Indiana Fever,1,7,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-107,202,1,1,20080618,IND,NYL,2008-09
+Shot Chart Detail,1020800071,24,101020,Tan White,1611661325,Indiana Fever,1,6,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,120,20,1,1,20080618,IND,NYL,2008-09
+Shot Chart Detail,1020800071,60,101020,Tan White,1611661325,Indiana Fever,1,1,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-3,224,1,0,20080618,IND,NYL,2008-09
+Shot Chart Detail,1020800071,137,101020,Tan White,1611661325,Indiana Fever,2,3,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-90,107,1,0,20080618,IND,NYL,2008-09
+Shot Chart Detail,1020800071,174,101020,Tan White,1611661325,Indiana Fever,3,9,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,17,1,0,20080618,IND,NYL,2008-09
+Shot Chart Detail,1020800071,181,101020,Tan White,1611661325,Indiana Fever,3,8,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,-9,1,0,20080618,IND,NYL,2008-09
+Shot Chart Detail,1020800071,183,101020,Tan White,1611661325,Indiana Fever,3,8,51,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,0,1,1,20080618,IND,NYL,2008-09
+Shot Chart Detail,1020800071,193,101020,Tan White,1611661325,Indiana Fever,3,7,14,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,2,1,1,20080618,IND,NYL,2008-09
+Shot Chart Detail,1020800071,237,101020,Tan White,1611661325,Indiana Fever,3,2,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,-9,1,0,20080618,IND,NYL,2008-09
+Shot Chart Detail,1020800071,313,101020,Tan White,1611661325,Indiana Fever,4,6,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,151,176,1,0,20080618,IND,NYL,2008-09
+Shot Chart Detail,1020800080,18,101020,Tan White,1611661325,Indiana Fever,1,8,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,199,102,1,0,20080620,SEA,IND,2008-09
+Shot Chart Detail,1020800080,26,101020,Tan White,1611661325,Indiana Fever,1,7,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-108,187,1,1,20080620,SEA,IND,2008-09
+Shot Chart Detail,1020800080,47,101020,Tan White,1611661325,Indiana Fever,1,4,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-59,181,1,0,20080620,SEA,IND,2008-09
+Shot Chart Detail,1020800080,61,101020,Tan White,1611661325,Indiana Fever,1,3,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-209,36,1,0,20080620,SEA,IND,2008-09
+Shot Chart Detail,1020800080,194,101020,Tan White,1611661325,Indiana Fever,2,1,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-145,163,1,0,20080620,SEA,IND,2008-09
+Shot Chart Detail,1020800080,203,101020,Tan White,1611661325,Indiana Fever,2,0,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080620,SEA,IND,2008-09
+Shot Chart Detail,1020800080,224,101020,Tan White,1611661325,Indiana Fever,3,8,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,131,184,1,0,20080620,SEA,IND,2008-09
+Shot Chart Detail,1020800080,235,101020,Tan White,1611661325,Indiana Fever,3,8,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-123,66,1,0,20080620,SEA,IND,2008-09
+Shot Chart Detail,1020800080,260,101020,Tan White,1611661325,Indiana Fever,3,5,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,205,69,1,0,20080620,SEA,IND,2008-09
+Shot Chart Detail,1020800080,305,101020,Tan White,1611661325,Indiana Fever,3,1,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-59,26,1,0,20080620,SEA,IND,2008-09
+Shot Chart Detail,1020800080,341,101020,Tan White,1611661325,Indiana Fever,4,9,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,18,92,1,0,20080620,SEA,IND,2008-09
+Shot Chart Detail,1020800080,366,101020,Tan White,1611661325,Indiana Fever,4,7,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,22,1,0,20080620,SEA,IND,2008-09
+Shot Chart Detail,1020800080,430,101020,Tan White,1611661325,Indiana Fever,4,2,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080620,SEA,IND,2008-09
+Shot Chart Detail,1020800080,434,101020,Tan White,1611661325,Indiana Fever,4,1,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,204,66,1,0,20080620,SEA,IND,2008-09
+Shot Chart Detail,1020800085,94,101020,Tan White,1611661325,Indiana Fever,1,2,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080622,LAS,IND,2008-09
+Shot Chart Detail,1020800085,100,101020,Tan White,1611661325,Indiana Fever,1,0,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080622,LAS,IND,2008-09
+Shot Chart Detail,1020800085,110,101020,Tan White,1611661325,Indiana Fever,1,0,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,30,1,0,20080622,LAS,IND,2008-09
+Shot Chart Detail,1020800085,116,101020,Tan White,1611661325,Indiana Fever,2,9,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,156,168,1,0,20080622,LAS,IND,2008-09
+Shot Chart Detail,1020800092,78,101020,Tan White,1611661325,Indiana Fever,1,0,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080626,NYL,IND,2008-09
+Shot Chart Detail,1020800092,169,101020,Tan White,1611661325,Indiana Fever,2,2,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,148,169,1,0,20080626,NYL,IND,2008-09
+Shot Chart Detail,1020800101,88,101020,Tan White,1611661325,Indiana Fever,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-184,158,1,0,20080628,HOU,IND,2008-09
+Shot Chart Detail,1020800101,204,101020,Tan White,1611661325,Indiana Fever,3,8,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080628,HOU,IND,2008-09
+Shot Chart Detail,1020800101,400,101020,Tan White,1611661325,Indiana Fever,4,2,24,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,-21,1,0,20080628,HOU,IND,2008-09
+Shot Chart Detail,1020800101,403,101020,Tan White,1611661325,Indiana Fever,4,2,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080628,HOU,IND,2008-09
+Shot Chart Detail,1020800112,4,101020,Tan White,1611661325,Indiana Fever,1,9,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,56,176,1,1,20080702,IND,CHI,2008-09
+Shot Chart Detail,1020800112,25,101020,Tan White,1611661325,Indiana Fever,1,5,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,-5,1,0,20080702,IND,CHI,2008-09
+Shot Chart Detail,1020800112,26,101020,Tan White,1611661325,Indiana Fever,1,5,40,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,8,18,1,0,20080702,IND,CHI,2008-09
+Shot Chart Detail,1020800112,28,101020,Tan White,1611661325,Indiana Fever,1,5,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-28,2,1,1,20080702,IND,CHI,2008-09
+Shot Chart Detail,1020800112,46,101020,Tan White,1611661325,Indiana Fever,1,4,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,-14,1,0,20080702,IND,CHI,2008-09
+Shot Chart Detail,1020800112,341,101020,Tan White,1611661325,Indiana Fever,4,6,4,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-25,-18,1,0,20080702,IND,CHI,2008-09
+Shot Chart Detail,1020800118,28,101020,Tan White,1611661325,Indiana Fever,1,6,52,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,2,1,0,20080705,IND,CON,2008-09
+Shot Chart Detail,1020800118,85,101020,Tan White,1611661325,Indiana Fever,1,0,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,85,8,1,0,20080705,IND,CON,2008-09
+Shot Chart Detail,1020800118,87,101020,Tan White,1611661325,Indiana Fever,1,0,32,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,36,1,0,20080705,IND,CON,2008-09
+Shot Chart Detail,1020800118,160,101020,Tan White,1611661325,Indiana Fever,2,3,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-191,117,1,0,20080705,IND,CON,2008-09
+Shot Chart Detail,1020800118,295,101020,Tan White,1611661325,Indiana Fever,4,9,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-72,13,1,0,20080705,IND,CON,2008-09
+Shot Chart Detail,1020800118,300,101020,Tan White,1611661325,Indiana Fever,4,9,17,Missed Shot,Jump Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,33,1,0,20080705,IND,CON,2008-09
+Shot Chart Detail,1020800125,20,101020,Tan White,1611661325,Indiana Fever,1,7,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,43,127,1,0,20080708,WAS,IND,2008-09
+Shot Chart Detail,1020800125,113,101020,Tan White,1611661325,Indiana Fever,2,7,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,141,179,1,0,20080708,WAS,IND,2008-09
+Shot Chart Detail,1020800125,121,101020,Tan White,1611661325,Indiana Fever,2,6,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-164,51,1,1,20080708,WAS,IND,2008-09
+Shot Chart Detail,1020800125,279,101020,Tan White,1611661325,Indiana Fever,3,1,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-59,26,1,0,20080708,WAS,IND,2008-09
+Shot Chart Detail,1020800136,19,101020,Tan White,1611661325,Indiana Fever,1,7,18,Made Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,140,186,1,1,20080712,IND,CHI,2008-09
+Shot Chart Detail,1020800136,39,101020,Tan White,1611661325,Indiana Fever,1,4,27,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-8,1,1,20080712,IND,CHI,2008-09
+Shot Chart Detail,1020800136,50,101020,Tan White,1611661325,Indiana Fever,1,3,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,-3,1,1,20080712,IND,CHI,2008-09
+Shot Chart Detail,1020800136,147,101020,Tan White,1611661325,Indiana Fever,2,2,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-64,143,1,0,20080712,IND,CHI,2008-09
+Shot Chart Detail,1020800136,157,101020,Tan White,1611661325,Indiana Fever,2,1,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,-8,1,0,20080712,IND,CHI,2008-09
+Shot Chart Detail,1020800136,197,101020,Tan White,1611661325,Indiana Fever,3,7,17,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,0,1,0,20080712,IND,CHI,2008-09
+Shot Chart Detail,1020800136,205,101020,Tan White,1611661325,Indiana Fever,3,6,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,-11,1,0,20080712,IND,CHI,2008-09
+Shot Chart Detail,1020800136,228,101020,Tan White,1611661325,Indiana Fever,3,3,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,108,-24,1,0,20080712,IND,CHI,2008-09
+Shot Chart Detail,1020800136,235,101020,Tan White,1611661325,Indiana Fever,3,3,0,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-220,-19,1,0,20080712,IND,CHI,2008-09
+Shot Chart Detail,1020800136,269,101020,Tan White,1611661325,Indiana Fever,4,9,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,153,150,1,0,20080712,IND,CHI,2008-09
+Shot Chart Detail,1020800136,280,101020,Tan White,1611661325,Indiana Fever,4,7,56,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,15,1,1,20080712,IND,CHI,2008-09
+Shot Chart Detail,1020800136,296,101020,Tan White,1611661325,Indiana Fever,4,6,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,113,189,1,0,20080712,IND,CHI,2008-09
+Shot Chart Detail,1020800147,11,101020,Tan White,1611661325,Indiana Fever,1,8,46,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,212,-29,1,1,20080716,IND,ATL,2008-09
+Shot Chart Detail,1020800147,30,101020,Tan White,1611661325,Indiana Fever,1,6,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,125,178,1,0,20080716,IND,ATL,2008-09
+Shot Chart Detail,1020800147,121,101020,Tan White,1611661325,Indiana Fever,2,7,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,20,192,82,1,0,20080716,IND,ATL,2008-09
+Shot Chart Detail,1020800147,152,101020,Tan White,1611661325,Indiana Fever,2,4,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,0,1,1,20080716,IND,ATL,2008-09
+Shot Chart Detail,1020800147,167,101020,Tan White,1611661325,Indiana Fever,2,3,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-112,49,1,0,20080716,IND,ATL,2008-09
+Shot Chart Detail,1020800147,179,101020,Tan White,1611661325,Indiana Fever,2,1,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,131,183,1,0,20080716,IND,ATL,2008-09
+Shot Chart Detail,1020800147,219,101020,Tan White,1611661325,Indiana Fever,3,8,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,118,186,1,0,20080716,IND,ATL,2008-09
+Shot Chart Detail,1020800147,275,101020,Tan White,1611661325,Indiana Fever,3,3,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-218,49,1,0,20080716,IND,ATL,2008-09
+Shot Chart Detail,1020800147,403,101020,Tan White,1611661325,Indiana Fever,4,0,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,-8,1,0,20080716,IND,ATL,2008-09
+Shot Chart Detail,1020800152,18,101020,Tan White,1611661325,Indiana Fever,1,7,18,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,-11,1,0,20080718,IND,SEA,2008-09
+Shot Chart Detail,1020800152,125,101020,Tan White,1611661325,Indiana Fever,2,6,14,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,1,20080718,IND,SEA,2008-09
+Shot Chart Detail,1020800152,130,101020,Tan White,1611661325,Indiana Fever,2,5,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,10,122,1,0,20080718,IND,SEA,2008-09
+Shot Chart Detail,1020800152,135,101020,Tan White,1611661325,Indiana Fever,2,5,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-181,127,1,1,20080718,IND,SEA,2008-09
+Shot Chart Detail,1020800152,140,101020,Tan White,1611661325,Indiana Fever,2,4,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,89,209,1,0,20080718,IND,SEA,2008-09
+Shot Chart Detail,1020800152,307,101020,Tan White,1611661325,Indiana Fever,4,7,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,-28,1,0,20080718,IND,SEA,2008-09
+Shot Chart Detail,1020800152,377,101020,Tan White,1611661325,Indiana Fever,4,0,52,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-215,-13,1,0,20080718,IND,SEA,2008-09
+Shot Chart Detail,1020800155,78,101020,Tan White,1611661325,Indiana Fever,1,1,2,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-15,92,1,0,20080719,NYL,IND,2008-09
+Shot Chart Detail,1020800155,106,101020,Tan White,1611661325,Indiana Fever,2,8,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080719,NYL,IND,2008-09
+Shot Chart Detail,1020800155,303,101020,Tan White,1611661325,Indiana Fever,3,1,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080719,NYL,IND,2008-09
+Shot Chart Detail,1020800165,131,101020,Tan White,1611661325,Indiana Fever,2,3,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-169,158,1,0,20080722,CHI,IND,2008-09
+Shot Chart Detail,1020800165,209,101020,Tan White,1611661325,Indiana Fever,3,5,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,52,166,1,1,20080722,CHI,IND,2008-09
+Shot Chart Detail,1020800165,211,101020,Tan White,1611661325,Indiana Fever,3,5,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080722,CHI,IND,2008-09
+Shot Chart Detail,1020800165,255,101020,Tan White,1611661325,Indiana Fever,3,1,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080722,CHI,IND,2008-09
+Shot Chart Detail,1020800165,356,101020,Tan White,1611661325,Indiana Fever,4,1,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-11,82,1,1,20080722,CHI,IND,2008-09
+Shot Chart Detail,1020800165,377,101020,Tan White,1611661325,Indiana Fever,4,0,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080722,CHI,IND,2008-09
+Shot Chart Detail,1020800171,3,101020,Tan White,1611661325,Indiana Fever,1,9,20,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,23,36,1,1,20080724,IND,MIN,2008-09
+Shot Chart Detail,1020800171,9,101020,Tan White,1611661325,Indiana Fever,1,8,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,2,1,1,20080724,IND,MIN,2008-09
+Shot Chart Detail,1020800171,73,101020,Tan White,1611661325,Indiana Fever,1,0,46,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-11,30,1,0,20080724,IND,MIN,2008-09
+Shot Chart Detail,1020800171,198,101020,Tan White,1611661325,Indiana Fever,3,8,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,0,1,1,20080724,IND,MIN,2008-09
+Shot Chart Detail,1020800171,205,101020,Tan White,1611661325,Indiana Fever,3,8,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-23,41,1,0,20080724,IND,MIN,2008-09
+Shot Chart Detail,1020800171,213,101020,Tan White,1611661325,Indiana Fever,3,7,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,48,1,0,20080724,IND,MIN,2008-09
+Shot Chart Detail,1020800171,225,101020,Tan White,1611661325,Indiana Fever,3,5,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-2,140,1,1,20080724,IND,MIN,2008-09
+Shot Chart Detail,1020800171,313,101020,Tan White,1611661325,Indiana Fever,4,6,52,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,-11,1,1,20080724,IND,MIN,2008-09
+Shot Chart Detail,1020800171,375,101020,Tan White,1611661325,Indiana Fever,4,0,53,Made Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,30,1,1,20080724,IND,MIN,2008-09
+Shot Chart Detail,1020800171,387,101020,Tan White,1611661325,Indiana Fever,4,0,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,2,1,0,20080724,IND,MIN,2008-09
+Shot Chart Detail,1020800171,404,101020,Tan White,1611661325,Indiana Fever,5,3,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,0,97,1,0,20080724,IND,MIN,2008-09
+Shot Chart Detail,1020800178,35,101020,Tan White,1611661325,Indiana Fever,1,5,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-174,146,1,0,20080726,SAC,IND,2008-09
+Shot Chart Detail,1020800178,55,101020,Tan White,1611661325,Indiana Fever,1,3,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-99,89,1,0,20080726,SAC,IND,2008-09
+Shot Chart Detail,1020800178,124,101020,Tan White,1611661325,Indiana Fever,2,7,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-212,46,1,0,20080726,SAC,IND,2008-09
+Shot Chart Detail,1020800178,131,101020,Tan White,1611661325,Indiana Fever,2,6,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-179,112,1,0,20080726,SAC,IND,2008-09
+Shot Chart Detail,1020800178,142,101020,Tan White,1611661325,Indiana Fever,2,5,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080726,SAC,IND,2008-09
+Shot Chart Detail,1020800178,154,101020,Tan White,1611661325,Indiana Fever,2,4,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-2,72,1,0,20080726,SAC,IND,2008-09
+Shot Chart Detail,1020800178,212,101020,Tan White,1611661325,Indiana Fever,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-52,120,1,0,20080726,SAC,IND,2008-09
+Shot Chart Detail,1020800178,217,101020,Tan White,1611661325,Indiana Fever,3,9,40,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-20,76,1,1,20080726,SAC,IND,2008-09
+Shot Chart Detail,1020800178,245,101020,Tan White,1611661325,Indiana Fever,3,5,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,167,133,1,1,20080726,SAC,IND,2008-09
+Shot Chart Detail,1020800178,333,101020,Tan White,1611661325,Indiana Fever,4,7,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,186,118,1,0,20080726,SAC,IND,2008-09
+Shot Chart Detail,1020800183,20,101020,Tan White,1611661325,Indiana Fever,1,7,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-158,169,1,0,20080727,PHO,IND,2008-09
+Shot Chart Detail,1020800183,35,101020,Tan White,1611661325,Indiana Fever,1,5,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080727,PHO,IND,2008-09
+Shot Chart Detail,1020800183,47,101020,Tan White,1611661325,Indiana Fever,1,4,8,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-217,-14,1,0,20080727,PHO,IND,2008-09
+Shot Chart Detail,1020800183,50,101020,Tan White,1611661325,Indiana Fever,1,3,42,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-34,33,1,1,20080727,PHO,IND,2008-09
+Shot Chart Detail,1020800183,103,101020,Tan White,1611661325,Indiana Fever,2,9,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-158,74,1,0,20080727,PHO,IND,2008-09
+Shot Chart Detail,1020800183,186,101020,Tan White,1611661325,Indiana Fever,2,1,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,41,178,1,1,20080727,PHO,IND,2008-09
+Shot Chart Detail,1020800183,215,101020,Tan White,1611661325,Indiana Fever,3,8,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,47,160,1,1,20080727,PHO,IND,2008-09
+Shot Chart Detail,1020800183,311,101020,Tan White,1611661325,Indiana Fever,4,8,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-66,160,1,0,20080727,PHO,IND,2008-09
+Shot Chart Detail,1020800183,325,101020,Tan White,1611661325,Indiana Fever,4,6,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-112,179,1,1,20080727,PHO,IND,2008-09
+Shot Chart Detail,1020800183,370,101020,Tan White,1611661325,Indiana Fever,4,3,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,6,219,1,1,20080727,PHO,IND,2008-09
+Shot Chart Detail,1020800183,374,101020,Tan White,1611661325,Indiana Fever,4,3,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-146,158,1,0,20080727,PHO,IND,2008-09
+Shot Chart Detail,1020800183,378,101020,Tan White,1611661325,Indiana Fever,4,2,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,144,125,1,0,20080727,PHO,IND,2008-09
+Shot Chart Detail,1020800183,388,101020,Tan White,1611661325,Indiana Fever,4,2,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,135,104,1,0,20080727,PHO,IND,2008-09
+Shot Chart Detail,1020800183,405,101020,Tan White,1611661325,Indiana Fever,4,1,3,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,-6,1,1,20080727,PHO,IND,2008-09
+Shot Chart Detail,1020800185,74,101020,Tan White,1611661325,Indiana Fever,1,1,57,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,38,1,1,20080828,IND,CON,2008-09
+Shot Chart Detail,1020800185,143,101020,Tan White,1611661325,Indiana Fever,2,5,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,0,125,1,0,20080828,IND,CON,2008-09
+Shot Chart Detail,1020800185,152,101020,Tan White,1611661325,Indiana Fever,2,4,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,8,1,0,20080828,IND,CON,2008-09
+Shot Chart Detail,1020800185,169,101020,Tan White,1611661325,Indiana Fever,2,2,45,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-29,1,1,20080828,IND,CON,2008-09
+Shot Chart Detail,1020800185,189,101020,Tan White,1611661325,Indiana Fever,2,0,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,115,197,1,0,20080828,IND,CON,2008-09
+Shot Chart Detail,1020800185,290,101020,Tan White,1611661325,Indiana Fever,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-79,201,1,0,20080828,IND,CON,2008-09
+Shot Chart Detail,1020800185,305,101020,Tan White,1611661325,Indiana Fever,4,7,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-90,123,1,0,20080828,IND,CON,2008-09
+Shot Chart Detail,1020800193,111,101020,Tan White,1611661325,Indiana Fever,2,8,16,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,-21,1,1,20080830,IND,ATL,2008-09
+Shot Chart Detail,1020800193,113,101020,Tan White,1611661325,Indiana Fever,2,7,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-184,-29,1,1,20080830,IND,ATL,2008-09
+Shot Chart Detail,1020800193,148,101020,Tan White,1611661325,Indiana Fever,2,3,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,-5,1,0,20080830,IND,ATL,2008-09
+Shot Chart Detail,1020800193,164,101020,Tan White,1611661325,Indiana Fever,2,2,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-25,240,1,0,20080830,IND,ATL,2008-09
+Shot Chart Detail,1020800200,60,101020,Tan White,1611661325,Indiana Fever,1,2,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-182,109,1,1,20080902,WAS,IND,2008-09
+Shot Chart Detail,1020800200,69,101020,Tan White,1611661325,Indiana Fever,1,1,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-182,118,1,1,20080902,WAS,IND,2008-09
+Shot Chart Detail,1020800200,74,101020,Tan White,1611661325,Indiana Fever,1,0,20,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-220,-8,1,1,20080902,WAS,IND,2008-09
+Shot Chart Detail,1020800200,152,101020,Tan White,1611661325,Indiana Fever,2,2,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,123,179,1,0,20080902,WAS,IND,2008-09
+Shot Chart Detail,1020800200,174,101020,Tan White,1611661325,Indiana Fever,2,1,34,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-5,1,0,20080902,WAS,IND,2008-09
+Shot Chart Detail,1020800200,228,101020,Tan White,1611661325,Indiana Fever,3,7,6,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,0,1,1,20080902,WAS,IND,2008-09
+Shot Chart Detail,1020800200,250,101020,Tan White,1611661325,Indiana Fever,3,4,29,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20080902,WAS,IND,2008-09
+Shot Chart Detail,1020800200,311,101020,Tan White,1611661325,Indiana Fever,4,7,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,26,214,1,0,20080902,WAS,IND,2008-09
+Shot Chart Detail,1020800200,330,101020,Tan White,1611661325,Indiana Fever,4,5,46,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,-6,1,1,20080902,WAS,IND,2008-09
+Shot Chart Detail,1020800200,350,101020,Tan White,1611661325,Indiana Fever,4,4,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-189,110,1,0,20080902,WAS,IND,2008-09
+Shot Chart Detail,1020800200,379,101020,Tan White,1611661325,Indiana Fever,4,1,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-130,61,1,0,20080902,WAS,IND,2008-09
+Shot Chart Detail,1020800207,78,101020,Tan White,1611661325,Indiana Fever,1,1,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,61,156,1,0,20080905,DET,IND,2008-09
+Shot Chart Detail,1020800207,94,101020,Tan White,1611661325,Indiana Fever,2,9,27,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,28,64,1,1,20080905,DET,IND,2008-09
+Shot Chart Detail,1020800207,98,101020,Tan White,1611661325,Indiana Fever,2,9,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-113,192,1,0,20080905,DET,IND,2008-09
+Shot Chart Detail,1020800207,119,101020,Tan White,1611661325,Indiana Fever,2,6,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,128,122,1,0,20080905,DET,IND,2008-09
+Shot Chart Detail,1020800207,193,101020,Tan White,1611661325,Indiana Fever,3,9,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,117,68,1,0,20080905,DET,IND,2008-09
+Shot Chart Detail,1020800207,231,101020,Tan White,1611661325,Indiana Fever,3,5,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-89,145,1,0,20080905,DET,IND,2008-09
+Shot Chart Detail,1020800207,250,101020,Tan White,1611661325,Indiana Fever,3,3,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,71,224,1,0,20080905,DET,IND,2008-09
+Shot Chart Detail,1020800217,109,101020,Tan White,1611661325,Indiana Fever,2,9,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,105,123,1,1,20080908,ATL,IND,2008-09
+Shot Chart Detail,1020800217,141,101020,Tan White,1611661325,Indiana Fever,2,6,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,85,214,1,1,20080908,ATL,IND,2008-09
+Shot Chart Detail,1020800217,148,101020,Tan White,1611661325,Indiana Fever,2,5,37,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-89,43,1,0,20080908,ATL,IND,2008-09
+Shot Chart Detail,1020800217,163,101020,Tan White,1611661325,Indiana Fever,2,4,35,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,2,1,1,20080908,ATL,IND,2008-09
+Shot Chart Detail,1020800217,169,101020,Tan White,1611661325,Indiana Fever,2,3,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),24+ ft.,22,223,40,1,0,20080908,ATL,IND,2008-09
+Shot Chart Detail,1020800217,188,101020,Tan White,1611661325,Indiana Fever,2,2,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,204,91,1,0,20080908,ATL,IND,2008-09
+Shot Chart Detail,1020800217,288,101020,Tan White,1611661325,Indiana Fever,3,2,18,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,218,7,1,1,20080908,ATL,IND,2008-09
+Shot Chart Detail,1020800217,310,101020,Tan White,1611661325,Indiana Fever,3,0,0,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-41,3,1,0,20080908,ATL,IND,2008-09
+Shot Chart Detail,1020800217,326,101020,Tan White,1611661325,Indiana Fever,4,8,21,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,217,20,1,1,20080908,ATL,IND,2008-09
+Shot Chart Detail,1020800217,331,101020,Tan White,1611661325,Indiana Fever,4,7,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,148,26,1,0,20080908,ATL,IND,2008-09
+Shot Chart Detail,1020800217,344,101020,Tan White,1611661325,Indiana Fever,4,6,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-194,146,1,1,20080908,ATL,IND,2008-09
+Shot Chart Detail,1020800217,374,101020,Tan White,1611661325,Indiana Fever,4,4,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,140,202,1,0,20080908,ATL,IND,2008-09
+Shot Chart Detail,1020800217,384,101020,Tan White,1611661325,Indiana Fever,4,3,34,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,28,66,1,1,20080908,ATL,IND,2008-09
+Shot Chart Detail,1020800217,391,101020,Tan White,1611661325,Indiana Fever,4,2,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,38,26,1,0,20080908,ATL,IND,2008-09
+Shot Chart Detail,1020800217,431,101020,Tan White,1611661325,Indiana Fever,4,0,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-54,115,1,1,20080908,ATL,IND,2008-09
+Shot Chart Detail,1020800221,39,101020,Tan White,1611661325,Indiana Fever,1,5,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-138,179,1,1,20080909,MIN,IND,2008-09
+Shot Chart Detail,1020800221,98,101020,Tan White,1611661325,Indiana Fever,1,0,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-135,164,1,1,20080909,MIN,IND,2008-09
+Shot Chart Detail,1020800221,108,101020,Tan White,1611661325,Indiana Fever,2,9,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,118,133,1,0,20080909,MIN,IND,2008-09
+Shot Chart Detail,1020800221,111,101020,Tan White,1611661325,Indiana Fever,2,9,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080909,MIN,IND,2008-09
+Shot Chart Detail,1020800221,199,101020,Tan White,1611661325,Indiana Fever,3,9,17,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,120,56,1,1,20080909,MIN,IND,2008-09
+Shot Chart Detail,1020800221,212,101020,Tan White,1611661325,Indiana Fever,3,7,29,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,3,173,1,1,20080909,MIN,IND,2008-09
+Shot Chart Detail,1020800221,263,101020,Tan White,1611661325,Indiana Fever,3,2,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-57,212,1,0,20080909,MIN,IND,2008-09
+Shot Chart Detail,1020800221,295,101020,Tan White,1611661325,Indiana Fever,3,0,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-15,219,1,0,20080909,MIN,IND,2008-09
+Shot Chart Detail,1020800221,311,101020,Tan White,1611661325,Indiana Fever,4,8,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,102,189,1,1,20080909,MIN,IND,2008-09
+Shot Chart Detail,1020800221,316,101020,Tan White,1611661325,Indiana Fever,4,7,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,82,207,1,0,20080909,MIN,IND,2008-09
+Shot Chart Detail,1020800221,361,101020,Tan White,1611661325,Indiana Fever,4,3,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080909,MIN,IND,2008-09
+Shot Chart Detail,1020800221,364,101020,Tan White,1611661325,Indiana Fever,4,3,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080909,MIN,IND,2008-09
+Shot Chart Detail,1020800221,380,101020,Tan White,1611661325,Indiana Fever,4,1,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-215,40,1,0,20080909,MIN,IND,2008-09
+Shot Chart Detail,1020800224,62,101020,Tan White,1611661325,Indiana Fever,1,2,5,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-11,1,1,20080911,IND,NYL,2008-09
+Shot Chart Detail,1020800224,88,101020,Tan White,1611661325,Indiana Fever,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,144,109,1,0,20080911,IND,NYL,2008-09
+Shot Chart Detail,1020800224,121,101020,Tan White,1611661325,Indiana Fever,2,5,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,-6,1,1,20080911,IND,NYL,2008-09
+Shot Chart Detail,1020800224,198,101020,Tan White,1611661325,Indiana Fever,3,6,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,97,196,1,0,20080911,IND,NYL,2008-09
+Shot Chart Detail,1020800224,224,101020,Tan White,1611661325,Indiana Fever,3,4,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-200,99,1,1,20080911,IND,NYL,2008-09
+Shot Chart Detail,1020800224,226,101020,Tan White,1611661325,Indiana Fever,3,4,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,0,1,1,20080911,IND,NYL,2008-09
+Shot Chart Detail,1020800224,243,101020,Tan White,1611661325,Indiana Fever,3,2,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-171,168,1,0,20080911,IND,NYL,2008-09
+Shot Chart Detail,1020800224,255,101020,Tan White,1611661325,Indiana Fever,3,1,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,5,1,0,20080911,IND,NYL,2008-09
+Shot Chart Detail,1020800224,275,101020,Tan White,1611661325,Indiana Fever,4,9,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-23,82,1,0,20080911,IND,NYL,2008-09
+Shot Chart Detail,1020800224,311,101020,Tan White,1611661325,Indiana Fever,4,5,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,100,206,1,1,20080911,IND,NYL,2008-09
+Shot Chart Detail,1020800224,313,101020,Tan White,1611661325,Indiana Fever,4,5,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,144,166,1,0,20080911,IND,NYL,2008-09
+Shot Chart Detail,1020800233,56,101020,Tan White,1611661325,Indiana Fever,1,4,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-151,161,1,0,20080914,IND,PHO,2008-09
+Shot Chart Detail,1020800233,119,101020,Tan White,1611661325,Indiana Fever,2,8,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,0,1,1,20080914,IND,PHO,2008-09
+Shot Chart Detail,1020800233,268,101020,Tan White,1611661325,Indiana Fever,3,6,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-161,69,1,0,20080914,IND,PHO,2008-09
+Shot Chart Detail,1020800233,322,101020,Tan White,1611661325,Indiana Fever,3,1,23,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,-8,1,1,20080914,IND,PHO,2008-09
+Shot Chart Detail,1020800233,350,101020,Tan White,1611661325,Indiana Fever,4,8,35,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,217,-26,1,0,20080914,IND,PHO,2008-09
+Shot Chart Detail,1020800233,403,101020,Tan White,1611661325,Indiana Fever,4,2,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-41,-6,1,0,20080914,IND,PHO,2008-09

@@ -1,0 +1,61 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020100003,79,100481,Marla Brumfield,1611661326,Miami Sol,1,9,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,28,141,1,0,20010531,MIA,NYL,2001-02
+Shot Chart Detail,1020100003,100,100481,Marla Brumfield,1611661326,Miami Sol,1,7,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010531,MIA,NYL,2001-02
+Shot Chart Detail,1020100003,107,100481,Marla Brumfield,1611661326,Miami Sol,1,6,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-18,148,1,0,20010531,MIA,NYL,2001-02
+Shot Chart Detail,1020100019,122,100481,Marla Brumfield,1611661326,Miami Sol,1,5,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,16,63,1,0,20010605,MIA,IND,2001-02
+Shot Chart Detail,1020100019,131,100481,Marla Brumfield,1611661326,Miami Sol,1,4,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,22,141,1,0,20010605,MIA,IND,2001-02
+Shot Chart Detail,1020100034,108,100481,Marla Brumfield,1611661326,Miami Sol,1,8,21,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-69,28,1,0,20010609,SAC,MIA,2001-02
+Shot Chart Detail,1020100034,327,100481,Marla Brumfield,1611661326,Miami Sol,2,6,13,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,34,1,0,20010609,SAC,MIA,2001-02
+Shot Chart Detail,1020100052,382,100481,Marla Brumfield,1611661326,Miami Sol,2,2,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-37,36,1,0,20010616,CLE,MIA,2001-02
+Shot Chart Detail,1020100073,109,100481,Marla Brumfield,1611661326,Miami Sol,1,8,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,9,78,1,0,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,119,100481,Marla Brumfield,1611661326,Miami Sol,1,7,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,106,184,1,1,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,327,100481,Marla Brumfield,1611661326,Miami Sol,2,6,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,155,177,1,1,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,385,100481,Marla Brumfield,1611661326,Miami Sol,2,0,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-29,106,1,0,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,389,100481,Marla Brumfield,1611661326,Miami Sol,2,0,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,416,100481,Marla Brumfield,1611661326,Miami Sol,2,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,56,234,1,0,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100082,79,100481,Marla Brumfield,1611661326,Miami Sol,1,11,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-42,148,1,0,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100082,282,100481,Marla Brumfield,1611661326,Miami Sol,2,12,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-75,192,1,0,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100082,285,100481,Marla Brumfield,1611661326,Miami Sol,2,12,8,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,43,129,1,1,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100090,72,100481,Marla Brumfield,1611661326,Miami Sol,1,11,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,178,13,1,1,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,89,100481,Marla Brumfield,1611661326,Miami Sol,1,9,28,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-42,47,1,1,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,95,100481,Marla Brumfield,1611661326,Miami Sol,1,9,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,127,100481,Marla Brumfield,1611661326,Miami Sol,1,6,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,-13,1,0,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,294,100481,Marla Brumfield,1611661326,Miami Sol,2,9,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,157,135,1,1,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,363,100481,Marla Brumfield,1611661326,Miami Sol,2,1,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-4,141,1,0,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,442,100481,Marla Brumfield,1611661326,Miami Sol,3,0,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-210,80,1,0,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,451,100481,Marla Brumfield,1611661326,Miami Sol,3,0,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100095,33,100481,Marla Brumfield,1611661326,Miami Sol,1,14,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-42,108,1,1,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100095,52,100481,Marla Brumfield,1611661326,Miami Sol,1,11,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100105,94,100481,Marla Brumfield,1611661326,Miami Sol,1,8,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,22,-221,63,1,0,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100105,274,100481,Marla Brumfield,1611661326,Miami Sol,2,11,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,159,129,1,0,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100105,295,100481,Marla Brumfield,1611661326,Miami Sol,2,9,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-33,101,1,0,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100105,322,100481,Marla Brumfield,1611661326,Miami Sol,2,7,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-42,91,1,0,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100105,373,100481,Marla Brumfield,1611661326,Miami Sol,2,2,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-56,114,1,0,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100105,384,100481,Marla Brumfield,1611661326,Miami Sol,2,0,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,42,1,0,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100108,121,100481,Marla Brumfield,1611661326,Miami Sol,1,6,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-101,141,1,0,20010702,UTA,MIA,2001-02
+Shot Chart Detail,1020100108,127,100481,Marla Brumfield,1611661326,Miami Sol,1,5,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010702,UTA,MIA,2001-02
+Shot Chart Detail,1020100113,103,100481,Marla Brumfield,1611661326,Miami Sol,1,7,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,-23,1,0,20010704,PHO,MIA,2001-02
+Shot Chart Detail,1020100113,261,100481,Marla Brumfield,1611661326,Miami Sol,2,7,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,87,93,1,1,20010704,PHO,MIA,2001-02
+Shot Chart Detail,1020100113,274,100481,Marla Brumfield,1611661326,Miami Sol,2,5,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,37,133,1,0,20010704,PHO,MIA,2001-02
+Shot Chart Detail,1020100113,321,100481,Marla Brumfield,1611661326,Miami Sol,2,1,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,19,-65,188,1,0,20010704,PHO,MIA,2001-02
+Shot Chart Detail,1020100123,140,100481,Marla Brumfield,1611661326,Miami Sol,1,3,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-105,148,1,1,20010707,MIA,SAC,2001-02
+Shot Chart Detail,1020100144,86,100481,Marla Brumfield,1611661326,Miami Sol,1,8,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-138,59,1,1,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,107,100481,Marla Brumfield,1611661326,Miami Sol,1,7,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,43,137,1,0,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,128,100481,Marla Brumfield,1611661326,Miami Sol,1,4,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-132,42,1,0,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100150,73,100481,Marla Brumfield,1611661326,Miami Sol,1,10,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-90,57,1,0,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100162,248,100481,Marla Brumfield,1611661326,Miami Sol,1,8,0,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,2,35,1,0,20010720,MIA,HOU,2001-02
+Shot Chart Detail,1020100190,266,100481,Marla Brumfield,1611661326,Miami Sol,2,8,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,47,222,1,0,20010728,IND,MIA,2001-02
+Shot Chart Detail,1020100201,63,100481,Marla Brumfield,1611661326,Miami Sol,1,10,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,17,1,0,20010731,CHA,MIA,2001-02
+Shot Chart Detail,1020100201,107,100481,Marla Brumfield,1611661326,Miami Sol,1,6,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010731,CHA,MIA,2001-02
+Shot Chart Detail,1020100201,235,100481,Marla Brumfield,1611661326,Miami Sol,2,10,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-12,154,1,1,20010731,CHA,MIA,2001-02
+Shot Chart Detail,1020100201,245,100481,Marla Brumfield,1611661326,Miami Sol,2,9,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-98,205,1,1,20010731,CHA,MIA,2001-02
+Shot Chart Detail,1020100201,251,100481,Marla Brumfield,1611661326,Miami Sol,2,8,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,123,66,1,1,20010731,CHA,MIA,2001-02
+Shot Chart Detail,1020100201,296,100481,Marla Brumfield,1611661326,Miami Sol,2,3,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,16,219,1,0,20010731,CHA,MIA,2001-02
+Shot Chart Detail,1020100201,317,100481,Marla Brumfield,1611661326,Miami Sol,2,0,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,144,165,1,0,20010731,CHA,MIA,2001-02
+Shot Chart Detail,1020100208,140,100481,Marla Brumfield,1611661326,Miami Sol,1,3,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-18,163,1,0,20010803,MIA,PHO,2001-02
+Shot Chart Detail,1020100219,117,100481,Marla Brumfield,1611661326,Miami Sol,1,5,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-18,114,1,0,20010805,MIA,WAS,2001-02
+Shot Chart Detail,1020100219,131,100481,Marla Brumfield,1611661326,Miami Sol,1,4,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,16,209,1,1,20010805,MIA,WAS,2001-02
+Shot Chart Detail,1020100219,301,100481,Marla Brumfield,1611661326,Miami Sol,2,5,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-12,152,1,0,20010805,MIA,WAS,2001-02
+Shot Chart Detail,1020100228,285,100481,Marla Brumfield,1611661326,Miami Sol,2,6,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-143,38,1,0,20010808,WAS,MIA,2001-02
+Shot Chart Detail,1020100228,294,100481,Marla Brumfield,1611661326,Miami Sol,2,4,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-50,213,1,0,20010808,WAS,MIA,2001-02
+Shot Chart Detail,1020100228,304,100481,Marla Brumfield,1611661326,Miami Sol,2,3,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-20,53,1,0,20010808,WAS,MIA,2001-02

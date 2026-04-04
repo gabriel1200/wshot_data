@@ -1,0 +1,19 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1040300121,11,100660,Janell Burse,1611661324,Minnesota Lynx,1,18,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-113,0,1,1,20030828,MIN,LAS,2003-04
+Shot Chart Detail,1040300121,13,100660,Janell Burse,1611661324,Minnesota Lynx,1,17,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,6,141,1,0,20030828,MIN,LAS,2003-04
+Shot Chart Detail,1040300121,16,100660,Janell Burse,1611661324,Minnesota Lynx,1,17,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030828,MIN,LAS,2003-04
+Shot Chart Detail,1040300121,24,100660,Janell Burse,1611661324,Minnesota Lynx,1,16,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030828,MIN,LAS,2003-04
+Shot Chart Detail,1040300121,193,100660,Janell Burse,1611661324,Minnesota Lynx,2,16,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030828,MIN,LAS,2003-04
+Shot Chart Detail,1040300121,220,100660,Janell Burse,1611661324,Minnesota Lynx,2,13,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030828,MIN,LAS,2003-04
+Shot Chart Detail,1040300122,6,100660,Janell Burse,1611661324,Minnesota Lynx,1,19,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030830,LAS,MIN,2003-04
+Shot Chart Detail,1040300122,17,100660,Janell Burse,1611661324,Minnesota Lynx,1,18,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030830,LAS,MIN,2003-04
+Shot Chart Detail,1040300122,218,100660,Janell Burse,1611661324,Minnesota Lynx,2,16,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030830,LAS,MIN,2003-04
+Shot Chart Detail,1040300122,220,100660,Janell Burse,1611661324,Minnesota Lynx,2,16,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030830,LAS,MIN,2003-04
+Shot Chart Detail,1040300122,221,100660,Janell Burse,1611661324,Minnesota Lynx,2,16,5,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030830,LAS,MIN,2003-04
+Shot Chart Detail,1040300122,233,100660,Janell Burse,1611661324,Minnesota Lynx,2,15,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030830,LAS,MIN,2003-04
+Shot Chart Detail,1040300123,4,100660,Janell Burse,1611661324,Minnesota Lynx,1,19,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030901,LAS,MIN,2003-04
+Shot Chart Detail,1040300123,10,100660,Janell Burse,1611661324,Minnesota Lynx,1,18,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030901,LAS,MIN,2003-04
+Shot Chart Detail,1040300123,13,100660,Janell Burse,1611661324,Minnesota Lynx,1,17,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030901,LAS,MIN,2003-04
+Shot Chart Detail,1040300123,26,100660,Janell Burse,1611661324,Minnesota Lynx,1,16,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,0,150,1,0,20030901,LAS,MIN,2003-04
+Shot Chart Detail,1040300123,115,100660,Janell Burse,1611661324,Minnesota Lynx,1,7,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,18,146,1,0,20030901,LAS,MIN,2003-04
+Shot Chart Detail,1040300123,124,100660,Janell Burse,1611661324,Minnesota Lynx,1,5,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030901,LAS,MIN,2003-04

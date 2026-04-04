@@ -1,0 +1,14 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1041500101,106,201913,Kia Vaughn,1611661322,Washington Mystics,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-67,231,1,0,20150918,NYL,WAS,2015-16
+Shot Chart Detail,1041500101,137,201913,Kia Vaughn,1611661322,Washington Mystics,2,7,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,23,1,1,20150918,NYL,WAS,2015-16
+Shot Chart Detail,1041500101,141,201913,Kia Vaughn,1611661322,Washington Mystics,2,7,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,25,1,0,20150918,NYL,WAS,2015-16
+Shot Chart Detail,1041500101,365,201913,Kia Vaughn,1611661322,Washington Mystics,4,6,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,39,192,1,0,20150918,NYL,WAS,2015-16
+Shot Chart Detail,1041500101,368,201913,Kia Vaughn,1611661322,Washington Mystics,4,5,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,23,1,1,20150918,NYL,WAS,2015-16
+Shot Chart Detail,1041500102,414,201913,Kia Vaughn,1611661322,Washington Mystics,4,1,46,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,1,1,1,20150920,WAS,NYL,2015-16
+Shot Chart Detail,1041500103,52,201913,Kia Vaughn,1611661322,Washington Mystics,1,2,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,11,1,1,20150922,NYL,WAS,2015-16
+Shot Chart Detail,1041500103,89,201913,Kia Vaughn,1611661322,Washington Mystics,2,9,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,122,99,1,0,20150922,NYL,WAS,2015-16
+Shot Chart Detail,1041500103,114,201913,Kia Vaughn,1611661322,Washington Mystics,2,7,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,0,1,0,20150922,NYL,WAS,2015-16
+Shot Chart Detail,1041500103,182,201913,Kia Vaughn,1611661322,Washington Mystics,2,1,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,3,1,1,20150922,NYL,WAS,2015-16
+Shot Chart Detail,1041500103,290,201913,Kia Vaughn,1611661322,Washington Mystics,3,2,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,61,151,1,0,20150922,NYL,WAS,2015-16
+Shot Chart Detail,1041500103,295,201913,Kia Vaughn,1611661322,Washington Mystics,3,1,27,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,26,1,1,20150922,NYL,WAS,2015-16
+Shot Chart Detail,1041500103,322,201913,Kia Vaughn,1611661322,Washington Mystics,4,8,9,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-2,75,1,1,20150922,NYL,WAS,2015-16

@@ -1,0 +1,118 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020900016,57,101042,Jessica Moore,1611661325,Indiana Fever,1,4,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-89,153,1,1,20090612,IND,LAS,2009-10
+Shot Chart Detail,1020900016,117,101042,Jessica Moore,1611661325,Indiana Fever,1,0,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,-3,1,0,20090612,IND,LAS,2009-10
+Shot Chart Detail,1020900030,42,101042,Jessica Moore,1611661325,Indiana Fever,1,5,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,125,60,1,0,20090619,DET,IND,2009-10
+Shot Chart Detail,1020900030,47,101042,Jessica Moore,1611661325,Indiana Fever,1,4,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-71,131,1,0,20090619,DET,IND,2009-10
+Shot Chart Detail,1020900036,64,101042,Jessica Moore,1611661325,Indiana Fever,1,2,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,0,1,1,20090621,IND,DET,2009-10
+Shot Chart Detail,1020900036,79,101042,Jessica Moore,1611661325,Indiana Fever,1,0,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,-10,1,1,20090621,IND,DET,2009-10
+Shot Chart Detail,1020900036,90,101042,Jessica Moore,1611661325,Indiana Fever,2,9,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-45,186,1,0,20090621,IND,DET,2009-10
+Shot Chart Detail,1020900036,256,101042,Jessica Moore,1611661325,Indiana Fever,3,1,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,75,140,1,0,20090621,IND,DET,2009-10
+Shot Chart Detail,1020900043,86,101042,Jessica Moore,1611661325,Indiana Fever,2,8,25,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-15,71,1,0,20090626,NYL,IND,2009-10
+Shot Chart Detail,1020900048,55,101042,Jessica Moore,1611661325,Indiana Fever,1,2,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-11,1,1,20090627,IND,NYL,2009-10
+Shot Chart Detail,1020900048,122,101042,Jessica Moore,1611661325,Indiana Fever,2,5,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,-3,1,0,20090627,IND,NYL,2009-10
+Shot Chart Detail,1020900057,73,101042,Jessica Moore,1611661325,Indiana Fever,1,1,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,-2,1,1,20090702,IND,CON,2009-10
+Shot Chart Detail,1020900057,79,101042,Jessica Moore,1611661325,Indiana Fever,1,1,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,19,1,0,20090702,IND,CON,2009-10
+Shot Chart Detail,1020900063,459,101042,Jessica Moore,1611661325,Indiana Fever,4,1,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,-19,1,1,20090705,IND,ATL,2009-10
+Shot Chart Detail,1020900073,114,101042,Jessica Moore,1611661325,Indiana Fever,2,9,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,141,53,1,1,20090710,CHI,IND,2009-10
+Shot Chart Detail,1020900073,266,101042,Jessica Moore,1611661325,Indiana Fever,3,2,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090710,CHI,IND,2009-10
+Shot Chart Detail,1020900073,290,101042,Jessica Moore,1611661325,Indiana Fever,3,0,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,11,1,0,20090710,CHI,IND,2009-10
+Shot Chart Detail,1020900073,332,101042,Jessica Moore,1611661325,Indiana Fever,4,5,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090710,CHI,IND,2009-10
+Shot Chart Detail,1020900083,131,101042,Jessica Moore,1611661325,Indiana Fever,2,5,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,9,1,0,20090715,IND,CHI,2009-10
+Shot Chart Detail,1020900083,134,101042,Jessica Moore,1611661325,Indiana Fever,2,5,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,124,88,1,0,20090715,IND,CHI,2009-10
+Shot Chart Detail,1020900083,263,101042,Jessica Moore,1611661325,Indiana Fever,3,0,18,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-26,19,1,0,20090715,IND,CHI,2009-10
+Shot Chart Detail,1020900086,122,101042,Jessica Moore,1611661325,Indiana Fever,2,9,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,9,1,0,20090717,IND,ATL,2009-10
+Shot Chart Detail,1020900086,319,101042,Jessica Moore,1611661325,Indiana Fever,4,8,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,143,83,1,0,20090717,IND,ATL,2009-10
+Shot Chart Detail,1020900086,321,101042,Jessica Moore,1611661325,Indiana Fever,4,7,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,6,1,1,20090717,IND,ATL,2009-10
+Shot Chart Detail,1020900086,378,101042,Jessica Moore,1611661325,Indiana Fever,4,3,28,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,-3,1,1,20090717,IND,ATL,2009-10
+Shot Chart Detail,1020900092,106,101042,Jessica Moore,1611661325,Indiana Fever,2,8,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,11,1,1,20090719,CON,IND,2009-10
+Shot Chart Detail,1020900092,116,101042,Jessica Moore,1611661325,Indiana Fever,2,7,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,54,124,1,0,20090719,CON,IND,2009-10
+Shot Chart Detail,1020900092,318,101042,Jessica Moore,1611661325,Indiana Fever,4,8,51,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,22,1,0,20090719,CON,IND,2009-10
+Shot Chart Detail,1020900092,351,101042,Jessica Moore,1611661325,Indiana Fever,4,6,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-7,175,1,0,20090719,CON,IND,2009-10
+Shot Chart Detail,1020900103,72,101042,Jessica Moore,1611661325,Indiana Fever,1,0,1,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-217,6,1,0,20090723,SAN,IND,2009-10
+Shot Chart Detail,1020900103,84,101042,Jessica Moore,1611661325,Indiana Fever,2,8,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,1,1,0,20090723,SAN,IND,2009-10
+Shot Chart Detail,1020900103,252,101042,Jessica Moore,1611661325,Indiana Fever,3,4,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,6,1,0,20090723,SAN,IND,2009-10
+Shot Chart Detail,1020900103,276,101042,Jessica Moore,1611661325,Indiana Fever,3,2,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-2,1,1,20090723,SAN,IND,2009-10
+Shot Chart Detail,1020900103,378,101042,Jessica Moore,1611661325,Indiana Fever,4,4,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,122,-5,1,1,20090723,SAN,IND,2009-10
+Shot Chart Detail,1020900103,427,101042,Jessica Moore,1611661325,Indiana Fever,4,0,55,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,110,126,1,0,20090723,SAN,IND,2009-10
+Shot Chart Detail,1020900108,291,101042,Jessica Moore,1611661325,Indiana Fever,3,3,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20090728,IND,WAS,2009-10
+Shot Chart Detail,1020900108,426,101042,Jessica Moore,1611661325,Indiana Fever,4,1,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,-16,1,0,20090728,IND,WAS,2009-10
+Shot Chart Detail,1020900114,54,101042,Jessica Moore,1611661325,Indiana Fever,1,4,25,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-5,39,1,1,20090730,IND,CON,2009-10
+Shot Chart Detail,1020900114,68,101042,Jessica Moore,1611661325,Indiana Fever,1,2,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,144,-27,1,0,20090730,IND,CON,2009-10
+Shot Chart Detail,1020900114,140,101042,Jessica Moore,1611661325,Indiana Fever,2,7,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-6,1,1,20090730,IND,CON,2009-10
+Shot Chart Detail,1020900114,166,101042,Jessica Moore,1611661325,Indiana Fever,2,4,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-29,36,1,0,20090730,IND,CON,2009-10
+Shot Chart Detail,1020900114,178,101042,Jessica Moore,1611661325,Indiana Fever,2,3,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-112,138,1,0,20090730,IND,CON,2009-10
+Shot Chart Detail,1020900114,249,101042,Jessica Moore,1611661325,Indiana Fever,3,7,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,-11,1,1,20090730,IND,CON,2009-10
+Shot Chart Detail,1020900114,366,101042,Jessica Moore,1611661325,Indiana Fever,4,6,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,-8,1,1,20090730,IND,CON,2009-10
+Shot Chart Detail,1020900114,479,101042,Jessica Moore,1611661325,Indiana Fever,5,3,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,1,20090730,IND,CON,2009-10
+Shot Chart Detail,1020900123,6,101042,Jessica Moore,1611661325,Indiana Fever,1,9,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,1,20090802,WAS,IND,2009-10
+Shot Chart Detail,1020900123,19,101042,Jessica Moore,1611661325,Indiana Fever,1,7,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,12,1,0,20090802,WAS,IND,2009-10
+Shot Chart Detail,1020900123,22,101042,Jessica Moore,1611661325,Indiana Fever,1,7,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,-8,1,0,20090802,WAS,IND,2009-10
+Shot Chart Detail,1020900123,24,101042,Jessica Moore,1611661325,Indiana Fever,1,7,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,28,1,0,20090802,WAS,IND,2009-10
+Shot Chart Detail,1020900123,27,101042,Jessica Moore,1611661325,Indiana Fever,1,7,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,-5,1,1,20090802,WAS,IND,2009-10
+Shot Chart Detail,1020900123,37,101042,Jessica Moore,1611661325,Indiana Fever,1,5,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,-10,1,1,20090802,WAS,IND,2009-10
+Shot Chart Detail,1020900123,42,101042,Jessica Moore,1611661325,Indiana Fever,1,4,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,-21,1,0,20090802,WAS,IND,2009-10
+Shot Chart Detail,1020900123,135,101042,Jessica Moore,1611661325,Indiana Fever,2,7,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,1,1,0,20090802,WAS,IND,2009-10
+Shot Chart Detail,1020900123,247,101042,Jessica Moore,1611661325,Indiana Fever,3,8,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,1,1,1,20090802,WAS,IND,2009-10
+Shot Chart Detail,1020900123,304,101042,Jessica Moore,1611661325,Indiana Fever,3,2,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,-33,1,1,20090802,WAS,IND,2009-10
+Shot Chart Detail,1020900123,310,101042,Jessica Moore,1611661325,Indiana Fever,3,1,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,-27,1,0,20090802,WAS,IND,2009-10
+Shot Chart Detail,1020900128,3,101042,Jessica Moore,1611661325,Indiana Fever,1,9,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-95,36,1,1,20090805,IND,CHI,2009-10
+Shot Chart Detail,1020900128,153,101042,Jessica Moore,1611661325,Indiana Fever,2,5,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,-19,1,0,20090805,IND,CHI,2009-10
+Shot Chart Detail,1020900128,333,101042,Jessica Moore,1611661325,Indiana Fever,4,6,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-3,1,1,20090805,IND,CHI,2009-10
+Shot Chart Detail,1020900136,170,101042,Jessica Moore,1611661325,Indiana Fever,2,3,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090808,PHO,IND,2009-10
+Shot Chart Detail,1020900136,224,101042,Jessica Moore,1611661325,Indiana Fever,3,8,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090808,PHO,IND,2009-10
+Shot Chart Detail,1020900136,337,101042,Jessica Moore,1611661325,Indiana Fever,4,9,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090808,PHO,IND,2009-10
+Shot Chart Detail,1020900136,440,101042,Jessica Moore,1611661325,Indiana Fever,4,0,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090808,PHO,IND,2009-10
+Shot Chart Detail,1020900140,51,101042,Jessica Moore,1611661325,Indiana Fever,1,3,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,160,-2,1,0,20090810,LAS,IND,2009-10
+Shot Chart Detail,1020900140,67,101042,Jessica Moore,1611661325,Indiana Fever,1,2,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,3,1,1,20090810,LAS,IND,2009-10
+Shot Chart Detail,1020900140,88,101042,Jessica Moore,1611661325,Indiana Fever,1,0,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090810,LAS,IND,2009-10
+Shot Chart Detail,1020900140,113,101042,Jessica Moore,1611661325,Indiana Fever,2,8,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,6,1,0,20090810,LAS,IND,2009-10
+Shot Chart Detail,1020900140,135,101042,Jessica Moore,1611661325,Indiana Fever,2,6,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090810,LAS,IND,2009-10
+Shot Chart Detail,1020900140,169,101042,Jessica Moore,1611661325,Indiana Fever,2,1,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,144,69,1,0,20090810,LAS,IND,2009-10
+Shot Chart Detail,1020900140,195,101042,Jessica Moore,1611661325,Indiana Fever,3,8,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090810,LAS,IND,2009-10
+Shot Chart Detail,1020900140,398,101042,Jessica Moore,1611661325,Indiana Fever,4,2,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090810,LAS,IND,2009-10
+Shot Chart Detail,1020900146,3,101042,Jessica Moore,1611661325,Indiana Fever,1,9,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090813,MIN,IND,2009-10
+Shot Chart Detail,1020900146,39,101042,Jessica Moore,1611661325,Indiana Fever,1,5,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,106,116,1,0,20090813,MIN,IND,2009-10
+Shot Chart Detail,1020900146,68,101042,Jessica Moore,1611661325,Indiana Fever,1,1,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090813,MIN,IND,2009-10
+Shot Chart Detail,1020900146,406,101042,Jessica Moore,1611661325,Indiana Fever,4,2,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090813,MIN,IND,2009-10
+Shot Chart Detail,1020900152,113,101042,Jessica Moore,1611661325,Indiana Fever,2,7,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,7,1,0,20090815,IND,DET,2009-10
+Shot Chart Detail,1020900152,311,101042,Jessica Moore,1611661325,Indiana Fever,3,0,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,171,26,1,1,20090815,IND,DET,2009-10
+Shot Chart Detail,1020900152,314,101042,Jessica Moore,1611661325,Indiana Fever,3,0,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,88,131,1,1,20090815,IND,DET,2009-10
+Shot Chart Detail,1020900152,385,101042,Jessica Moore,1611661325,Indiana Fever,4,3,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,13,160,1,1,20090815,IND,DET,2009-10
+Shot Chart Detail,1020900152,417,101042,Jessica Moore,1611661325,Indiana Fever,4,0,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,-28,1,0,20090815,IND,DET,2009-10
+Shot Chart Detail,1020900162,3,101042,Jessica Moore,1611661325,Indiana Fever,1,9,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-8,183,1,0,20090820,SAC,IND,2009-10
+Shot Chart Detail,1020900162,5,101042,Jessica Moore,1611661325,Indiana Fever,1,9,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090820,SAC,IND,2009-10
+Shot Chart Detail,1020900162,331,101042,Jessica Moore,1611661325,Indiana Fever,3,0,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-60,162,1,0,20090820,SAC,IND,2009-10
+Shot Chart Detail,1020900162,353,101042,Jessica Moore,1611661325,Indiana Fever,4,7,14,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-27,19,1,0,20090820,SAC,IND,2009-10
+Shot Chart Detail,1020900162,356,101042,Jessica Moore,1611661325,Indiana Fever,4,6,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,0,1,1,20090820,SAC,IND,2009-10
+Shot Chart Detail,1020900169,82,101042,Jessica Moore,1611661325,Indiana Fever,1,2,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090822,SEA,IND,2009-10
+Shot Chart Detail,1020900169,85,101042,Jessica Moore,1611661325,Indiana Fever,1,2,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090822,SEA,IND,2009-10
+Shot Chart Detail,1020900169,89,101042,Jessica Moore,1611661325,Indiana Fever,1,2,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090822,SEA,IND,2009-10
+Shot Chart Detail,1020900169,142,101042,Jessica Moore,1611661325,Indiana Fever,2,7,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-134,20,1,0,20090822,SEA,IND,2009-10
+Shot Chart Detail,1020900169,151,101042,Jessica Moore,1611661325,Indiana Fever,2,6,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,15,151,1,1,20090822,SEA,IND,2009-10
+Shot Chart Detail,1020900169,250,101042,Jessica Moore,1611661325,Indiana Fever,3,6,10,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,18,41,1,0,20090822,SEA,IND,2009-10
+Shot Chart Detail,1020900177,132,101042,Jessica Moore,1611661325,Indiana Fever,2,7,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,91,126,1,1,20090827,IND,SAN,2009-10
+Shot Chart Detail,1020900177,240,101042,Jessica Moore,1611661325,Indiana Fever,3,5,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,-24,1,1,20090827,IND,SAN,2009-10
+Shot Chart Detail,1020900177,247,101042,Jessica Moore,1611661325,Indiana Fever,3,4,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-158,58,1,0,20090827,IND,SAN,2009-10
+Shot Chart Detail,1020900177,262,101042,Jessica Moore,1611661325,Indiana Fever,3,2,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,3,1,1,20090827,IND,SAN,2009-10
+Shot Chart Detail,1020900177,336,101042,Jessica Moore,1611661325,Indiana Fever,4,5,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-169,15,1,0,20090827,IND,SAN,2009-10
+Shot Chart Detail,1020900177,343,101042,Jessica Moore,1611661325,Indiana Fever,4,4,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,-11,1,0,20090827,IND,SAN,2009-10
+Shot Chart Detail,1020900184,82,101042,Jessica Moore,1611661325,Indiana Fever,1,3,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,157,-13,1,0,20090829,IND,SAC,2009-10
+Shot Chart Detail,1020900184,118,101042,Jessica Moore,1611661325,Indiana Fever,1,0,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,28,183,1,1,20090829,IND,SAC,2009-10
+Shot Chart Detail,1020900195,107,101042,Jessica Moore,1611661325,Indiana Fever,2,9,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,53,97,1,0,20090902,IND,PHO,2009-10
+Shot Chart Detail,1020900195,283,101042,Jessica Moore,1611661325,Indiana Fever,3,4,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-5,1,1,20090902,IND,PHO,2009-10
+Shot Chart Detail,1020900195,426,101042,Jessica Moore,1611661325,Indiana Fever,4,3,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-86,19,1,0,20090902,IND,PHO,2009-10
+Shot Chart Detail,1020900195,449,101042,Jessica Moore,1611661325,Indiana Fever,4,1,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,108,116,1,0,20090902,IND,PHO,2009-10
+Shot Chart Detail,1020900198,121,101042,Jessica Moore,1611661325,Indiana Fever,2,8,59,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,99,20,1,1,20090904,DET,IND,2009-10
+Shot Chart Detail,1020900198,125,101042,Jessica Moore,1611661325,Indiana Fever,2,8,10,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-68,86,1,0,20090904,DET,IND,2009-10
+Shot Chart Detail,1020900204,118,101042,Jessica Moore,1611661325,Indiana Fever,2,8,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,1,93,1,0,20090906,IND,WAS,2009-10
+Shot Chart Detail,1020900206,55,101042,Jessica Moore,1611661325,Indiana Fever,1,3,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090908,NYL,IND,2009-10
+Shot Chart Detail,1020900206,224,101042,Jessica Moore,1611661325,Indiana Fever,3,4,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-76,149,1,0,20090908,NYL,IND,2009-10
+Shot Chart Detail,1020900206,234,101042,Jessica Moore,1611661325,Indiana Fever,3,2,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090908,NYL,IND,2009-10
+Shot Chart Detail,1020900210,85,101042,Jessica Moore,1611661325,Indiana Fever,1,2,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090910,CHI,IND,2009-10
+Shot Chart Detail,1020900210,104,101042,Jessica Moore,1611661325,Indiana Fever,1,0,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,54,157,1,1,20090910,CHI,IND,2009-10
+Shot Chart Detail,1020900210,319,101042,Jessica Moore,1611661325,Indiana Fever,3,0,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090910,CHI,IND,2009-10
+Shot Chart Detail,1020900210,329,101042,Jessica Moore,1611661325,Indiana Fever,3,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-138,15,1,0,20090910,CHI,IND,2009-10
+Shot Chart Detail,1020900219,26,101042,Jessica Moore,1611661325,Indiana Fever,1,7,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,7,1,1,20090913,CON,IND,2009-10
+Shot Chart Detail,1020900219,74,101042,Jessica Moore,1611661325,Indiana Fever,1,3,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-95,145,1,1,20090913,CON,IND,2009-10
+Shot Chart Detail,1020900219,277,101042,Jessica Moore,1611661325,Indiana Fever,3,7,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,3,1,1,20090913,CON,IND,2009-10
+Shot Chart Detail,1020900219,282,101042,Jessica Moore,1611661325,Indiana Fever,3,7,12,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,9,41,1,0,20090913,CON,IND,2009-10

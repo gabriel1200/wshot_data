@@ -1,0 +1,21 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020000001,170,100207,Monica Lamb,1611661316,Houston Comets,1,2,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000529,HOU,NYL,2000-01
+Shot Chart Detail,1020000001,351,100207,Monica Lamb,1611661316,Houston Comets,2,3,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000529,HOU,NYL,2000-01
+Shot Chart Detail,1020000007,5,100207,Monica Lamb,1611661316,Houston Comets,1,19,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000531,POR,HOU,2000-01
+Shot Chart Detail,1020000007,6,100207,Monica Lamb,1611661316,Houston Comets,1,19,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000531,POR,HOU,2000-01
+Shot Chart Detail,1020000130,290,100207,Monica Lamb,1611661316,Houston Comets,2,4,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,51,33,1,1,20000706,HOU,SEA,2000-01
+Shot Chart Detail,1020000130,303,100207,Monica Lamb,1611661316,Houston Comets,2,3,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-72,21,1,0,20000706,HOU,SEA,2000-01
+Shot Chart Detail,1020000135,146,100207,Monica Lamb,1611661316,Houston Comets,1,1,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000707,HOU,CHA,2000-01
+Shot Chart Detail,1020000174,446,100207,Monica Lamb,1611661316,Houston Comets,2,0,8,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,27,18,1,0,20000720,CLE,HOU,2000-01
+Shot Chart Detail,1020000194,93,100207,Monica Lamb,1611661316,Houston Comets,1,8,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-6,119,1,0,20000725,HOU,SEA,2000-01
+Shot Chart Detail,1020000194,119,100207,Monica Lamb,1611661316,Houston Comets,1,5,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000725,HOU,SEA,2000-01
+Shot Chart Detail,1020000194,323,100207,Monica Lamb,1611661316,Houston Comets,2,2,22,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,3,1,0,20000725,HOU,SEA,2000-01
+Shot Chart Detail,1020000211,92,100207,Monica Lamb,1611661316,Houston Comets,1,9,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,51,46,1,0,20000729,HOU,LAS,2000-01
+Shot Chart Detail,1020000211,96,100207,Monica Lamb,1611661316,Houston Comets,1,8,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000729,HOU,LAS,2000-01
+Shot Chart Detail,1020000211,114,100207,Monica Lamb,1611661316,Houston Comets,1,6,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,8,40,1,1,20000729,HOU,LAS,2000-01
+Shot Chart Detail,1020000211,117,100207,Monica Lamb,1611661316,Houston Comets,1,5,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,1,98,1,0,20000729,HOU,LAS,2000-01
+Shot Chart Detail,1020000211,134,100207,Monica Lamb,1611661316,Houston Comets,1,4,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-51,46,1,0,20000729,HOU,LAS,2000-01
+Shot Chart Detail,1020000219,62,100207,Monica Lamb,1611661316,Houston Comets,1,12,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-51,27,1,0,20000801,HOU,WAS,2000-01
+Shot Chart Detail,1020000219,67,100207,Monica Lamb,1611661316,Houston Comets,1,11,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-57,-10,1,0,20000801,HOU,WAS,2000-01
+Shot Chart Detail,1020000245,327,100207,Monica Lamb,1611661316,Houston Comets,2,2,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000807,PHO,HOU,2000-01
+Shot Chart Detail,1020000253,373,100207,Monica Lamb,1611661316,Houston Comets,2,1,12,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-36,46,1,1,20000809,HOU,MIN,2000-01

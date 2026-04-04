@@ -1,0 +1,21 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1040200111,48,100170,Allison Feaster,1611661314,Charlotte Sting,1,14,9,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,210,-34,1,1,20020815,WAS,CHA,2002-03
+Shot Chart Detail,1040200111,72,100170,Allison Feaster,1611661314,Charlotte Sting,1,11,1,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-15,1,0,20020815,WAS,CHA,2002-03
+Shot Chart Detail,1040200111,126,100170,Allison Feaster,1611661314,Charlotte Sting,1,5,13,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-15,1,1,20020815,WAS,CHA,2002-03
+Shot Chart Detail,1040200111,133,100170,Allison Feaster,1611661314,Charlotte Sting,1,4,4,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,106,32,1,1,20020815,WAS,CHA,2002-03
+Shot Chart Detail,1040200111,145,100170,Allison Feaster,1611661314,Charlotte Sting,1,2,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-206,68,1,0,20020815,WAS,CHA,2002-03
+Shot Chart Detail,1040200111,198,100170,Allison Feaster,1611661314,Charlotte Sting,2,15,34,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,100,110,1,1,20020815,WAS,CHA,2002-03
+Shot Chart Detail,1040200111,205,100170,Allison Feaster,1611661314,Charlotte Sting,2,13,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,39,211,1,0,20020815,WAS,CHA,2002-03
+Shot Chart Detail,1040200111,220,100170,Allison Feaster,1611661314,Charlotte Sting,2,12,25,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,-15,1,1,20020815,WAS,CHA,2002-03
+Shot Chart Detail,1040200111,309,100170,Allison Feaster,1611661314,Charlotte Sting,2,2,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,-15,1,0,20020815,WAS,CHA,2002-03
+Shot Chart Detail,1040200111,319,100170,Allison Feaster,1611661314,Charlotte Sting,2,1,30,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,218,-21,1,0,20020815,WAS,CHA,2002-03
+Shot Chart Detail,1040200111,334,100170,Allison Feaster,1611661314,Charlotte Sting,2,0,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,-27,1,1,20020815,WAS,CHA,2002-03
+Shot Chart Detail,1040200111,353,100170,Allison Feaster,1611661314,Charlotte Sting,2,0,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,32,211,1,0,20020815,WAS,CHA,2002-03
+Shot Chart Detail,1040200112,6,100170,Allison Feaster,1611661314,Charlotte Sting,1,19,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020817,CHA,WAS,2002-03
+Shot Chart Detail,1040200112,26,100170,Allison Feaster,1611661314,Charlotte Sting,1,16,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-206,82,1,0,20020817,CHA,WAS,2002-03
+Shot Chart Detail,1040200112,47,100170,Allison Feaster,1611661314,Charlotte Sting,1,14,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,108,7,1,0,20020817,CHA,WAS,2002-03
+Shot Chart Detail,1040200112,186,100170,Allison Feaster,1611661314,Charlotte Sting,1,1,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-27,167,1,0,20020817,CHA,WAS,2002-03
+Shot Chart Detail,1040200112,200,100170,Allison Feaster,1611661314,Charlotte Sting,2,16,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-42,219,1,0,20020817,CHA,WAS,2002-03
+Shot Chart Detail,1040200112,285,100170,Allison Feaster,1611661314,Charlotte Sting,2,5,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-63,207,1,0,20020817,CHA,WAS,2002-03
+Shot Chart Detail,1040200112,319,100170,Allison Feaster,1611661314,Charlotte Sting,2,1,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,58,207,1,0,20020817,CHA,WAS,2002-03
+Shot Chart Detail,1040200112,340,100170,Allison Feaster,1611661314,Charlotte Sting,2,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-92,190,1,0,20020817,CHA,WAS,2002-03

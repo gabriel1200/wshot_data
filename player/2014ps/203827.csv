@@ -1,0 +1,7 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1041400111,119,203827,Natasha Howard,1611661325,Indiana Fever,2,7,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1.0,-13.0,6.0,1,0,20140821,IND,WAS,2014-15
+Shot Chart Detail,1041400111,182,203827,Natasha Howard,1611661325,Indiana Fever,2,1,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6.0,-60.0,34.0,1,0,20140821,IND,WAS,2014-15
+Shot Chart Detail,1041400111,193,203827,Natasha Howard,1611661325,Indiana Fever,2,0,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0.0,-4.0,7.0,1,1,20140821,IND,WAS,2014-15
+Shot Chart Detail,1041400112,369,203827,Natasha Howard,1611661325,Indiana Fever,4,9,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2.0,18.0,11.0,1,0,20140823,WAS,IND,2014-15
+Shot Chart Detail,1041400201,97,203827,Natasha Howard,1611661325,Indiana Fever,1,0,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4.0,32.0,33.0,1,0,20140830,IND,CHI,2014-15
+Shot Chart Detail,1041400202,80,203827,Natasha Howard,1611661325,Indiana Fever,1,0,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4.0,-32.0,36.0,1,0,20140901,CHI,IND,2014-15

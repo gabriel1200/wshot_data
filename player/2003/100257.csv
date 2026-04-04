@@ -1,0 +1,65 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020300001,35,100257,Mfon Udoka,1611661316,Houston Comets,1,15,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,90,25,1,0,20030522,HOU,SEA,2003-04
+Shot Chart Detail,1020300001,57,100257,Mfon Udoka,1611661316,Houston Comets,1,13,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030522,HOU,SEA,2003-04
+Shot Chart Detail,1020300001,59,100257,Mfon Udoka,1611661316,Houston Comets,1,12,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030522,HOU,SEA,2003-04
+Shot Chart Detail,1020300001,208,100257,Mfon Udoka,1611661316,Houston Comets,2,15,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-107,43,1,1,20030522,HOU,SEA,2003-04
+Shot Chart Detail,1020300001,227,100257,Mfon Udoka,1611661316,Houston Comets,2,13,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,120,53,1,1,20030522,HOU,SEA,2003-04
+Shot Chart Detail,1020300001,300,100257,Mfon Udoka,1611661316,Houston Comets,2,4,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030522,HOU,SEA,2003-04
+Shot Chart Detail,1020300007,28,100257,Mfon Udoka,1611661316,Houston Comets,1,15,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,13,183,1,0,20030524,PHO,HOU,2003-04
+Shot Chart Detail,1020300007,31,100257,Mfon Udoka,1611661316,Houston Comets,1,14,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-148,0,1,1,20030524,PHO,HOU,2003-04
+Shot Chart Detail,1020300007,118,100257,Mfon Udoka,1611661316,Houston Comets,1,7,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030524,PHO,HOU,2003-04
+Shot Chart Detail,1020300007,124,100257,Mfon Udoka,1611661316,Houston Comets,1,7,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,118,3,1,0,20030524,PHO,HOU,2003-04
+Shot Chart Detail,1020300007,135,100257,Mfon Udoka,1611661316,Houston Comets,1,6,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030524,PHO,HOU,2003-04
+Shot Chart Detail,1020300007,154,100257,Mfon Udoka,1611661316,Houston Comets,1,4,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,22,1,1,20030524,PHO,HOU,2003-04
+Shot Chart Detail,1020300007,218,100257,Mfon Udoka,1611661316,Houston Comets,1,0,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030524,PHO,HOU,2003-04
+Shot Chart Detail,1020300007,238,100257,Mfon Udoka,1611661316,Houston Comets,2,14,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,71,130,1,0,20030524,PHO,HOU,2003-04
+Shot Chart Detail,1020300007,266,100257,Mfon Udoka,1611661316,Houston Comets,2,11,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030524,PHO,HOU,2003-04
+Shot Chart Detail,1020300012,86,100257,Mfon Udoka,1611661316,Houston Comets,1,11,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030530,HOU,CON,2003-04
+Shot Chart Detail,1020300012,152,100257,Mfon Udoka,1611661316,Houston Comets,1,5,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030530,HOU,CON,2003-04
+Shot Chart Detail,1020300012,180,100257,Mfon Udoka,1611661316,Houston Comets,1,2,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030530,HOU,CON,2003-04
+Shot Chart Detail,1020300012,308,100257,Mfon Udoka,1611661316,Houston Comets,2,10,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030530,HOU,CON,2003-04
+Shot Chart Detail,1020300020,8,100257,Mfon Udoka,1611661316,Houston Comets,1,18,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030601,MIN,HOU,2003-04
+Shot Chart Detail,1020300020,25,100257,Mfon Udoka,1611661316,Houston Comets,1,16,0,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-49,41,1,1,20030601,MIN,HOU,2003-04
+Shot Chart Detail,1020300020,41,100257,Mfon Udoka,1611661316,Houston Comets,1,14,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030601,MIN,HOU,2003-04
+Shot Chart Detail,1020300020,43,100257,Mfon Udoka,1611661316,Houston Comets,1,14,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030601,MIN,HOU,2003-04
+Shot Chart Detail,1020300020,50,100257,Mfon Udoka,1611661316,Houston Comets,1,13,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030601,MIN,HOU,2003-04
+Shot Chart Detail,1020300020,166,100257,Mfon Udoka,1611661316,Houston Comets,1,0,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030601,MIN,HOU,2003-04
+Shot Chart Detail,1020300020,212,100257,Mfon Udoka,1611661316,Houston Comets,1,0,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030601,MIN,HOU,2003-04
+Shot Chart Detail,1020300020,223,100257,Mfon Udoka,1611661316,Houston Comets,2,15,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030601,MIN,HOU,2003-04
+Shot Chart Detail,1020300020,330,100257,Mfon Udoka,1611661316,Houston Comets,2,4,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030601,MIN,HOU,2003-04
+Shot Chart Detail,1020300020,423,100257,Mfon Udoka,1611661316,Houston Comets,3,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-158,127,1,0,20030601,MIN,HOU,2003-04
+Shot Chart Detail,1020300022,75,100257,Mfon Udoka,1611661316,Houston Comets,1,7,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030603,HOU,PHO,2003-04
+Shot Chart Detail,1020300022,84,100257,Mfon Udoka,1611661316,Houston Comets,1,6,41,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,3,31,1,0,20030603,HOU,PHO,2003-04
+Shot Chart Detail,1020300022,115,100257,Mfon Udoka,1611661316,Houston Comets,1,2,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030603,HOU,PHO,2003-04
+Shot Chart Detail,1020300022,219,100257,Mfon Udoka,1611661316,Houston Comets,2,12,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030603,HOU,PHO,2003-04
+Shot Chart Detail,1020300022,301,100257,Mfon Udoka,1611661316,Houston Comets,2,3,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,15,1,0,20030603,HOU,PHO,2003-04
+Shot Chart Detail,1020300022,309,100257,Mfon Udoka,1611661316,Houston Comets,2,3,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030603,HOU,PHO,2003-04
+Shot Chart Detail,1020300022,319,100257,Mfon Udoka,1611661316,Houston Comets,2,2,17,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,28,84,1,1,20030603,HOU,PHO,2003-04
+Shot Chart Detail,1020300029,48,100257,Mfon Udoka,1611661316,Houston Comets,1,14,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,66,38,1,0,20030606,CHA,HOU,2003-04
+Shot Chart Detail,1020300029,52,100257,Mfon Udoka,1611661316,Houston Comets,1,13,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030606,CHA,HOU,2003-04
+Shot Chart Detail,1020300029,70,100257,Mfon Udoka,1611661316,Houston Comets,1,12,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030606,CHA,HOU,2003-04
+Shot Chart Detail,1020300029,72,100257,Mfon Udoka,1611661316,Houston Comets,1,12,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030606,CHA,HOU,2003-04
+Shot Chart Detail,1020300029,101,100257,Mfon Udoka,1611661316,Houston Comets,1,8,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030606,CHA,HOU,2003-04
+Shot Chart Detail,1020300031,224,100257,Mfon Udoka,1611661316,Houston Comets,2,15,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,8,22,1,0,20030607,CON,HOU,2003-04
+Shot Chart Detail,1020300031,241,100257,Mfon Udoka,1611661316,Houston Comets,2,13,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,8,1,1,20030607,CON,HOU,2003-04
+Shot Chart Detail,1020300031,248,100257,Mfon Udoka,1611661316,Houston Comets,2,12,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-69,53,1,0,20030607,CON,HOU,2003-04
+Shot Chart Detail,1020300039,130,100257,Mfon Udoka,1611661316,Houston Comets,1,4,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030610,HOU,SAC,2003-04
+Shot Chart Detail,1020300051,107,100257,Mfon Udoka,1611661316,Houston Comets,1,6,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030614,PHO,HOU,2003-04
+Shot Chart Detail,1020300051,109,100257,Mfon Udoka,1611661316,Houston Comets,1,6,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030614,PHO,HOU,2003-04
+Shot Chart Detail,1020300051,331,100257,Mfon Udoka,1611661316,Houston Comets,2,3,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030614,PHO,HOU,2003-04
+Shot Chart Detail,1020300057,50,100257,Mfon Udoka,1611661316,Houston Comets,1,12,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030617,MIN,HOU,2003-04
+Shot Chart Detail,1020300057,194,100257,Mfon Udoka,1611661316,Houston Comets,2,16,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,41,1,1,20030617,MIN,HOU,2003-04
+Shot Chart Detail,1020300066,145,100257,Mfon Udoka,1611661316,Houston Comets,1,4,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,13,1,1,20030620,SAN,HOU,2003-04
+Shot Chart Detail,1020300068,63,100257,Mfon Udoka,1611661316,Houston Comets,1,12,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030621,HOU,CLE,2003-04
+Shot Chart Detail,1020300068,277,100257,Mfon Udoka,1611661316,Houston Comets,2,9,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030621,HOU,CLE,2003-04
+Shot Chart Detail,1020300103,360,100257,Mfon Udoka,1611661316,Houston Comets,2,2,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-110,43,1,0,20030705,HOU,WAS,2003-04
+Shot Chart Detail,1020300112,45,100257,Mfon Udoka,1611661316,Houston Comets,1,14,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030708,HOU,IND,2003-04
+Shot Chart Detail,1020300123,90,100257,Mfon Udoka,1611661316,Houston Comets,1,8,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,3,1,0,20030715,SEA,HOU,2003-04
+Shot Chart Detail,1020300123,94,100257,Mfon Udoka,1611661316,Houston Comets,1,8,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-90,133,1,0,20030715,SEA,HOU,2003-04
+Shot Chart Detail,1020300123,206,100257,Mfon Udoka,1611661316,Houston Comets,2,15,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,3,1,0,20030715,SEA,HOU,2003-04
+Shot Chart Detail,1020300123,269,100257,Mfon Udoka,1611661316,Houston Comets,2,11,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030715,SEA,HOU,2003-04
+Shot Chart Detail,1020300123,275,100257,Mfon Udoka,1611661316,Houston Comets,2,10,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030715,SEA,HOU,2003-04
+Shot Chart Detail,1020300123,308,100257,Mfon Udoka,1611661316,Houston Comets,2,5,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-3,48,1,0,20030715,SEA,HOU,2003-04
+Shot Chart Detail,1020300123,364,100257,Mfon Udoka,1611661316,Houston Comets,2,0,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030715,SEA,HOU,2003-04
+Shot Chart Detail,1020300197,347,100257,Mfon Udoka,1611661316,Houston Comets,2,0,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030810,HOU,PHO,2003-04
+Shot Chart Detail,1020300222,222,100257,Mfon Udoka,1611661316,Houston Comets,2,15,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,95,114,1,0,20030821,SAC,HOU,2003-04

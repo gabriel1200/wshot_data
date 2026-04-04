@@ -1,0 +1,64 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020100027,153,100182,Tracy Reid,1611661326,Miami Sol,1,4,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-10,78,1,0,20010607,SEA,MIA,2001-02
+Shot Chart Detail,1020100027,171,100182,Tracy Reid,1611661326,Miami Sol,1,2,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010607,SEA,MIA,2001-02
+Shot Chart Detail,1020100039,103,100182,Tracy Reid,1611661326,Miami Sol,1,6,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-18,51,1,0,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100052,409,100182,Tracy Reid,1611661326,Miami Sol,2,0,15,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,-6,1,1,20010616,CLE,MIA,2001-02
+Shot Chart Detail,1020100073,115,100182,Tracy Reid,1611661326,Miami Sol,1,8,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-67,74,1,1,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,134,100182,Tracy Reid,1611661326,Miami Sol,1,6,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,58,34,1,0,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,140,100182,Tracy Reid,1611661326,Miami Sol,1,6,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,28,1,1,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,156,100182,Tracy Reid,1611661326,Miami Sol,1,4,4,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-52,45,1,1,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100082,109,100182,Tracy Reid,1611661326,Miami Sol,1,8,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,37,118,1,0,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100082,117,100182,Tracy Reid,1611661326,Miami Sol,1,8,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100082,363,100182,Tracy Reid,1611661326,Miami Sol,2,3,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-84,141,1,1,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100082,385,100182,Tracy Reid,1611661326,Miami Sol,2,0,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,121,118,1,0,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100090,104,100182,Tracy Reid,1611661326,Miami Sol,1,8,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-18,101,1,1,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,109,100182,Tracy Reid,1611661326,Miami Sol,1,8,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,37,51,1,0,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100095,75,100182,Tracy Reid,1611661326,Miami Sol,1,9,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100095,256,100182,Tracy Reid,1611661326,Miami Sol,2,9,44,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100105,343,100182,Tracy Reid,1611661326,Miami Sol,2,4,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,43,19,1,1,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100105,362,100182,Tracy Reid,1611661326,Miami Sol,2,3,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,9,1,0,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100105,376,100182,Tracy Reid,1611661326,Miami Sol,2,2,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100113,156,100182,Tracy Reid,1611661326,Miami Sol,1,1,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010704,PHO,MIA,2001-02
+Shot Chart Detail,1020100113,250,100182,Tracy Reid,1611661326,Miami Sol,2,7,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,30,66,1,0,20010704,PHO,MIA,2001-02
+Shot Chart Detail,1020100123,65,100182,Tracy Reid,1611661326,Miami Sol,1,12,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010707,MIA,SAC,2001-02
+Shot Chart Detail,1020100123,158,100182,Tracy Reid,1611661326,Miami Sol,1,0,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,77,125,1,1,20010707,MIA,SAC,2001-02
+Shot Chart Detail,1020100123,260,100182,Tracy Reid,1611661326,Miami Sol,2,9,21,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-18,34,1,0,20010707,MIA,SAC,2001-02
+Shot Chart Detail,1020100123,267,100182,Tracy Reid,1611661326,Miami Sol,2,8,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010707,MIA,SAC,2001-02
+Shot Chart Detail,1020100131,110,100182,Tracy Reid,1611661326,Miami Sol,1,7,53,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010710,ORL,MIA,2001-02
+Shot Chart Detail,1020100131,147,100182,Tracy Reid,1611661326,Miami Sol,1,4,56,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,-8,1,1,20010710,ORL,MIA,2001-02
+Shot Chart Detail,1020100131,228,100182,Tracy Reid,1611661326,Miami Sol,1,0,7,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010710,ORL,MIA,2001-02
+Shot Chart Detail,1020100131,195,100182,Tracy Reid,1611661326,Miami Sol,1,0,0,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010710,ORL,MIA,2001-02
+Shot Chart Detail,1020100131,254,100182,Tracy Reid,1611661326,Miami Sol,2,14,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010710,ORL,MIA,2001-02
+Shot Chart Detail,1020100131,297,100182,Tracy Reid,1611661326,Miami Sol,2,10,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010710,ORL,MIA,2001-02
+Shot Chart Detail,1020100131,310,100182,Tracy Reid,1611661326,Miami Sol,2,9,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010710,ORL,MIA,2001-02
+Shot Chart Detail,1020100131,340,100182,Tracy Reid,1611661326,Miami Sol,2,5,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010710,ORL,MIA,2001-02
+Shot Chart Detail,1020100131,346,100182,Tracy Reid,1611661326,Miami Sol,2,5,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,20,68,1,1,20010710,ORL,MIA,2001-02
+Shot Chart Detail,1020100131,410,100182,Tracy Reid,1611661326,Miami Sol,3,4,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010710,ORL,MIA,2001-02
+Shot Chart Detail,1020100131,422,100182,Tracy Reid,1611661326,Miami Sol,3,2,22,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010710,ORL,MIA,2001-02
+Shot Chart Detail,1020100144,93,100182,Tracy Reid,1611661326,Miami Sol,1,8,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,85,36,1,0,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,116,100182,Tracy Reid,1611661326,Miami Sol,1,5,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,192,100182,Tracy Reid,1611661326,Miami Sol,2,15,32,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,1,70,1,1,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,228,100182,Tracy Reid,1611661326,Miami Sol,2,11,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,243,100182,Tracy Reid,1611661326,Miami Sol,2,8,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,297,100182,Tracy Reid,1611661326,Miami Sol,2,3,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100150,100,100182,Tracy Reid,1611661326,Miami Sol,1,6,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100150,131,100182,Tracy Reid,1611661326,Miami Sol,1,3,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,7,1,1,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100150,235,100182,Tracy Reid,1611661326,Miami Sol,2,11,37,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100150,258,100182,Tracy Reid,1611661326,Miami Sol,2,9,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,100,135,1,0,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100150,264,100182,Tracy Reid,1611661326,Miami Sol,2,8,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100150,300,100182,Tracy Reid,1611661326,Miami Sol,2,5,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100150,337,100182,Tracy Reid,1611661326,Miami Sol,2,2,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-4,141,1,0,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100154,34,100182,Tracy Reid,1611661326,Miami Sol,1,13,36,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-4,51,1,0,20010718,MIA,CHA,2001-02
+Shot Chart Detail,1020100154,144,100182,Tracy Reid,1611661326,Miami Sol,1,1,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010718,MIA,CHA,2001-02
+Shot Chart Detail,1020100154,206,100182,Tracy Reid,1611661326,Miami Sol,2,14,55,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,23,1,1,20010718,MIA,CHA,2001-02
+Shot Chart Detail,1020100154,219,100182,Tracy Reid,1611661326,Miami Sol,2,13,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010718,MIA,CHA,2001-02
+Shot Chart Detail,1020100154,227,100182,Tracy Reid,1611661326,Miami Sol,2,12,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010718,MIA,CHA,2001-02
+Shot Chart Detail,1020100154,243,100182,Tracy Reid,1611661326,Miami Sol,2,10,17,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-12,135,1,1,20010718,MIA,CHA,2001-02
+Shot Chart Detail,1020100184,269,100182,Tracy Reid,1611661326,Miami Sol,2,11,46,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,290,100182,Tracy Reid,1611661326,Miami Sol,2,9,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100190,59,100182,Tracy Reid,1611661326,Miami Sol,1,12,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,0,1,0,20010728,IND,MIA,2001-02
+Shot Chart Detail,1020100190,87,100182,Tracy Reid,1611661326,Miami Sol,1,8,17,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-37,-8,1,0,20010728,IND,MIA,2001-02
+Shot Chart Detail,1020100201,24,100182,Tracy Reid,1611661326,Miami Sol,1,15,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010731,CHA,MIA,2001-02
+Shot Chart Detail,1020100201,178,100182,Tracy Reid,1611661326,Miami Sol,1,2,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-33,171,1,0,20010731,CHA,MIA,2001-02
+Shot Chart Detail,1020100201,184,100182,Tracy Reid,1611661326,Miami Sol,1,1,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-63,17,1,0,20010731,CHA,MIA,2001-02
+Shot Chart Detail,1020100201,161,100182,Tracy Reid,1611661326,Miami Sol,1,0,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010731,CHA,MIA,2001-02

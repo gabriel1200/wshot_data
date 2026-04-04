@@ -1,0 +1,38 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1040900111,62,101025,Kara Braxton,1611661321,Detroit Shock,1,2,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,65,55,1,0,20090916,DET,ATL,2009-10
+Shot Chart Detail,1040900111,80,101025,Kara Braxton,1611661321,Detroit Shock,1,1,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090916,DET,ATL,2009-10
+Shot Chart Detail,1040900111,97,101025,Kara Braxton,1611661321,Detroit Shock,1,0,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090916,DET,ATL,2009-10
+Shot Chart Detail,1040900111,283,101025,Kara Braxton,1611661321,Detroit Shock,3,5,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090916,DET,ATL,2009-10
+Shot Chart Detail,1040900111,292,101025,Kara Braxton,1611661321,Detroit Shock,3,4,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090916,DET,ATL,2009-10
+Shot Chart Detail,1040900111,318,101025,Kara Braxton,1611661321,Detroit Shock,3,1,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090916,DET,ATL,2009-10
+Shot Chart Detail,1040900111,334,101025,Kara Braxton,1611661321,Detroit Shock,4,9,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090916,DET,ATL,2009-10
+Shot Chart Detail,1040900111,341,101025,Kara Braxton,1611661321,Detroit Shock,4,9,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090916,DET,ATL,2009-10
+Shot Chart Detail,1040900111,343,101025,Kara Braxton,1611661321,Detroit Shock,4,9,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090916,DET,ATL,2009-10
+Shot Chart Detail,1040900111,376,101025,Kara Braxton,1611661321,Detroit Shock,4,5,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090916,DET,ATL,2009-10
+Shot Chart Detail,1040900111,399,101025,Kara Braxton,1611661321,Detroit Shock,4,4,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090916,DET,ATL,2009-10
+Shot Chart Detail,1040900111,426,101025,Kara Braxton,1611661321,Detroit Shock,4,2,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090916,DET,ATL,2009-10
+Shot Chart Detail,1040900111,434,101025,Kara Braxton,1611661321,Detroit Shock,4,1,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090916,DET,ATL,2009-10
+Shot Chart Detail,1040900112,165,101025,Kara Braxton,1611661321,Detroit Shock,2,7,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,26,1,0,20090918,ATL,DET,2009-10
+Shot Chart Detail,1040900112,191,101025,Kara Braxton,1611661321,Detroit Shock,2,6,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,20,1,0,20090918,ATL,DET,2009-10
+Shot Chart Detail,1040900112,375,101025,Kara Braxton,1611661321,Detroit Shock,3,3,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-18,67,1,0,20090918,ATL,DET,2009-10
+Shot Chart Detail,1040900112,452,101025,Kara Braxton,1611661321,Detroit Shock,4,6,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,17,1,1,20090918,ATL,DET,2009-10
+Shot Chart Detail,1040900112,497,101025,Kara Braxton,1611661321,Detroit Shock,4,3,58,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-48,39,1,1,20090918,ATL,DET,2009-10
+Shot Chart Detail,1040900201,70,101025,Kara Braxton,1611661321,Detroit Shock,1,2,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090923,DET,IND,2009-10
+Shot Chart Detail,1040900201,241,101025,Kara Braxton,1611661321,Detroit Shock,3,5,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090923,DET,IND,2009-10
+Shot Chart Detail,1040900201,278,101025,Kara Braxton,1611661321,Detroit Shock,3,3,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090923,DET,IND,2009-10
+Shot Chart Detail,1040900201,291,101025,Kara Braxton,1611661321,Detroit Shock,3,1,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090923,DET,IND,2009-10
+Shot Chart Detail,1040900201,307,101025,Kara Braxton,1611661321,Detroit Shock,4,9,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,25,1,0,20090923,DET,IND,2009-10
+Shot Chart Detail,1040900201,340,101025,Kara Braxton,1611661321,Detroit Shock,4,5,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090923,DET,IND,2009-10
+Shot Chart Detail,1040900201,355,101025,Kara Braxton,1611661321,Detroit Shock,4,4,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,80,6,1,0,20090923,DET,IND,2009-10
+Shot Chart Detail,1040900201,378,101025,Kara Braxton,1611661321,Detroit Shock,4,3,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090923,DET,IND,2009-10
+Shot Chart Detail,1040900201,382,101025,Kara Braxton,1611661321,Detroit Shock,4,2,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090923,DET,IND,2009-10
+Shot Chart Detail,1040900201,415,101025,Kara Braxton,1611661321,Detroit Shock,4,0,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090923,DET,IND,2009-10
+Shot Chart Detail,1040900202,79,101025,Kara Braxton,1611661321,Detroit Shock,1,1,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,6,1,1,20090925,IND,DET,2009-10
+Shot Chart Detail,1040900202,104,101025,Kara Braxton,1611661321,Detroit Shock,2,9,36,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-4,31,1,1,20090925,IND,DET,2009-10
+Shot Chart Detail,1040900202,119,101025,Kara Braxton,1611661321,Detroit Shock,2,8,11,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-38,0,1,0,20090925,IND,DET,2009-10
+Shot Chart Detail,1040900202,194,101025,Kara Braxton,1611661321,Detroit Shock,2,2,19,Made Shot,Jump Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,39,1,1,20090925,IND,DET,2009-10
+Shot Chart Detail,1040900202,330,101025,Kara Braxton,1611661321,Detroit Shock,3,0,34,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,41,1,1,20090925,IND,DET,2009-10
+Shot Chart Detail,1040900203,43,101025,Kara Braxton,1611661321,Detroit Shock,1,5,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,22,1,0,20090926,IND,DET,2009-10
+Shot Chart Detail,1040900203,57,101025,Kara Braxton,1611661321,Detroit Shock,1,4,40,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,28,1,1,20090926,IND,DET,2009-10
+Shot Chart Detail,1040900203,293,101025,Kara Braxton,1611661321,Detroit Shock,4,9,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-11,1,0,20090926,IND,DET,2009-10
+Shot Chart Detail,1040900203,399,101025,Kara Braxton,1611661321,Detroit Shock,4,2,25,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,64,1,1,20090926,IND,DET,2009-10

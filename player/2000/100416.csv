@@ -1,0 +1,381 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020000013,103,100416,Sheri Sam,1611661326,Miami Sol,1,6,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,203,98,1,0,20000603,CHA,MIA,2000-01
+Shot Chart Detail,1020000013,117,100416,Sheri Sam,1611661326,Miami Sol,1,6,6,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000603,CHA,MIA,2000-01
+Shot Chart Detail,1020000013,152,100416,Sheri Sam,1611661326,Miami Sol,1,1,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-134,179,1,1,20000603,CHA,MIA,2000-01
+Shot Chart Detail,1020000013,238,100416,Sheri Sam,1611661326,Miami Sol,2,13,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000603,CHA,MIA,2000-01
+Shot Chart Detail,1020000013,247,100416,Sheri Sam,1611661326,Miami Sol,2,12,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,27,156,1,0,20000603,CHA,MIA,2000-01
+Shot Chart Detail,1020000013,263,100416,Sheri Sam,1611661326,Miami Sol,2,11,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000603,CHA,MIA,2000-01
+Shot Chart Detail,1020000013,269,100416,Sheri Sam,1611661326,Miami Sol,2,10,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-203,91,1,0,20000603,CHA,MIA,2000-01
+Shot Chart Detail,1020000013,286,100416,Sheri Sam,1611661326,Miami Sol,2,8,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,3,1,1,20000603,CHA,MIA,2000-01
+Shot Chart Detail,1020000013,299,100416,Sheri Sam,1611661326,Miami Sol,2,7,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-53,145,1,0,20000603,CHA,MIA,2000-01
+Shot Chart Detail,1020000013,303,100416,Sheri Sam,1611661326,Miami Sol,2,6,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000603,CHA,MIA,2000-01
+Shot Chart Detail,1020000013,344,100416,Sheri Sam,1611661326,Miami Sol,2,2,51,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,218,3,1,0,20000603,CHA,MIA,2000-01
+Shot Chart Detail,1020000013,380,100416,Sheri Sam,1611661326,Miami Sol,2,0,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000603,CHA,MIA,2000-01
+Shot Chart Detail,1020000013,402,100416,Sheri Sam,1611661326,Miami Sol,3,2,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000603,CHA,MIA,2000-01
+Shot Chart Detail,1020000013,423,100416,Sheri Sam,1611661326,Miami Sol,3,1,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000603,CHA,MIA,2000-01
+Shot Chart Detail,1020000023,37,100416,Sheri Sam,1611661326,Miami Sol,1,15,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-12,124,1,0,20000605,IND,MIA,2000-01
+Shot Chart Detail,1020000023,50,100416,Sheri Sam,1611661326,Miami Sol,1,14,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-156,100,1,0,20000605,IND,MIA,2000-01
+Shot Chart Detail,1020000023,56,100416,Sheri Sam,1611661326,Miami Sol,1,13,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-3,27,1,1,20000605,IND,MIA,2000-01
+Shot Chart Detail,1020000023,66,100416,Sheri Sam,1611661326,Miami Sol,1,12,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,16,141,1,0,20000605,IND,MIA,2000-01
+Shot Chart Detail,1020000023,117,100416,Sheri Sam,1611661326,Miami Sol,1,6,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,117,-8,1,0,20000605,IND,MIA,2000-01
+Shot Chart Detail,1020000023,162,100416,Sheri Sam,1611661326,Miami Sol,1,2,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-96,141,1,1,20000605,IND,MIA,2000-01
+Shot Chart Detail,1020000023,173,100416,Sheri Sam,1611661326,Miami Sol,1,0,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-156,141,1,0,20000605,IND,MIA,2000-01
+Shot Chart Detail,1020000033,56,100416,Sheri Sam,1611661326,Miami Sol,1,12,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-40,179,1,0,20000608,MIA,WAS,2000-01
+Shot Chart Detail,1020000033,95,100416,Sheri Sam,1611661326,Miami Sol,1,7,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-98,151,1,1,20000608,MIA,WAS,2000-01
+Shot Chart Detail,1020000033,100,100416,Sheri Sam,1611661326,Miami Sol,1,7,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,-12,1,1,20000608,MIA,WAS,2000-01
+Shot Chart Detail,1020000033,121,100416,Sheri Sam,1611661326,Miami Sol,1,5,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-113,128,1,1,20000608,MIA,WAS,2000-01
+Shot Chart Detail,1020000033,152,100416,Sheri Sam,1611661326,Miami Sol,1,2,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-3,46,1,0,20000608,MIA,WAS,2000-01
+Shot Chart Detail,1020000033,154,100416,Sheri Sam,1611661326,Miami Sol,1,2,21,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-218,-18,1,1,20000608,MIA,WAS,2000-01
+Shot Chart Detail,1020000033,171,100416,Sheri Sam,1611661326,Miami Sol,1,1,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-113,151,1,0,20000608,MIA,WAS,2000-01
+Shot Chart Detail,1020000033,306,100416,Sheri Sam,1611661326,Miami Sol,2,6,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-188,113,1,0,20000608,MIA,WAS,2000-01
+Shot Chart Detail,1020000033,311,100416,Sheri Sam,1611661326,Miami Sol,2,5,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,149,74,1,0,20000608,MIA,WAS,2000-01
+Shot Chart Detail,1020000033,315,100416,Sheri Sam,1611661326,Miami Sol,2,4,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000608,MIA,WAS,2000-01
+Shot Chart Detail,1020000033,335,100416,Sheri Sam,1611661326,Miami Sol,2,3,39,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000608,MIA,WAS,2000-01
+Shot Chart Detail,1020000039,72,100416,Sheri Sam,1611661326,Miami Sol,1,10,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,8,1,0,20000610,MIA,MIN,2000-01
+Shot Chart Detail,1020000039,74,100416,Sheri Sam,1611661326,Miami Sol,1,10,35,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-25,18,1,0,20000610,MIA,MIN,2000-01
+Shot Chart Detail,1020000039,78,100416,Sheri Sam,1611661326,Miami Sol,1,10,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,31,68,1,0,20000610,MIA,MIN,2000-01
+Shot Chart Detail,1020000039,171,100416,Sheri Sam,1611661326,Miami Sol,1,0,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,3,1,0,20000610,MIA,MIN,2000-01
+Shot Chart Detail,1020000039,222,100416,Sheri Sam,1611661326,Miami Sol,2,15,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,20,179,91,1,1,20000610,MIA,MIN,2000-01
+Shot Chart Detail,1020000039,230,100416,Sheri Sam,1611661326,Miami Sol,2,14,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-143,151,1,0,20000610,MIA,MIN,2000-01
+Shot Chart Detail,1020000039,298,100416,Sheri Sam,1611661326,Miami Sol,2,8,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,162,10,1,0,20000610,MIA,MIN,2000-01
+Shot Chart Detail,1020000039,369,100416,Sheri Sam,1611661326,Miami Sol,2,3,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000610,MIA,MIN,2000-01
+Shot Chart Detail,1020000039,372,100416,Sheri Sam,1611661326,Miami Sol,2,3,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000610,MIA,MIN,2000-01
+Shot Chart Detail,1020000039,381,100416,Sheri Sam,1611661326,Miami Sol,2,3,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-134,156,1,1,20000610,MIA,MIN,2000-01
+Shot Chart Detail,1020000039,384,100416,Sheri Sam,1611661326,Miami Sol,2,2,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,113,173,1,0,20000610,MIA,MIN,2000-01
+Shot Chart Detail,1020000039,429,100416,Sheri Sam,1611661326,Miami Sol,2,0,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-85,156,1,1,20000610,MIA,MIN,2000-01
+Shot Chart Detail,1020000049,3,100416,Sheri Sam,1611661326,Miami Sol,1,19,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-182,128,1,1,20000613,MIA,DET,2000-01
+Shot Chart Detail,1020000049,11,100416,Sheri Sam,1611661326,Miami Sol,1,18,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-188,128,1,0,20000613,MIA,DET,2000-01
+Shot Chart Detail,1020000049,17,100416,Sheri Sam,1611661326,Miami Sol,1,17,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-149,113,1,1,20000613,MIA,DET,2000-01
+Shot Chart Detail,1020000049,21,100416,Sheri Sam,1611661326,Miami Sol,1,17,5,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,216,-12,1,1,20000613,MIA,DET,2000-01
+Shot Chart Detail,1020000049,51,100416,Sheri Sam,1611661326,Miami Sol,1,14,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000613,MIA,DET,2000-01
+Shot Chart Detail,1020000049,64,100416,Sheri Sam,1611661326,Miami Sol,1,13,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-128,173,1,0,20000613,MIA,DET,2000-01
+Shot Chart Detail,1020000049,69,100416,Sheri Sam,1611661326,Miami Sol,1,12,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-85,3,1,0,20000613,MIA,DET,2000-01
+Shot Chart Detail,1020000049,168,100416,Sheri Sam,1611661326,Miami Sol,1,4,53,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000613,MIA,DET,2000-01
+Shot Chart Detail,1020000049,185,100416,Sheri Sam,1611661326,Miami Sol,1,2,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,134,113,1,1,20000613,MIA,DET,2000-01
+Shot Chart Detail,1020000049,237,100416,Sheri Sam,1611661326,Miami Sol,1,1,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000613,MIA,DET,2000-01
+Shot Chart Detail,1020000049,248,100416,Sheri Sam,1611661326,Miami Sol,1,0,20,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000613,MIA,DET,2000-01
+Shot Chart Detail,1020000049,279,100416,Sheri Sam,1611661326,Miami Sol,2,14,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000613,MIA,DET,2000-01
+Shot Chart Detail,1020000049,290,100416,Sheri Sam,1611661326,Miami Sol,2,12,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-3,179,1,0,20000613,MIA,DET,2000-01
+Shot Chart Detail,1020000049,375,100416,Sheri Sam,1611661326,Miami Sol,2,5,42,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,46,8,1,1,20000613,MIA,DET,2000-01
+Shot Chart Detail,1020000049,411,100416,Sheri Sam,1611661326,Miami Sol,2,2,26,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000613,MIA,DET,2000-01
+Shot Chart Detail,1020000056,16,100416,Sheri Sam,1611661326,Miami Sol,1,17,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,147,102,1,0,20000615,HOU,MIA,2000-01
+Shot Chart Detail,1020000056,24,100416,Sheri Sam,1611661326,Miami Sol,1,17,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,1,177,1,0,20000615,HOU,MIA,2000-01
+Shot Chart Detail,1020000056,46,100416,Sheri Sam,1611661326,Miami Sol,1,13,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,147,115,1,0,20000615,HOU,MIA,2000-01
+Shot Chart Detail,1020000056,147,100416,Sheri Sam,1611661326,Miami Sol,1,2,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,184,40,1,0,20000615,HOU,MIA,2000-01
+Shot Chart Detail,1020000056,159,100416,Sheri Sam,1611661326,Miami Sol,1,0,13,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,211,-23,1,0,20000615,HOU,MIA,2000-01
+Shot Chart Detail,1020000056,161,100416,Sheri Sam,1611661326,Miami Sol,1,0,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000615,HOU,MIA,2000-01
+Shot Chart Detail,1020000056,164,100416,Sheri Sam,1611661326,Miami Sol,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,138,115,1,0,20000615,HOU,MIA,2000-01
+Shot Chart Detail,1020000061,14,100416,Sheri Sam,1611661326,Miami Sol,1,17,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,149,141,1,1,20000617,MIA,CLE,2000-01
+Shot Chart Detail,1020000061,26,100416,Sheri Sam,1611661326,Miami Sol,1,15,38,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,20,207,-1,1,0,20000617,MIA,CLE,2000-01
+Shot Chart Detail,1020000061,45,100416,Sheri Sam,1611661326,Miami Sol,1,12,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,-25,201,1,0,20000617,MIA,CLE,2000-01
+Shot Chart Detail,1020000061,143,100416,Sheri Sam,1611661326,Miami Sol,1,1,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-98,8,1,0,20000617,MIA,CLE,2000-01
+Shot Chart Detail,1020000061,148,100416,Sheri Sam,1611661326,Miami Sol,1,0,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000617,MIA,CLE,2000-01
+Shot Chart Detail,1020000061,191,100416,Sheri Sam,1611661326,Miami Sol,2,16,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,20,-166,119,1,1,20000617,MIA,CLE,2000-01
+Shot Chart Detail,1020000061,194,100416,Sheri Sam,1611661326,Miami Sol,2,15,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-158,128,1,1,20000617,MIA,CLE,2000-01
+Shot Chart Detail,1020000061,215,100416,Sheri Sam,1611661326,Miami Sol,2,12,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,40,134,1,0,20000617,MIA,CLE,2000-01
+Shot Chart Detail,1020000061,220,100416,Sheri Sam,1611661326,Miami Sol,2,12,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,20,186,78,1,1,20000617,MIA,CLE,2000-01
+Shot Chart Detail,1020000061,242,100416,Sheri Sam,1611661326,Miami Sol,2,10,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-91,184,1,0,20000617,MIA,CLE,2000-01
+Shot Chart Detail,1020000061,247,100416,Sheri Sam,1611661326,Miami Sol,2,9,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000617,MIA,CLE,2000-01
+Shot Chart Detail,1020000061,276,100416,Sheri Sam,1611661326,Miami Sol,2,6,47,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000617,MIA,CLE,2000-01
+Shot Chart Detail,1020000061,336,100416,Sheri Sam,1611661326,Miami Sol,2,2,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,40,31,1,0,20000617,MIA,CLE,2000-01
+Shot Chart Detail,1020000061,338,100416,Sheri Sam,1611661326,Miami Sol,2,2,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,134,145,1,0,20000617,MIA,CLE,2000-01
+Shot Chart Detail,1020000061,374,100416,Sheri Sam,1611661326,Miami Sol,2,0,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000617,MIA,CLE,2000-01
+Shot Chart Detail,1020000066,4,100416,Sheri Sam,1611661326,Miami Sol,1,19,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,128,-5,1,1,20000618,NYL,MIA,2000-01
+Shot Chart Detail,1020000066,24,100416,Sheri Sam,1611661326,Miami Sol,1,17,6,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-72,42,1,1,20000618,NYL,MIA,2000-01
+Shot Chart Detail,1020000066,26,100416,Sheri Sam,1611661326,Miami Sol,1,16,19,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,20,-203,10,1,0,20000618,NYL,MIA,2000-01
+Shot Chart Detail,1020000066,52,100416,Sheri Sam,1611661326,Miami Sol,1,12,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,0,1,0,20000618,NYL,MIA,2000-01
+Shot Chart Detail,1020000066,65,100416,Sheri Sam,1611661326,Miami Sol,1,10,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000618,NYL,MIA,2000-01
+Shot Chart Detail,1020000066,150,100416,Sheri Sam,1611661326,Miami Sol,1,1,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-87,93,1,0,20000618,NYL,MIA,2000-01
+Shot Chart Detail,1020000066,343,100416,Sheri Sam,1611661326,Miami Sol,2,0,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,136,160,1,0,20000618,NYL,MIA,2000-01
+Shot Chart Detail,1020000066,349,100416,Sheri Sam,1611661326,Miami Sol,2,0,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000618,NYL,MIA,2000-01
+Shot Chart Detail,1020000078,10,100416,Sheri Sam,1611661326,Miami Sol,1,18,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-169,-31,1,1,20000621,WAS,MIA,2000-01
+Shot Chart Detail,1020000078,17,100416,Sheri Sam,1611661326,Miami Sol,1,17,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,1,151,1,1,20000621,WAS,MIA,2000-01
+Shot Chart Detail,1020000078,22,100416,Sheri Sam,1611661326,Miami Sol,1,16,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,1,173,1,0,20000621,WAS,MIA,2000-01
+Shot Chart Detail,1020000078,34,100416,Sheri Sam,1611661326,Miami Sol,1,15,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,74,-21,1,0,20000621,WAS,MIA,2000-01
+Shot Chart Detail,1020000078,41,100416,Sheri Sam,1611661326,Miami Sol,1,14,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-141,72,1,0,20000621,WAS,MIA,2000-01
+Shot Chart Detail,1020000078,151,100416,Sheri Sam,1611661326,Miami Sol,1,3,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,12,1,1,20000621,WAS,MIA,2000-01
+Shot Chart Detail,1020000078,189,100416,Sheri Sam,1611661326,Miami Sol,1,2,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-12,173,1,1,20000621,WAS,MIA,2000-01
+Shot Chart Detail,1020000078,167,100416,Sheri Sam,1611661326,Miami Sol,1,1,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-3,1,1,20000621,WAS,MIA,2000-01
+Shot Chart Detail,1020000078,208,100416,Sheri Sam,1611661326,Miami Sol,2,16,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-3,134,1,0,20000621,WAS,MIA,2000-01
+Shot Chart Detail,1020000078,222,100416,Sheri Sam,1611661326,Miami Sol,2,14,18,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,211,-31,1,0,20000621,WAS,MIA,2000-01
+Shot Chart Detail,1020000078,227,100416,Sheri Sam,1611661326,Miami Sol,2,13,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,16,1,0,20000621,WAS,MIA,2000-01
+Shot Chart Detail,1020000078,279,100416,Sheri Sam,1611661326,Miami Sol,2,8,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,-3,1,1,20000621,WAS,MIA,2000-01
+Shot Chart Detail,1020000078,332,100416,Sheri Sam,1611661326,Miami Sol,2,2,33,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,68,100,1,1,20000621,WAS,MIA,2000-01
+Shot Chart Detail,1020000078,346,100416,Sheri Sam,1611661326,Miami Sol,2,1,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,5,1,1,20000621,WAS,MIA,2000-01
+Shot Chart Detail,1020000084,11,100416,Sheri Sam,1611661326,Miami Sol,1,18,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,46,145,1,0,20000623,MIA,LAS,2000-01
+Shot Chart Detail,1020000084,18,100416,Sheri Sam,1611661326,Miami Sol,1,17,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,76,-1,1,0,20000623,MIA,LAS,2000-01
+Shot Chart Detail,1020000084,36,100416,Sheri Sam,1611661326,Miami Sol,1,15,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000623,MIA,LAS,2000-01
+Shot Chart Detail,1020000084,40,100416,Sheri Sam,1611661326,Miami Sol,1,14,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,1,124,1,0,20000623,MIA,LAS,2000-01
+Shot Chart Detail,1020000084,56,100416,Sheri Sam,1611661326,Miami Sol,1,13,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,-18,201,1,0,20000623,MIA,LAS,2000-01
+Shot Chart Detail,1020000084,64,100416,Sheri Sam,1611661326,Miami Sol,1,12,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-182,57,1,1,20000623,MIA,LAS,2000-01
+Shot Chart Detail,1020000084,76,100416,Sheri Sam,1611661326,Miami Sol,1,11,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,20,-197,68,1,1,20000623,MIA,LAS,2000-01
+Shot Chart Detail,1020000084,89,100416,Sheri Sam,1611661326,Miami Sol,1,9,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,156,14,1,0,20000623,MIA,LAS,2000-01
+Shot Chart Detail,1020000084,164,100416,Sheri Sam,1611661326,Miami Sol,1,3,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,19,179,85,1,0,20000623,MIA,LAS,2000-01
+Shot Chart Detail,1020000084,206,100416,Sheri Sam,1611661326,Miami Sol,1,2,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000623,MIA,LAS,2000-01
+Shot Chart Detail,1020000084,184,100416,Sheri Sam,1611661326,Miami Sol,1,0,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,-1,1,0,20000623,MIA,LAS,2000-01
+Shot Chart Detail,1020000084,231,100416,Sheri Sam,1611661326,Miami Sol,2,15,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-143,156,1,0,20000623,MIA,LAS,2000-01
+Shot Chart Detail,1020000084,272,100416,Sheri Sam,1611661326,Miami Sol,2,11,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,143,151,1,0,20000623,MIA,LAS,2000-01
+Shot Chart Detail,1020000084,288,100416,Sheri Sam,1611661326,Miami Sol,2,10,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000623,MIA,LAS,2000-01
+Shot Chart Detail,1020000084,292,100416,Sheri Sam,1611661326,Miami Sol,2,10,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,20,-197,68,1,1,20000623,MIA,LAS,2000-01
+Shot Chart Detail,1020000084,300,100416,Sheri Sam,1611661326,Miami Sol,2,9,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,179,57,1,0,20000623,MIA,LAS,2000-01
+Shot Chart Detail,1020000089,21,100416,Sheri Sam,1611661326,Miami Sol,1,17,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-48,134,1,0,20000624,MIA,PHO,2000-01
+Shot Chart Detail,1020000089,30,100416,Sheri Sam,1611661326,Miami Sol,1,16,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,18,1,0,20000624,MIA,PHO,2000-01
+Shot Chart Detail,1020000089,51,100416,Sheri Sam,1611661326,Miami Sol,1,13,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-188,14,1,0,20000624,MIA,PHO,2000-01
+Shot Chart Detail,1020000089,209,100416,Sheri Sam,1611661326,Miami Sol,1,2,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000624,MIA,PHO,2000-01
+Shot Chart Detail,1020000089,176,100416,Sheri Sam,1611661326,Miami Sol,1,1,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-91,162,1,0,20000624,MIA,PHO,2000-01
+Shot Chart Detail,1020000089,242,100416,Sheri Sam,1611661326,Miami Sol,2,15,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,156,3,1,0,20000624,MIA,PHO,2000-01
+Shot Chart Detail,1020000089,264,100416,Sheri Sam,1611661326,Miami Sol,2,13,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,113,166,1,0,20000624,MIA,PHO,2000-01
+Shot Chart Detail,1020000089,296,100416,Sheri Sam,1611661326,Miami Sol,2,10,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000624,MIA,PHO,2000-01
+Shot Chart Detail,1020000102,4,100416,Sheri Sam,1611661326,Miami Sol,1,19,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000628,ORL,MIA,2000-01
+Shot Chart Detail,1020000102,16,100416,Sheri Sam,1611661326,Miami Sol,1,17,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,18,147,1,1,20000628,ORL,MIA,2000-01
+Shot Chart Detail,1020000102,140,100416,Sheri Sam,1611661326,Miami Sol,1,4,20,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,57,5,1,1,20000628,ORL,MIA,2000-01
+Shot Chart Detail,1020000102,152,100416,Sheri Sam,1611661326,Miami Sol,1,3,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,19,145,136,1,0,20000628,ORL,MIA,2000-01
+Shot Chart Detail,1020000102,189,100416,Sheri Sam,1611661326,Miami Sol,1,2,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-132,18,1,0,20000628,ORL,MIA,2000-01
+Shot Chart Detail,1020000102,217,100416,Sheri Sam,1611661326,Miami Sol,2,14,31,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,20,203,0,1,0,20000628,ORL,MIA,2000-01
+Shot Chart Detail,1020000102,247,100416,Sheri Sam,1611661326,Miami Sol,2,11,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-156,78,1,0,20000628,ORL,MIA,2000-01
+Shot Chart Detail,1020000102,251,100416,Sheri Sam,1611661326,Miami Sol,2,10,33,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-53,23,1,1,20000628,ORL,MIA,2000-01
+Shot Chart Detail,1020000102,260,100416,Sheri Sam,1611661326,Miami Sol,2,9,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-117,119,1,0,20000628,ORL,MIA,2000-01
+Shot Chart Detail,1020000109,2,100416,Sheri Sam,1611661326,Miami Sol,1,19,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-25,42,1,0,20000630,MIA,ORL,2000-01
+Shot Chart Detail,1020000109,11,100416,Sheri Sam,1611661326,Miami Sol,1,17,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,70,173,1,1,20000630,MIA,ORL,2000-01
+Shot Chart Detail,1020000109,41,100416,Sheri Sam,1611661326,Miami Sol,1,15,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,134,14,1,0,20000630,MIA,ORL,2000-01
+Shot Chart Detail,1020000109,209,100416,Sheri Sam,1611661326,Miami Sol,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,54,10,548,1,0,20000630,MIA,ORL,2000-01
+Shot Chart Detail,1020000109,235,100416,Sheri Sam,1611661326,Miami Sol,2,16,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,179,8,1,1,20000630,MIA,ORL,2000-01
+Shot Chart Detail,1020000109,249,100416,Sheri Sam,1611661326,Miami Sol,2,14,49,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-3,78,1,1,20000630,MIA,ORL,2000-01
+Shot Chart Detail,1020000109,266,100416,Sheri Sam,1611661326,Miami Sol,2,12,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-143,173,1,1,20000630,MIA,ORL,2000-01
+Shot Chart Detail,1020000109,270,100416,Sheri Sam,1611661326,Miami Sol,2,11,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-128,188,1,0,20000630,MIA,ORL,2000-01
+Shot Chart Detail,1020000109,353,100416,Sheri Sam,1611661326,Miami Sol,2,1,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,171,124,1,0,20000630,MIA,ORL,2000-01
+Shot Chart Detail,1020000109,368,100416,Sheri Sam,1611661326,Miami Sol,2,1,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-149,173,1,0,20000630,MIA,ORL,2000-01
+Shot Chart Detail,1020000109,376,100416,Sheri Sam,1611661326,Miami Sol,2,0,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-166,151,1,0,20000630,MIA,ORL,2000-01
+Shot Chart Detail,1020000115,7,100416,Sheri Sam,1611661326,Miami Sol,1,19,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-188,12,1,0,20000701,IND,MIA,2000-01
+Shot Chart Detail,1020000115,21,100416,Sheri Sam,1611661326,Miami Sol,1,17,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,1,158,1,0,20000701,IND,MIA,2000-01
+Shot Chart Detail,1020000115,24,100416,Sheri Sam,1611661326,Miami Sol,1,16,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,1,1,0,20000701,IND,MIA,2000-01
+Shot Chart Detail,1020000115,30,100416,Sheri Sam,1611661326,Miami Sol,1,16,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,-3,1,1,20000701,IND,MIA,2000-01
+Shot Chart Detail,1020000115,42,100416,Sheri Sam,1611661326,Miami Sol,1,14,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,83,-3,1,0,20000701,IND,MIA,2000-01
+Shot Chart Detail,1020000115,52,100416,Sheri Sam,1611661326,Miami Sol,1,13,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-98,115,1,1,20000701,IND,MIA,2000-01
+Shot Chart Detail,1020000115,73,100416,Sheri Sam,1611661326,Miami Sol,1,10,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,5,1,1,20000701,IND,MIA,2000-01
+Shot Chart Detail,1020000115,196,100416,Sheri Sam,1611661326,Miami Sol,1,2,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,-12,209,1,1,20000701,IND,MIA,2000-01
+Shot Chart Detail,1020000115,148,100416,Sheri Sam,1611661326,Miami Sol,1,2,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,12,1,1,20000701,IND,MIA,2000-01
+Shot Chart Detail,1020000115,201,100416,Sheri Sam,1611661326,Miami Sol,1,1,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-197,115,1,1,20000701,IND,MIA,2000-01
+Shot Chart Detail,1020000115,163,100416,Sheri Sam,1611661326,Miami Sol,1,0,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,12,1,0,20000701,IND,MIA,2000-01
+Shot Chart Detail,1020000115,248,100416,Sheri Sam,1611661326,Miami Sol,2,11,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,1,1,1,20000701,IND,MIA,2000-01
+Shot Chart Detail,1020000115,250,100416,Sheri Sam,1611661326,Miami Sol,2,11,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,-61,199,1,0,20000701,IND,MIA,2000-01
+Shot Chart Detail,1020000115,320,100416,Sheri Sam,1611661326,Miami Sol,2,2,24,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,5,1,0,20000701,IND,MIA,2000-01
+Shot Chart Detail,1020000115,333,100416,Sheri Sam,1611661326,Miami Sol,2,1,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,1,1,1,20000701,IND,MIA,2000-01
+Shot Chart Detail,1020000126,15,100416,Sheri Sam,1611661326,Miami Sol,1,17,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-98,196,1,0,20000705,CHA,MIA,2000-01
+Shot Chart Detail,1020000126,18,100416,Sheri Sam,1611661326,Miami Sol,1,17,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000705,CHA,MIA,2000-01
+Shot Chart Detail,1020000126,35,100416,Sheri Sam,1611661326,Miami Sol,1,15,58,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000705,CHA,MIA,2000-01
+Shot Chart Detail,1020000126,38,100416,Sheri Sam,1611661326,Miami Sol,1,15,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000705,CHA,MIA,2000-01
+Shot Chart Detail,1020000126,58,100416,Sheri Sam,1611661326,Miami Sol,1,13,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-3,149,1,1,20000705,CHA,MIA,2000-01
+Shot Chart Detail,1020000126,63,100416,Sheri Sam,1611661326,Miami Sol,1,12,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-209,68,1,1,20000705,CHA,MIA,2000-01
+Shot Chart Detail,1020000126,68,100416,Sheri Sam,1611661326,Miami Sol,1,11,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-106,-5,1,1,20000705,CHA,MIA,2000-01
+Shot Chart Detail,1020000126,80,100416,Sheri Sam,1611661326,Miami Sol,1,11,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-164,192,1,0,20000705,CHA,MIA,2000-01
+Shot Chart Detail,1020000126,172,100416,Sheri Sam,1611661326,Miami Sol,1,1,56,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-76,132,1,0,20000705,CHA,MIA,2000-01
+Shot Chart Detail,1020000126,208,100416,Sheri Sam,1611661326,Miami Sol,1,1,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-121,179,1,1,20000705,CHA,MIA,2000-01
+Shot Chart Detail,1020000126,217,100416,Sheri Sam,1611661326,Miami Sol,1,0,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-218,51,1,1,20000705,CHA,MIA,2000-01
+Shot Chart Detail,1020000126,193,100416,Sheri Sam,1611661326,Miami Sol,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,21,1,0,20000705,CHA,MIA,2000-01
+Shot Chart Detail,1020000126,236,100416,Sheri Sam,1611661326,Miami Sol,2,14,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000705,CHA,MIA,2000-01
+Shot Chart Detail,1020000126,280,100416,Sheri Sam,1611661326,Miami Sol,2,8,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,-18,1,1,20000705,CHA,MIA,2000-01
+Shot Chart Detail,1020000126,299,100416,Sheri Sam,1611661326,Miami Sol,2,6,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,0,1,0,20000705,CHA,MIA,2000-01
+Shot Chart Detail,1020000126,317,100416,Sheri Sam,1611661326,Miami Sol,2,4,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-16,227,1,1,20000705,CHA,MIA,2000-01
+Shot Chart Detail,1020000126,336,100416,Sheri Sam,1611661326,Miami Sol,2,1,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,91,33,1,0,20000705,CHA,MIA,2000-01
+Shot Chart Detail,1020000133,10,100416,Sheri Sam,1611661326,Miami Sol,1,18,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,171,-12,1,0,20000707,MIA,CLE,2000-01
+Shot Chart Detail,1020000133,14,100416,Sheri Sam,1611661326,Miami Sol,1,17,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-33,14,1,1,20000707,MIA,CLE,2000-01
+Shot Chart Detail,1020000133,20,100416,Sheri Sam,1611661326,Miami Sol,1,16,59,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,20,207,-23,1,1,20000707,MIA,CLE,2000-01
+Shot Chart Detail,1020000133,33,100416,Sheri Sam,1611661326,Miami Sol,1,14,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-3,85,1,0,20000707,MIA,CLE,2000-01
+Shot Chart Detail,1020000133,69,100416,Sheri Sam,1611661326,Miami Sol,1,11,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,156,-12,1,0,20000707,MIA,CLE,2000-01
+Shot Chart Detail,1020000133,72,100416,Sheri Sam,1611661326,Miami Sol,1,11,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000707,MIA,CLE,2000-01
+Shot Chart Detail,1020000133,277,100416,Sheri Sam,1611661326,Miami Sol,2,7,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,164,156,1,0,20000707,MIA,CLE,2000-01
+Shot Chart Detail,1020000133,308,100416,Sheri Sam,1611661326,Miami Sol,2,3,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-113,-1,1,0,20000707,MIA,CLE,2000-01
+Shot Chart Detail,1020000133,320,100416,Sheri Sam,1611661326,Miami Sol,2,1,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,186,113,1,0,20000707,MIA,CLE,2000-01
+Shot Chart Detail,1020000138,12,100416,Sheri Sam,1611661326,Miami Sol,1,18,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,57,42,1,1,20000708,NYL,MIA,2000-01
+Shot Chart Detail,1020000138,19,100416,Sheri Sam,1611661326,Miami Sol,1,17,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,3,1,0,20000708,NYL,MIA,2000-01
+Shot Chart Detail,1020000138,43,100416,Sheri Sam,1611661326,Miami Sol,1,12,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-79,194,1,0,20000708,NYL,MIA,2000-01
+Shot Chart Detail,1020000138,94,100416,Sheri Sam,1611661326,Miami Sol,1,7,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,149,21,1,1,20000708,NYL,MIA,2000-01
+Shot Chart Detail,1020000138,141,100416,Sheri Sam,1611661326,Miami Sol,1,2,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,51,139,1,0,20000708,NYL,MIA,2000-01
+Shot Chart Detail,1020000138,197,100416,Sheri Sam,1611661326,Miami Sol,1,0,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,42,1,0,20000708,NYL,MIA,2000-01
+Shot Chart Detail,1020000138,171,100416,Sheri Sam,1611661326,Miami Sol,1,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,34,149,306,1,0,20000708,NYL,MIA,2000-01
+Shot Chart Detail,1020000138,243,100416,Sheri Sam,1611661326,Miami Sol,2,10,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,31,1,1,20000708,NYL,MIA,2000-01
+Shot Chart Detail,1020000138,247,100416,Sheri Sam,1611661326,Miami Sol,2,9,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-117,207,1,0,20000708,NYL,MIA,2000-01
+Shot Chart Detail,1020000147,3,100416,Sheri Sam,1611661326,Miami Sol,1,19,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,1,141,1,0,20000710,MIA,SEA,2000-01
+Shot Chart Detail,1020000147,58,100416,Sheri Sam,1611661326,Miami Sol,1,13,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,171,134,1,0,20000710,MIA,SEA,2000-01
+Shot Chart Detail,1020000147,83,100416,Sheri Sam,1611661326,Miami Sol,1,10,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,3,1,0,20000710,MIA,SEA,2000-01
+Shot Chart Detail,1020000147,188,100416,Sheri Sam,1611661326,Miami Sol,1,2,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,156,85,1,1,20000710,MIA,SEA,2000-01
+Shot Chart Detail,1020000147,242,100416,Sheri Sam,1611661326,Miami Sol,2,13,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,134,96,1,0,20000710,MIA,SEA,2000-01
+Shot Chart Detail,1020000147,321,100416,Sheri Sam,1611661326,Miami Sol,2,6,7,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,55,8,1,1,20000710,MIA,SEA,2000-01
+Shot Chart Detail,1020000147,330,100416,Sheri Sam,1611661326,Miami Sol,2,5,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-149,151,1,0,20000710,MIA,SEA,2000-01
+Shot Chart Detail,1020000147,339,100416,Sheri Sam,1611661326,Miami Sol,2,4,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000710,MIA,SEA,2000-01
+Shot Chart Detail,1020000157,25,100416,Sheri Sam,1611661326,Miami Sol,1,16,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,83,119,1,0,20000713,MIA,WAS,2000-01
+Shot Chart Detail,1020000157,47,100416,Sheri Sam,1611661326,Miami Sol,1,13,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,171,124,1,0,20000713,MIA,WAS,2000-01
+Shot Chart Detail,1020000157,73,100416,Sheri Sam,1611661326,Miami Sol,1,10,10,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-85,14,1,0,20000713,MIA,WAS,2000-01
+Shot Chart Detail,1020000157,197,100416,Sheri Sam,1611661326,Miami Sol,1,2,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000713,MIA,WAS,2000-01
+Shot Chart Detail,1020000157,166,100416,Sheri Sam,1611661326,Miami Sol,1,1,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-218,42,1,1,20000713,MIA,WAS,2000-01
+Shot Chart Detail,1020000157,199,100416,Sheri Sam,1611661326,Miami Sol,1,1,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-128,74,1,0,20000713,MIA,WAS,2000-01
+Shot Chart Detail,1020000157,210,100416,Sheri Sam,1611661326,Miami Sol,1,0,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-12,145,1,0,20000713,MIA,WAS,2000-01
+Shot Chart Detail,1020000157,178,100416,Sheri Sam,1611661326,Miami Sol,1,0,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-182,119,1,0,20000713,MIA,WAS,2000-01
+Shot Chart Detail,1020000157,227,100416,Sheri Sam,1611661326,Miami Sol,2,15,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000713,MIA,WAS,2000-01
+Shot Chart Detail,1020000157,229,100416,Sheri Sam,1611661326,Miami Sol,2,14,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,128,119,1,0,20000713,MIA,WAS,2000-01
+Shot Chart Detail,1020000157,248,100416,Sheri Sam,1611661326,Miami Sol,2,11,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-3,96,1,1,20000713,MIA,WAS,2000-01
+Shot Chart Detail,1020000157,256,100416,Sheri Sam,1611661326,Miami Sol,2,10,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-121,14,1,0,20000713,MIA,WAS,2000-01
+Shot Chart Detail,1020000157,280,100416,Sheri Sam,1611661326,Miami Sol,2,9,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,156,145,1,0,20000713,MIA,WAS,2000-01
+Shot Chart Detail,1020000160,50,100416,Sheri Sam,1611661326,Miami Sol,1,14,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,156,166,1,0,20000714,DET,MIA,2000-01
+Shot Chart Detail,1020000160,90,100416,Sheri Sam,1611661326,Miami Sol,1,11,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000714,DET,MIA,2000-01
+Shot Chart Detail,1020000160,95,100416,Sheri Sam,1611661326,Miami Sol,1,10,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000714,DET,MIA,2000-01
+Shot Chart Detail,1020000160,101,100416,Sheri Sam,1611661326,Miami Sol,1,9,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),24+ ft.,22,220,61,1,0,20000714,DET,MIA,2000-01
+Shot Chart Detail,1020000160,182,100416,Sheri Sam,1611661326,Miami Sol,1,1,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,119,21,1,0,20000714,DET,MIA,2000-01
+Shot Chart Detail,1020000160,218,100416,Sheri Sam,1611661326,Miami Sol,1,0,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,199,115,1,0,20000714,DET,MIA,2000-01
+Shot Chart Detail,1020000160,242,100416,Sheri Sam,1611661326,Miami Sol,2,13,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,214,83,1,1,20000714,DET,MIA,2000-01
+Shot Chart Detail,1020000160,271,100416,Sheri Sam,1611661326,Miami Sol,2,10,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,149,42,1,0,20000714,DET,MIA,2000-01
+Shot Chart Detail,1020000170,32,100416,Sheri Sam,1611661326,Miami Sol,1,16,0,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,20,-209,3,1,0,20000719,MIA,POR,2000-01
+Shot Chart Detail,1020000170,34,100416,Sheri Sam,1611661326,Miami Sol,1,15,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-134,156,1,0,20000719,MIA,POR,2000-01
+Shot Chart Detail,1020000170,48,100416,Sheri Sam,1611661326,Miami Sol,1,13,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-85,-12,1,0,20000719,MIA,POR,2000-01
+Shot Chart Detail,1020000170,87,100416,Sheri Sam,1611661326,Miami Sol,1,9,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-143,14,1,0,20000719,MIA,POR,2000-01
+Shot Chart Detail,1020000170,163,100416,Sheri Sam,1611661326,Miami Sol,1,3,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,19,179,85,1,0,20000719,MIA,POR,2000-01
+Shot Chart Detail,1020000170,215,100416,Sheri Sam,1611661326,Miami Sol,1,3,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000719,MIA,POR,2000-01
+Shot Chart Detail,1020000170,188,100416,Sheri Sam,1611661326,Miami Sol,1,1,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,25,63,1,0,20000719,MIA,POR,2000-01
+Shot Chart Detail,1020000170,285,100416,Sheri Sam,1611661326,Miami Sol,2,11,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000719,MIA,POR,2000-01
+Shot Chart Detail,1020000179,4,100416,Sheri Sam,1611661326,Miami Sol,1,19,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-143,3,1,1,20000721,MIA,UTA,2000-01
+Shot Chart Detail,1020000179,6,100416,Sheri Sam,1611661326,Miami Sol,1,18,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,40,124,1,1,20000721,MIA,UTA,2000-01
+Shot Chart Detail,1020000179,41,100416,Sheri Sam,1611661326,Miami Sol,1,14,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,-33,201,1,1,20000721,MIA,UTA,2000-01
+Shot Chart Detail,1020000179,47,100416,Sheri Sam,1611661326,Miami Sol,1,14,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,10,166,1,1,20000721,MIA,UTA,2000-01
+Shot Chart Detail,1020000179,90,100416,Sheri Sam,1611661326,Miami Sol,1,9,58,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-33,78,1,0,20000721,MIA,UTA,2000-01
+Shot Chart Detail,1020000179,121,100416,Sheri Sam,1611661326,Miami Sol,1,7,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-3,78,1,0,20000721,MIA,UTA,2000-01
+Shot Chart Detail,1020000179,229,100416,Sheri Sam,1611661326,Miami Sol,1,2,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,8,1,1,20000721,MIA,UTA,2000-01
+Shot Chart Detail,1020000179,234,100416,Sheri Sam,1611661326,Miami Sol,1,1,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,19,113,162,1,1,20000721,MIA,UTA,2000-01
+Shot Chart Detail,1020000179,199,100416,Sheri Sam,1611661326,Miami Sol,1,0,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,113,124,1,0,20000721,MIA,UTA,2000-01
+Shot Chart Detail,1020000179,240,100416,Sheri Sam,1611661326,Miami Sol,1,0,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,14,1,1,20000721,MIA,UTA,2000-01
+Shot Chart Detail,1020000179,265,100416,Sheri Sam,1611661326,Miami Sol,2,14,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-143,151,1,0,20000721,MIA,UTA,2000-01
+Shot Chart Detail,1020000179,268,100416,Sheri Sam,1611661326,Miami Sol,2,14,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,128,130,1,1,20000721,MIA,UTA,2000-01
+Shot Chart Detail,1020000179,273,100416,Sheri Sam,1611661326,Miami Sol,2,13,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,10,184,1,0,20000721,MIA,UTA,2000-01
+Shot Chart Detail,1020000179,298,100416,Sheri Sam,1611661326,Miami Sol,2,10,22,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,106,96,1,1,20000721,MIA,UTA,2000-01
+Shot Chart Detail,1020000179,310,100416,Sheri Sam,1611661326,Miami Sol,2,9,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-134,162,1,0,20000721,MIA,UTA,2000-01
+Shot Chart Detail,1020000179,345,100416,Sheri Sam,1611661326,Miami Sol,2,4,48,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,20,201,25,1,0,20000721,MIA,UTA,2000-01
+Shot Chart Detail,1020000179,403,100416,Sheri Sam,1611661326,Miami Sol,2,0,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000721,MIA,UTA,2000-01
+Shot Chart Detail,1020000183,11,100416,Sheri Sam,1611661326,Miami Sol,1,18,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-117,201,1,1,20000722,CLE,MIA,2000-01
+Shot Chart Detail,1020000183,39,100416,Sheri Sam,1611661326,Miami Sol,1,15,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-104,188,1,0,20000722,CLE,MIA,2000-01
+Shot Chart Detail,1020000183,71,100416,Sheri Sam,1611661326,Miami Sol,1,11,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,20,179,109,1,0,20000722,CLE,MIA,2000-01
+Shot Chart Detail,1020000183,126,100416,Sheri Sam,1611661326,Miami Sol,1,6,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-104,104,1,0,20000722,CLE,MIA,2000-01
+Shot Chart Detail,1020000183,127,100416,Sheri Sam,1611661326,Miami Sol,1,6,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,11,1,0,20000722,CLE,MIA,2000-01
+Shot Chart Detail,1020000183,153,100416,Sheri Sam,1611661326,Miami Sol,1,3,50,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,12,40,1,0,20000722,CLE,MIA,2000-01
+Shot Chart Detail,1020000183,222,100416,Sheri Sam,1611661326,Miami Sol,2,14,48,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,100,53,1,0,20000722,CLE,MIA,2000-01
+Shot Chart Detail,1020000197,44,100416,Sheri Sam,1611661326,Miami Sol,1,14,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,104,51,1,0,20000726,DET,MIA,2000-01
+Shot Chart Detail,1020000197,160,100416,Sheri Sam,1611661326,Miami Sol,1,4,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-136,18,1,0,20000726,DET,MIA,2000-01
+Shot Chart Detail,1020000197,267,100416,Sheri Sam,1611661326,Miami Sol,1,1,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,141,63,1,0,20000726,DET,MIA,2000-01
+Shot Chart Detail,1020000197,225,100416,Sheri Sam,1611661326,Miami Sol,1,0,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-216,70,1,0,20000726,DET,MIA,2000-01
+Shot Chart Detail,1020000197,309,100416,Sheri Sam,1611661326,Miami Sol,2,12,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,126,57,1,0,20000726,DET,MIA,2000-01
+Shot Chart Detail,1020000197,361,100416,Sheri Sam,1611661326,Miami Sol,2,7,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-128,203,1,1,20000726,DET,MIA,2000-01
+Shot Chart Detail,1020000197,364,100416,Sheri Sam,1611661326,Miami Sol,2,7,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,164,36,1,0,20000726,DET,MIA,2000-01
+Shot Chart Detail,1020000205,9,100416,Sheri Sam,1611661326,Miami Sol,1,18,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-74,76,1,0,20000728,MIN,MIA,2000-01
+Shot Chart Detail,1020000205,31,100416,Sheri Sam,1611661326,Miami Sol,1,16,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,70,203,1,0,20000728,MIN,MIA,2000-01
+Shot Chart Detail,1020000205,38,100416,Sheri Sam,1611661326,Miami Sol,1,16,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-188,121,1,0,20000728,MIN,MIA,2000-01
+Shot Chart Detail,1020000205,78,100416,Sheri Sam,1611661326,Miami Sol,1,12,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-179,121,1,0,20000728,MIN,MIA,2000-01
+Shot Chart Detail,1020000205,179,100416,Sheri Sam,1611661326,Miami Sol,1,3,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000728,MIN,MIA,2000-01
+Shot Chart Detail,1020000205,193,100416,Sheri Sam,1611661326,Miami Sol,1,2,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,147,12,1,0,20000728,MIN,MIA,2000-01
+Shot Chart Detail,1020000205,199,100416,Sheri Sam,1611661326,Miami Sol,1,1,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000728,MIN,MIA,2000-01
+Shot Chart Detail,1020000205,236,100416,Sheri Sam,1611661326,Miami Sol,2,16,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-1,81,1,0,20000728,MIN,MIA,2000-01
+Shot Chart Detail,1020000205,245,100416,Sheri Sam,1611661326,Miami Sol,2,15,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-1,220,1,1,20000728,MIN,MIA,2000-01
+Shot Chart Detail,1020000215,8,100416,Sheri Sam,1611661326,Miami Sol,1,18,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000730,SEA,MIA,2000-01
+Shot Chart Detail,1020000215,13,100416,Sheri Sam,1611661326,Miami Sol,1,17,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,29,1,0,20000730,SEA,MIA,2000-01
+Shot Chart Detail,1020000215,28,100416,Sheri Sam,1611661326,Miami Sol,1,14,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-212,76,1,0,20000730,SEA,MIA,2000-01
+Shot Chart Detail,1020000215,39,100416,Sheri Sam,1611661326,Miami Sol,1,12,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,23,40,1,0,20000730,SEA,MIA,2000-01
+Shot Chart Detail,1020000215,46,100416,Sheri Sam,1611661326,Miami Sol,1,12,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000730,SEA,MIA,2000-01
+Shot Chart Detail,1020000215,56,100416,Sheri Sam,1611661326,Miami Sol,1,10,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,33,1,1,20000730,SEA,MIA,2000-01
+Shot Chart Detail,1020000215,70,100416,Sheri Sam,1611661326,Miami Sol,1,9,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,162,23,1,0,20000730,SEA,MIA,2000-01
+Shot Chart Detail,1020000215,102,100416,Sheri Sam,1611661326,Miami Sol,1,6,3,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-212,1,1,0,20000730,SEA,MIA,2000-01
+Shot Chart Detail,1020000215,123,100416,Sheri Sam,1611661326,Miami Sol,1,3,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-36,53,1,0,20000730,SEA,MIA,2000-01
+Shot Chart Detail,1020000215,128,100416,Sheri Sam,1611661326,Miami Sol,1,3,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-212,57,1,0,20000730,SEA,MIA,2000-01
+Shot Chart Detail,1020000215,132,100416,Sheri Sam,1611661326,Miami Sol,1,2,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000730,SEA,MIA,2000-01
+Shot Chart Detail,1020000215,147,100416,Sheri Sam,1611661326,Miami Sol,1,0,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,175,128,1,1,20000730,SEA,MIA,2000-01
+Shot Chart Detail,1020000215,191,100416,Sheri Sam,1611661326,Miami Sol,2,14,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,18,1,1,20000730,SEA,MIA,2000-01
+Shot Chart Detail,1020000215,194,100416,Sheri Sam,1611661326,Miami Sol,2,14,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-109,186,1,0,20000730,SEA,MIA,2000-01
+Shot Chart Detail,1020000215,214,100416,Sheri Sam,1611661326,Miami Sol,2,11,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,1,1,0,20000730,SEA,MIA,2000-01
+Shot Chart Detail,1020000215,294,100416,Sheri Sam,1611661326,Miami Sol,2,2,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,18,1,0,20000730,SEA,MIA,2000-01
+Shot Chart Detail,1020000215,307,100416,Sheri Sam,1611661326,Miami Sol,2,1,46,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-27,29,1,1,20000730,SEA,MIA,2000-01
+Shot Chart Detail,1020000215,311,100416,Sheri Sam,1611661326,Miami Sol,2,1,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000730,SEA,MIA,2000-01
+Shot Chart Detail,1020000215,320,100416,Sheri Sam,1611661326,Miami Sol,2,0,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,59,40,1,0,20000730,SEA,MIA,2000-01
+Shot Chart Detail,1020000221,4,100416,Sheri Sam,1611661326,Miami Sol,1,19,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,72,158,1,0,20000801,POR,MIA,2000-01
+Shot Chart Detail,1020000221,19,100416,Sheri Sam,1611661326,Miami Sol,1,17,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,19,87,179,1,0,20000801,POR,MIA,2000-01
+Shot Chart Detail,1020000221,36,100416,Sheri Sam,1611661326,Miami Sol,1,14,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,72,119,1,0,20000801,POR,MIA,2000-01
+Shot Chart Detail,1020000221,38,100416,Sheri Sam,1611661326,Miami Sol,1,14,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-87,192,1,0,20000801,POR,MIA,2000-01
+Shot Chart Detail,1020000221,42,100416,Sheri Sam,1611661326,Miami Sol,1,13,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,-21,207,1,1,20000801,POR,MIA,2000-01
+Shot Chart Detail,1020000221,54,100416,Sheri Sam,1611661326,Miami Sol,1,12,10,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-212,-14,1,0,20000801,POR,MIA,2000-01
+Shot Chart Detail,1020000221,77,100416,Sheri Sam,1611661326,Miami Sol,1,9,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-42,145,1,1,20000801,POR,MIA,2000-01
+Shot Chart Detail,1020000221,85,100416,Sheri Sam,1611661326,Miami Sol,1,7,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-136,119,1,0,20000801,POR,MIA,2000-01
+Shot Chart Detail,1020000221,87,100416,Sheri Sam,1611661326,Miami Sol,1,7,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,175,-10,1,0,20000801,POR,MIA,2000-01
+Shot Chart Detail,1020000221,124,100416,Sheri Sam,1611661326,Miami Sol,1,4,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,44,16,1,0,20000801,POR,MIA,2000-01
+Shot Chart Detail,1020000221,130,100416,Sheri Sam,1611661326,Miami Sol,1,3,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000801,POR,MIA,2000-01
+Shot Chart Detail,1020000221,143,100416,Sheri Sam,1611661326,Miami Sol,1,3,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,-6,207,1,0,20000801,POR,MIA,2000-01
+Shot Chart Detail,1020000221,193,100416,Sheri Sam,1611661326,Miami Sol,1,2,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,1,1,1,20000801,POR,MIA,2000-01
+Shot Chart Detail,1020000221,160,100416,Sheri Sam,1611661326,Miami Sol,1,1,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,35,113,1,0,20000801,POR,MIA,2000-01
+Shot Chart Detail,1020000221,162,100416,Sheri Sam,1611661326,Miami Sol,1,1,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000801,POR,MIA,2000-01
+Shot Chart Detail,1020000221,211,100416,Sheri Sam,1611661326,Miami Sol,2,16,7,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,51,124,1,1,20000801,POR,MIA,2000-01
+Shot Chart Detail,1020000221,219,100416,Sheri Sam,1611661326,Miami Sol,2,15,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,19,87,179,1,1,20000801,POR,MIA,2000-01
+Shot Chart Detail,1020000221,222,100416,Sheri Sam,1611661326,Miami Sol,2,14,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-145,145,1,0,20000801,POR,MIA,2000-01
+Shot Chart Detail,1020000221,259,100416,Sheri Sam,1611661326,Miami Sol,2,10,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,1,1,0,20000801,POR,MIA,2000-01
+Shot Chart Detail,1020000221,264,100416,Sheri Sam,1611661326,Miami Sol,2,9,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,23,179,1,1,20000801,POR,MIA,2000-01
+Shot Chart Detail,1020000221,267,100416,Sheri Sam,1611661326,Miami Sol,2,9,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-115,173,1,0,20000801,POR,MIA,2000-01
+Shot Chart Detail,1020000221,301,100416,Sheri Sam,1611661326,Miami Sol,2,5,23,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-66,134,1,1,20000801,POR,MIA,2000-01
+Shot Chart Detail,1020000221,311,100416,Sheri Sam,1611661326,Miami Sol,2,4,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,147,-10,1,0,20000801,POR,MIA,2000-01
+Shot Chart Detail,1020000221,326,100416,Sheri Sam,1611661326,Miami Sol,2,2,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-109,57,1,0,20000801,POR,MIA,2000-01
+Shot Chart Detail,1020000221,351,100416,Sheri Sam,1611661326,Miami Sol,2,0,4,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,211,5,1,0,20000801,POR,MIA,2000-01
+Shot Chart Detail,1020000221,357,100416,Sheri Sam,1611661326,Miami Sol,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-188,214,1,0,20000801,POR,MIA,2000-01
+Shot Chart Detail,1020000225,2,100416,Sheri Sam,1611661326,Miami Sol,1,19,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-190,5,1,0,20000802,SAC,MIA,2000-01
+Shot Chart Detail,1020000225,24,100416,Sheri Sam,1611661326,Miami Sol,1,16,44,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-212,12,1,0,20000802,SAC,MIA,2000-01
+Shot Chart Detail,1020000225,35,100416,Sheri Sam,1611661326,Miami Sol,1,15,10,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,55,121,1,1,20000802,SAC,MIA,2000-01
+Shot Chart Detail,1020000225,38,100416,Sheri Sam,1611661326,Miami Sol,1,14,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,149,23,1,1,20000802,SAC,MIA,2000-01
+Shot Chart Detail,1020000225,40,100416,Sheri Sam,1611661326,Miami Sol,1,13,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,19,5,199,1,0,20000802,SAC,MIA,2000-01
+Shot Chart Detail,1020000225,78,100416,Sheri Sam,1611661326,Miami Sol,1,8,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-154,5,1,1,20000802,SAC,MIA,2000-01
+Shot Chart Detail,1020000225,80,100416,Sheri Sam,1611661326,Miami Sol,1,8,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,12,55,1,0,20000802,SAC,MIA,2000-01
+Shot Chart Detail,1020000225,175,100416,Sheri Sam,1611661326,Miami Sol,1,2,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-14,160,1,1,20000802,SAC,MIA,2000-01
+Shot Chart Detail,1020000225,145,100416,Sheri Sam,1611661326,Miami Sol,1,1,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,23,1,0,20000802,SAC,MIA,2000-01
+Shot Chart Detail,1020000225,198,100416,Sheri Sam,1611661326,Miami Sol,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,19,192,51,1,0,20000802,SAC,MIA,2000-01
+Shot Chart Detail,1020000225,167,100416,Sheri Sam,1611661326,Miami Sol,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-169,40,1,0,20000802,SAC,MIA,2000-01
+Shot Chart Detail,1020000230,3,100416,Sheri Sam,1611661326,Miami Sol,1,19,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-158,42,1,1,20000804,MIA,CHA,2000-01
+Shot Chart Detail,1020000230,11,100416,Sheri Sam,1611661326,Miami Sol,1,18,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-143,102,1,1,20000804,MIA,CHA,2000-01
+Shot Chart Detail,1020000230,27,100416,Sheri Sam,1611661326,Miami Sol,1,14,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-149,151,1,0,20000804,MIA,CHA,2000-01
+Shot Chart Detail,1020000230,45,100416,Sheri Sam,1611661326,Miami Sol,1,12,32,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000804,MIA,CHA,2000-01
+Shot Chart Detail,1020000230,49,100416,Sheri Sam,1611661326,Miami Sol,1,11,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,119,14,1,0,20000804,MIA,CHA,2000-01
+Shot Chart Detail,1020000230,78,100416,Sheri Sam,1611661326,Miami Sol,1,8,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-91,201,1,0,20000804,MIA,CHA,2000-01
+Shot Chart Detail,1020000230,185,100416,Sheri Sam,1611661326,Miami Sol,1,1,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-3,179,1,0,20000804,MIA,CHA,2000-01
+Shot Chart Detail,1020000230,156,100416,Sheri Sam,1611661326,Miami Sol,1,0,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,113,68,1,0,20000804,MIA,CHA,2000-01
+Shot Chart Detail,1020000230,228,100416,Sheri Sam,1611661326,Miami Sol,2,12,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-158,106,1,1,20000804,MIA,CHA,2000-01
+Shot Chart Detail,1020000230,259,100416,Sheri Sam,1611661326,Miami Sol,2,8,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,106,188,1,0,20000804,MIA,CHA,2000-01
+Shot Chart Detail,1020000230,269,100416,Sheri Sam,1611661326,Miami Sol,2,7,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-40,46,1,1,20000804,MIA,CHA,2000-01
+Shot Chart Detail,1020000230,278,100416,Sheri Sam,1611661326,Miami Sol,2,6,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,171,124,1,1,20000804,MIA,CHA,2000-01
+Shot Chart Detail,1020000230,294,100416,Sheri Sam,1611661326,Miami Sol,2,5,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,106,85,1,1,20000804,MIA,CHA,2000-01
+Shot Chart Detail,1020000230,317,100416,Sheri Sam,1611661326,Miami Sol,2,3,24,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,20,-209,-8,1,0,20000804,MIA,CHA,2000-01
+Shot Chart Detail,1020000230,321,100416,Sheri Sam,1611661326,Miami Sol,2,2,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000804,MIA,CHA,2000-01
+Shot Chart Detail,1020000237,2,100416,Sheri Sam,1611661326,Miami Sol,1,19,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,40,145,1,1,20000806,MIA,NYL,2000-01
+Shot Chart Detail,1020000237,4,100416,Sheri Sam,1611661326,Miami Sol,1,19,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,164,-8,1,1,20000806,MIA,NYL,2000-01
+Shot Chart Detail,1020000237,6,100416,Sheri Sam,1611661326,Miami Sol,1,18,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,106,194,1,0,20000806,MIA,NYL,2000-01
+Shot Chart Detail,1020000237,30,100416,Sheri Sam,1611661326,Miami Sol,1,14,41,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,20,-209,-8,1,1,20000806,MIA,NYL,2000-01
+Shot Chart Detail,1020000237,49,100416,Sheri Sam,1611661326,Miami Sol,1,11,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-70,212,1,0,20000806,MIA,NYL,2000-01
+Shot Chart Detail,1020000237,87,100416,Sheri Sam,1611661326,Miami Sol,1,8,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,-8,1,0,20000806,MIA,NYL,2000-01
+Shot Chart Detail,1020000237,105,100416,Sheri Sam,1611661326,Miami Sol,1,6,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,98,57,1,1,20000806,MIA,NYL,2000-01
+Shot Chart Detail,1020000237,110,100416,Sheri Sam,1611661326,Miami Sol,1,6,8,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-218,8,1,0,20000806,MIA,NYL,2000-01
+Shot Chart Detail,1020000237,112,100416,Sheri Sam,1611661326,Miami Sol,1,5,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,20,179,106,1,0,20000806,MIA,NYL,2000-01
+Shot Chart Detail,1020000237,185,100416,Sheri Sam,1611661326,Miami Sol,1,2,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-76,166,1,0,20000806,MIA,NYL,2000-01
+Shot Chart Detail,1020000237,194,100416,Sheri Sam,1611661326,Miami Sol,1,2,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-128,68,1,1,20000806,MIA,NYL,2000-01
+Shot Chart Detail,1020000237,196,100416,Sheri Sam,1611661326,Miami Sol,1,1,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-3,179,1,0,20000806,MIA,NYL,2000-01
+Shot Chart Detail,1020000237,247,100416,Sheri Sam,1611661326,Miami Sol,2,12,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,14,1,0,20000806,MIA,NYL,2000-01
+Shot Chart Detail,1020000237,272,100416,Sheri Sam,1611661326,Miami Sol,2,8,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,20,-173,113,1,0,20000806,MIA,NYL,2000-01
+Shot Chart Detail,1020000237,278,100416,Sheri Sam,1611661326,Miami Sol,2,8,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000806,MIA,NYL,2000-01
+Shot Chart Detail,1020000237,347,100416,Sheri Sam,1611661326,Miami Sol,2,2,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-121,8,1,0,20000806,MIA,NYL,2000-01
+Shot Chart Detail,1020000237,362,100416,Sheri Sam,1611661326,Miami Sol,2,1,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-149,96,1,0,20000806,MIA,NYL,2000-01
+Shot Chart Detail,1020000237,373,100416,Sheri Sam,1611661326,Miami Sol,2,1,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000806,MIA,NYL,2000-01
+Shot Chart Detail,1020000250,6,100416,Sheri Sam,1611661326,Miami Sol,1,19,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-113,25,1,0,20000809,MIA,ORL,2000-01
+Shot Chart Detail,1020000250,26,100416,Sheri Sam,1611661326,Miami Sol,1,16,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000809,MIA,ORL,2000-01
+Shot Chart Detail,1020000250,30,100416,Sheri Sam,1611661326,Miami Sol,1,15,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-134,18,1,1,20000809,MIA,ORL,2000-01
+Shot Chart Detail,1020000250,48,100416,Sheri Sam,1611661326,Miami Sol,1,13,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-149,113,1,0,20000809,MIA,ORL,2000-01
+Shot Chart Detail,1020000250,65,100416,Sheri Sam,1611661326,Miami Sol,1,11,24,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,216,-12,1,1,20000809,MIA,ORL,2000-01
+Shot Chart Detail,1020000250,69,100416,Sheri Sam,1611661326,Miami Sol,1,10,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,-1,1,1,20000809,MIA,ORL,2000-01
+Shot Chart Detail,1020000250,89,100416,Sheri Sam,1611661326,Miami Sol,1,8,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,-8,1,0,20000809,MIA,ORL,2000-01
+Shot Chart Detail,1020000250,99,100416,Sheri Sam,1611661326,Miami Sol,1,7,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-149,102,1,0,20000809,MIA,ORL,2000-01
+Shot Chart Detail,1020000250,148,100416,Sheri Sam,1611661326,Miami Sol,1,0,52,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,-8,1,0,20000809,MIA,ORL,2000-01
+Shot Chart Detail,1020000250,216,100416,Sheri Sam,1611661326,Miami Sol,2,11,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,179,-12,1,1,20000809,MIA,ORL,2000-01
+Shot Chart Detail,1020000250,220,100416,Sheri Sam,1611661326,Miami Sol,2,10,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,156,141,1,0,20000809,MIA,ORL,2000-01
+Shot Chart Detail,1020000250,225,100416,Sheri Sam,1611661326,Miami Sol,2,9,50,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-218,-8,1,0,20000809,MIA,ORL,2000-01
+Shot Chart Detail,1020000250,232,100416,Sheri Sam,1611661326,Miami Sol,2,8,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-166,68,1,0,20000809,MIA,ORL,2000-01
+Shot Chart Detail,1020000250,269,100416,Sheri Sam,1611661326,Miami Sol,2,5,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,186,106,1,0,20000809,MIA,ORL,2000-01
+Shot Chart Detail,1020000250,320,100416,Sheri Sam,1611661326,Miami Sol,3,4,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,1,222,1,1,20000809,MIA,ORL,2000-01
+Shot Chart Detail,1020000250,378,100416,Sheri Sam,1611661326,Miami Sol,4,4,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,1,216,1,1,20000809,MIA,ORL,2000-01
+Shot Chart Detail,1020000250,384,100416,Sheri Sam,1611661326,Miami Sol,4,3,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-158,156,1,0,20000809,MIA,ORL,2000-01

@@ -1,0 +1,203 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1021100005,28,201483,Amber Holt,1611661321,Tulsa Shock,1,6,29,Missed Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,89,7,1,0,20110604,SAN,TUL,2011-12
+Shot Chart Detail,1021100005,40,201483,Amber Holt,1611661321,Tulsa Shock,1,4,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-157,86,1,0,20110604,SAN,TUL,2011-12
+Shot Chart Detail,1021100005,75,201483,Amber Holt,1611661321,Tulsa Shock,1,2,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-150,74,1,0,20110604,SAN,TUL,2011-12
+Shot Chart Detail,1021100005,119,201483,Amber Holt,1611661321,Tulsa Shock,2,8,3,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-14,-1,1,1,20110604,SAN,TUL,2011-12
+Shot Chart Detail,1021100005,168,201483,Amber Holt,1611661321,Tulsa Shock,2,3,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,6,131,1,0,20110604,SAN,TUL,2011-12
+Shot Chart Detail,1021100005,227,201483,Amber Holt,1611661321,Tulsa Shock,3,8,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,157,146,1,0,20110604,SAN,TUL,2011-12
+Shot Chart Detail,1021100005,237,201483,Amber Holt,1611661321,Tulsa Shock,3,7,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,11,1,0,20110604,SAN,TUL,2011-12
+Shot Chart Detail,1021100005,262,201483,Amber Holt,1611661321,Tulsa Shock,3,5,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,4,1,0,20110604,SAN,TUL,2011-12
+Shot Chart Detail,1021100005,263,201483,Amber Holt,1611661321,Tulsa Shock,3,5,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,11,1,1,20110604,SAN,TUL,2011-12
+Shot Chart Detail,1021100005,328,201483,Amber Holt,1611661321,Tulsa Shock,3,1,7,Missed Shot,Turnaround Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-92,48,1,0,20110604,SAN,TUL,2011-12
+Shot Chart Detail,1021100008,2,201483,Amber Holt,1611661321,Tulsa Shock,1,9,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,157,146,1,0,20110607,MIN,TUL,2011-12
+Shot Chart Detail,1021100008,11,201483,Amber Holt,1611661321,Tulsa Shock,1,8,30,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,17,1,0,20110607,MIN,TUL,2011-12
+Shot Chart Detail,1021100008,27,201483,Amber Holt,1611661321,Tulsa Shock,1,7,16,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,15,1,0,20110607,MIN,TUL,2011-12
+Shot Chart Detail,1021100008,129,201483,Amber Holt,1611661321,Tulsa Shock,2,8,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-105,34,1,1,20110607,MIN,TUL,2011-12
+Shot Chart Detail,1021100008,136,201483,Amber Holt,1611661321,Tulsa Shock,2,7,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-125,102,1,0,20110607,MIN,TUL,2011-12
+Shot Chart Detail,1021100008,206,201483,Amber Holt,1611661321,Tulsa Shock,2,1,10,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,20,209,17,1,0,20110607,MIN,TUL,2011-12
+Shot Chart Detail,1021100008,223,201483,Amber Holt,1611661321,Tulsa Shock,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,35,151,326,1,0,20110607,MIN,TUL,2011-12
+Shot Chart Detail,1021100008,247,201483,Amber Holt,1611661321,Tulsa Shock,3,7,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,149,175,1,0,20110607,MIN,TUL,2011-12
+Shot Chart Detail,1021100008,272,201483,Amber Holt,1611661321,Tulsa Shock,3,4,59,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-2,91,1,1,20110607,MIN,TUL,2011-12
+Shot Chart Detail,1021100008,286,201483,Amber Holt,1611661321,Tulsa Shock,3,3,50,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,0,20110607,MIN,TUL,2011-12
+Shot Chart Detail,1021100060,84,201483,Amber Holt,1611661321,Tulsa Shock,1,2,4,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-37,14,1,0,20110708,TUL,PHO,2011-12
+Shot Chart Detail,1021100060,86,201483,Amber Holt,1611661321,Tulsa Shock,1,2,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,45,15,1,0,20110708,TUL,PHO,2011-12
+Shot Chart Detail,1021100060,151,201483,Amber Holt,1611661321,Tulsa Shock,2,7,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,7,1,0,20110708,TUL,PHO,2011-12
+Shot Chart Detail,1021100060,181,201483,Amber Holt,1611661321,Tulsa Shock,2,5,8,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-11,94,1,1,20110708,TUL,PHO,2011-12
+Shot Chart Detail,1021100060,188,201483,Amber Holt,1611661321,Tulsa Shock,2,4,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-23,217,1,0,20110708,TUL,PHO,2011-12
+Shot Chart Detail,1021100060,191,201483,Amber Holt,1611661321,Tulsa Shock,2,3,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,22,1,0,20110708,TUL,PHO,2011-12
+Shot Chart Detail,1021100060,239,201483,Amber Holt,1611661321,Tulsa Shock,3,9,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,152,149,1,0,20110708,TUL,PHO,2011-12
+Shot Chart Detail,1021100060,267,201483,Amber Holt,1611661321,Tulsa Shock,3,7,35,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,0,1,0,20110708,TUL,PHO,2011-12
+Shot Chart Detail,1021100060,351,201483,Amber Holt,1611661321,Tulsa Shock,3,3,22,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,20,-207,-6,1,0,20110708,TUL,PHO,2011-12
+Shot Chart Detail,1021100066,77,201483,Amber Holt,1611661321,Tulsa Shock,1,1,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,97,192,1,0,20110710,PHO,TUL,2011-12
+Shot Chart Detail,1021100066,92,201483,Amber Holt,1611661321,Tulsa Shock,2,9,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,12,1,0,20110710,PHO,TUL,2011-12
+Shot Chart Detail,1021100066,147,201483,Amber Holt,1611661321,Tulsa Shock,2,4,10,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,15,31,1,0,20110710,PHO,TUL,2011-12
+Shot Chart Detail,1021100066,363,201483,Amber Holt,1611661321,Tulsa Shock,4,6,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-122,183,1,0,20110710,PHO,TUL,2011-12
+Shot Chart Detail,1021100070,95,201483,Amber Holt,1611661321,Tulsa Shock,1,1,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-187,14,1,0,20110713,CHI,TUL,2011-12
+Shot Chart Detail,1021100070,124,201483,Amber Holt,1611661321,Tulsa Shock,2,8,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,28,222,1,0,20110713,CHI,TUL,2011-12
+Shot Chart Detail,1021100070,155,201483,Amber Holt,1611661321,Tulsa Shock,2,4,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-29,0,1,0,20110713,CHI,TUL,2011-12
+Shot Chart Detail,1021100070,156,201483,Amber Holt,1611661321,Tulsa Shock,2,4,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,6,1,1,20110713,CHI,TUL,2011-12
+Shot Chart Detail,1021100070,162,201483,Amber Holt,1611661321,Tulsa Shock,2,3,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-3,1,1,20110713,CHI,TUL,2011-12
+Shot Chart Detail,1021100070,214,201483,Amber Holt,1611661321,Tulsa Shock,3,8,12,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,220,6,1,0,20110713,CHI,TUL,2011-12
+Shot Chart Detail,1021100076,27,201483,Amber Holt,1611661321,Tulsa Shock,1,6,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,184,113,1,0,20110715,TUL,LAS,2011-12
+Shot Chart Detail,1021100076,93,201483,Amber Holt,1611661321,Tulsa Shock,1,0,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,15,1,1,20110715,TUL,LAS,2011-12
+Shot Chart Detail,1021100076,138,201483,Amber Holt,1611661321,Tulsa Shock,2,6,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,12,1,0,20110715,TUL,LAS,2011-12
+Shot Chart Detail,1021100076,139,201483,Amber Holt,1611661321,Tulsa Shock,2,5,59,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,19,1,1,20110715,TUL,LAS,2011-12
+Shot Chart Detail,1021100076,178,201483,Amber Holt,1611661321,Tulsa Shock,2,0,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,12,1,1,20110715,TUL,LAS,2011-12
+Shot Chart Detail,1021100076,214,201483,Amber Holt,1611661321,Tulsa Shock,3,7,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,86,93,1,0,20110715,TUL,LAS,2011-12
+Shot Chart Detail,1021100076,232,201483,Amber Holt,1611661321,Tulsa Shock,3,5,15,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-220,-5,1,0,20110715,TUL,LAS,2011-12
+Shot Chart Detail,1021100076,302,201483,Amber Holt,1611661321,Tulsa Shock,4,5,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,204,69,1,0,20110715,TUL,LAS,2011-12
+Shot Chart Detail,1021100076,339,201483,Amber Holt,1611661321,Tulsa Shock,4,2,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,14,1,0,20110715,TUL,LAS,2011-12
+Shot Chart Detail,1021100080,51,201483,Amber Holt,1611661321,Tulsa Shock,1,4,19,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-220,-6,1,0,20110717,NYL,TUL,2011-12
+Shot Chart Detail,1021100080,59,201483,Amber Holt,1611661321,Tulsa Shock,1,3,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-180,-13,1,0,20110717,NYL,TUL,2011-12
+Shot Chart Detail,1021100080,151,201483,Amber Holt,1611661321,Tulsa Shock,2,5,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),24+ ft.,22,220,34,1,0,20110717,NYL,TUL,2011-12
+Shot Chart Detail,1021100080,303,201483,Amber Holt,1611661321,Tulsa Shock,3,2,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,28,1,0,20110717,NYL,TUL,2011-12
+Shot Chart Detail,1021100080,436,201483,Amber Holt,1611661321,Tulsa Shock,4,1,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-212,55,1,0,20110717,NYL,TUL,2011-12
+Shot Chart Detail,1021100094,112,201483,Amber Holt,1611661321,Tulsa Shock,2,8,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,0,1,0,20110726,TUL,ATL,2011-12
+Shot Chart Detail,1021100094,234,201483,Amber Holt,1611661321,Tulsa Shock,3,9,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,21,63,1,0,20110726,TUL,ATL,2011-12
+Shot Chart Detail,1021100094,350,201483,Amber Holt,1611661321,Tulsa Shock,4,8,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,7,30,1,0,20110726,TUL,ATL,2011-12
+Shot Chart Detail,1021100094,364,201483,Amber Holt,1611661321,Tulsa Shock,4,7,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,15,1,1,20110726,TUL,ATL,2011-12
+Shot Chart Detail,1021100094,382,201483,Amber Holt,1611661321,Tulsa Shock,4,6,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,124,15,1,1,20110726,TUL,ATL,2011-12
+Shot Chart Detail,1021100094,430,201483,Amber Holt,1611661321,Tulsa Shock,4,2,33,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,81,42,1,1,20110726,TUL,ATL,2011-12
+Shot Chart Detail,1021100100,7,201483,Amber Holt,1611661321,Tulsa Shock,1,8,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,15,1,1,20110728,TUL,CHI,2011-12
+Shot Chart Detail,1021100100,13,201483,Amber Holt,1611661321,Tulsa Shock,1,7,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-84,97,1,0,20110728,TUL,CHI,2011-12
+Shot Chart Detail,1021100100,17,201483,Amber Holt,1611661321,Tulsa Shock,1,7,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,19,1,1,20110728,TUL,CHI,2011-12
+Shot Chart Detail,1021100100,149,201483,Amber Holt,1611661321,Tulsa Shock,2,6,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,106,4,1,0,20110728,TUL,CHI,2011-12
+Shot Chart Detail,1021100100,168,201483,Amber Holt,1611661321,Tulsa Shock,2,4,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-191,-2,1,0,20110728,TUL,CHI,2011-12
+Shot Chart Detail,1021100100,182,201483,Amber Holt,1611661321,Tulsa Shock,2,3,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-146,47,1,1,20110728,TUL,CHI,2011-12
+Shot Chart Detail,1021100100,213,201483,Amber Holt,1611661321,Tulsa Shock,2,0,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,22,1,0,20110728,TUL,CHI,2011-12
+Shot Chart Detail,1021100100,228,201483,Amber Holt,1611661321,Tulsa Shock,3,9,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,196,86,1,0,20110728,TUL,CHI,2011-12
+Shot Chart Detail,1021100100,237,201483,Amber Holt,1611661321,Tulsa Shock,3,9,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,22,1,1,20110728,TUL,CHI,2011-12
+Shot Chart Detail,1021100100,246,201483,Amber Holt,1611661321,Tulsa Shock,3,8,1,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-15,33,1,0,20110728,TUL,CHI,2011-12
+Shot Chart Detail,1021100100,381,201483,Amber Holt,1611661321,Tulsa Shock,4,4,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,132,50,1,0,20110728,TUL,CHI,2011-12
+Shot Chart Detail,1021100100,415,201483,Amber Holt,1611661321,Tulsa Shock,4,1,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,187,-16,1,0,20110728,TUL,CHI,2011-12
+Shot Chart Detail,1021100105,3,201483,Amber Holt,1611661321,Tulsa Shock,1,9,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-114,56,1,0,20110730,TUL,SEA,2011-12
+Shot Chart Detail,1021100105,68,201483,Amber Holt,1611661321,Tulsa Shock,1,2,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,3,1,1,20110730,TUL,SEA,2011-12
+Shot Chart Detail,1021100105,209,201483,Amber Holt,1611661321,Tulsa Shock,3,8,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,152,162,1,0,20110730,TUL,SEA,2011-12
+Shot Chart Detail,1021100105,223,201483,Amber Holt,1611661321,Tulsa Shock,3,6,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,138,26,1,0,20110730,TUL,SEA,2011-12
+Shot Chart Detail,1021100105,319,201483,Amber Holt,1611661321,Tulsa Shock,4,9,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,53,175,1,0,20110730,TUL,SEA,2011-12
+Shot Chart Detail,1021100105,338,201483,Amber Holt,1611661321,Tulsa Shock,4,7,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-133,132,1,0,20110730,TUL,SEA,2011-12
+Shot Chart Detail,1021100115,9,201483,Amber Holt,1611661321,Tulsa Shock,1,8,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,64,113,1,0,20110805,TUL,IND,2011-12
+Shot Chart Detail,1021100115,15,201483,Amber Holt,1611661321,Tulsa Shock,1,8,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-146,168,1,0,20110805,TUL,IND,2011-12
+Shot Chart Detail,1021100115,32,201483,Amber Holt,1611661321,Tulsa Shock,1,5,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,168,4,1,0,20110805,TUL,IND,2011-12
+Shot Chart Detail,1021100115,41,201483,Amber Holt,1611661321,Tulsa Shock,1,4,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-117,11,1,0,20110805,TUL,IND,2011-12
+Shot Chart Detail,1021100115,44,201483,Amber Holt,1611661321,Tulsa Shock,1,3,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,17,1,0,20110805,TUL,IND,2011-12
+Shot Chart Detail,1021100115,162,201483,Amber Holt,1611661321,Tulsa Shock,2,1,45,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-217,22,1,1,20110805,TUL,IND,2011-12
+Shot Chart Detail,1021100118,119,201483,Amber Holt,1611661321,Tulsa Shock,2,5,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,42,1,0,20110806,SAN,TUL,2011-12
+Shot Chart Detail,1021100128,138,201483,Amber Holt,1611661321,Tulsa Shock,2,6,20,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,0,1,0,20110809,LAS,TUL,2011-12
+Shot Chart Detail,1021100128,295,201483,Amber Holt,1611661321,Tulsa Shock,3,3,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,162,60,1,0,20110809,LAS,TUL,2011-12
+Shot Chart Detail,1021100128,376,201483,Amber Holt,1611661321,Tulsa Shock,4,6,6,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-220,6,1,0,20110809,LAS,TUL,2011-12
+Shot Chart Detail,1021100131,8,201483,Amber Holt,1611661321,Tulsa Shock,1,8,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,80,140,1,0,20110811,SEA,TUL,2011-12
+Shot Chart Detail,1021100131,18,201483,Amber Holt,1611661321,Tulsa Shock,1,7,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),24+ ft.,22,226,34,1,0,20110811,SEA,TUL,2011-12
+Shot Chart Detail,1021100131,109,201483,Amber Holt,1611661321,Tulsa Shock,2,9,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,23,58,1,0,20110811,SEA,TUL,2011-12
+Shot Chart Detail,1021100131,339,201483,Amber Holt,1611661321,Tulsa Shock,4,9,25,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,0,1,0,20110811,SEA,TUL,2011-12
+Shot Chart Detail,1021100131,354,201483,Amber Holt,1611661321,Tulsa Shock,4,8,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,185,119,1,0,20110811,SEA,TUL,2011-12
+Shot Chart Detail,1021100139,35,201483,Amber Holt,1611661321,Tulsa Shock,1,5,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,183,24,1,0,20110814,MIN,TUL,2011-12
+Shot Chart Detail,1021100139,134,201483,Amber Holt,1611661321,Tulsa Shock,2,4,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,7,41,1,0,20110814,MIN,TUL,2011-12
+Shot Chart Detail,1021100139,137,201483,Amber Holt,1611661321,Tulsa Shock,2,4,4,Made Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,30,1,1,20110814,MIN,TUL,2011-12
+Shot Chart Detail,1021100139,166,201483,Amber Holt,1611661321,Tulsa Shock,2,0,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-198,15,1,0,20110814,MIN,TUL,2011-12
+Shot Chart Detail,1021100139,206,201483,Amber Holt,1611661321,Tulsa Shock,3,7,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,214,36,1,1,20110814,MIN,TUL,2011-12
+Shot Chart Detail,1021100139,254,201483,Amber Holt,1611661321,Tulsa Shock,3,4,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,73,208,1,0,20110814,MIN,TUL,2011-12
+Shot Chart Detail,1021100139,433,201483,Amber Holt,1611661321,Tulsa Shock,4,0,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,6,1,0,20110814,MIN,TUL,2011-12
+Shot Chart Detail,1021100155,83,201483,Amber Holt,1611661321,Tulsa Shock,1,1,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,14,1,0,20110821,TUL,LAS,2011-12
+Shot Chart Detail,1021100155,151,201483,Amber Holt,1611661321,Tulsa Shock,2,4,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,138,162,1,0,20110821,TUL,LAS,2011-12
+Shot Chart Detail,1021100155,291,201483,Amber Holt,1611661321,Tulsa Shock,3,2,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,99,80,1,0,20110821,TUL,LAS,2011-12
+Shot Chart Detail,1021100155,346,201483,Amber Holt,1611661321,Tulsa Shock,4,5,35,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-217,6,1,1,20110821,TUL,LAS,2011-12
+Shot Chart Detail,1021100155,396,201483,Amber Holt,1611661321,Tulsa Shock,4,0,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,17,1,1,20110821,TUL,LAS,2011-12
+Shot Chart Detail,1021100155,403,201483,Amber Holt,1611661321,Tulsa Shock,4,0,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-100,112,1,0,20110821,TUL,LAS,2011-12
+Shot Chart Detail,1021100158,13,201483,Amber Holt,1611661321,Tulsa Shock,1,8,9,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-65,37,1,1,20110823,TUL,MIN,2011-12
+Shot Chart Detail,1021100158,38,201483,Amber Holt,1611661321,Tulsa Shock,1,4,4,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,58,44,1,1,20110823,TUL,MIN,2011-12
+Shot Chart Detail,1021100158,72,201483,Amber Holt,1611661321,Tulsa Shock,1,0,33,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-212,-13,1,0,20110823,TUL,MIN,2011-12
+Shot Chart Detail,1021100158,81,201483,Amber Holt,1611661321,Tulsa Shock,1,0,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,15,1,0,20110823,TUL,MIN,2011-12
+Shot Chart Detail,1021100158,94,201483,Amber Holt,1611661321,Tulsa Shock,2,9,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,12,1,1,20110823,TUL,MIN,2011-12
+Shot Chart Detail,1021100158,130,201483,Amber Holt,1611661321,Tulsa Shock,2,4,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-171,91,1,1,20110823,TUL,MIN,2011-12
+Shot Chart Detail,1021100158,169,201483,Amber Holt,1611661321,Tulsa Shock,2,0,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-190,107,1,0,20110823,TUL,MIN,2011-12
+Shot Chart Detail,1021100158,186,201483,Amber Holt,1611661321,Tulsa Shock,3,7,17,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,217,0,1,1,20110823,TUL,MIN,2011-12
+Shot Chart Detail,1021100158,341,201483,Amber Holt,1611661321,Tulsa Shock,4,0,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,6,220,1,0,20110823,TUL,MIN,2011-12
+Shot Chart Detail,1021100158,370,201483,Amber Holt,1611661321,Tulsa Shock,4,0,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-185,124,1,1,20110823,TUL,MIN,2011-12
+Shot Chart Detail,1021100161,163,201483,Amber Holt,1611661321,Tulsa Shock,2,2,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-138,179,1,0,20110825,SEA,TUL,2011-12
+Shot Chart Detail,1021100161,169,201483,Amber Holt,1611661321,Tulsa Shock,2,1,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,31,1,0,20110825,SEA,TUL,2011-12
+Shot Chart Detail,1021100161,209,201483,Amber Holt,1611661321,Tulsa Shock,3,7,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-73,224,1,0,20110825,SEA,TUL,2011-12
+Shot Chart Detail,1021100161,218,201483,Amber Holt,1611661321,Tulsa Shock,3,6,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,116,34,1,1,20110825,SEA,TUL,2011-12
+Shot Chart Detail,1021100161,225,201483,Amber Holt,1611661321,Tulsa Shock,3,5,39,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,217,20,1,1,20110825,SEA,TUL,2011-12
+Shot Chart Detail,1021100161,238,201483,Amber Holt,1611661321,Tulsa Shock,3,4,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,51,156,1,0,20110825,SEA,TUL,2011-12
+Shot Chart Detail,1021100161,255,201483,Amber Holt,1611661321,Tulsa Shock,3,3,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,119,175,1,1,20110825,SEA,TUL,2011-12
+Shot Chart Detail,1021100161,381,201483,Amber Holt,1611661321,Tulsa Shock,4,2,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,65,176,1,1,20110825,SEA,TUL,2011-12
+Shot Chart Detail,1021100161,391,201483,Amber Holt,1611661321,Tulsa Shock,4,1,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-171,179,1,0,20110825,SEA,TUL,2011-12
+Shot Chart Detail,1021100161,414,201483,Amber Holt,1611661321,Tulsa Shock,4,0,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-160,190,1,0,20110825,SEA,TUL,2011-12
+Shot Chart Detail,1021100165,40,201483,Amber Holt,1611661321,Tulsa Shock,1,5,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,184,146,1,0,20110826,LAS,TUL,2011-12
+Shot Chart Detail,1021100165,76,201483,Amber Holt,1611661321,Tulsa Shock,1,1,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,0,1,1,20110826,LAS,TUL,2011-12
+Shot Chart Detail,1021100165,148,201483,Amber Holt,1611661321,Tulsa Shock,2,3,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,226,119,1,0,20110826,LAS,TUL,2011-12
+Shot Chart Detail,1021100165,180,201483,Amber Holt,1611661321,Tulsa Shock,3,9,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,176,149,1,1,20110826,LAS,TUL,2011-12
+Shot Chart Detail,1021100165,191,201483,Amber Holt,1611661321,Tulsa Shock,3,7,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-150,78,1,0,20110826,LAS,TUL,2011-12
+Shot Chart Detail,1021100165,314,201483,Amber Holt,1611661321,Tulsa Shock,4,5,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,23,200,124,1,0,20110826,LAS,TUL,2011-12
+Shot Chart Detail,1021100168,8,201483,Amber Holt,1611661321,Tulsa Shock,1,9,6,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,2,45,1,1,20110828,TUL,CON,2011-12
+Shot Chart Detail,1021100168,10,201483,Amber Holt,1611661321,Tulsa Shock,1,8,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,11,1,1,20110828,TUL,CON,2011-12
+Shot Chart Detail,1021100168,131,201483,Amber Holt,1611661321,Tulsa Shock,2,4,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,1,225,1,0,20110828,TUL,CON,2011-12
+Shot Chart Detail,1021100168,144,201483,Amber Holt,1611661321,Tulsa Shock,2,3,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,108,183,1,0,20110828,TUL,CON,2011-12
+Shot Chart Detail,1021100168,226,201483,Amber Holt,1611661321,Tulsa Shock,3,5,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,83,19,1,1,20110828,TUL,CON,2011-12
+Shot Chart Detail,1021100168,299,201483,Amber Holt,1611661321,Tulsa Shock,4,8,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,6,1,1,20110828,TUL,CON,2011-12
+Shot Chart Detail,1021100168,371,201483,Amber Holt,1611661321,Tulsa Shock,4,0,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,22,1,1,20110828,TUL,CON,2011-12
+Shot Chart Detail,1021100176,6,201483,Amber Holt,1611661321,Tulsa Shock,1,8,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,15,1,0,20110830,TUL,PHO,2011-12
+Shot Chart Detail,1021100176,15,201483,Amber Holt,1611661321,Tulsa Shock,1,8,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-26,67,1,0,20110830,TUL,PHO,2011-12
+Shot Chart Detail,1021100176,21,201483,Amber Holt,1611661321,Tulsa Shock,1,7,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,9,1,1,20110830,TUL,PHO,2011-12
+Shot Chart Detail,1021100176,25,201483,Amber Holt,1611661321,Tulsa Shock,1,6,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,9,1,1,20110830,TUL,PHO,2011-12
+Shot Chart Detail,1021100176,51,201483,Amber Holt,1611661321,Tulsa Shock,1,5,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-160,135,1,0,20110830,TUL,PHO,2011-12
+Shot Chart Detail,1021100176,110,201483,Amber Holt,1611661321,Tulsa Shock,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Back Court(BC),Back Court Shot,39,26,399,1,0,20110830,TUL,PHO,2011-12
+Shot Chart Detail,1021100176,119,201483,Amber Holt,1611661321,Tulsa Shock,2,8,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,147,-3,1,0,20110830,TUL,PHO,2011-12
+Shot Chart Detail,1021100176,168,201483,Amber Holt,1611661321,Tulsa Shock,2,3,43,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,212,-3,1,1,20110830,TUL,PHO,2011-12
+Shot Chart Detail,1021100176,229,201483,Amber Holt,1611661321,Tulsa Shock,3,8,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,2,47,1,0,20110830,TUL,PHO,2011-12
+Shot Chart Detail,1021100176,352,201483,Amber Holt,1611661321,Tulsa Shock,4,7,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,17,1,0,20110830,TUL,PHO,2011-12
+Shot Chart Detail,1021100176,368,201483,Amber Holt,1611661321,Tulsa Shock,4,6,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,144,164,1,0,20110830,TUL,PHO,2011-12
+Shot Chart Detail,1021100183,13,201483,Amber Holt,1611661321,Tulsa Shock,1,8,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,181,107,1,1,20110902,TUL,SEA,2011-12
+Shot Chart Detail,1021100183,21,201483,Amber Holt,1611661321,Tulsa Shock,1,6,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,43,167,1,0,20110902,TUL,SEA,2011-12
+Shot Chart Detail,1021100183,74,201483,Amber Holt,1611661321,Tulsa Shock,1,1,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,1,209,1,1,20110902,TUL,SEA,2011-12
+Shot Chart Detail,1021100183,116,201483,Amber Holt,1611661321,Tulsa Shock,2,5,57,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,218,1,1,0,20110902,TUL,SEA,2011-12
+Shot Chart Detail,1021100183,155,201483,Amber Holt,1611661321,Tulsa Shock,2,0,42,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-46,20,1,1,20110902,TUL,SEA,2011-12
+Shot Chart Detail,1021100183,197,201483,Amber Holt,1611661321,Tulsa Shock,3,5,44,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,56,34,1,1,20110902,TUL,SEA,2011-12
+Shot Chart Detail,1021100183,246,201483,Amber Holt,1611661321,Tulsa Shock,3,1,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,106,-3,1,0,20110902,TUL,SEA,2011-12
+Shot Chart Detail,1021100183,256,201483,Amber Holt,1611661321,Tulsa Shock,3,0,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-210,-8,1,1,20110902,TUL,SEA,2011-12
+Shot Chart Detail,1021100183,297,201483,Amber Holt,1611661321,Tulsa Shock,4,4,48,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,220,22,1,0,20110902,TUL,SEA,2011-12
+Shot Chart Detail,1021100183,303,201483,Amber Holt,1611661321,Tulsa Shock,4,4,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,53,25,1,0,20110902,TUL,SEA,2011-12
+Shot Chart Detail,1021100183,335,201483,Amber Holt,1611661321,Tulsa Shock,4,1,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,65,172,1,0,20110902,TUL,SEA,2011-12
+Shot Chart Detail,1021100183,342,201483,Amber Holt,1611661321,Tulsa Shock,4,0,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,14,1,1,20110902,TUL,SEA,2011-12
+Shot Chart Detail,1021100186,28,201483,Amber Holt,1611661321,Tulsa Shock,1,6,56,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-215,20,1,1,20110904,ATL,TUL,2011-12
+Shot Chart Detail,1021100186,40,201483,Amber Holt,1611661321,Tulsa Shock,1,5,46,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,-5,1,1,20110904,ATL,TUL,2011-12
+Shot Chart Detail,1021100186,83,201483,Amber Holt,1611661321,Tulsa Shock,1,2,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,-57,231,1,0,20110904,ATL,TUL,2011-12
+Shot Chart Detail,1021100186,94,201483,Amber Holt,1611661321,Tulsa Shock,1,0,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,9,1,0,20110904,ATL,TUL,2011-12
+Shot Chart Detail,1021100186,120,201483,Amber Holt,1611661321,Tulsa Shock,2,8,30,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,0,131,1,1,20110904,ATL,TUL,2011-12
+Shot Chart Detail,1021100186,199,201483,Amber Holt,1611661321,Tulsa Shock,2,0,40,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,0,20110904,ATL,TUL,2011-12
+Shot Chart Detail,1021100186,232,201483,Amber Holt,1611661321,Tulsa Shock,3,7,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-5,1,0,20110904,ATL,TUL,2011-12
+Shot Chart Detail,1021100186,240,201483,Amber Holt,1611661321,Tulsa Shock,3,6,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,-6,1,1,20110904,ATL,TUL,2011-12
+Shot Chart Detail,1021100186,251,201483,Amber Holt,1611661321,Tulsa Shock,3,5,57,Missed Shot,Driving Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,33,1,0,20110904,ATL,TUL,2011-12
+Shot Chart Detail,1021100186,306,201483,Amber Holt,1611661321,Tulsa Shock,3,0,51,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,0,145,1,0,20110904,ATL,TUL,2011-12
+Shot Chart Detail,1021100186,361,201483,Amber Holt,1611661321,Tulsa Shock,4,6,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,20,-207,30,1,0,20110904,ATL,TUL,2011-12
+Shot Chart Detail,1021100186,393,201483,Amber Holt,1611661321,Tulsa Shock,4,3,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,15,1,0,20110904,ATL,TUL,2011-12
+Shot Chart Detail,1021100194,29,201483,Amber Holt,1611661321,Tulsa Shock,1,6,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,42,19,1,0,20110908,PHO,TUL,2011-12
+Shot Chart Detail,1021100194,115,201483,Amber Holt,1611661321,Tulsa Shock,2,8,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,12,1,1,20110908,PHO,TUL,2011-12
+Shot Chart Detail,1021100194,152,201483,Amber Holt,1611661321,Tulsa Shock,2,5,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,14,1,0,20110908,PHO,TUL,2011-12
+Shot Chart Detail,1021100194,238,201483,Amber Holt,1611661321,Tulsa Shock,3,7,21,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-215,-13,1,0,20110908,PHO,TUL,2011-12
+Shot Chart Detail,1021100197,42,201483,Amber Holt,1611661321,Tulsa Shock,1,5,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),24+ ft.,22,220,61,1,0,20110909,LAS,TUL,2011-12
+Shot Chart Detail,1021100197,67,201483,Amber Holt,1611661321,Tulsa Shock,1,3,1,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,14,1,0,20110909,LAS,TUL,2011-12
+Shot Chart Detail,1021100197,113,201483,Amber Holt,1611661321,Tulsa Shock,2,8,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-171,167,1,1,20110909,LAS,TUL,2011-12
+Shot Chart Detail,1021100197,115,201483,Amber Holt,1611661321,Tulsa Shock,2,8,2,Missed Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-13,50,1,0,20110909,LAS,TUL,2011-12
+Shot Chart Detail,1021100197,156,201483,Amber Holt,1611661321,Tulsa Shock,2,5,7,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,15,1,0,20110909,LAS,TUL,2011-12
+Shot Chart Detail,1021100197,250,201483,Amber Holt,1611661321,Tulsa Shock,3,5,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,124,192,1,0,20110909,LAS,TUL,2011-12
+Shot Chart Detail,1021100197,263,201483,Amber Holt,1611661321,Tulsa Shock,3,4,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,141,75,1,0,20110909,LAS,TUL,2011-12
+Shot Chart Detail,1021100197,321,201483,Amber Holt,1611661321,Tulsa Shock,4,8,10,Missed Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-32,30,1,0,20110909,LAS,TUL,2011-12
+Shot Chart Detail,1021100197,362,201483,Amber Holt,1611661321,Tulsa Shock,4,4,13,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-10,26,1,0,20110909,LAS,TUL,2011-12
+Shot Chart Detail,1021100197,370,201483,Amber Holt,1611661321,Tulsa Shock,4,3,42,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,22,1,1,20110909,LAS,TUL,2011-12
+Shot Chart Detail,1021100197,373,201483,Amber Holt,1611661321,Tulsa Shock,4,3,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,17,228,1,0,20110909,LAS,TUL,2011-12
+Shot Chart Detail,1021100203,11,201483,Amber Holt,1611661321,Tulsa Shock,1,8,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,-14,1,1,20110911,TUL,SAN,2011-12
+Shot Chart Detail,1021100203,13,201483,Amber Holt,1611661321,Tulsa Shock,1,8,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-7,220,1,0,20110911,TUL,SAN,2011-12
+Shot Chart Detail,1021100203,59,201483,Amber Holt,1611661321,Tulsa Shock,1,2,37,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,212,-8,1,0,20110911,TUL,SAN,2011-12
+Shot Chart Detail,1021100203,67,201483,Amber Holt,1611661321,Tulsa Shock,1,1,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,7,1,1,20110911,TUL,SAN,2011-12
+Shot Chart Detail,1021100203,71,201483,Amber Holt,1611661321,Tulsa Shock,1,0,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,97,67,1,1,20110911,TUL,SAN,2011-12
+Shot Chart Detail,1021100203,82,201483,Amber Holt,1611661321,Tulsa Shock,1,0,1,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,4,37,1,0,20110911,TUL,SAN,2011-12
+Shot Chart Detail,1021100203,84,201483,Amber Holt,1611661321,Tulsa Shock,1,0,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,10,33,1,0,20110911,TUL,SAN,2011-12
+Shot Chart Detail,1021100203,162,201483,Amber Holt,1611661321,Tulsa Shock,2,2,2,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,215,-5,1,1,20110911,TUL,SAN,2011-12
+Shot Chart Detail,1021100203,195,201483,Amber Holt,1611661321,Tulsa Shock,3,8,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,9,1,1,20110911,TUL,SAN,2011-12
+Shot Chart Detail,1021100203,222,201483,Amber Holt,1611661321,Tulsa Shock,3,5,20,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-218,0,1,0,20110911,TUL,SAN,2011-12
+Shot Chart Detail,1021100203,255,201483,Amber Holt,1611661321,Tulsa Shock,3,2,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,14,1,0,20110911,TUL,SAN,2011-12
+Shot Chart Detail,1021100203,279,201483,Amber Holt,1611661321,Tulsa Shock,3,0,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,26,1,0,20110911,TUL,SAN,2011-12
+Shot Chart Detail,1021100203,392,201483,Amber Holt,1611661321,Tulsa Shock,5,4,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,129,178,1,0,20110911,TUL,SAN,2011-12
+Shot Chart Detail,1021100203,406,201483,Amber Holt,1611661321,Tulsa Shock,5,3,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-4,104,1,0,20110911,TUL,SAN,2011-12

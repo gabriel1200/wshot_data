@@ -1,0 +1,25 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1042100211,9,204319,Jewell Loyd,1611661328,Seattle Storm,1,9,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,78,233,1,0,20210926,SEA,PHO,2021-22
+Shot Chart Detail,1042100211,41,204319,Jewell Loyd,1611661328,Seattle Storm,1,6,26,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,75,135,1,1,20210926,SEA,PHO,2021-22
+Shot Chart Detail,1042100211,68,204319,Jewell Loyd,1611661328,Seattle Storm,1,4,11,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,43,11,1,0,20210926,SEA,PHO,2021-22
+Shot Chart Detail,1042100211,95,204319,Jewell Loyd,1611661328,Seattle Storm,1,2,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,169,70,1,0,20210926,SEA,PHO,2021-22
+Shot Chart Detail,1042100211,205,204319,Jewell Loyd,1611661328,Seattle Storm,2,4,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-37,143,1,0,20210926,SEA,PHO,2021-22
+Shot Chart Detail,1042100211,210,204319,Jewell Loyd,1611661328,Seattle Storm,2,4,11,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,19,1,0,20210926,SEA,PHO,2021-22
+Shot Chart Detail,1042100211,226,204319,Jewell Loyd,1611661328,Seattle Storm,2,3,6,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,-23,1,0,20210926,SEA,PHO,2021-22
+Shot Chart Detail,1042100211,233,204319,Jewell Loyd,1611661328,Seattle Storm,2,2,12,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-55,125,1,1,20210926,SEA,PHO,2021-22
+Shot Chart Detail,1042100211,236,204319,Jewell Loyd,1611661328,Seattle Storm,2,1,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-46,87,1,1,20210926,SEA,PHO,2021-22
+Shot Chart Detail,1042100211,261,204319,Jewell Loyd,1611661328,Seattle Storm,2,0,3,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,66,227,1,0,20210926,SEA,PHO,2021-22
+Shot Chart Detail,1042100211,275,204319,Jewell Loyd,1611661328,Seattle Storm,3,9,29,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-24,165,1,0,20210926,SEA,PHO,2021-22
+Shot Chart Detail,1042100211,297,204319,Jewell Loyd,1611661328,Seattle Storm,3,7,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,112,11,1,0,20210926,SEA,PHO,2021-22
+Shot Chart Detail,1042100211,299,204319,Jewell Loyd,1611661328,Seattle Storm,3,7,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,184,150,1,0,20210926,SEA,PHO,2021-22
+Shot Chart Detail,1042100211,327,204319,Jewell Loyd,1611661328,Seattle Storm,3,5,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,0,1,1,20210926,SEA,PHO,2021-22
+Shot Chart Detail,1042100211,486,204319,Jewell Loyd,1611661328,Seattle Storm,4,3,51,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,57,226,1,0,20210926,SEA,PHO,2021-22
+Shot Chart Detail,1042100211,493,204319,Jewell Loyd,1611661328,Seattle Storm,4,3,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-72,135,1,0,20210926,SEA,PHO,2021-22
+Shot Chart Detail,1042100211,513,204319,Jewell Loyd,1611661328,Seattle Storm,4,1,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,78,147,1,0,20210926,SEA,PHO,2021-22
+Shot Chart Detail,1042100211,527,204319,Jewell Loyd,1611661328,Seattle Storm,4,0,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-39,16,1,0,20210926,SEA,PHO,2021-22
+Shot Chart Detail,1042100211,555,204319,Jewell Loyd,1611661328,Seattle Storm,5,2,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,23,26,1,0,20210926,SEA,PHO,2021-22
+Shot Chart Detail,1042100211,558,204319,Jewell Loyd,1611661328,Seattle Storm,5,2,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,2,1,1,20210926,SEA,PHO,2021-22
+Shot Chart Detail,1042100211,562,204319,Jewell Loyd,1611661328,Seattle Storm,5,1,49,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-85,228,1,0,20210926,SEA,PHO,2021-22
+Shot Chart Detail,1042100211,572,204319,Jewell Loyd,1611661328,Seattle Storm,5,0,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,25,1,0,20210926,SEA,PHO,2021-22
+Shot Chart Detail,1042100211,585,204319,Jewell Loyd,1611661328,Seattle Storm,5,0,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,113,211,1,0,20210926,SEA,PHO,2021-22
+Shot Chart Detail,1042100211,604,204319,Jewell Loyd,1611661328,Seattle Storm,5,0,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,15,1,0,20210926,SEA,PHO,2021-22

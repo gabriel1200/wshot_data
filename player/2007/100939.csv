@@ -1,0 +1,80 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020700006,94,100939,Cathy Joens,1611661329,Chicago Sky,1,0,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,140,171,1,1,20070520,NYL,CHI,2007-08
+Shot Chart Detail,1020700006,185,100939,Cathy Joens,1611661329,Chicago Sky,2,0,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,138,166,1,1,20070520,NYL,CHI,2007-08
+Shot Chart Detail,1020700112,76,100939,Cathy Joens,1611661329,Chicago Sky,1,1,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-113,114,1,0,20070707,CHI,WAS,2007-08
+Shot Chart Detail,1020700112,120,100939,Cathy Joens,1611661329,Chicago Sky,2,7,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,18,1,0,20070707,CHI,WAS,2007-08
+Shot Chart Detail,1020700112,312,100939,Cathy Joens,1611661329,Chicago Sky,4,9,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070707,CHI,WAS,2007-08
+Shot Chart Detail,1020700112,323,100939,Cathy Joens,1611661329,Chicago Sky,4,8,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,-26,232,1,0,20070707,CHI,WAS,2007-08
+Shot Chart Detail,1020700112,341,100939,Cathy Joens,1611661329,Chicago Sky,4,6,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070707,CHI,WAS,2007-08
+Shot Chart Detail,1020700112,350,100939,Cathy Joens,1611661329,Chicago Sky,4,6,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,194,122,1,0,20070707,CHI,WAS,2007-08
+Shot Chart Detail,1020700116,44,100939,Cathy Joens,1611661329,Chicago Sky,1,5,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,167,143,1,1,20070708,IND,CHI,2007-08
+Shot Chart Detail,1020700116,54,100939,Cathy Joens,1611661329,Chicago Sky,1,4,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,153,176,1,1,20070708,IND,CHI,2007-08
+Shot Chart Detail,1020700116,104,100939,Cathy Joens,1611661329,Chicago Sky,1,0,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,108,189,1,1,20070708,IND,CHI,2007-08
+Shot Chart Detail,1020700116,264,100939,Cathy Joens,1611661329,Chicago Sky,3,2,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-179,146,1,0,20070708,IND,CHI,2007-08
+Shot Chart Detail,1020700116,284,100939,Cathy Joens,1611661329,Chicago Sky,3,1,15,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-215,0,1,0,20070708,IND,CHI,2007-08
+Shot Chart Detail,1020700116,337,100939,Cathy Joens,1611661329,Chicago Sky,4,5,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,-6,1,1,20070708,IND,CHI,2007-08
+Shot Chart Detail,1020700116,348,100939,Cathy Joens,1611661329,Chicago Sky,4,4,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,171,-9,1,0,20070708,IND,CHI,2007-08
+Shot Chart Detail,1020700120,120,100939,Cathy Joens,1611661329,Chicago Sky,2,6,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-72,210,1,1,20070710,DET,CHI,2007-08
+Shot Chart Detail,1020700120,309,100939,Cathy Joens,1611661329,Chicago Sky,4,7,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,156,-5,1,0,20070710,DET,CHI,2007-08
+Shot Chart Detail,1020700120,368,100939,Cathy Joens,1611661329,Chicago Sky,4,1,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,94,219,1,1,20070710,DET,CHI,2007-08
+Shot Chart Detail,1020700126,76,100939,Cathy Joens,1611661329,Chicago Sky,1,3,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-177,127,1,1,20070712,CHI,DET,2007-08
+Shot Chart Detail,1020700126,79,100939,Cathy Joens,1611661329,Chicago Sky,1,2,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,20,-207,35,1,0,20070712,CHI,DET,2007-08
+Shot Chart Detail,1020700126,140,100939,Cathy Joens,1611661329,Chicago Sky,2,5,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,128,169,1,0,20070712,CHI,DET,2007-08
+Shot Chart Detail,1020700126,292,100939,Cathy Joens,1611661329,Chicago Sky,4,8,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070712,CHI,DET,2007-08
+Shot Chart Detail,1020700126,306,100939,Cathy Joens,1611661329,Chicago Sky,4,7,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,89,150,1,0,20070712,CHI,DET,2007-08
+Shot Chart Detail,1020700126,316,100939,Cathy Joens,1611661329,Chicago Sky,4,6,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,133,169,1,0,20070712,CHI,DET,2007-08
+Shot Chart Detail,1020700126,320,100939,Cathy Joens,1611661329,Chicago Sky,4,6,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,144,161,1,0,20070712,CHI,DET,2007-08
+Shot Chart Detail,1020700126,367,100939,Cathy Joens,1611661329,Chicago Sky,4,1,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070712,CHI,DET,2007-08
+Shot Chart Detail,1020700133,74,100939,Cathy Joens,1611661329,Chicago Sky,1,2,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,49,146,1,0,20070718,IND,CHI,2007-08
+Shot Chart Detail,1020700133,79,100939,Cathy Joens,1611661329,Chicago Sky,1,1,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-75,212,1,0,20070718,IND,CHI,2007-08
+Shot Chart Detail,1020700133,268,100939,Cathy Joens,1611661329,Chicago Sky,3,1,59,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-3,1,0,20070718,IND,CHI,2007-08
+Shot Chart Detail,1020700133,303,100939,Cathy Joens,1611661329,Chicago Sky,4,7,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,158,-29,1,0,20070718,IND,CHI,2007-08
+Shot Chart Detail,1020700141,310,100939,Cathy Joens,1611661329,Chicago Sky,4,8,14,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070721,CHI,IND,2007-08
+Shot Chart Detail,1020700144,92,100939,Cathy Joens,1611661329,Chicago Sky,1,0,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,117,107,1,0,20070722,CHI,SAN,2007-08
+Shot Chart Detail,1020700144,103,100939,Cathy Joens,1611661329,Chicago Sky,2,9,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-23,173,1,0,20070722,CHI,SAN,2007-08
+Shot Chart Detail,1020700144,112,100939,Cathy Joens,1611661329,Chicago Sky,2,7,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,112,192,1,1,20070722,CHI,SAN,2007-08
+Shot Chart Detail,1020700144,232,100939,Cathy Joens,1611661329,Chicago Sky,3,4,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-153,145,1,1,20070722,CHI,SAN,2007-08
+Shot Chart Detail,1020700144,313,100939,Cathy Joens,1611661329,Chicago Sky,4,8,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,140,166,1,0,20070722,CHI,SAN,2007-08
+Shot Chart Detail,1020700144,329,100939,Cathy Joens,1611661329,Chicago Sky,4,6,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-202,76,1,0,20070722,CHI,SAN,2007-08
+Shot Chart Detail,1020700152,249,100939,Cathy Joens,1611661329,Chicago Sky,3,4,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,34,115,1,0,20070726,DET,CHI,2007-08
+Shot Chart Detail,1020700155,54,100939,Cathy Joens,1611661329,Chicago Sky,1,3,45,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-11,1,1,20070727,CHI,PHO,2007-08
+Shot Chart Detail,1020700155,62,100939,Cathy Joens,1611661329,Chicago Sky,1,3,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,140,189,1,1,20070727,CHI,PHO,2007-08
+Shot Chart Detail,1020700155,95,100939,Cathy Joens,1611661329,Chicago Sky,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,163,141,1,0,20070727,CHI,PHO,2007-08
+Shot Chart Detail,1020700155,138,100939,Cathy Joens,1611661329,Chicago Sky,2,6,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,158,161,1,1,20070727,CHI,PHO,2007-08
+Shot Chart Detail,1020700155,166,100939,Cathy Joens,1611661329,Chicago Sky,2,3,37,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,218,0,1,1,20070727,CHI,PHO,2007-08
+Shot Chart Detail,1020700155,178,100939,Cathy Joens,1611661329,Chicago Sky,2,2,17,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-218,-1,1,1,20070727,CHI,PHO,2007-08
+Shot Chart Detail,1020700155,195,100939,Cathy Joens,1611661329,Chicago Sky,2,0,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,95,145,1,0,20070727,CHI,PHO,2007-08
+Shot Chart Detail,1020700155,196,100939,Cathy Joens,1611661329,Chicago Sky,2,0,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070727,CHI,PHO,2007-08
+Shot Chart Detail,1020700155,279,100939,Cathy Joens,1611661329,Chicago Sky,3,3,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,161,146,1,0,20070727,CHI,PHO,2007-08
+Shot Chart Detail,1020700155,282,100939,Cathy Joens,1611661329,Chicago Sky,3,3,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,10,122,1,0,20070727,CHI,PHO,2007-08
+Shot Chart Detail,1020700155,286,100939,Cathy Joens,1611661329,Chicago Sky,3,3,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,138,184,1,0,20070727,CHI,PHO,2007-08
+Shot Chart Detail,1020700155,360,100939,Cathy Joens,1611661329,Chicago Sky,4,4,50,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-220,2,1,1,20070727,CHI,PHO,2007-08
+Shot Chart Detail,1020700155,419,100939,Cathy Joens,1611661329,Chicago Sky,4,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,97,191,1,0,20070727,CHI,PHO,2007-08
+Shot Chart Detail,1020700161,69,100939,Cathy Joens,1611661329,Chicago Sky,1,3,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,138,163,1,0,20070729,CHI,HOU,2007-08
+Shot Chart Detail,1020700161,97,100939,Cathy Joens,1611661329,Chicago Sky,1,0,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,144,171,1,0,20070729,CHI,HOU,2007-08
+Shot Chart Detail,1020700161,110,100939,Cathy Joens,1611661329,Chicago Sky,2,9,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,92,191,1,1,20070729,CHI,HOU,2007-08
+Shot Chart Detail,1020700161,131,100939,Cathy Joens,1611661329,Chicago Sky,2,7,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,133,189,1,1,20070729,CHI,HOU,2007-08
+Shot Chart Detail,1020700161,169,100939,Cathy Joens,1611661329,Chicago Sky,2,5,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-158,110,1,0,20070729,CHI,HOU,2007-08
+Shot Chart Detail,1020700161,379,100939,Cathy Joens,1611661329,Chicago Sky,4,6,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,131,87,1,0,20070729,CHI,HOU,2007-08
+Shot Chart Detail,1020700161,408,100939,Cathy Joens,1611661329,Chicago Sky,4,4,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,118,183,1,0,20070729,CHI,HOU,2007-08
+Shot Chart Detail,1020700161,412,100939,Cathy Joens,1611661329,Chicago Sky,4,3,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070729,CHI,HOU,2007-08
+Shot Chart Detail,1020700167,94,100939,Cathy Joens,1611661329,Chicago Sky,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,179,5,1,0,20070731,CON,CHI,2007-08
+Shot Chart Detail,1020700167,318,100939,Cathy Joens,1611661329,Chicago Sky,4,5,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-25,23,1,1,20070731,CON,CHI,2007-08
+Shot Chart Detail,1020700167,345,100939,Cathy Joens,1611661329,Chicago Sky,4,2,16,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,5,105,1,1,20070731,CON,CHI,2007-08
+Shot Chart Detail,1020700167,359,100939,Cathy Joens,1611661329,Chicago Sky,4,0,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,166,138,1,0,20070731,CON,CHI,2007-08
+Shot Chart Detail,1020700181,161,100939,Cathy Joens,1611661329,Chicago Sky,2,1,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,115,189,1,1,20070805,WAS,CHI,2007-08
+Shot Chart Detail,1020700181,326,100939,Cathy Joens,1611661329,Chicago Sky,4,6,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-99,109,1,0,20070805,WAS,CHI,2007-08
+Shot Chart Detail,1020700181,363,100939,Cathy Joens,1611661329,Chicago Sky,4,2,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-169,38,1,0,20070805,WAS,CHI,2007-08
+Shot Chart Detail,1020700186,112,100939,Cathy Joens,1611661329,Chicago Sky,2,5,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,77,212,1,0,20070807,CHI,IND,2007-08
+Shot Chart Detail,1020700186,140,100939,Cathy Joens,1611661329,Chicago Sky,2,2,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070807,CHI,IND,2007-08
+Shot Chart Detail,1020700186,251,100939,Cathy Joens,1611661329,Chicago Sky,3,0,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-149,76,1,1,20070807,CHI,IND,2007-08
+Shot Chart Detail,1020700197,146,100939,Cathy Joens,1611661329,Chicago Sky,2,3,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,-24,1,1,20070811,CHI,CON,2007-08
+Shot Chart Detail,1020700204,85,100939,Cathy Joens,1611661329,Chicago Sky,2,9,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,133,176,1,0,20070814,CHI,NYL,2007-08
+Shot Chart Detail,1020700204,99,100939,Cathy Joens,1611661329,Chicago Sky,2,7,56,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,26,81,1,1,20070814,CHI,NYL,2007-08
+Shot Chart Detail,1020700210,97,100939,Cathy Joens,1611661329,Chicago Sky,1,0,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,121,191,1,0,20070816,HOU,CHI,2007-08
+Shot Chart Detail,1020700210,109,100939,Cathy Joens,1611661329,Chicago Sky,2,8,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-181,109,1,1,20070816,HOU,CHI,2007-08
+Shot Chart Detail,1020700217,83,100939,Cathy Joens,1611661329,Chicago Sky,1,1,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,110,127,1,0,20070819,NYL,CHI,2007-08
+Shot Chart Detail,1020700217,91,100939,Cathy Joens,1611661329,Chicago Sky,1,0,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-217,33,1,1,20070819,NYL,CHI,2007-08
+Shot Chart Detail,1020700217,125,100939,Cathy Joens,1611661329,Chicago Sky,2,6,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070819,NYL,CHI,2007-08
+Shot Chart Detail,1020700217,269,100939,Cathy Joens,1611661329,Chicago Sky,3,4,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-89,138,1,0,20070819,NYL,CHI,2007-08
+Shot Chart Detail,1020700217,271,100939,Cathy Joens,1611661329,Chicago Sky,3,3,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-23,219,1,1,20070819,NYL,CHI,2007-08

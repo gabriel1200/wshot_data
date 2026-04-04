@@ -1,0 +1,9 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020100002,37,100225,Brandy Reed,1611661317,Phoenix Mercury,1,15,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-136,19,1,0,20010530,PHO,UTA,2001-02
+Shot Chart Detail,1020100002,45,100225,Brandy Reed,1611661317,Phoenix Mercury,1,14,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-132,13,1,0,20010530,PHO,UTA,2001-02
+Shot Chart Detail,1020100002,91,100225,Brandy Reed,1611661317,Phoenix Mercury,1,10,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-44,47,1,1,20010530,PHO,UTA,2001-02
+Shot Chart Detail,1020100002,116,100225,Brandy Reed,1611661317,Phoenix Mercury,1,8,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,20,97,1,0,20010530,PHO,UTA,2001-02
+Shot Chart Detail,1020100002,126,100225,Brandy Reed,1611661317,Phoenix Mercury,1,7,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-124,85,1,0,20010530,PHO,UTA,2001-02
+Shot Chart Detail,1020100002,138,100225,Brandy Reed,1611661317,Phoenix Mercury,1,6,22,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,28,114,1,0,20010530,PHO,UTA,2001-02
+Shot Chart Detail,1020100002,148,100225,Brandy Reed,1611661317,Phoenix Mercury,1,5,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010530,PHO,UTA,2001-02
+Shot Chart Detail,1020100002,291,100225,Brandy Reed,1611661317,Phoenix Mercury,2,13,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,94,57,1,0,20010530,PHO,UTA,2001-02

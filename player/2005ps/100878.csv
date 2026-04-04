@@ -1,0 +1,13 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1040500121,92,100878,Suzy Batkovic-Brown,1611661328,Seattle Storm,1,10,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,41,174,1,0,20050830,HOU,SEA,2005-06
+Shot Chart Detail,1040500121,110,100878,Suzy Batkovic-Brown,1611661328,Seattle Storm,1,8,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050830,HOU,SEA,2005-06
+Shot Chart Detail,1040500121,291,100878,Suzy Batkovic-Brown,1611661328,Seattle Storm,2,10,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,29,61,1,0,20050830,HOU,SEA,2005-06
+Shot Chart Detail,1040500121,335,100878,Suzy Batkovic-Brown,1611661328,Seattle Storm,2,6,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,5,1,0,20050830,HOU,SEA,2005-06
+Shot Chart Detail,1040500122,118,100878,Suzy Batkovic-Brown,1611661328,Seattle Storm,1,7,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-46,22,1,0,20050901,SEA,HOU,2005-06
+Shot Chart Detail,1040500122,176,100878,Suzy Batkovic-Brown,1611661328,Seattle Storm,1,1,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-3,186,1,1,20050901,SEA,HOU,2005-06
+Shot Chart Detail,1040500122,244,100878,Suzy Batkovic-Brown,1611661328,Seattle Storm,2,12,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,1,181,1,0,20050901,SEA,HOU,2005-06
+Shot Chart Detail,1040500122,251,100878,Suzy Batkovic-Brown,1611661328,Seattle Storm,2,12,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-20,26,1,0,20050901,SEA,HOU,2005-06
+Shot Chart Detail,1040500122,254,100878,Suzy Batkovic-Brown,1611661328,Seattle Storm,2,11,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050901,SEA,HOU,2005-06
+Shot Chart Detail,1040500123,75,100878,Suzy Batkovic-Brown,1611661328,Seattle Storm,1,10,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050903,SEA,HOU,2005-06
+Shot Chart Detail,1040500123,90,100878,Suzy Batkovic-Brown,1611661328,Seattle Storm,1,8,32,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,39,51,1,1,20050903,SEA,HOU,2005-06
+Shot Chart Detail,1040500123,282,100878,Suzy Batkovic-Brown,1611661328,Seattle Storm,2,8,38,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-75,17,1,1,20050903,SEA,HOU,2005-06

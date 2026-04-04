@@ -1,0 +1,431 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020300016,12,100721,Swin Cash,1611661321,Detroit Shock,1,18,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030531,DET,CHA,2003-04
+Shot Chart Detail,1020300016,25,100721,Swin Cash,1611661321,Detroit Shock,1,16,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-67,118,1,0,20030531,DET,CHA,2003-04
+Shot Chart Detail,1020300016,35,100721,Swin Cash,1611661321,Detroit Shock,1,16,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,102,104,1,1,20030531,DET,CHA,2003-04
+Shot Chart Detail,1020300016,73,100721,Swin Cash,1611661321,Detroit Shock,1,11,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-72,71,1,0,20030531,DET,CHA,2003-04
+Shot Chart Detail,1020300016,125,100721,Swin Cash,1611661321,Detroit Shock,1,7,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030531,DET,CHA,2003-04
+Shot Chart Detail,1020300016,134,100721,Swin Cash,1611661321,Detroit Shock,1,6,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,-5,1,0,20030531,DET,CHA,2003-04
+Shot Chart Detail,1020300016,179,100721,Swin Cash,1611661321,Detroit Shock,1,1,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-57,35,1,0,20030531,DET,CHA,2003-04
+Shot Chart Detail,1020300016,223,100721,Swin Cash,1611661321,Detroit Shock,2,16,11,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,13,1,1,20030531,DET,CHA,2003-04
+Shot Chart Detail,1020300016,234,100721,Swin Cash,1611661321,Detroit Shock,2,15,9,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-5,53,1,1,20030531,DET,CHA,2003-04
+Shot Chart Detail,1020300016,247,100721,Swin Cash,1611661321,Detroit Shock,2,12,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-118,66,1,0,20030531,DET,CHA,2003-04
+Shot Chart Detail,1020300016,262,100721,Swin Cash,1611661321,Detroit Shock,2,11,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030531,DET,CHA,2003-04
+Shot Chart Detail,1020300016,295,100721,Swin Cash,1611661321,Detroit Shock,2,7,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,149,54,1,1,20030531,DET,CHA,2003-04
+Shot Chart Detail,1020300016,300,100721,Swin Cash,1611661321,Detroit Shock,2,6,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030531,DET,CHA,2003-04
+Shot Chart Detail,1020300016,303,100721,Swin Cash,1611661321,Detroit Shock,2,6,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030531,DET,CHA,2003-04
+Shot Chart Detail,1020300016,340,100721,Swin Cash,1611661321,Detroit Shock,2,3,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030531,DET,CHA,2003-04
+Shot Chart Detail,1020300016,353,100721,Swin Cash,1611661321,Detroit Shock,2,2,22,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,54,31,1,0,20030531,DET,CHA,2003-04
+Shot Chart Detail,1020300025,3,100721,Swin Cash,1611661321,Detroit Shock,1,19,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,204,63,1,1,20030605,DET,CON,2003-04
+Shot Chart Detail,1020300025,24,100721,Swin Cash,1611661321,Detroit Shock,1,16,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030605,DET,CON,2003-04
+Shot Chart Detail,1020300025,47,100721,Swin Cash,1611661321,Detroit Shock,1,15,22,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,18,1,1,20030605,DET,CON,2003-04
+Shot Chart Detail,1020300025,49,100721,Swin Cash,1611661321,Detroit Shock,1,15,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030605,DET,CON,2003-04
+Shot Chart Detail,1020300025,56,100721,Swin Cash,1611661321,Detroit Shock,1,13,59,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,30,1,0,20030605,DET,CON,2003-04
+Shot Chart Detail,1020300025,61,100721,Swin Cash,1611661321,Detroit Shock,1,13,41,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030605,DET,CON,2003-04
+Shot Chart Detail,1020300025,190,100721,Swin Cash,1611661321,Detroit Shock,1,3,6,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,215,7,1,0,20030605,DET,CON,2003-04
+Shot Chart Detail,1020300025,203,100721,Swin Cash,1611661321,Detroit Shock,1,0,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-156,137,1,1,20030605,DET,CON,2003-04
+Shot Chart Detail,1020300025,246,100721,Swin Cash,1611661321,Detroit Shock,1,0,55,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,-6,1,0,20030605,DET,CON,2003-04
+Shot Chart Detail,1020300025,218,100721,Swin Cash,1611661321,Detroit Shock,1,0,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-21,209,1,0,20030605,DET,CON,2003-04
+Shot Chart Detail,1020300025,263,100721,Swin Cash,1611661321,Detroit Shock,2,15,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-72,204,1,1,20030605,DET,CON,2003-04
+Shot Chart Detail,1020300025,362,100721,Swin Cash,1611661321,Detroit Shock,2,7,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,118,26,1,0,20030605,DET,CON,2003-04
+Shot Chart Detail,1020300025,364,100721,Swin Cash,1611661321,Detroit Shock,2,7,31,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,80,23,1,1,20030605,DET,CON,2003-04
+Shot Chart Detail,1020300034,27,100721,Swin Cash,1611661321,Detroit Shock,1,19,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-39,146,1,0,20030607,SAN,DET,2003-04
+Shot Chart Detail,1020300034,43,100721,Swin Cash,1611661321,Detroit Shock,1,17,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,8,1,1,20030607,SAN,DET,2003-04
+Shot Chart Detail,1020300034,49,100721,Swin Cash,1611661321,Detroit Shock,1,17,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,12,1,1,20030607,SAN,DET,2003-04
+Shot Chart Detail,1020300034,76,100721,Swin Cash,1611661321,Detroit Shock,1,14,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,34,204,1,0,20030607,SAN,DET,2003-04
+Shot Chart Detail,1020300034,93,100721,Swin Cash,1611661321,Detroit Shock,1,12,56,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,20,209,8,1,0,20030607,SAN,DET,2003-04
+Shot Chart Detail,1020300034,169,100721,Swin Cash,1611661321,Detroit Shock,1,5,5,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-77,13,1,0,20030607,SAN,DET,2003-04
+Shot Chart Detail,1020300034,190,100721,Swin Cash,1611661321,Detroit Shock,1,3,10,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-87,10,1,1,20030607,SAN,DET,2003-04
+Shot Chart Detail,1020300034,211,100721,Swin Cash,1611661321,Detroit Shock,1,1,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,7,1,0,20030607,SAN,DET,2003-04
+Shot Chart Detail,1020300034,255,100721,Swin Cash,1611661321,Detroit Shock,1,1,23,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,77,61,1,0,20030607,SAN,DET,2003-04
+Shot Chart Detail,1020300034,214,100721,Swin Cash,1611661321,Detroit Shock,1,1,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,10,1,0,20030607,SAN,DET,2003-04
+Shot Chart Detail,1020300034,215,100721,Swin Cash,1611661321,Detroit Shock,1,0,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,5,1,0,20030607,SAN,DET,2003-04
+Shot Chart Detail,1020300034,263,100721,Swin Cash,1611661321,Detroit Shock,2,16,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,8,140,1,0,20030607,SAN,DET,2003-04
+Shot Chart Detail,1020300034,269,100721,Swin Cash,1611661321,Detroit Shock,2,16,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,2,1,1,20030607,SAN,DET,2003-04
+Shot Chart Detail,1020300034,285,100721,Swin Cash,1611661321,Detroit Shock,2,14,39,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,10,1,1,20030607,SAN,DET,2003-04
+Shot Chart Detail,1020300034,360,100721,Swin Cash,1611661321,Detroit Shock,2,7,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,15,1,1,20030607,SAN,DET,2003-04
+Shot Chart Detail,1020300034,433,100721,Swin Cash,1611661321,Detroit Shock,2,1,39,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,17,1,0,20030607,SAN,DET,2003-04
+Shot Chart Detail,1020300042,15,100721,Swin Cash,1611661321,Detroit Shock,1,18,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,69,156,1,1,20030701,DET,SAN,2003-04
+Shot Chart Detail,1020300042,34,100721,Swin Cash,1611661321,Detroit Shock,1,16,58,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-74,22,1,1,20030701,DET,SAN,2003-04
+Shot Chart Detail,1020300042,38,100721,Swin Cash,1611661321,Detroit Shock,1,16,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030701,DET,SAN,2003-04
+Shot Chart Detail,1020300042,59,100721,Swin Cash,1611661321,Detroit Shock,1,14,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030701,DET,SAN,2003-04
+Shot Chart Detail,1020300042,77,100721,Swin Cash,1611661321,Detroit Shock,1,11,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-138,91,1,1,20030701,DET,SAN,2003-04
+Shot Chart Detail,1020300042,206,100721,Swin Cash,1611661321,Detroit Shock,1,3,49,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-108,54,1,0,20030701,DET,SAN,2003-04
+Shot Chart Detail,1020300042,214,100721,Swin Cash,1611661321,Detroit Shock,1,3,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030701,DET,SAN,2003-04
+Shot Chart Detail,1020300042,279,100721,Swin Cash,1611661321,Detroit Shock,1,3,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030701,DET,SAN,2003-04
+Shot Chart Detail,1020300042,285,100721,Swin Cash,1611661321,Detroit Shock,1,2,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030701,DET,SAN,2003-04
+Shot Chart Detail,1020300042,222,100721,Swin Cash,1611661321,Detroit Shock,1,2,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030701,DET,SAN,2003-04
+Shot Chart Detail,1020300042,230,100721,Swin Cash,1611661321,Detroit Shock,1,2,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030701,DET,SAN,2003-04
+Shot Chart Detail,1020300042,352,100721,Swin Cash,1611661321,Detroit Shock,2,12,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,197,115,1,0,20030701,DET,SAN,2003-04
+Shot Chart Detail,1020300042,363,100721,Swin Cash,1611661321,Detroit Shock,2,11,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030701,DET,SAN,2003-04
+Shot Chart Detail,1020300042,448,100721,Swin Cash,1611661321,Detroit Shock,2,5,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030701,DET,SAN,2003-04
+Shot Chart Detail,1020300042,451,100721,Swin Cash,1611661321,Detroit Shock,2,5,23,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,1,82,1,0,20030701,DET,SAN,2003-04
+Shot Chart Detail,1020300042,457,100721,Swin Cash,1611661321,Detroit Shock,2,5,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030701,DET,SAN,2003-04
+Shot Chart Detail,1020300042,496,100721,Swin Cash,1611661321,Detroit Shock,2,2,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,52,224,1,0,20030701,DET,SAN,2003-04
+Shot Chart Detail,1020300048,8,100721,Swin Cash,1611661321,Detroit Shock,1,18,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,1,68,1,1,20030614,WAS,DET,2003-04
+Shot Chart Detail,1020300048,32,100721,Swin Cash,1611661321,Detroit Shock,1,16,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-2,69,1,0,20030614,WAS,DET,2003-04
+Shot Chart Detail,1020300048,41,100721,Swin Cash,1611661321,Detroit Shock,1,15,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,8,178,1,0,20030614,WAS,DET,2003-04
+Shot Chart Detail,1020300048,54,100721,Swin Cash,1611661321,Detroit Shock,1,14,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-5,160,1,0,20030614,WAS,DET,2003-04
+Shot Chart Detail,1020300048,209,100721,Swin Cash,1611661321,Detroit Shock,1,3,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,95,145,1,0,20030614,WAS,DET,2003-04
+Shot Chart Detail,1020300048,169,100721,Swin Cash,1611661321,Detroit Shock,1,2,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,-6,1,1,20030614,WAS,DET,2003-04
+Shot Chart Detail,1020300048,215,100721,Swin Cash,1611661321,Detroit Shock,1,2,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,5,26,1,1,20030614,WAS,DET,2003-04
+Shot Chart Detail,1020300048,184,100721,Swin Cash,1611661321,Detroit Shock,1,1,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-59,112,1,0,20030614,WAS,DET,2003-04
+Shot Chart Detail,1020300048,260,100721,Swin Cash,1611661321,Detroit Shock,2,15,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,13,1,0,20030614,WAS,DET,2003-04
+Shot Chart Detail,1020300048,268,100721,Swin Cash,1611661321,Detroit Shock,2,14,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,5,1,1,20030614,WAS,DET,2003-04
+Shot Chart Detail,1020300048,287,100721,Swin Cash,1611661321,Detroit Shock,2,13,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,7,1,1,20030614,WAS,DET,2003-04
+Shot Chart Detail,1020300048,322,100721,Swin Cash,1611661321,Detroit Shock,2,11,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,92,100,1,1,20030614,WAS,DET,2003-04
+Shot Chart Detail,1020300055,23,100721,Swin Cash,1611661321,Detroit Shock,1,17,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-43,87,1,0,20030617,DET,LAS,2003-04
+Shot Chart Detail,1020300055,95,100721,Swin Cash,1611661321,Detroit Shock,1,11,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030617,DET,LAS,2003-04
+Shot Chart Detail,1020300055,129,100721,Swin Cash,1611661321,Detroit Shock,1,7,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030617,DET,LAS,2003-04
+Shot Chart Detail,1020300055,138,100721,Swin Cash,1611661321,Detroit Shock,1,6,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030617,DET,LAS,2003-04
+Shot Chart Detail,1020300055,142,100721,Swin Cash,1611661321,Detroit Shock,1,6,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030617,DET,LAS,2003-04
+Shot Chart Detail,1020300055,144,100721,Swin Cash,1611661321,Detroit Shock,1,6,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030617,DET,LAS,2003-04
+Shot Chart Detail,1020300055,190,100721,Swin Cash,1611661321,Detroit Shock,1,2,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,11,117,1,0,20030617,DET,LAS,2003-04
+Shot Chart Detail,1020300055,234,100721,Swin Cash,1611661321,Detroit Shock,1,2,16,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,118,22,1,0,20030617,DET,LAS,2003-04
+Shot Chart Detail,1020300055,312,100721,Swin Cash,1611661321,Detroit Shock,2,12,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030617,DET,LAS,2003-04
+Shot Chart Detail,1020300055,321,100721,Swin Cash,1611661321,Detroit Shock,2,11,23,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-3,74,1,1,20030617,DET,LAS,2003-04
+Shot Chart Detail,1020300055,340,100721,Swin Cash,1611661321,Detroit Shock,2,9,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030617,DET,LAS,2003-04
+Shot Chart Detail,1020300055,361,100721,Swin Cash,1611661321,Detroit Shock,2,8,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-110,102,1,1,20030617,DET,LAS,2003-04
+Shot Chart Detail,1020300055,377,100721,Swin Cash,1611661321,Detroit Shock,2,6,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030617,DET,LAS,2003-04
+Shot Chart Detail,1020300055,398,100721,Swin Cash,1611661321,Detroit Shock,2,5,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,118,181,1,1,20030617,DET,LAS,2003-04
+Shot Chart Detail,1020300055,422,100721,Swin Cash,1611661321,Detroit Shock,2,2,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-10,64,1,0,20030617,DET,LAS,2003-04
+Shot Chart Detail,1020300055,438,100721,Swin Cash,1611661321,Detroit Shock,2,0,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030617,DET,LAS,2003-04
+Shot Chart Detail,1020300055,479,100721,Swin Cash,1611661321,Detroit Shock,3,3,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,131,168,1,0,20030617,DET,LAS,2003-04
+Shot Chart Detail,1020300055,489,100721,Swin Cash,1611661321,Detroit Shock,3,2,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030617,DET,LAS,2003-04
+Shot Chart Detail,1020300063,11,100721,Swin Cash,1611661321,Detroit Shock,1,17,56,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030620,DET,NYL,2003-04
+Shot Chart Detail,1020300063,197,100721,Swin Cash,1611661321,Detroit Shock,1,0,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,218,69,1,0,20030620,DET,NYL,2003-04
+Shot Chart Detail,1020300063,262,100721,Swin Cash,1611661321,Detroit Shock,2,10,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,15,1,0,20030620,DET,NYL,2003-04
+Shot Chart Detail,1020300063,286,100721,Swin Cash,1611661321,Detroit Shock,2,7,47,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,13,61,1,1,20030620,DET,NYL,2003-04
+Shot Chart Detail,1020300063,322,100721,Swin Cash,1611661321,Detroit Shock,2,5,59,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,61,71,1,1,20030620,DET,NYL,2003-04
+Shot Chart Detail,1020300063,353,100721,Swin Cash,1611661321,Detroit Shock,2,3,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,108,5,1,0,20030620,DET,NYL,2003-04
+Shot Chart Detail,1020300063,367,100721,Swin Cash,1611661321,Detroit Shock,2,2,24,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,18,45,1,1,20030620,DET,NYL,2003-04
+Shot Chart Detail,1020300071,19,100721,Swin Cash,1611661321,Detroit Shock,1,18,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,124,6,1,0,20030622,CON,DET,2003-04
+Shot Chart Detail,1020300071,84,100721,Swin Cash,1611661321,Detroit Shock,1,12,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,8,8,1,1,20030622,CON,DET,2003-04
+Shot Chart Detail,1020300071,91,100721,Swin Cash,1611661321,Detroit Shock,1,11,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,8,1,1,20030622,CON,DET,2003-04
+Shot Chart Detail,1020300071,183,100721,Swin Cash,1611661321,Detroit Shock,1,4,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-6,28,1,0,20030622,CON,DET,2003-04
+Shot Chart Detail,1020300071,196,100721,Swin Cash,1611661321,Detroit Shock,1,3,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,15,1,1,20030622,CON,DET,2003-04
+Shot Chart Detail,1020300071,200,100721,Swin Cash,1611661321,Detroit Shock,1,3,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-16,66,1,0,20030622,CON,DET,2003-04
+Shot Chart Detail,1020300071,245,100721,Swin Cash,1611661321,Detroit Shock,1,2,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-28,12,1,0,20030622,CON,DET,2003-04
+Shot Chart Detail,1020300071,209,100721,Swin Cash,1611661321,Detroit Shock,1,2,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,17,1,0,20030622,CON,DET,2003-04
+Shot Chart Detail,1020300071,231,100721,Swin Cash,1611661321,Detroit Shock,1,0,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-3,10,1,1,20030622,CON,DET,2003-04
+Shot Chart Detail,1020300071,261,100721,Swin Cash,1611661321,Detroit Shock,2,16,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,13,1,1,20030622,CON,DET,2003-04
+Shot Chart Detail,1020300071,276,100721,Swin Cash,1611661321,Detroit Shock,2,15,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,8,26,1,0,20030622,CON,DET,2003-04
+Shot Chart Detail,1020300071,395,100721,Swin Cash,1611661321,Detroit Shock,2,3,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030622,CON,DET,2003-04
+Shot Chart Detail,1020300071,397,100721,Swin Cash,1611661321,Detroit Shock,2,3,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030622,CON,DET,2003-04
+Shot Chart Detail,1020300071,407,100721,Swin Cash,1611661321,Detroit Shock,2,2,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,12,1,1,20030622,CON,DET,2003-04
+Shot Chart Detail,1020300071,452,100721,Swin Cash,1611661321,Detroit Shock,3,4,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-20,28,1,1,20030622,CON,DET,2003-04
+Shot Chart Detail,1020300071,462,100721,Swin Cash,1611661321,Detroit Shock,3,2,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030622,CON,DET,2003-04
+Shot Chart Detail,1020300071,472,100721,Swin Cash,1611661321,Detroit Shock,3,1,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030622,CON,DET,2003-04
+Shot Chart Detail,1020300071,493,100721,Swin Cash,1611661321,Detroit Shock,3,0,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,-5,1,0,20030622,CON,DET,2003-04
+Shot Chart Detail,1020300075,6,100721,Swin Cash,1611661321,Detroit Shock,1,18,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030624,DET,IND,2003-04
+Shot Chart Detail,1020300075,20,100721,Swin Cash,1611661321,Detroit Shock,1,17,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030624,DET,IND,2003-04
+Shot Chart Detail,1020300075,24,100721,Swin Cash,1611661321,Detroit Shock,1,17,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030624,DET,IND,2003-04
+Shot Chart Detail,1020300075,65,100721,Swin Cash,1611661321,Detroit Shock,1,11,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030624,DET,IND,2003-04
+Shot Chart Detail,1020300075,78,100721,Swin Cash,1611661321,Detroit Shock,1,9,58,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-212,2,1,0,20030624,DET,IND,2003-04
+Shot Chart Detail,1020300075,80,100721,Swin Cash,1611661321,Detroit Shock,1,9,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030624,DET,IND,2003-04
+Shot Chart Detail,1020300075,82,100721,Swin Cash,1611661321,Detroit Shock,1,9,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,46,158,1,0,20030624,DET,IND,2003-04
+Shot Chart Detail,1020300075,197,100721,Swin Cash,1611661321,Detroit Shock,1,0,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030624,DET,IND,2003-04
+Shot Chart Detail,1020300075,200,100721,Swin Cash,1611661321,Detroit Shock,2,16,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,105,40,1,1,20030624,DET,IND,2003-04
+Shot Chart Detail,1020300075,279,100721,Swin Cash,1611661321,Detroit Shock,2,7,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,10,1,0,20030624,DET,IND,2003-04
+Shot Chart Detail,1020300075,282,100721,Swin Cash,1611661321,Detroit Shock,2,7,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030624,DET,IND,2003-04
+Shot Chart Detail,1020300075,325,100721,Swin Cash,1611661321,Detroit Shock,2,2,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030624,DET,IND,2003-04
+Shot Chart Detail,1020300075,331,100721,Swin Cash,1611661321,Detroit Shock,2,1,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-25,224,1,0,20030624,DET,IND,2003-04
+Shot Chart Detail,1020300082,5,100721,Swin Cash,1611661321,Detroit Shock,1,19,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030627,NYL,DET,2003-04
+Shot Chart Detail,1020300082,31,100721,Swin Cash,1611661321,Detroit Shock,1,15,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030627,NYL,DET,2003-04
+Shot Chart Detail,1020300082,35,100721,Swin Cash,1611661321,Detroit Shock,1,15,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,28,1,0,20030627,NYL,DET,2003-04
+Shot Chart Detail,1020300082,45,100721,Swin Cash,1611661321,Detroit Shock,1,14,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-115,15,1,1,20030627,NYL,DET,2003-04
+Shot Chart Detail,1020300082,118,100721,Swin Cash,1611661321,Detroit Shock,1,6,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,64,59,1,0,20030627,NYL,DET,2003-04
+Shot Chart Detail,1020300082,139,100721,Swin Cash,1611661321,Detroit Shock,1,3,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,15,1,0,20030627,NYL,DET,2003-04
+Shot Chart Detail,1020300082,155,100721,Swin Cash,1611661321,Detroit Shock,1,1,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,10,1,0,20030627,NYL,DET,2003-04
+Shot Chart Detail,1020300082,184,100721,Swin Cash,1611661321,Detroit Shock,1,0,59,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,46,20,1,1,20030627,NYL,DET,2003-04
+Shot Chart Detail,1020300082,186,100721,Swin Cash,1611661321,Detroit Shock,1,0,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,108,17,1,1,20030627,NYL,DET,2003-04
+Shot Chart Detail,1020300082,257,100721,Swin Cash,1611661321,Detroit Shock,2,11,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-85,132,1,1,20030627,NYL,DET,2003-04
+Shot Chart Detail,1020300082,270,100721,Swin Cash,1611661321,Detroit Shock,2,10,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-13,114,1,0,20030627,NYL,DET,2003-04
+Shot Chart Detail,1020300082,274,100721,Swin Cash,1611661321,Detroit Shock,2,9,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-39,104,1,0,20030627,NYL,DET,2003-04
+Shot Chart Detail,1020300082,281,100721,Swin Cash,1611661321,Detroit Shock,2,9,9,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030627,NYL,DET,2003-04
+Shot Chart Detail,1020300082,315,100721,Swin Cash,1611661321,Detroit Shock,2,5,37,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030627,NYL,DET,2003-04
+Shot Chart Detail,1020300086,6,100721,Swin Cash,1611661321,Detroit Shock,1,19,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030628,DET,PHO,2003-04
+Shot Chart Detail,1020300086,8,100721,Swin Cash,1611661321,Detroit Shock,1,19,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,120,28,1,0,20030628,DET,PHO,2003-04
+Shot Chart Detail,1020300086,22,100721,Swin Cash,1611661321,Detroit Shock,1,17,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030628,DET,PHO,2003-04
+Shot Chart Detail,1020300086,82,100721,Swin Cash,1611661321,Detroit Shock,1,11,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030628,DET,PHO,2003-04
+Shot Chart Detail,1020300086,189,100721,Swin Cash,1611661321,Detroit Shock,1,2,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,-6,1,0,20030628,DET,PHO,2003-04
+Shot Chart Detail,1020300086,168,100721,Swin Cash,1611661321,Detroit Shock,1,1,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030628,DET,PHO,2003-04
+Shot Chart Detail,1020300086,217,100721,Swin Cash,1611661321,Detroit Shock,2,15,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,18,1,0,20030628,DET,PHO,2003-04
+Shot Chart Detail,1020300086,221,100721,Swin Cash,1611661321,Detroit Shock,2,15,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,73,149,1,0,20030628,DET,PHO,2003-04
+Shot Chart Detail,1020300086,242,100721,Swin Cash,1611661321,Detroit Shock,2,14,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030628,DET,PHO,2003-04
+Shot Chart Detail,1020300086,308,100721,Swin Cash,1611661321,Detroit Shock,2,8,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030628,DET,PHO,2003-04
+Shot Chart Detail,1020300096,3,100721,Swin Cash,1611661321,Detroit Shock,1,19,21,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-105,76,1,0,20030703,DET,CHA,2003-04
+Shot Chart Detail,1020300096,6,100721,Swin Cash,1611661321,Detroit Shock,1,19,11,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-89,40,1,1,20030703,DET,CHA,2003-04
+Shot Chart Detail,1020300096,13,100721,Swin Cash,1611661321,Detroit Shock,1,18,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030703,DET,CHA,2003-04
+Shot Chart Detail,1020300096,29,100721,Swin Cash,1611661321,Detroit Shock,1,16,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030703,DET,CHA,2003-04
+Shot Chart Detail,1020300096,55,100721,Swin Cash,1611661321,Detroit Shock,1,13,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030703,DET,CHA,2003-04
+Shot Chart Detail,1020300096,156,100721,Swin Cash,1611661321,Detroit Shock,1,2,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,11,207,1,0,20030703,DET,CHA,2003-04
+Shot Chart Detail,1020300096,199,100721,Swin Cash,1611661321,Detroit Shock,1,2,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030703,DET,CHA,2003-04
+Shot Chart Detail,1020300096,251,100721,Swin Cash,1611661321,Detroit Shock,2,13,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-126,183,1,1,20030703,DET,CHA,2003-04
+Shot Chart Detail,1020300096,262,100721,Swin Cash,1611661321,Detroit Shock,2,12,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030703,DET,CHA,2003-04
+Shot Chart Detail,1020300096,266,100721,Swin Cash,1611661321,Detroit Shock,2,12,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030703,DET,CHA,2003-04
+Shot Chart Detail,1020300096,310,100721,Swin Cash,1611661321,Detroit Shock,2,7,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030703,DET,CHA,2003-04
+Shot Chart Detail,1020300096,325,100721,Swin Cash,1611661321,Detroit Shock,2,6,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030703,DET,CHA,2003-04
+Shot Chart Detail,1020300107,3,100721,Swin Cash,1611661321,Detroit Shock,1,19,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-62,153,1,0,20030706,IND,DET,2003-04
+Shot Chart Detail,1020300107,20,100721,Swin Cash,1611661321,Detroit Shock,1,17,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,-3,1,0,20030706,IND,DET,2003-04
+Shot Chart Detail,1020300107,22,100721,Swin Cash,1611661321,Detroit Shock,1,17,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,-8,1,0,20030706,IND,DET,2003-04
+Shot Chart Detail,1020300107,32,100721,Swin Cash,1611661321,Detroit Shock,1,15,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,10,1,0,20030706,IND,DET,2003-04
+Shot Chart Detail,1020300107,52,100721,Swin Cash,1611661321,Detroit Shock,1,14,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,-19,1,0,20030706,IND,DET,2003-04
+Shot Chart Detail,1020300107,84,100721,Swin Cash,1611661321,Detroit Shock,1,11,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,131,164,1,0,20030706,IND,DET,2003-04
+Shot Chart Detail,1020300107,149,100721,Swin Cash,1611661321,Detroit Shock,1,5,56,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,220,-21,1,0,20030706,IND,DET,2003-04
+Shot Chart Detail,1020300107,231,100721,Swin Cash,1611661321,Detroit Shock,1,2,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-8,1,1,20030706,IND,DET,2003-04
+Shot Chart Detail,1020300107,235,100721,Swin Cash,1611661321,Detroit Shock,1,2,11,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,2,1,1,20030706,IND,DET,2003-04
+Shot Chart Detail,1020300107,309,100721,Swin Cash,1611661321,Detroit Shock,2,8,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,43,207,1,0,20030706,IND,DET,2003-04
+Shot Chart Detail,1020300110,5,100721,Swin Cash,1611661321,Detroit Shock,1,19,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030708,DET,CON,2003-04
+Shot Chart Detail,1020300110,29,100721,Swin Cash,1611661321,Detroit Shock,1,16,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030708,DET,CON,2003-04
+Shot Chart Detail,1020300110,39,100721,Swin Cash,1611661321,Detroit Shock,1,15,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030708,DET,CON,2003-04
+Shot Chart Detail,1020300110,49,100721,Swin Cash,1611661321,Detroit Shock,1,15,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030708,DET,CON,2003-04
+Shot Chart Detail,1020300110,61,100721,Swin Cash,1611661321,Detroit Shock,1,13,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,95,79,1,0,20030708,DET,CON,2003-04
+Shot Chart Detail,1020300110,76,100721,Swin Cash,1611661321,Detroit Shock,1,12,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030708,DET,CON,2003-04
+Shot Chart Detail,1020300110,81,100721,Swin Cash,1611661321,Detroit Shock,1,12,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,46,43,1,0,20030708,DET,CON,2003-04
+Shot Chart Detail,1020300110,145,100721,Swin Cash,1611661321,Detroit Shock,1,7,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030708,DET,CON,2003-04
+Shot Chart Detail,1020300110,171,100721,Swin Cash,1611661321,Detroit Shock,1,4,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,117,99,1,0,20030708,DET,CON,2003-04
+Shot Chart Detail,1020300110,228,100721,Swin Cash,1611661321,Detroit Shock,1,2,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030708,DET,CON,2003-04
+Shot Chart Detail,1020300110,191,100721,Swin Cash,1611661321,Detroit Shock,1,2,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,161,38,1,0,20030708,DET,CON,2003-04
+Shot Chart Detail,1020300110,253,100721,Swin Cash,1611661321,Detroit Shock,2,15,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030708,DET,CON,2003-04
+Shot Chart Detail,1020300110,283,100721,Swin Cash,1611661321,Detroit Shock,2,12,19,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-123,10,1,0,20030708,DET,CON,2003-04
+Shot Chart Detail,1020300110,319,100721,Swin Cash,1611661321,Detroit Shock,2,9,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030708,DET,CON,2003-04
+Shot Chart Detail,1020300114,16,100721,Swin Cash,1611661321,Detroit Shock,1,18,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030710,CHA,DET,2003-04
+Shot Chart Detail,1020300114,25,100721,Swin Cash,1611661321,Detroit Shock,1,16,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030710,CHA,DET,2003-04
+Shot Chart Detail,1020300114,65,100721,Swin Cash,1611661321,Detroit Shock,1,11,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-15,145,1,1,20030710,CHA,DET,2003-04
+Shot Chart Detail,1020300114,150,100721,Swin Cash,1611661321,Detroit Shock,1,3,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030710,CHA,DET,2003-04
+Shot Chart Detail,1020300114,200,100721,Swin Cash,1611661321,Detroit Shock,1,1,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,94,183,1,1,20030710,CHA,DET,2003-04
+Shot Chart Detail,1020300114,226,100721,Swin Cash,1611661321,Detroit Shock,2,15,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-5,117,1,0,20030710,CHA,DET,2003-04
+Shot Chart Detail,1020300114,227,100721,Swin Cash,1611661321,Detroit Shock,2,15,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030710,CHA,DET,2003-04
+Shot Chart Detail,1020300114,284,100721,Swin Cash,1611661321,Detroit Shock,2,8,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030710,CHA,DET,2003-04
+Shot Chart Detail,1020300114,304,100721,Swin Cash,1611661321,Detroit Shock,2,8,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030710,CHA,DET,2003-04
+Shot Chart Detail,1020300114,307,100721,Swin Cash,1611661321,Detroit Shock,2,7,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030710,CHA,DET,2003-04
+Shot Chart Detail,1020300114,374,100721,Swin Cash,1611661321,Detroit Shock,2,0,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-94,107,1,0,20030710,CHA,DET,2003-04
+Shot Chart Detail,1020300114,384,100721,Swin Cash,1611661321,Detroit Shock,2,0,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,177,120,1,0,20030710,CHA,DET,2003-04
+Shot Chart Detail,1020300121,4,100721,Swin Cash,1611661321,Detroit Shock,1,19,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,3,1,1,20030716,IND,DET,2003-04
+Shot Chart Detail,1020300121,25,100721,Swin Cash,1611661321,Detroit Shock,1,16,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,23,1,0,20030716,IND,DET,2003-04
+Shot Chart Detail,1020300121,29,100721,Swin Cash,1611661321,Detroit Shock,1,16,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-28,3,1,0,20030716,IND,DET,2003-04
+Shot Chart Detail,1020300121,231,100721,Swin Cash,1611661321,Detroit Shock,1,1,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-126,51,1,0,20030716,IND,DET,2003-04
+Shot Chart Detail,1020300121,236,100721,Swin Cash,1611661321,Detroit Shock,1,1,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,-14,1,1,20030716,IND,DET,2003-04
+Shot Chart Detail,1020300121,243,100721,Swin Cash,1611661321,Detroit Shock,1,0,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,0,1,1,20030716,IND,DET,2003-04
+Shot Chart Detail,1020300121,267,100721,Swin Cash,1611661321,Detroit Shock,2,13,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,-5,1,1,20030716,IND,DET,2003-04
+Shot Chart Detail,1020300121,358,100721,Swin Cash,1611661321,Detroit Shock,2,5,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-46,-19,1,0,20030716,IND,DET,2003-04
+Shot Chart Detail,1020300121,381,100721,Swin Cash,1611661321,Detroit Shock,2,3,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,-6,1,1,20030716,IND,DET,2003-04
+Shot Chart Detail,1020300121,414,100721,Swin Cash,1611661321,Detroit Shock,2,1,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,-8,1,0,20030716,IND,DET,2003-04
+Shot Chart Detail,1020300130,12,100721,Swin Cash,1611661321,Detroit Shock,1,18,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030718,DET,SEA,2003-04
+Shot Chart Detail,1020300130,16,100721,Swin Cash,1611661321,Detroit Shock,1,18,12,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,128,8,1,1,20030718,DET,SEA,2003-04
+Shot Chart Detail,1020300130,74,100721,Swin Cash,1611661321,Detroit Shock,1,11,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-200,84,1,0,20030718,DET,SEA,2003-04
+Shot Chart Detail,1020300130,186,100721,Swin Cash,1611661321,Detroit Shock,1,2,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030718,DET,SEA,2003-04
+Shot Chart Detail,1020300130,231,100721,Swin Cash,1611661321,Detroit Shock,2,14,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-214,76,1,0,20030718,DET,SEA,2003-04
+Shot Chart Detail,1020300130,283,100721,Swin Cash,1611661321,Detroit Shock,2,8,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,202,68,1,1,20030718,DET,SEA,2003-04
+Shot Chart Detail,1020300132,7,100721,Swin Cash,1611661321,Detroit Shock,1,18,50,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,0,1,0,20030719,CLE,DET,2003-04
+Shot Chart Detail,1020300132,32,100721,Swin Cash,1611661321,Detroit Shock,1,16,44,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,18,1,0,20030719,CLE,DET,2003-04
+Shot Chart Detail,1020300132,34,100721,Swin Cash,1611661321,Detroit Shock,1,16,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,3,20,1,0,20030719,CLE,DET,2003-04
+Shot Chart Detail,1020300132,43,100721,Swin Cash,1611661321,Detroit Shock,1,15,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-43,81,1,0,20030719,CLE,DET,2003-04
+Shot Chart Detail,1020300132,148,100721,Swin Cash,1611661321,Detroit Shock,1,6,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-3,1,0,20030719,CLE,DET,2003-04
+Shot Chart Detail,1020300132,151,100721,Swin Cash,1611661321,Detroit Shock,1,6,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-9,1,1,20030719,CLE,DET,2003-04
+Shot Chart Detail,1020300132,195,100721,Swin Cash,1611661321,Detroit Shock,1,2,30,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,133,54,1,0,20030719,CLE,DET,2003-04
+Shot Chart Detail,1020300132,208,100721,Swin Cash,1611661321,Detroit Shock,1,1,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,-6,1,1,20030719,CLE,DET,2003-04
+Shot Chart Detail,1020300132,247,100721,Swin Cash,1611661321,Detroit Shock,1,0,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20030719,CLE,DET,2003-04
+Shot Chart Detail,1020300132,271,100721,Swin Cash,1611661321,Detroit Shock,2,15,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,57,125,1,0,20030719,CLE,DET,2003-04
+Shot Chart Detail,1020300132,301,100721,Swin Cash,1611661321,Detroit Shock,2,13,36,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,30,1,1,20030719,CLE,DET,2003-04
+Shot Chart Detail,1020300132,309,100721,Swin Cash,1611661321,Detroit Shock,2,12,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-205,48,1,1,20030719,CLE,DET,2003-04
+Shot Chart Detail,1020300132,362,100721,Swin Cash,1611661321,Detroit Shock,2,6,59,Missed Shot,Running Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,31,1,0,20030719,CLE,DET,2003-04
+Shot Chart Detail,1020300132,406,100721,Swin Cash,1611661321,Detroit Shock,2,2,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,46,110,1,0,20030719,CLE,DET,2003-04
+Shot Chart Detail,1020300140,5,100721,Swin Cash,1611661321,Detroit Shock,1,19,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030722,DET,CLE,2003-04
+Shot Chart Detail,1020300140,7,100721,Swin Cash,1611661321,Detroit Shock,1,18,33,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,107,7,1,0,20030722,DET,CLE,2003-04
+Shot Chart Detail,1020300140,20,100721,Swin Cash,1611661321,Detroit Shock,1,17,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,71,22,1,0,20030722,DET,CLE,2003-04
+Shot Chart Detail,1020300140,193,100721,Swin Cash,1611661321,Detroit Shock,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,20,-184,100,1,0,20030722,DET,CLE,2003-04
+Shot Chart Detail,1020300140,243,100721,Swin Cash,1611661321,Detroit Shock,2,12,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-117,197,1,0,20030722,DET,CLE,2003-04
+Shot Chart Detail,1020300140,267,100721,Swin Cash,1611661321,Detroit Shock,2,9,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-128,104,1,0,20030722,DET,CLE,2003-04
+Shot Chart Detail,1020300140,333,100721,Swin Cash,1611661321,Detroit Shock,2,4,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030722,DET,CLE,2003-04
+Shot Chart Detail,1020300140,350,100721,Swin Cash,1611661321,Detroit Shock,2,3,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030722,DET,CLE,2003-04
+Shot Chart Detail,1020300140,373,100721,Swin Cash,1611661321,Detroit Shock,2,0,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030722,DET,CLE,2003-04
+Shot Chart Detail,1020300140,376,100721,Swin Cash,1611661321,Detroit Shock,2,0,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030722,DET,CLE,2003-04
+Shot Chart Detail,1020300146,54,100721,Swin Cash,1611661321,Detroit Shock,1,18,33,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030724,CHA,DET,2003-04
+Shot Chart Detail,1020300146,30,100721,Swin Cash,1611661321,Detroit Shock,1,14,50,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,0,1,0,20030724,CHA,DET,2003-04
+Shot Chart Detail,1020300146,38,100721,Swin Cash,1611661321,Detroit Shock,1,13,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030724,CHA,DET,2003-04
+Shot Chart Detail,1020300146,42,100721,Swin Cash,1611661321,Detroit Shock,1,13,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030724,CHA,DET,2003-04
+Shot Chart Detail,1020300146,60,100721,Swin Cash,1611661321,Detroit Shock,1,11,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030724,CHA,DET,2003-04
+Shot Chart Detail,1020300146,66,100721,Swin Cash,1611661321,Detroit Shock,1,11,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030724,CHA,DET,2003-04
+Shot Chart Detail,1020300146,104,100721,Swin Cash,1611661321,Detroit Shock,1,8,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030724,CHA,DET,2003-04
+Shot Chart Detail,1020300146,117,100721,Swin Cash,1611661321,Detroit Shock,1,7,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,3,72,1,0,20030724,CHA,DET,2003-04
+Shot Chart Detail,1020300146,139,100721,Swin Cash,1611661321,Detroit Shock,1,6,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030724,CHA,DET,2003-04
+Shot Chart Detail,1020300146,231,100721,Swin Cash,1611661321,Detroit Shock,1,0,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030724,CHA,DET,2003-04
+Shot Chart Detail,1020300146,288,100721,Swin Cash,1611661321,Detroit Shock,2,11,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030724,CHA,DET,2003-04
+Shot Chart Detail,1020300146,371,100721,Swin Cash,1611661321,Detroit Shock,2,4,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030724,CHA,DET,2003-04
+Shot Chart Detail,1020300146,378,100721,Swin Cash,1611661321,Detroit Shock,2,3,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030724,CHA,DET,2003-04
+Shot Chart Detail,1020300146,380,100721,Swin Cash,1611661321,Detroit Shock,2,3,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-120,68,1,0,20030724,CHA,DET,2003-04
+Shot Chart Detail,1020300156,15,100721,Swin Cash,1611661321,Detroit Shock,1,18,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,87,125,1,1,20030727,DET,WAS,2003-04
+Shot Chart Detail,1020300156,17,100721,Swin Cash,1611661321,Detroit Shock,1,17,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,-8,1,1,20030727,DET,WAS,2003-04
+Shot Chart Detail,1020300156,51,100721,Swin Cash,1611661321,Detroit Shock,1,14,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030727,DET,WAS,2003-04
+Shot Chart Detail,1020300156,60,100721,Swin Cash,1611661321,Detroit Shock,1,13,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-77,155,1,0,20030727,DET,WAS,2003-04
+Shot Chart Detail,1020300156,80,100721,Swin Cash,1611661321,Detroit Shock,1,11,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030727,DET,WAS,2003-04
+Shot Chart Detail,1020300156,101,100721,Swin Cash,1611661321,Detroit Shock,1,9,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030727,DET,WAS,2003-04
+Shot Chart Detail,1020300156,104,100721,Swin Cash,1611661321,Detroit Shock,1,9,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030727,DET,WAS,2003-04
+Shot Chart Detail,1020300156,151,100721,Swin Cash,1611661321,Detroit Shock,1,4,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030727,DET,WAS,2003-04
+Shot Chart Detail,1020300156,219,100721,Swin Cash,1611661321,Detroit Shock,1,0,35,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-126,43,1,1,20030727,DET,WAS,2003-04
+Shot Chart Detail,1020300156,222,100721,Swin Cash,1611661321,Detroit Shock,1,0,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-26,87,1,0,20030727,DET,WAS,2003-04
+Shot Chart Detail,1020300156,244,100721,Swin Cash,1611661321,Detroit Shock,2,14,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,10,58,1,0,20030727,DET,WAS,2003-04
+Shot Chart Detail,1020300156,252,100721,Swin Cash,1611661321,Detroit Shock,2,13,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030727,DET,WAS,2003-04
+Shot Chart Detail,1020300156,269,100721,Swin Cash,1611661321,Detroit Shock,2,11,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030727,DET,WAS,2003-04
+Shot Chart Detail,1020300156,345,100721,Swin Cash,1611661321,Detroit Shock,2,4,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030727,DET,WAS,2003-04
+Shot Chart Detail,1020300159,7,100721,Swin Cash,1611661321,Detroit Shock,1,19,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,0,20030729,CLE,DET,2003-04
+Shot Chart Detail,1020300159,13,100721,Swin Cash,1611661321,Detroit Shock,1,18,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,126,81,1,1,20030729,CLE,DET,2003-04
+Shot Chart Detail,1020300159,63,100721,Swin Cash,1611661321,Detroit Shock,1,14,8,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,41,115,1,1,20030729,CLE,DET,2003-04
+Shot Chart Detail,1020300159,91,100721,Swin Cash,1611661321,Detroit Shock,1,10,54,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,2,1,1,20030729,CLE,DET,2003-04
+Shot Chart Detail,1020300159,171,100721,Swin Cash,1611661321,Detroit Shock,1,3,28,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,7,1,1,20030729,CLE,DET,2003-04
+Shot Chart Detail,1020300159,187,100721,Swin Cash,1611661321,Detroit Shock,1,1,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,18,1,0,20030729,CLE,DET,2003-04
+Shot Chart Detail,1020300159,242,100721,Swin Cash,1611661321,Detroit Shock,1,0,56,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,30,1,1,20030729,CLE,DET,2003-04
+Shot Chart Detail,1020300159,249,100721,Swin Cash,1611661321,Detroit Shock,1,0,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,-5,1,1,20030729,CLE,DET,2003-04
+Shot Chart Detail,1020300159,261,100721,Swin Cash,1611661321,Detroit Shock,2,15,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,5,1,1,20030729,CLE,DET,2003-04
+Shot Chart Detail,1020300159,285,100721,Swin Cash,1611661321,Detroit Shock,2,12,41,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,49,1,1,20030729,CLE,DET,2003-04
+Shot Chart Detail,1020300159,304,100721,Swin Cash,1611661321,Detroit Shock,2,11,10,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-51,15,1,1,20030729,CLE,DET,2003-04
+Shot Chart Detail,1020300159,327,100721,Swin Cash,1611661321,Detroit Shock,2,8,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,1,20030729,CLE,DET,2003-04
+Shot Chart Detail,1020300159,350,100721,Swin Cash,1611661321,Detroit Shock,2,7,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-41,138,1,0,20030729,CLE,DET,2003-04
+Shot Chart Detail,1020300159,354,100721,Swin Cash,1611661321,Detroit Shock,2,6,34,Missed Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,3,30,1,0,20030729,CLE,DET,2003-04
+Shot Chart Detail,1020300159,377,100721,Swin Cash,1611661321,Detroit Shock,2,3,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,98,91,1,0,20030729,CLE,DET,2003-04
+Shot Chart Detail,1020300159,394,100721,Swin Cash,1611661321,Detroit Shock,2,0,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-28,141,1,1,20030729,CLE,DET,2003-04
+Shot Chart Detail,1020300167,5,100721,Swin Cash,1611661321,Detroit Shock,1,19,29,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030801,NYL,DET,2003-04
+Shot Chart Detail,1020300167,11,100721,Swin Cash,1611661321,Detroit Shock,1,18,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-49,117,1,0,20030801,NYL,DET,2003-04
+Shot Chart Detail,1020300167,50,100721,Swin Cash,1611661321,Detroit Shock,1,12,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030801,NYL,DET,2003-04
+Shot Chart Detail,1020300167,60,100721,Swin Cash,1611661321,Detroit Shock,1,11,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030801,NYL,DET,2003-04
+Shot Chart Detail,1020300167,148,100721,Swin Cash,1611661321,Detroit Shock,1,3,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,141,169,1,0,20030801,NYL,DET,2003-04
+Shot Chart Detail,1020300167,192,100721,Swin Cash,1611661321,Detroit Shock,1,2,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030801,NYL,DET,2003-04
+Shot Chart Detail,1020300167,154,100721,Swin Cash,1611661321,Detroit Shock,1,2,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,90,46,1,0,20030801,NYL,DET,2003-04
+Shot Chart Detail,1020300167,165,100721,Swin Cash,1611661321,Detroit Shock,1,1,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030801,NYL,DET,2003-04
+Shot Chart Detail,1020300167,182,100721,Swin Cash,1611661321,Detroit Shock,2,16,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-82,81,1,0,20030801,NYL,DET,2003-04
+Shot Chart Detail,1020300167,268,100721,Swin Cash,1611661321,Detroit Shock,2,8,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030801,NYL,DET,2003-04
+Shot Chart Detail,1020300167,287,100721,Swin Cash,1611661321,Detroit Shock,2,6,24,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030801,NYL,DET,2003-04
+Shot Chart Detail,1020300167,291,100721,Swin Cash,1611661321,Detroit Shock,2,5,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-138,171,1,1,20030801,NYL,DET,2003-04
+Shot Chart Detail,1020300167,294,100721,Swin Cash,1611661321,Detroit Shock,2,5,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030801,NYL,DET,2003-04
+Shot Chart Detail,1020300167,308,100721,Swin Cash,1611661321,Detroit Shock,2,4,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030801,NYL,DET,2003-04
+Shot Chart Detail,1020300167,318,100721,Swin Cash,1611661321,Detroit Shock,2,2,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030801,NYL,DET,2003-04
+Shot Chart Detail,1020300167,324,100721,Swin Cash,1611661321,Detroit Shock,2,1,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-95,86,1,0,20030801,NYL,DET,2003-04
+Shot Chart Detail,1020300170,9,100721,Swin Cash,1611661321,Detroit Shock,1,19,4,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-103,33,1,1,20030802,DET,IND,2003-04
+Shot Chart Detail,1020300170,51,100721,Swin Cash,1611661321,Detroit Shock,1,14,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030802,DET,IND,2003-04
+Shot Chart Detail,1020300170,70,100721,Swin Cash,1611661321,Detroit Shock,1,12,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,121,84,1,1,20030802,DET,IND,2003-04
+Shot Chart Detail,1020300170,240,100721,Swin Cash,1611661321,Detroit Shock,1,1,11,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,34,71,1,1,20030802,DET,IND,2003-04
+Shot Chart Detail,1020300170,244,100721,Swin Cash,1611661321,Detroit Shock,1,0,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030802,DET,IND,2003-04
+Shot Chart Detail,1020300170,287,100721,Swin Cash,1611661321,Detroit Shock,2,12,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030802,DET,IND,2003-04
+Shot Chart Detail,1020300170,293,100721,Swin Cash,1611661321,Detroit Shock,2,11,59,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-79,51,1,0,20030802,DET,IND,2003-04
+Shot Chart Detail,1020300170,355,100721,Swin Cash,1611661321,Detroit Shock,2,6,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-72,145,1,0,20030802,DET,IND,2003-04
+Shot Chart Detail,1020300178,19,100721,Swin Cash,1611661321,Detroit Shock,1,18,14,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,46,102,1,1,20030805,CON,DET,2003-04
+Shot Chart Detail,1020300178,53,100721,Swin Cash,1611661321,Detroit Shock,1,14,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-107,74,1,1,20030805,CON,DET,2003-04
+Shot Chart Detail,1020300178,68,100721,Swin Cash,1611661321,Detroit Shock,1,12,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-3,20,1,1,20030805,CON,DET,2003-04
+Shot Chart Detail,1020300178,79,100721,Swin Cash,1611661321,Detroit Shock,1,10,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,8,1,1,20030805,CON,DET,2003-04
+Shot Chart Detail,1020300178,125,100721,Swin Cash,1611661321,Detroit Shock,1,6,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030805,CON,DET,2003-04
+Shot Chart Detail,1020300178,138,100721,Swin Cash,1611661321,Detroit Shock,1,5,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,24,64,1,0,20030805,CON,DET,2003-04
+Shot Chart Detail,1020300178,149,100721,Swin Cash,1611661321,Detroit Shock,1,4,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,5,1,1,20030805,CON,DET,2003-04
+Shot Chart Detail,1020300178,169,100721,Swin Cash,1611661321,Detroit Shock,1,3,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,120,2,1,0,20030805,CON,DET,2003-04
+Shot Chart Detail,1020300178,178,100721,Swin Cash,1611661321,Detroit Shock,1,2,35,Made Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,21,31,1,1,20030805,CON,DET,2003-04
+Shot Chart Detail,1020300178,199,100721,Swin Cash,1611661321,Detroit Shock,1,0,21,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,64,91,1,1,20030805,CON,DET,2003-04
+Shot Chart Detail,1020300178,262,100721,Swin Cash,1611661321,Detroit Shock,2,13,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2,51,1,0,20030805,CON,DET,2003-04
+Shot Chart Detail,1020300178,267,100721,Swin Cash,1611661321,Detroit Shock,2,12,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,8,25,1,1,20030805,CON,DET,2003-04
+Shot Chart Detail,1020300178,275,100721,Swin Cash,1611661321,Detroit Shock,2,10,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,98,212,1,0,20030805,CON,DET,2003-04
+Shot Chart Detail,1020300178,289,100721,Swin Cash,1611661321,Detroit Shock,2,9,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-107,17,1,0,20030805,CON,DET,2003-04
+Shot Chart Detail,1020300178,299,100721,Swin Cash,1611661321,Detroit Shock,2,8,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,24,35,1,0,20030805,CON,DET,2003-04
+Shot Chart Detail,1020300178,310,100721,Swin Cash,1611661321,Detroit Shock,2,6,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,87,89,1,0,20030805,CON,DET,2003-04
+Shot Chart Detail,1020300178,315,100721,Swin Cash,1611661321,Detroit Shock,2,6,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-43,17,1,0,20030805,CON,DET,2003-04
+Shot Chart Detail,1020300181,9,100721,Swin Cash,1611661321,Detroit Shock,1,18,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,10,1,0,20030806,WAS,DET,2003-04
+Shot Chart Detail,1020300181,24,100721,Swin Cash,1611661321,Detroit Shock,1,16,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,-23,1,1,20030806,WAS,DET,2003-04
+Shot Chart Detail,1020300181,40,100721,Swin Cash,1611661321,Detroit Shock,1,14,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,11,217,1,0,20030806,WAS,DET,2003-04
+Shot Chart Detail,1020300181,66,100721,Swin Cash,1611661321,Detroit Shock,1,11,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,95,-8,1,0,20030806,WAS,DET,2003-04
+Shot Chart Detail,1020300181,97,100721,Swin Cash,1611661321,Detroit Shock,1,8,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,-3,1,1,20030806,WAS,DET,2003-04
+Shot Chart Detail,1020300181,109,100721,Swin Cash,1611661321,Detroit Shock,1,7,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-113,-21,1,1,20030806,WAS,DET,2003-04
+Shot Chart Detail,1020300181,139,100721,Swin Cash,1611661321,Detroit Shock,1,3,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-82,-21,1,0,20030806,WAS,DET,2003-04
+Shot Chart Detail,1020300181,192,100721,Swin Cash,1611661321,Detroit Shock,1,1,6,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-72,45,1,1,20030806,WAS,DET,2003-04
+Shot Chart Detail,1020300181,216,100721,Swin Cash,1611661321,Detroit Shock,2,15,23,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,52,10,1,1,20030806,WAS,DET,2003-04
+Shot Chart Detail,1020300181,220,100721,Swin Cash,1611661321,Detroit Shock,2,14,26,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,12,1,0,20030806,WAS,DET,2003-04
+Shot Chart Detail,1020300181,228,100721,Swin Cash,1611661321,Detroit Shock,2,14,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,-3,1,0,20030806,WAS,DET,2003-04
+Shot Chart Detail,1020300181,232,100721,Swin Cash,1611661321,Detroit Shock,2,13,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,12,1,0,20030806,WAS,DET,2003-04
+Shot Chart Detail,1020300181,279,100721,Swin Cash,1611661321,Detroit Shock,2,10,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,149,-28,1,0,20030806,WAS,DET,2003-04
+Shot Chart Detail,1020300181,333,100721,Swin Cash,1611661321,Detroit Shock,2,4,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-41,-3,1,0,20030806,WAS,DET,2003-04
+Shot Chart Detail,1020300181,339,100721,Swin Cash,1611661321,Detroit Shock,2,3,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,44,59,1,0,20030806,WAS,DET,2003-04
+Shot Chart Detail,1020300181,349,100721,Swin Cash,1611661321,Detroit Shock,2,2,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,13,1,0,20030806,WAS,DET,2003-04
+Shot Chart Detail,1020300187,11,100721,Swin Cash,1611661321,Detroit Shock,1,18,5,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,85,15,1,1,20030808,DET,HOU,2003-04
+Shot Chart Detail,1020300187,14,100721,Swin Cash,1611661321,Detroit Shock,1,17,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-77,18,1,0,20030808,DET,HOU,2003-04
+Shot Chart Detail,1020300187,23,100721,Swin Cash,1611661321,Detroit Shock,1,15,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030808,DET,HOU,2003-04
+Shot Chart Detail,1020300187,34,100721,Swin Cash,1611661321,Detroit Shock,1,14,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-159,132,1,0,20030808,DET,HOU,2003-04
+Shot Chart Detail,1020300187,56,100721,Swin Cash,1611661321,Detroit Shock,1,10,58,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030808,DET,HOU,2003-04
+Shot Chart Detail,1020300187,91,100721,Swin Cash,1611661321,Detroit Shock,1,6,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,13,1,0,20030808,DET,HOU,2003-04
+Shot Chart Detail,1020300187,95,100721,Swin Cash,1611661321,Detroit Shock,1,6,4,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,38,1,0,20030808,DET,HOU,2003-04
+Shot Chart Detail,1020300187,107,100721,Swin Cash,1611661321,Detroit Shock,1,5,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-130,69,1,0,20030808,DET,HOU,2003-04
+Shot Chart Detail,1020300187,180,100721,Swin Cash,1611661321,Detroit Shock,2,16,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,54,49,1,1,20030808,DET,HOU,2003-04
+Shot Chart Detail,1020300187,186,100721,Swin Cash,1611661321,Detroit Shock,2,15,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030808,DET,HOU,2003-04
+Shot Chart Detail,1020300187,217,100721,Swin Cash,1611661321,Detroit Shock,2,12,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,213,64,1,0,20030808,DET,HOU,2003-04
+Shot Chart Detail,1020300187,264,100721,Swin Cash,1611661321,Detroit Shock,2,7,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030808,DET,HOU,2003-04
+Shot Chart Detail,1020300187,270,100721,Swin Cash,1611661321,Detroit Shock,2,6,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030808,DET,HOU,2003-04
+Shot Chart Detail,1020300195,2,100721,Swin Cash,1611661321,Detroit Shock,1,19,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,-5,1,0,20030810,DET,NYL,2003-04
+Shot Chart Detail,1020300195,135,100721,Swin Cash,1611661321,Detroit Shock,1,7,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030810,DET,NYL,2003-04
+Shot Chart Detail,1020300195,147,100721,Swin Cash,1611661321,Detroit Shock,1,5,59,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-26,49,1,1,20030810,DET,NYL,2003-04
+Shot Chart Detail,1020300195,150,100721,Swin Cash,1611661321,Detroit Shock,1,5,20,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,66,82,1,1,20030810,DET,NYL,2003-04
+Shot Chart Detail,1020300195,217,100721,Swin Cash,1611661321,Detroit Shock,1,2,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030810,DET,NYL,2003-04
+Shot Chart Detail,1020300195,225,100721,Swin Cash,1611661321,Detroit Shock,1,0,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-84,224,1,0,20030810,DET,NYL,2003-04
+Shot Chart Detail,1020300195,233,100721,Swin Cash,1611661321,Detroit Shock,1,0,36,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-123,7,1,0,20030810,DET,NYL,2003-04
+Shot Chart Detail,1020300195,243,100721,Swin Cash,1611661321,Detroit Shock,2,15,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,5,1,0,20030810,DET,NYL,2003-04
+Shot Chart Detail,1020300195,255,100721,Swin Cash,1611661321,Detroit Shock,2,13,51,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,98,22,1,0,20030810,DET,NYL,2003-04
+Shot Chart Detail,1020300195,301,100721,Swin Cash,1611661321,Detroit Shock,2,8,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,195,100,1,1,20030810,DET,NYL,2003-04
+Shot Chart Detail,1020300195,312,100721,Swin Cash,1611661321,Detroit Shock,2,6,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030810,DET,NYL,2003-04
+Shot Chart Detail,1020300195,401,100721,Swin Cash,1611661321,Detroit Shock,3,2,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030810,DET,NYL,2003-04
+Shot Chart Detail,1020300201,5,100721,Swin Cash,1611661321,Detroit Shock,1,19,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030813,PHO,DET,2003-04
+Shot Chart Detail,1020300201,32,100721,Swin Cash,1611661321,Detroit Shock,1,15,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-143,20,1,1,20030813,PHO,DET,2003-04
+Shot Chart Detail,1020300201,52,100721,Swin Cash,1611661321,Detroit Shock,1,12,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,133,43,1,0,20030813,PHO,DET,2003-04
+Shot Chart Detail,1020300201,80,100721,Swin Cash,1611661321,Detroit Shock,1,10,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030813,PHO,DET,2003-04
+Shot Chart Detail,1020300201,200,100721,Swin Cash,1611661321,Detroit Shock,1,1,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030813,PHO,DET,2003-04
+Shot Chart Detail,1020300201,168,100721,Swin Cash,1611661321,Detroit Shock,1,1,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030813,PHO,DET,2003-04
+Shot Chart Detail,1020300201,206,100721,Swin Cash,1611661321,Detroit Shock,1,1,9,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,74,133,1,1,20030813,PHO,DET,2003-04
+Shot Chart Detail,1020300201,180,100721,Swin Cash,1611661321,Detroit Shock,1,0,12,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-3,66,1,1,20030813,PHO,DET,2003-04
+Shot Chart Detail,1020300201,240,100721,Swin Cash,1611661321,Detroit Shock,2,14,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,18,186,1,1,20030813,PHO,DET,2003-04
+Shot Chart Detail,1020300201,320,100721,Swin Cash,1611661321,Detroit Shock,2,7,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030813,PHO,DET,2003-04
+Shot Chart Detail,1020300201,368,100721,Swin Cash,1611661321,Detroit Shock,2,2,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030813,PHO,DET,2003-04
+Shot Chart Detail,1020300201,383,100721,Swin Cash,1611661321,Detroit Shock,2,0,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030813,PHO,DET,2003-04
+Shot Chart Detail,1020300207,7,100721,Swin Cash,1611661321,Detroit Shock,1,19,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030815,SAC,DET,2003-04
+Shot Chart Detail,1020300207,12,100721,Swin Cash,1611661321,Detroit Shock,1,19,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030815,SAC,DET,2003-04
+Shot Chart Detail,1020300207,43,100721,Swin Cash,1611661321,Detroit Shock,1,16,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030815,SAC,DET,2003-04
+Shot Chart Detail,1020300207,61,100721,Swin Cash,1611661321,Detroit Shock,1,14,47,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-36,20,1,0,20030815,SAC,DET,2003-04
+Shot Chart Detail,1020300207,69,100721,Swin Cash,1611661321,Detroit Shock,1,14,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,5,1,0,20030815,SAC,DET,2003-04
+Shot Chart Detail,1020300207,74,100721,Swin Cash,1611661321,Detroit Shock,1,13,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,59,43,1,0,20030815,SAC,DET,2003-04
+Shot Chart Detail,1020300207,110,100721,Swin Cash,1611661321,Detroit Shock,1,9,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030815,SAC,DET,2003-04
+Shot Chart Detail,1020300207,169,100721,Swin Cash,1611661321,Detroit Shock,1,4,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030815,SAC,DET,2003-04
+Shot Chart Detail,1020300207,228,100721,Swin Cash,1611661321,Detroit Shock,1,2,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,100,179,1,1,20030815,SAC,DET,2003-04
+Shot Chart Detail,1020300207,207,100721,Swin Cash,1611661321,Detroit Shock,1,1,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-69,201,1,1,20030815,SAC,DET,2003-04
+Shot Chart Detail,1020300207,384,100721,Swin Cash,1611661321,Detroit Shock,2,4,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,120,179,1,0,20030815,SAC,DET,2003-04
+Shot Chart Detail,1020300207,429,100721,Swin Cash,1611661321,Detroit Shock,2,2,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030815,SAC,DET,2003-04
+Shot Chart Detail,1020300207,436,100721,Swin Cash,1611661321,Detroit Shock,2,1,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-145,160,1,0,20030815,SAC,DET,2003-04
+Shot Chart Detail,1020300207,440,100721,Swin Cash,1611661321,Detroit Shock,2,1,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,1,81,1,1,20030815,SAC,DET,2003-04
+Shot Chart Detail,1020300207,453,100721,Swin Cash,1611661321,Detroit Shock,2,0,38,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,59,33,1,1,20030815,SAC,DET,2003-04
+Shot Chart Detail,1020300215,15,100721,Swin Cash,1611661321,Detroit Shock,1,18,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,13,1,0,20030817,SEA,DET,2003-04
+Shot Chart Detail,1020300215,17,100721,Swin Cash,1611661321,Detroit Shock,1,18,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-44,28,1,0,20030817,SEA,DET,2003-04
+Shot Chart Detail,1020300215,61,100721,Swin Cash,1611661321,Detroit Shock,1,14,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,133,92,1,0,20030817,SEA,DET,2003-04
+Shot Chart Detail,1020300215,137,100721,Swin Cash,1611661321,Detroit Shock,1,5,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030817,SEA,DET,2003-04
+Shot Chart Detail,1020300215,143,100721,Swin Cash,1611661321,Detroit Shock,1,5,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030817,SEA,DET,2003-04
+Shot Chart Detail,1020300215,216,100721,Swin Cash,1611661321,Detroit Shock,1,1,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,19,90,178,1,0,20030817,SEA,DET,2003-04
+Shot Chart Detail,1020300215,237,100721,Swin Cash,1611661321,Detroit Shock,2,15,37,Made Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030817,SEA,DET,2003-04
+Shot Chart Detail,1020300215,247,100721,Swin Cash,1611661321,Detroit Shock,2,14,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030817,SEA,DET,2003-04
+Shot Chart Detail,1020300215,315,100721,Swin Cash,1611661321,Detroit Shock,2,6,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030817,SEA,DET,2003-04
+Shot Chart Detail,1020300225,11,100721,Swin Cash,1611661321,Detroit Shock,1,18,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-77,48,1,0,20030821,DET,CLE,2003-04
+Shot Chart Detail,1020300225,29,100721,Swin Cash,1611661321,Detroit Shock,1,16,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030821,DET,CLE,2003-04
+Shot Chart Detail,1020300225,39,100721,Swin Cash,1611661321,Detroit Shock,1,15,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030821,DET,CLE,2003-04
+Shot Chart Detail,1020300225,46,100721,Swin Cash,1611661321,Detroit Shock,1,14,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,23,38,1,0,20030821,DET,CLE,2003-04
+Shot Chart Detail,1020300225,83,100721,Swin Cash,1611661321,Detroit Shock,1,10,45,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-44,35,1,0,20030821,DET,CLE,2003-04
+Shot Chart Detail,1020300225,207,100721,Swin Cash,1611661321,Detroit Shock,1,2,49,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,131,-1,1,1,20030821,DET,CLE,2003-04
+Shot Chart Detail,1020300225,212,100721,Swin Cash,1611661321,Detroit Shock,1,2,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,67,15,1,0,20030821,DET,CLE,2003-04
+Shot Chart Detail,1020300225,230,100721,Swin Cash,1611661321,Detroit Shock,1,0,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-133,86,1,0,20030821,DET,CLE,2003-04
+Shot Chart Detail,1020300225,235,100721,Swin Cash,1611661321,Detroit Shock,1,0,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030821,DET,CLE,2003-04
+Shot Chart Detail,1020300225,261,100721,Swin Cash,1611661321,Detroit Shock,2,13,31,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,43,43,1,1,20030821,DET,CLE,2003-04
+Shot Chart Detail,1020300225,263,100721,Swin Cash,1611661321,Detroit Shock,2,13,4,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-105,13,1,0,20030821,DET,CLE,2003-04
+Shot Chart Detail,1020300225,329,100721,Swin Cash,1611661321,Detroit Shock,2,5,5,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030821,DET,CLE,2003-04
+Shot Chart Detail,1020300225,343,100721,Swin Cash,1611661321,Detroit Shock,2,4,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030821,DET,CLE,2003-04
+Shot Chart Detail,1020300229,15,100721,Swin Cash,1611661321,Detroit Shock,1,18,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030823,MIN,DET,2003-04
+Shot Chart Detail,1020300229,24,100721,Swin Cash,1611661321,Detroit Shock,1,17,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,85,48,1,0,20030823,MIN,DET,2003-04
+Shot Chart Detail,1020300229,41,100721,Swin Cash,1611661321,Detroit Shock,1,14,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030823,MIN,DET,2003-04
+Shot Chart Detail,1020300229,52,100721,Swin Cash,1611661321,Detroit Shock,1,13,22,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,10,38,1,0,20030823,MIN,DET,2003-04
+Shot Chart Detail,1020300229,133,100721,Swin Cash,1611661321,Detroit Shock,1,5,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030823,MIN,DET,2003-04
+Shot Chart Detail,1020300229,172,100721,Swin Cash,1611661321,Detroit Shock,1,1,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-56,150,1,0,20030823,MIN,DET,2003-04
+Shot Chart Detail,1020300229,215,100721,Swin Cash,1611661321,Detroit Shock,1,1,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030823,MIN,DET,2003-04
+Shot Chart Detail,1020300229,264,100721,Swin Cash,1611661321,Detroit Shock,2,13,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030823,MIN,DET,2003-04
+Shot Chart Detail,1020300229,332,100721,Swin Cash,1611661321,Detroit Shock,2,7,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,163,59,1,0,20030823,MIN,DET,2003-04
+Shot Chart Detail,1020300229,348,100721,Swin Cash,1611661321,Detroit Shock,2,5,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030823,MIN,DET,2003-04
+Shot Chart Detail,1020300229,442,100721,Swin Cash,1611661321,Detroit Shock,3,4,40,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,57,56,1,1,20030823,MIN,DET,2003-04
+Shot Chart Detail,1020300229,446,100721,Swin Cash,1611661321,Detroit Shock,3,3,52,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-41,28,1,1,20030823,MIN,DET,2003-04
+Shot Chart Detail,1020300229,498,100721,Swin Cash,1611661321,Detroit Shock,3,0,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030823,MIN,DET,2003-04

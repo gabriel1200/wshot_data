@@ -1,0 +1,79 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1029700003,11,100052,Deborah Carter,1611661319,Utah Starzz,1,18,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,131,88,1,1,19970621,UTA,SAC,1997-98
+Shot Chart Detail,1029700003,24,100052,Deborah Carter,1611661319,Utah Starzz,1,15,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-44,108,1,1,19970621,UTA,SAC,1997-98
+Shot Chart Detail,1029700003,127,100052,Deborah Carter,1611661319,Utah Starzz,1,5,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970621,UTA,SAC,1997-98
+Shot Chart Detail,1029700003,135,100052,Deborah Carter,1611661319,Utah Starzz,1,4,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970621,UTA,SAC,1997-98
+Shot Chart Detail,1029700003,226,100052,Deborah Carter,1611661319,Utah Starzz,2,15,45,Missed Shot,No Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970621,UTA,SAC,1997-98
+Shot Chart Detail,1029700005,11,100052,Deborah Carter,1611661319,Utah Starzz,1,18,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-81,34,1,0,19970623,UTA,LAS,1997-98
+Shot Chart Detail,1029700005,60,100052,Deborah Carter,1611661319,Utah Starzz,1,13,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,103,2,1,1,19970623,UTA,LAS,1997-98
+Shot Chart Detail,1029700005,65,100052,Deborah Carter,1611661319,Utah Starzz,1,13,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,-12,1,1,19970623,UTA,LAS,1997-98
+Shot Chart Detail,1029700005,211,100052,Deborah Carter,1611661319,Utah Starzz,1,2,17,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-62,4,1,1,19970623,UTA,LAS,1997-98
+Shot Chart Detail,1029700005,246,100052,Deborah Carter,1611661319,Utah Starzz,1,2,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,-14,1,1,19970623,UTA,LAS,1997-98
+Shot Chart Detail,1029700005,255,100052,Deborah Carter,1611661319,Utah Starzz,1,0,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,-9,1,1,19970623,UTA,LAS,1997-98
+Shot Chart Detail,1029700005,382,100052,Deborah Carter,1611661319,Utah Starzz,2,6,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-12,173,1,0,19970623,UTA,LAS,1997-98
+Shot Chart Detail,1029700009,2,100052,Deborah Carter,1611661319,Utah Starzz,1,19,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-112,78,1,0,19970626,CLE,UTA,1997-98
+Shot Chart Detail,1029700009,9,100052,Deborah Carter,1611661319,Utah Starzz,1,18,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,47,43,1,0,19970626,CLE,UTA,1997-98
+Shot Chart Detail,1029700009,15,100052,Deborah Carter,1611661319,Utah Starzz,1,18,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,92,45,1,0,19970626,CLE,UTA,1997-98
+Shot Chart Detail,1029700009,109,100052,Deborah Carter,1611661319,Utah Starzz,1,8,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,15,1,0,19970626,CLE,UTA,1997-98
+Shot Chart Detail,1029700009,111,100052,Deborah Carter,1611661319,Utah Starzz,1,8,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,8,1,1,19970626,CLE,UTA,1997-98
+Shot Chart Detail,1029700009,117,100052,Deborah Carter,1611661319,Utah Starzz,1,7,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,131,39,1,0,19970626,CLE,UTA,1997-98
+Shot Chart Detail,1029700009,191,100052,Deborah Carter,1611661319,Utah Starzz,1,2,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,131,62,1,0,19970626,CLE,UTA,1997-98
+Shot Chart Detail,1029700009,242,100052,Deborah Carter,1611661319,Utah Starzz,2,12,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,99,-16,1,1,19970626,CLE,UTA,1997-98
+Shot Chart Detail,1029700013,5,100052,Deborah Carter,1611661319,Utah Starzz,1,19,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,38,86,1,0,19970628,UTA,HOU,1997-98
+Shot Chart Detail,1029700013,18,100052,Deborah Carter,1611661319,Utah Starzz,1,17,36,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,21,125,1,1,19970628,UTA,HOU,1997-98
+Shot Chart Detail,1029700013,87,100052,Deborah Carter,1611661319,Utah Starzz,1,8,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,79,106,1,0,19970628,UTA,HOU,1997-98
+Shot Chart Detail,1029700013,98,100052,Deborah Carter,1611661319,Utah Starzz,1,7,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,73,103,1,0,19970628,UTA,HOU,1997-98
+Shot Chart Detail,1029700013,110,100052,Deborah Carter,1611661319,Utah Starzz,1,6,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-47,110,1,0,19970628,UTA,HOU,1997-98
+Shot Chart Detail,1029700013,225,100052,Deborah Carter,1611661319,Utah Starzz,2,16,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-96,95,1,0,19970628,UTA,HOU,1997-98
+Shot Chart Detail,1029700013,232,100052,Deborah Carter,1611661319,Utah Starzz,2,15,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970628,UTA,HOU,1997-98
+Shot Chart Detail,1029700013,252,100052,Deborah Carter,1611661319,Utah Starzz,2,13,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,114,108,1,1,19970628,UTA,HOU,1997-98
+Shot Chart Detail,1029700018,30,100052,Deborah Carter,1611661319,Utah Starzz,1,16,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,107,58,1,0,19970702,SAC,UTA,1997-98
+Shot Chart Detail,1029700018,61,100052,Deborah Carter,1611661319,Utah Starzz,1,13,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970702,SAC,UTA,1997-98
+Shot Chart Detail,1029700018,193,100052,Deborah Carter,1611661319,Utah Starzz,1,2,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-49,41,1,1,19970702,SAC,UTA,1997-98
+Shot Chart Detail,1029700018,223,100052,Deborah Carter,1611661319,Utah Starzz,2,15,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,133,6,1,1,19970702,SAC,UTA,1997-98
+Shot Chart Detail,1029700021,31,100052,Deborah Carter,1611661319,Utah Starzz,1,16,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,175,36,1,0,19970703,UTA,PHO,1997-98
+Shot Chart Detail,1029700021,207,100052,Deborah Carter,1611661319,Utah Starzz,1,3,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-140,82,1,0,19970703,UTA,PHO,1997-98
+Shot Chart Detail,1029700021,399,100052,Deborah Carter,1611661319,Utah Starzz,2,4,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-129,168,1,0,19970703,UTA,PHO,1997-98
+Shot Chart Detail,1029700024,66,100052,Deborah Carter,1611661319,Utah Starzz,1,13,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-75,155,1,0,19970705,UTA,NYL,1997-98
+Shot Chart Detail,1029700024,98,100052,Deborah Carter,1611661319,Utah Starzz,1,10,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970705,UTA,NYL,1997-98
+Shot Chart Detail,1029700024,111,100052,Deborah Carter,1611661319,Utah Starzz,1,9,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970705,UTA,NYL,1997-98
+Shot Chart Detail,1029700024,143,100052,Deborah Carter,1611661319,Utah Starzz,1,6,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,-25,1,1,19970705,UTA,NYL,1997-98
+Shot Chart Detail,1029700024,151,100052,Deborah Carter,1611661319,Utah Starzz,1,5,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,-14,1,1,19970705,UTA,NYL,1997-98
+Shot Chart Detail,1029700024,333,100052,Deborah Carter,1611661319,Utah Starzz,2,11,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970705,UTA,NYL,1997-98
+Shot Chart Detail,1029700024,343,100052,Deborah Carter,1611661319,Utah Starzz,2,9,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970705,UTA,NYL,1997-98
+Shot Chart Detail,1029700024,355,100052,Deborah Carter,1611661319,Utah Starzz,2,8,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,29,80,1,0,19970705,UTA,NYL,1997-98
+Shot Chart Detail,1029700028,110,100052,Deborah Carter,1611661319,Utah Starzz,1,7,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970707,UTA,SAC,1997-98
+Shot Chart Detail,1029700028,253,100052,Deborah Carter,1611661319,Utah Starzz,2,13,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970707,UTA,SAC,1997-98
+Shot Chart Detail,1029700028,278,100052,Deborah Carter,1611661319,Utah Starzz,2,10,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-146,101,1,0,19970707,UTA,SAC,1997-98
+Shot Chart Detail,1029700028,289,100052,Deborah Carter,1611661319,Utah Starzz,2,9,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,1,203,1,0,19970707,UTA,SAC,1997-98
+Shot Chart Detail,1029700028,303,100052,Deborah Carter,1611661319,Utah Starzz,2,7,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970707,UTA,SAC,1997-98
+Shot Chart Detail,1029700028,308,100052,Deborah Carter,1611661319,Utah Starzz,2,7,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,10,1,1,19970707,UTA,SAC,1997-98
+Shot Chart Detail,1029700028,324,100052,Deborah Carter,1611661319,Utah Starzz,2,5,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,127,179,1,0,19970707,UTA,SAC,1997-98
+Shot Chart Detail,1029700034,5,100052,Deborah Carter,1611661319,Utah Starzz,1,19,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970711,LAS,UTA,1997-98
+Shot Chart Detail,1029700034,41,100052,Deborah Carter,1611661319,Utah Starzz,1,15,28,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970711,LAS,UTA,1997-98
+Shot Chart Detail,1029700034,72,100052,Deborah Carter,1611661319,Utah Starzz,1,11,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,114,192,1,0,19970711,LAS,UTA,1997-98
+Shot Chart Detail,1029700034,197,100052,Deborah Carter,1611661319,Utah Starzz,1,3,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970711,LAS,UTA,1997-98
+Shot Chart Detail,1029700034,161,100052,Deborah Carter,1611661319,Utah Starzz,1,2,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970711,LAS,UTA,1997-98
+Shot Chart Detail,1029700037,166,100052,Deborah Carter,1611661319,Utah Starzz,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,0,1,0,19970712,UTA,PHO,1997-98
+Shot Chart Detail,1029700040,101,100052,Deborah Carter,1611661319,Utah Starzz,1,8,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970714,HOU,UTA,1997-98
+Shot Chart Detail,1029700040,283,100052,Deborah Carter,1611661319,Utah Starzz,2,9,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,26,1,0,19970714,HOU,UTA,1997-98
+Shot Chart Detail,1029700040,295,100052,Deborah Carter,1611661319,Utah Starzz,2,7,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970714,HOU,UTA,1997-98
+Shot Chart Detail,1029700044,259,100052,Deborah Carter,1611661319,Utah Starzz,2,11,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970716,CHA,UTA,1997-98
+Shot Chart Detail,1029700047,286,100052,Deborah Carter,1611661319,Utah Starzz,2,12,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970717,NYL,UTA,1997-98
+Shot Chart Detail,1029700047,321,100052,Deborah Carter,1611661319,Utah Starzz,2,8,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-157,4,1,0,19970717,NYL,UTA,1997-98
+Shot Chart Detail,1029700047,406,100052,Deborah Carter,1611661319,Utah Starzz,2,0,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,19,162,116,1,0,19970717,NYL,UTA,1997-98
+Shot Chart Detail,1029700050,364,100052,Deborah Carter,1611661319,Utah Starzz,2,2,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,94,26,1,0,19970719,CLE,UTA,1997-98
+Shot Chart Detail,1029700095,93,100052,Deborah Carter,1611661319,Utah Starzz,1,10,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970816,UTA,LAS,1997-98
+Shot Chart Detail,1029700095,310,100052,Deborah Carter,1611661319,Utah Starzz,2,8,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,71,147,1,1,19970816,UTA,LAS,1997-98
+Shot Chart Detail,1029700097,130,100052,Deborah Carter,1611661319,Utah Starzz,1,6,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,71,119,1,0,19970817,PHO,UTA,1997-98
+Shot Chart Detail,1029700097,149,100052,Deborah Carter,1611661319,Utah Starzz,1,4,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,77,114,1,0,19970817,PHO,UTA,1997-98
+Shot Chart Detail,1029700097,311,100052,Deborah Carter,1611661319,Utah Starzz,2,9,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,66,95,1,0,19970817,PHO,UTA,1997-98
+Shot Chart Detail,1029700100,96,100052,Deborah Carter,1611661319,Utah Starzz,1,8,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,112,15,1,0,19970819,UTA,NYL,1997-98
+Shot Chart Detail,1029700100,100,100052,Deborah Carter,1611661319,Utah Starzz,1,8,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,118,17,1,0,19970819,UTA,NYL,1997-98
+Shot Chart Detail,1029700100,109,100052,Deborah Carter,1611661319,Utah Starzz,1,7,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970819,UTA,NYL,1997-98
+Shot Chart Detail,1029700100,126,100052,Deborah Carter,1611661319,Utah Starzz,1,6,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970819,UTA,NYL,1997-98
+Shot Chart Detail,1029700100,131,100052,Deborah Carter,1611661319,Utah Starzz,1,6,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,142,19,1,0,19970819,UTA,NYL,1997-98
+Shot Chart Detail,1029700100,290,100052,Deborah Carter,1611661319,Utah Starzz,2,9,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,118,36,1,0,19970819,UTA,NYL,1997-98
+Shot Chart Detail,1029700105,102,100052,Deborah Carter,1611661319,Utah Starzz,1,9,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-127,166,1,0,19970821,UTA,CHA,1997-98
+Shot Chart Detail,1029700105,286,100052,Deborah Carter,1611661319,Utah Starzz,2,7,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,19,125,153,1,1,19970821,UTA,CHA,1997-98
+Shot Chart Detail,1029700105,297,100052,Deborah Carter,1611661319,Utah Starzz,2,6,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,32,1,0,19970821,UTA,CHA,1997-98

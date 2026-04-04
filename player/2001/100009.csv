@@ -1,0 +1,40 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020100003,94,100009,Katrina Colleton,1611661326,Miami Sol,1,8,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,169,19,1,0,20010531,MIA,NYL,2001-02
+Shot Chart Detail,1020100019,88,100009,Katrina Colleton,1611661326,Miami Sol,1,8,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,85,68,1,1,20010605,MIA,IND,2001-02
+Shot Chart Detail,1020100019,98,100009,Katrina Colleton,1611661326,Miami Sol,1,7,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-105,13,1,1,20010605,MIA,IND,2001-02
+Shot Chart Detail,1020100019,264,100009,Katrina Colleton,1611661326,Miami Sol,2,8,32,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-12,97,1,0,20010605,MIA,IND,2001-02
+Shot Chart Detail,1020100039,275,100009,Katrina Colleton,1611661326,Miami Sol,2,7,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,108,108,1,0,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100052,143,100009,Katrina Colleton,1611661326,Miami Sol,1,6,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,-18,1,1,20010616,CLE,MIA,2001-02
+Shot Chart Detail,1020100052,190,100009,Katrina Colleton,1611661326,Miami Sol,1,3,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,19,1,0,20010616,CLE,MIA,2001-02
+Shot Chart Detail,1020100052,302,100009,Katrina Colleton,1611661326,Miami Sol,2,9,54,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,4,1,0,20010616,CLE,MIA,2001-02
+Shot Chart Detail,1020100052,325,100009,Katrina Colleton,1611661326,Miami Sol,2,7,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,157,9,1,0,20010616,CLE,MIA,2001-02
+Shot Chart Detail,1020100052,369,100009,Katrina Colleton,1611661326,Miami Sol,2,3,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,169,-17,1,0,20010616,CLE,MIA,2001-02
+Shot Chart Detail,1020100052,371,100009,Katrina Colleton,1611661326,Miami Sol,2,3,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,142,-23,1,0,20010616,CLE,MIA,2001-02
+Shot Chart Detail,1020100058,65,100009,Katrina Colleton,1611661326,Miami Sol,1,11,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,169,63,1,1,20010617,MIA,NYL,2001-02
+Shot Chart Detail,1020100058,83,100009,Katrina Colleton,1611661326,Miami Sol,1,10,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,91,108,1,0,20010617,MIA,NYL,2001-02
+Shot Chart Detail,1020100058,112,100009,Katrina Colleton,1611661326,Miami Sol,1,7,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,121,114,1,0,20010617,MIA,NYL,2001-02
+Shot Chart Detail,1020100105,139,100009,Katrina Colleton,1611661326,Miami Sol,1,4,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,85,148,1,0,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100105,252,100009,Katrina Colleton,1611661326,Miami Sol,2,13,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,64,125,1,1,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100105,254,100009,Katrina Colleton,1611661326,Miami Sol,2,13,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,51,141,1,0,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100105,259,100009,Katrina Colleton,1611661326,Miami Sol,2,12,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,79,57,1,0,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100105,278,100009,Katrina Colleton,1611661326,Miami Sol,2,10,41,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-42,97,1,1,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100105,336,100009,Katrina Colleton,1611661326,Miami Sol,2,6,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,144,0,1,0,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100105,339,100009,Katrina Colleton,1611661326,Miami Sol,2,5,21,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,0,1,0,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100105,350,100009,Katrina Colleton,1611661326,Miami Sol,2,3,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-27,57,1,0,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100108,115,100009,Katrina Colleton,1611661326,Miami Sol,1,6,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,-23,1,0,20010702,UTA,MIA,2001-02
+Shot Chart Detail,1020100108,312,100009,Katrina Colleton,1611661326,Miami Sol,2,4,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,-17,1,1,20010702,UTA,MIA,2001-02
+Shot Chart Detail,1020100108,322,100009,Katrina Colleton,1611661326,Miami Sol,2,2,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,56,135,1,0,20010702,UTA,MIA,2001-02
+Shot Chart Detail,1020100113,71,100009,Katrina Colleton,1611661326,Miami Sol,1,10,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,36,1,0,20010704,PHO,MIA,2001-02
+Shot Chart Detail,1020100113,90,100009,Katrina Colleton,1611661326,Miami Sol,1,8,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,-6,1,0,20010704,PHO,MIA,2001-02
+Shot Chart Detail,1020100113,323,100009,Katrina Colleton,1611661326,Miami Sol,2,1,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-56,167,1,0,20010704,PHO,MIA,2001-02
+Shot Chart Detail,1020100123,108,100009,Katrina Colleton,1611661326,Miami Sol,1,6,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,91,80,1,0,20010707,MIA,SAC,2001-02
+Shot Chart Detail,1020100150,360,100009,Katrina Colleton,1611661326,Miami Sol,2,1,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100154,328,100009,Katrina Colleton,1611661326,Miami Sol,2,2,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-138,13,1,0,20010718,MIA,CHA,2001-02
+Shot Chart Detail,1020100154,344,100009,Katrina Colleton,1611661326,Miami Sol,2,1,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010718,MIA,CHA,2001-02
+Shot Chart Detail,1020100201,92,100009,Katrina Colleton,1611661326,Miami Sol,1,8,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,13,1,1,20010731,CHA,MIA,2001-02
+Shot Chart Detail,1020100201,118,100009,Katrina Colleton,1611661326,Miami Sol,1,5,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,100,93,1,0,20010731,CHA,MIA,2001-02
+Shot Chart Detail,1020100201,255,100009,Katrina Colleton,1611661326,Miami Sol,2,7,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,115,40,1,0,20010731,CHA,MIA,2001-02
+Shot Chart Detail,1020100201,274,100009,Katrina Colleton,1611661326,Miami Sol,2,5,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,0,1,0,20010731,CHA,MIA,2001-02
+Shot Chart Detail,1020100201,278,100009,Katrina Colleton,1611661326,Miami Sol,2,5,14,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010731,CHA,MIA,2001-02
+Shot Chart Detail,1020100201,299,100009,Katrina Colleton,1611661326,Miami Sol,2,3,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010731,CHA,MIA,2001-02
+Shot Chart Detail,1020100201,319,100009,Katrina Colleton,1611661326,Miami Sol,2,0,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010731,CHA,MIA,2001-02

@@ -1,0 +1,13 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1022200005,96,1631032,Lorela Cubaj,1611661313,New York Liberty,1,2,36,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-18,31,1,0,20220507,NYL,CON,2022-23
+Shot Chart Detail,1022200005,123,1631032,Lorela Cubaj,1611661313,New York Liberty,1,1,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,168,55,1,0,20220507,NYL,CON,2022-23
+Shot Chart Detail,1022200005,253,1631032,Lorela Cubaj,1611661313,New York Liberty,2,1,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-173,41,1,1,20220507,NYL,CON,2022-23
+Shot Chart Detail,1022200013,252,1631032,Lorela Cubaj,1611661313,New York Liberty,2,0,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-90,180,1,0,20220511,CHI,NYL,2022-23
+Shot Chart Detail,1022200013,454,1631032,Lorela Cubaj,1611661313,New York Liberty,4,5,19,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,1,1,0,20220511,CHI,NYL,2022-23
+Shot Chart Detail,1022200017,96,1631032,Lorela Cubaj,1611661313,New York Liberty,1,4,3,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,26,1,0,20220513,NYL,IND,2022-23
+Shot Chart Detail,1022200017,410,1631032,Lorela Cubaj,1611661313,New York Liberty,3,3,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-66,176,1,0,20220513,NYL,IND,2022-23
+Shot Chart Detail,1022200057,281,1631032,Lorela Cubaj,1611661313,New York Liberty,2,1,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-207,-10,1,0,20220601,NYL,IND,2022-23
+Shot Chart Detail,1022200057,434,1631032,Lorela Cubaj,1611661313,New York Liberty,4,9,34,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-88,50,1,0,20220601,NYL,IND,2022-23
+Shot Chart Detail,1022200074,267,1631032,Lorela Cubaj,1611661313,New York Liberty,2,0,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,-3,1,1,20220610,IND,NYL,2022-23
+Shot Chart Detail,1022200101,206,1631032,Lorela Cubaj,1611661313,New York Liberty,2,4,15,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,4,1,1,20220622,CON,NYL,2022-23
+Shot Chart Detail,1022200101,228,1631032,Lorela Cubaj,1611661313,New York Liberty,2,2,15,Made Shot,Pullup Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-39,1,1,1,20220622,CON,NYL,2022-23

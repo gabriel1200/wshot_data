@@ -1,0 +1,42 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020700006,189,200688,Liz Moeggenberg,1611661329,Chicago Sky,2,0,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,-11,1,1,20070520,NYL,CHI,2007-08
+Shot Chart Detail,1020700006,228,200688,Liz Moeggenberg,1611661329,Chicago Sky,3,6,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070520,NYL,CHI,2007-08
+Shot Chart Detail,1020700009,345,200688,Liz Moeggenberg,1611661329,Chicago Sky,4,3,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070522,CHI,LAS,2007-08
+Shot Chart Detail,1020700016,138,200688,Liz Moeggenberg,1611661329,Chicago Sky,2,5,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070525,MIN,CHI,2007-08
+Shot Chart Detail,1020700016,153,200688,Liz Moeggenberg,1611661329,Chicago Sky,2,3,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-136,174,1,0,20070525,MIN,CHI,2007-08
+Shot Chart Detail,1020700016,158,200688,Liz Moeggenberg,1611661329,Chicago Sky,2,2,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070525,MIN,CHI,2007-08
+Shot Chart Detail,1020700024,89,200688,Liz Moeggenberg,1611661329,Chicago Sky,1,0,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070531,CHI,CON,2007-08
+Shot Chart Detail,1020700024,192,200688,Liz Moeggenberg,1611661329,Chicago Sky,2,2,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-168,141,1,1,20070531,CHI,CON,2007-08
+Shot Chart Detail,1020700024,249,200688,Liz Moeggenberg,1611661329,Chicago Sky,3,6,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070531,CHI,CON,2007-08
+Shot Chart Detail,1020700024,264,200688,Liz Moeggenberg,1611661329,Chicago Sky,3,5,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070531,CHI,CON,2007-08
+Shot Chart Detail,1020700024,283,200688,Liz Moeggenberg,1611661329,Chicago Sky,3,3,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-61,114,1,1,20070531,CHI,CON,2007-08
+Shot Chart Detail,1020700025,120,200688,Liz Moeggenberg,1611661329,Chicago Sky,2,8,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,-13,1,1,20070601,WAS,CHI,2007-08
+Shot Chart Detail,1020700032,253,200688,Liz Moeggenberg,1611661329,Chicago Sky,2,0,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-25,102,1,0,20070603,CHI,MIN,2007-08
+Shot Chart Detail,1020700039,54,200688,Liz Moeggenberg,1611661329,Chicago Sky,1,4,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070607,PHO,CHI,2007-08
+Shot Chart Detail,1020700039,71,200688,Liz Moeggenberg,1611661329,Chicago Sky,1,2,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-87,120,1,0,20070607,PHO,CHI,2007-08
+Shot Chart Detail,1020700039,432,200688,Liz Moeggenberg,1611661329,Chicago Sky,4,0,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070607,PHO,CHI,2007-08
+Shot Chart Detail,1020700050,385,200688,Liz Moeggenberg,1611661329,Chicago Sky,4,1,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,-1,1,0,20070612,CHI,SEA,2007-08
+Shot Chart Detail,1020700050,405,200688,Liz Moeggenberg,1611661329,Chicago Sky,4,0,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070612,CHI,SEA,2007-08
+Shot Chart Detail,1020700080,114,200688,Liz Moeggenberg,1611661329,Chicago Sky,2,8,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,153,53,1,1,20070623,CHI,WAS,2007-08
+Shot Chart Detail,1020700087,335,200688,Liz Moeggenberg,1611661329,Chicago Sky,4,9,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-44,214,1,0,20070626,SEA,CHI,2007-08
+Shot Chart Detail,1020700087,359,200688,Liz Moeggenberg,1611661329,Chicago Sky,4,6,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,140,158,1,0,20070626,SEA,CHI,2007-08
+Shot Chart Detail,1020700116,128,200688,Liz Moeggenberg,1611661329,Chicago Sky,2,7,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,-1,1,0,20070708,IND,CHI,2007-08
+Shot Chart Detail,1020700120,158,200688,Liz Moeggenberg,1611661329,Chicago Sky,2,3,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-110,20,1,0,20070710,DET,CHI,2007-08
+Shot Chart Detail,1020700152,69,200688,Liz Moeggenberg,1611661329,Chicago Sky,1,1,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070726,DET,CHI,2007-08
+Shot Chart Detail,1020700152,276,200688,Liz Moeggenberg,1611661329,Chicago Sky,3,1,54,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,0,1,0,20070726,DET,CHI,2007-08
+Shot Chart Detail,1020700152,297,200688,Liz Moeggenberg,1611661329,Chicago Sky,3,0,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,0,1,1,20070726,DET,CHI,2007-08
+Shot Chart Detail,1020700161,127,200688,Liz Moeggenberg,1611661329,Chicago Sky,2,8,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070729,CHI,HOU,2007-08
+Shot Chart Detail,1020700161,410,200688,Liz Moeggenberg,1611661329,Chicago Sky,4,3,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,82,48,1,0,20070729,CHI,HOU,2007-08
+Shot Chart Detail,1020700167,103,200688,Liz Moeggenberg,1611661329,Chicago Sky,2,8,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,8,1,0,20070731,CON,CHI,2007-08
+Shot Chart Detail,1020700167,126,200688,Liz Moeggenberg,1611661329,Chicago Sky,2,6,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,11,18,1,1,20070731,CON,CHI,2007-08
+Shot Chart Detail,1020700167,153,200688,Liz Moeggenberg,1611661329,Chicago Sky,2,3,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,12,1,1,20070731,CON,CHI,2007-08
+Shot Chart Detail,1020700176,113,200688,Liz Moeggenberg,1611661329,Chicago Sky,2,7,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,158,3,1,0,20070803,CHI,DET,2007-08
+Shot Chart Detail,1020700176,123,200688,Liz Moeggenberg,1611661329,Chicago Sky,2,6,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-23,36,1,0,20070803,CHI,DET,2007-08
+Shot Chart Detail,1020700176,311,200688,Liz Moeggenberg,1611661329,Chicago Sky,4,6,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-194,17,1,0,20070803,CHI,DET,2007-08
+Shot Chart Detail,1020700186,232,200688,Liz Moeggenberg,1611661329,Chicago Sky,3,2,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,-5,1,0,20070807,CHI,IND,2007-08
+Shot Chart Detail,1020700197,276,200688,Liz Moeggenberg,1611661329,Chicago Sky,4,7,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070811,CHI,CON,2007-08
+Shot Chart Detail,1020700210,77,200688,Liz Moeggenberg,1611661329,Chicago Sky,1,2,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070816,HOU,CHI,2007-08
+Shot Chart Detail,1020700210,103,200688,Liz Moeggenberg,1611661329,Chicago Sky,2,9,40,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-80,-3,1,1,20070816,HOU,CHI,2007-08
+Shot Chart Detail,1020700210,252,200688,Liz Moeggenberg,1611661329,Chicago Sky,3,4,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-64,-5,1,0,20070816,HOU,CHI,2007-08
+Shot Chart Detail,1020700210,261,200688,Liz Moeggenberg,1611661329,Chicago Sky,3,2,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),24+ ft.,22,228,30,1,0,20070816,HOU,CHI,2007-08
+Shot Chart Detail,1020700217,286,200688,Liz Moeggenberg,1611661329,Chicago Sky,3,1,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070819,NYL,CHI,2007-08

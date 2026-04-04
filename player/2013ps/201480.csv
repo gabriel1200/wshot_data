@@ -1,0 +1,27 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1041300101,13,201480,Sylvia Fowles,1611661329,Chicago Sky,1,9,3,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-11,52,1,1,20130920,CHI,IND,2013-14
+Shot Chart Detail,1041300101,15,201480,Sylvia Fowles,1611661329,Chicago Sky,1,8,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,4,1,0,20130920,CHI,IND,2013-14
+Shot Chart Detail,1041300101,22,201480,Sylvia Fowles,1611661329,Chicago Sky,1,7,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,19,1,0,20130920,CHI,IND,2013-14
+Shot Chart Detail,1041300101,35,201480,Sylvia Fowles,1611661329,Chicago Sky,1,6,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,-2,1,0,20130920,CHI,IND,2013-14
+Shot Chart Detail,1041300101,98,201480,Sylvia Fowles,1611661329,Chicago Sky,1,1,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,21,58,1,0,20130920,CHI,IND,2013-14
+Shot Chart Detail,1041300101,110,201480,Sylvia Fowles,1611661329,Chicago Sky,1,1,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,-3,1,1,20130920,CHI,IND,2013-14
+Shot Chart Detail,1041300101,113,201480,Sylvia Fowles,1611661329,Chicago Sky,1,0,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,-3,1,1,20130920,CHI,IND,2013-14
+Shot Chart Detail,1041300101,218,201480,Sylvia Fowles,1611661329,Chicago Sky,3,8,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-6,24,1,0,20130920,CHI,IND,2013-14
+Shot Chart Detail,1041300101,266,201480,Sylvia Fowles,1611661329,Chicago Sky,3,3,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-21,61,1,0,20130920,CHI,IND,2013-14
+Shot Chart Detail,1041300101,285,201480,Sylvia Fowles,1611661329,Chicago Sky,3,1,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,0,1,1,20130920,CHI,IND,2013-14
+Shot Chart Detail,1041300101,303,201480,Sylvia Fowles,1611661329,Chicago Sky,4,9,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-54,12,1,0,20130920,CHI,IND,2013-14
+Shot Chart Detail,1041300101,313,201480,Sylvia Fowles,1611661329,Chicago Sky,4,9,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,6,1,1,20130920,CHI,IND,2013-14
+Shot Chart Detail,1041300101,379,201480,Sylvia Fowles,1611661329,Chicago Sky,4,2,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,12,1,1,20130920,CHI,IND,2013-14
+Shot Chart Detail,1041300102,10,201480,Sylvia Fowles,1611661329,Chicago Sky,1,8,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-11,1,0,20130922,IND,CHI,2013-14
+Shot Chart Detail,1041300102,28,201480,Sylvia Fowles,1611661329,Chicago Sky,1,7,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,-2,1,0,20130922,IND,CHI,2013-14
+Shot Chart Detail,1041300102,100,201480,Sylvia Fowles,1611661329,Chicago Sky,2,9,18,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-27,-14,1,1,20130922,IND,CHI,2013-14
+Shot Chart Detail,1041300102,124,201480,Sylvia Fowles,1611661329,Chicago Sky,2,6,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-48,20,1,0,20130922,IND,CHI,2013-14
+Shot Chart Detail,1041300102,152,201480,Sylvia Fowles,1611661329,Chicago Sky,2,4,6,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,23,-25,1,0,20130922,IND,CHI,2013-14
+Shot Chart Detail,1041300102,167,201480,Sylvia Fowles,1611661329,Chicago Sky,2,3,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,-2,1,1,20130922,IND,CHI,2013-14
+Shot Chart Detail,1041300102,200,201480,Sylvia Fowles,1611661329,Chicago Sky,2,0,21,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-5,-33,1,0,20130922,IND,CHI,2013-14
+Shot Chart Detail,1041300102,219,201480,Sylvia Fowles,1611661329,Chicago Sky,3,9,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,-13,1,1,20130922,IND,CHI,2013-14
+Shot Chart Detail,1041300102,245,201480,Sylvia Fowles,1611661329,Chicago Sky,3,7,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,-22,1,1,20130922,IND,CHI,2013-14
+Shot Chart Detail,1041300102,253,201480,Sylvia Fowles,1611661329,Chicago Sky,3,6,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-14,1,0,20130922,IND,CHI,2013-14
+Shot Chart Detail,1041300102,365,201480,Sylvia Fowles,1611661329,Chicago Sky,4,8,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,0,1,0,20130922,IND,CHI,2013-14
+Shot Chart Detail,1041300102,380,201480,Sylvia Fowles,1611661329,Chicago Sky,4,7,9,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,1,1,1,20130922,IND,CHI,2013-14
+Shot Chart Detail,1041300102,403,201480,Sylvia Fowles,1611661329,Chicago Sky,4,4,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,0,1,1,20130922,IND,CHI,2013-14

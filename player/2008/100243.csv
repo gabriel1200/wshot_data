@@ -1,0 +1,23 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020800203,173,100243,Olympia Scott,1611661317,Phoenix Mercury,2,5,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,89,153,1,1,20080903,PHO,MIN,2008-09
+Shot Chart Detail,1020800203,381,100243,Olympia Scott,1611661317,Phoenix Mercury,4,9,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080903,PHO,MIN,2008-09
+Shot Chart Detail,1020800203,397,100243,Olympia Scott,1611661317,Phoenix Mercury,4,7,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-69,71,1,0,20080903,PHO,MIN,2008-09
+Shot Chart Detail,1020800209,215,100243,Olympia Scott,1611661317,Phoenix Mercury,2,2,5,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,36,31,1,0,20080905,PHO,SAC,2008-09
+Shot Chart Detail,1020800209,350,100243,Olympia Scott,1611661317,Phoenix Mercury,3,0,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-51,153,1,1,20080905,PHO,SAC,2008-09
+Shot Chart Detail,1020800209,367,100243,Olympia Scott,1611661317,Phoenix Mercury,4,8,57,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,79,45,1,1,20080905,PHO,SAC,2008-09
+Shot Chart Detail,1020800209,374,100243,Olympia Scott,1611661317,Phoenix Mercury,4,8,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080905,PHO,SAC,2008-09
+Shot Chart Detail,1020800209,398,100243,Olympia Scott,1611661317,Phoenix Mercury,4,5,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,12,1,0,20080905,PHO,SAC,2008-09
+Shot Chart Detail,1020800215,79,100243,Olympia Scott,1611661317,Phoenix Mercury,1,3,40,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,75,13,1,1,20080907,PHO,HOU,2008-09
+Shot Chart Detail,1020800215,444,100243,Olympia Scott,1611661317,Phoenix Mercury,4,3,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,140,59,1,0,20080907,PHO,HOU,2008-09
+Shot Chart Detail,1020800218,71,100243,Olympia Scott,1611661317,Phoenix Mercury,1,2,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080909,DET,PHO,2008-09
+Shot Chart Detail,1020800218,107,100243,Olympia Scott,1611661317,Phoenix Mercury,2,9,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,38,1,1,20080909,DET,PHO,2008-09
+Shot Chart Detail,1020800218,247,100243,Olympia Scott,1611661317,Phoenix Mercury,3,6,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080909,DET,PHO,2008-09
+Shot Chart Detail,1020800218,260,100243,Olympia Scott,1611661317,Phoenix Mercury,3,5,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-13,69,1,0,20080909,DET,PHO,2008-09
+Shot Chart Detail,1020800218,272,100243,Olympia Scott,1611661317,Phoenix Mercury,3,4,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-128,69,1,0,20080909,DET,PHO,2008-09
+Shot Chart Detail,1020800218,282,100243,Olympia Scott,1611661317,Phoenix Mercury,3,3,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080909,DET,PHO,2008-09
+Shot Chart Detail,1020800218,343,100243,Olympia Scott,1611661317,Phoenix Mercury,4,7,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-154,31,1,0,20080909,DET,PHO,2008-09
+Shot Chart Detail,1020800228,70,100243,Olympia Scott,1611661317,Phoenix Mercury,1,4,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-5,160,1,0,20080912,MIN,PHO,2008-09
+Shot Chart Detail,1020800228,113,100243,Olympia Scott,1611661317,Phoenix Mercury,1,0,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-143,58,1,1,20080912,MIN,PHO,2008-09
+Shot Chart Detail,1020800228,116,100243,Olympia Scott,1611661317,Phoenix Mercury,1,0,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,40,1,0,20080912,MIN,PHO,2008-09
+Shot Chart Detail,1020800233,62,100243,Olympia Scott,1611661317,Phoenix Mercury,1,3,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,1,153,1,0,20080914,IND,PHO,2008-09
+Shot Chart Detail,1020800233,303,100243,Olympia Scott,1611661317,Phoenix Mercury,3,3,18,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,3,36,1,0,20080914,IND,PHO,2008-09

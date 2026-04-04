@@ -1,0 +1,11 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1040800111,107,201047,Jessica Davenport,1611661313,New York Liberty,2,8,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080918,NYL,CON,2008-09
+Shot Chart Detail,1040800111,115,201047,Jessica Davenport,1611661313,New York Liberty,2,7,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080918,NYL,CON,2008-09
+Shot Chart Detail,1040800112,101,201047,Jessica Davenport,1611661313,New York Liberty,2,9,14,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,22,1,1,20080920,CON,NYL,2008-09
+Shot Chart Detail,1040800112,268,201047,Jessica Davenport,1611661313,New York Liberty,3,2,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-103,2,1,0,20080920,CON,NYL,2008-09
+Shot Chart Detail,1040800201,96,201047,Jessica Davenport,1611661313,New York Liberty,1,0,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080926,NYL,DET,2008-09
+Shot Chart Detail,1040800201,113,201047,Jessica Davenport,1611661313,New York Liberty,2,8,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-107,26,1,0,20080926,NYL,DET,2008-09
+Shot Chart Detail,1040800203,94,201047,Jessica Davenport,1611661313,New York Liberty,2,8,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080929,DET,NYL,2008-09
+Shot Chart Detail,1040800203,100,201047,Jessica Davenport,1611661313,New York Liberty,2,6,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080929,DET,NYL,2008-09
+Shot Chart Detail,1040800203,104,201047,Jessica Davenport,1611661313,New York Liberty,2,6,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080929,DET,NYL,2008-09
+Shot Chart Detail,1040800203,120,201047,Jessica Davenport,1611661313,New York Liberty,2,4,19,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,43,71,1,0,20080929,DET,NYL,2008-09

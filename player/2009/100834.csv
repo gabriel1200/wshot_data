@@ -1,0 +1,58 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020900005,377,100834,K.B. Sharp,1611661329,Chicago Sky,4,9,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,212,31,1,1,20090606,MIN,CHI,2009-10
+Shot Chart Detail,1020900027,164,100834,K.B. Sharp,1611661329,Chicago Sky,2,3,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,212,30,1,0,20090619,CON,CHI,2009-10
+Shot Chart Detail,1020900027,174,100834,K.B. Sharp,1611661329,Chicago Sky,2,3,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-150,159,1,0,20090619,CON,CHI,2009-10
+Shot Chart Detail,1020900027,297,100834,K.B. Sharp,1611661329,Chicago Sky,3,2,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-119,77,1,0,20090619,CON,CHI,2009-10
+Shot Chart Detail,1020900039,349,100834,K.B. Sharp,1611661329,Chicago Sky,4,5,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-8,108,1,0,20090623,ATL,CHI,2009-10
+Shot Chart Detail,1020900039,373,100834,K.B. Sharp,1611661329,Chicago Sky,4,3,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-7,113,1,0,20090623,ATL,CHI,2009-10
+Shot Chart Detail,1020900068,197,100834,K.B. Sharp,1611661329,Chicago Sky,2,2,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090707,SAC,CHI,2009-10
+Shot Chart Detail,1020900069,81,100834,K.B. Sharp,1611661329,Chicago Sky,1,2,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090708,PHO,CHI,2009-10
+Shot Chart Detail,1020900069,92,100834,K.B. Sharp,1611661329,Chicago Sky,1,0,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,91,198,1,0,20090708,PHO,CHI,2009-10
+Shot Chart Detail,1020900069,109,100834,K.B. Sharp,1611661329,Chicago Sky,1,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,155,17,1,1,20090708,PHO,CHI,2009-10
+Shot Chart Detail,1020900069,122,100834,K.B. Sharp,1611661329,Chicago Sky,2,8,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,181,0,1,1,20090708,PHO,CHI,2009-10
+Shot Chart Detail,1020900069,376,100834,K.B. Sharp,1611661329,Chicago Sky,4,6,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,29,67,1,0,20090708,PHO,CHI,2009-10
+Shot Chart Detail,1020900069,412,100834,K.B. Sharp,1611661329,Chicago Sky,4,5,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090708,PHO,CHI,2009-10
+Shot Chart Detail,1020900069,422,100834,K.B. Sharp,1611661329,Chicago Sky,4,4,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,140,85,1,1,20090708,PHO,CHI,2009-10
+Shot Chart Detail,1020900073,334,100834,K.B. Sharp,1611661329,Chicago Sky,4,5,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090710,CHI,IND,2009-10
+Shot Chart Detail,1020900073,359,100834,K.B. Sharp,1611661329,Chicago Sky,4,2,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,64,153,1,0,20090710,CHI,IND,2009-10
+Shot Chart Detail,1020900104,126,100834,K.B. Sharp,1611661329,Chicago Sky,2,7,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,170,17,1,0,20090723,WAS,CHI,2009-10
+Shot Chart Detail,1020900112,84,100834,K.B. Sharp,1611661329,Chicago Sky,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,41,121,397,1,0,20090729,CHI,LAS,2009-10
+Shot Chart Detail,1020900112,248,100834,K.B. Sharp,1611661329,Chicago Sky,3,3,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,23,207,102,1,0,20090729,CHI,LAS,2009-10
+Shot Chart Detail,1020900112,293,100834,K.B. Sharp,1611661329,Chicago Sky,4,8,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-201,11,1,0,20090729,CHI,LAS,2009-10
+Shot Chart Detail,1020900119,125,100834,K.B. Sharp,1611661329,Chicago Sky,2,8,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-40,89,1,0,20090801,CHI,CON,2009-10
+Shot Chart Detail,1020900119,135,100834,K.B. Sharp,1611661329,Chicago Sky,2,7,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090801,CHI,CON,2009-10
+Shot Chart Detail,1020900119,305,100834,K.B. Sharp,1611661329,Chicago Sky,4,9,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,-3,1,1,20090801,CHI,CON,2009-10
+Shot Chart Detail,1020900128,68,100834,K.B. Sharp,1611661329,Chicago Sky,1,2,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,0,1,1,20090805,IND,CHI,2009-10
+Shot Chart Detail,1020900134,72,100834,K.B. Sharp,1611661329,Chicago Sky,1,2,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,69,176,1,0,20090808,ATL,CHI,2009-10
+Shot Chart Detail,1020900134,351,100834,K.B. Sharp,1611661329,Chicago Sky,3,1,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,20,200,55,1,0,20090808,ATL,CHI,2009-10
+Shot Chart Detail,1020900139,105,100834,K.B. Sharp,1611661329,Chicago Sky,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,56,140,552,1,0,20090809,DET,CHI,2009-10
+Shot Chart Detail,1020900139,223,100834,K.B. Sharp,1611661329,Chicago Sky,2,0,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,28,1,1,20090809,DET,CHI,2009-10
+Shot Chart Detail,1020900139,304,100834,K.B. Sharp,1611661329,Chicago Sky,3,1,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090809,DET,CHI,2009-10
+Shot Chart Detail,1020900139,325,100834,K.B. Sharp,1611661329,Chicago Sky,4,9,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,196,94,1,0,20090809,DET,CHI,2009-10
+Shot Chart Detail,1020900139,419,100834,K.B. Sharp,1611661329,Chicago Sky,4,1,46,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,214,26,1,1,20090809,DET,CHI,2009-10
+Shot Chart Detail,1020900139,435,100834,K.B. Sharp,1611661329,Chicago Sky,4,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,124,28,1,0,20090809,DET,CHI,2009-10
+Shot Chart Detail,1020900149,210,100834,K.B. Sharp,1611661329,Chicago Sky,2,0,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,37,1,0,20090814,NYL,CHI,2009-10
+Shot Chart Detail,1020900149,236,100834,K.B. Sharp,1611661329,Chicago Sky,3,7,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,113,181,1,1,20090814,NYL,CHI,2009-10
+Shot Chart Detail,1020900149,328,100834,K.B. Sharp,1611661329,Chicago Sky,4,6,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,116,189,1,0,20090814,NYL,CHI,2009-10
+Shot Chart Detail,1020900158,95,100834,K.B. Sharp,1611661329,Chicago Sky,1,0,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090818,CHI,PHO,2009-10
+Shot Chart Detail,1020900158,105,100834,K.B. Sharp,1611661329,Chicago Sky,1,0,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,122,115,1,1,20090818,CHI,PHO,2009-10
+Shot Chart Detail,1020900158,307,100834,K.B. Sharp,1611661329,Chicago Sky,3,1,24,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,220,3,1,0,20090818,CHI,PHO,2009-10
+Shot Chart Detail,1020900158,321,100834,K.B. Sharp,1611661329,Chicago Sky,3,0,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090818,CHI,PHO,2009-10
+Shot Chart Detail,1020900167,75,100834,K.B. Sharp,1611661329,Chicago Sky,1,2,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090822,CHI,DET,2009-10
+Shot Chart Detail,1020900175,251,100834,K.B. Sharp,1611661329,Chicago Sky,3,3,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,17,1,0,20090825,LAS,CHI,2009-10
+Shot Chart Detail,1020900175,307,100834,K.B. Sharp,1611661329,Chicago Sky,4,8,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090825,LAS,CHI,2009-10
+Shot Chart Detail,1020900187,104,100834,K.B. Sharp,1611661329,Chicago Sky,2,8,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,108,66,1,0,20090830,NYL,CHI,2009-10
+Shot Chart Detail,1020900187,306,100834,K.B. Sharp,1611661329,Chicago Sky,4,9,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,-2,1,0,20090830,NYL,CHI,2009-10
+Shot Chart Detail,1020900187,341,100834,K.B. Sharp,1611661329,Chicago Sky,4,5,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,105,203,1,1,20090830,NYL,CHI,2009-10
+Shot Chart Detail,1020900187,416,100834,K.B. Sharp,1611661329,Chicago Sky,4,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,130,168,1,1,20090830,NYL,CHI,2009-10
+Shot Chart Detail,1020900199,97,100834,K.B. Sharp,1611661329,Chicago Sky,1,0,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,108,153,1,1,20090904,CHI,WAS,2009-10
+Shot Chart Detail,1020900199,127,100834,K.B. Sharp,1611661329,Chicago Sky,2,8,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-141,170,1,1,20090904,CHI,WAS,2009-10
+Shot Chart Detail,1020900199,136,100834,K.B. Sharp,1611661329,Chicago Sky,2,7,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090904,CHI,WAS,2009-10
+Shot Chart Detail,1020900199,325,100834,K.B. Sharp,1611661329,Chicago Sky,3,0,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,67,160,1,1,20090904,CHI,WAS,2009-10
+Shot Chart Detail,1020900205,144,100834,K.B. Sharp,1611661329,Chicago Sky,2,6,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090906,DET,CHI,2009-10
+Shot Chart Detail,1020900205,362,100834,K.B. Sharp,1611661329,Chicago Sky,4,9,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,65,101,1,0,20090906,DET,CHI,2009-10
+Shot Chart Detail,1020900205,476,100834,K.B. Sharp,1611661329,Chicago Sky,4,0,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,209,71,1,0,20090906,DET,CHI,2009-10
+Shot Chart Detail,1020900205,478,100834,K.B. Sharp,1611661329,Chicago Sky,4,0,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090906,DET,CHI,2009-10
+Shot Chart Detail,1020900210,111,100834,K.B. Sharp,1611661329,Chicago Sky,2,9,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090910,CHI,IND,2009-10
+Shot Chart Detail,1020900216,118,100834,K.B. Sharp,1611661329,Chicago Sky,2,8,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090912,CHI,DET,2009-10
+Shot Chart Detail,1020900216,310,100834,K.B. Sharp,1611661329,Chicago Sky,3,1,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,125,108,1,0,20090912,CHI,DET,2009-10

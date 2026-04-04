@@ -1,0 +1,134 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020900004,319,100008,Tamecka Dixon,1611661325,Indiana Fever,3,3,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-127,115,1,0,20090606,ATL,IND,2009-10
+Shot Chart Detail,1020900004,346,100008,Tamecka Dixon,1611661325,Indiana Fever,3,1,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-116,121,1,0,20090606,ATL,IND,2009-10
+Shot Chart Detail,1020900009,121,100008,Tamecka Dixon,1611661325,Indiana Fever,2,8,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,14,1,1,20090607,IND,MIN,2009-10
+Shot Chart Detail,1020900009,157,100008,Tamecka Dixon,1611661325,Indiana Fever,2,5,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-15,162,1,0,20090607,IND,MIN,2009-10
+Shot Chart Detail,1020900009,358,100008,Tamecka Dixon,1611661325,Indiana Fever,4,4,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-5,1,0,20090607,IND,MIN,2009-10
+Shot Chart Detail,1020900009,362,100008,Tamecka Dixon,1611661325,Indiana Fever,4,4,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-29,6,1,0,20090607,IND,MIN,2009-10
+Shot Chart Detail,1020900012,164,100008,Tamecka Dixon,1611661325,Indiana Fever,2,5,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,1,1,1,20090609,IND,SEA,2009-10
+Shot Chart Detail,1020900012,166,100008,Tamecka Dixon,1611661325,Indiana Fever,2,4,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-117,102,1,0,20090609,IND,SEA,2009-10
+Shot Chart Detail,1020900012,262,100008,Tamecka Dixon,1611661325,Indiana Fever,3,4,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,-10,1,0,20090609,IND,SEA,2009-10
+Shot Chart Detail,1020900016,151,100008,Tamecka Dixon,1611661325,Indiana Fever,2,7,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,23,-226,74,1,1,20090612,IND,LAS,2009-10
+Shot Chart Detail,1020900016,292,100008,Tamecka Dixon,1611661325,Indiana Fever,3,2,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,-19,1,0,20090612,IND,LAS,2009-10
+Shot Chart Detail,1020900016,333,100008,Tamecka Dixon,1611661325,Indiana Fever,4,8,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,41,1,1,20090612,IND,LAS,2009-10
+Shot Chart Detail,1020900030,85,100008,Tamecka Dixon,1611661325,Indiana Fever,1,1,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-19,124,1,0,20090619,DET,IND,2009-10
+Shot Chart Detail,1020900030,363,100008,Tamecka Dixon,1611661325,Indiana Fever,4,6,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-30,99,1,0,20090619,DET,IND,2009-10
+Shot Chart Detail,1020900036,283,100008,Tamecka Dixon,1611661325,Indiana Fever,4,8,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-205,86,1,1,20090621,IND,DET,2009-10
+Shot Chart Detail,1020900036,300,100008,Tamecka Dixon,1611661325,Indiana Fever,4,6,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,14,1,1,20090621,IND,DET,2009-10
+Shot Chart Detail,1020900036,310,100008,Tamecka Dixon,1611661325,Indiana Fever,4,4,30,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-220,-3,1,0,20090621,IND,DET,2009-10
+Shot Chart Detail,1020900036,342,100008,Tamecka Dixon,1611661325,Indiana Fever,4,2,34,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,20,207,26,1,0,20090621,IND,DET,2009-10
+Shot Chart Detail,1020900036,368,100008,Tamecka Dixon,1611661325,Indiana Fever,4,0,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-177,137,1,1,20090621,IND,DET,2009-10
+Shot Chart Detail,1020900043,158,100008,Tamecka Dixon,1611661325,Indiana Fever,2,2,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-180,47,1,0,20090626,NYL,IND,2009-10
+Shot Chart Detail,1020900043,172,100008,Tamecka Dixon,1611661325,Indiana Fever,2,2,2,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-153,56,1,1,20090626,NYL,IND,2009-10
+Shot Chart Detail,1020900048,111,100008,Tamecka Dixon,1611661325,Indiana Fever,2,7,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,-24,1,1,20090627,IND,NYL,2009-10
+Shot Chart Detail,1020900048,120,100008,Tamecka Dixon,1611661325,Indiana Fever,2,5,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,106,135,1,0,20090627,IND,NYL,2009-10
+Shot Chart Detail,1020900048,139,100008,Tamecka Dixon,1611661325,Indiana Fever,2,3,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-194,-36,1,1,20090627,IND,NYL,2009-10
+Shot Chart Detail,1020900048,142,100008,Tamecka Dixon,1611661325,Indiana Fever,2,3,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,72,172,1,0,20090627,IND,NYL,2009-10
+Shot Chart Detail,1020900048,313,100008,Tamecka Dixon,1611661325,Indiana Fever,4,6,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-166,61,1,0,20090627,IND,NYL,2009-10
+Shot Chart Detail,1020900057,115,100008,Tamecka Dixon,1611661325,Indiana Fever,2,8,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,179,-14,1,0,20090702,IND,CON,2009-10
+Shot Chart Detail,1020900057,120,100008,Tamecka Dixon,1611661325,Indiana Fever,2,8,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090702,IND,CON,2009-10
+Shot Chart Detail,1020900063,123,100008,Tamecka Dixon,1611661325,Indiana Fever,2,9,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-199,-14,1,0,20090705,IND,ATL,2009-10
+Shot Chart Detail,1020900063,146,100008,Tamecka Dixon,1611661325,Indiana Fever,2,7,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,-19,1,1,20090705,IND,ATL,2009-10
+Shot Chart Detail,1020900063,291,100008,Tamecka Dixon,1611661325,Indiana Fever,3,5,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,80,173,1,0,20090705,IND,ATL,2009-10
+Shot Chart Detail,1020900063,338,100008,Tamecka Dixon,1611661325,Indiana Fever,3,0,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,48,1,0,20090705,IND,ATL,2009-10
+Shot Chart Detail,1020900073,128,100008,Tamecka Dixon,1611661325,Indiana Fever,2,8,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-8,167,1,0,20090710,CHI,IND,2009-10
+Shot Chart Detail,1020900073,131,100008,Tamecka Dixon,1611661325,Indiana Fever,2,7,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,106,132,1,1,20090710,CHI,IND,2009-10
+Shot Chart Detail,1020900073,167,100008,Tamecka Dixon,1611661325,Indiana Fever,2,4,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,14,1,0,20090710,CHI,IND,2009-10
+Shot Chart Detail,1020900073,236,100008,Tamecka Dixon,1611661325,Indiana Fever,3,6,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090710,CHI,IND,2009-10
+Shot Chart Detail,1020900073,242,100008,Tamecka Dixon,1611661325,Indiana Fever,3,5,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,122,37,1,1,20090710,CHI,IND,2009-10
+Shot Chart Detail,1020900083,108,100008,Tamecka Dixon,1611661325,Indiana Fever,2,7,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-153,86,1,0,20090715,IND,CHI,2009-10
+Shot Chart Detail,1020900083,114,100008,Tamecka Dixon,1611661325,Indiana Fever,2,6,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-89,82,1,0,20090715,IND,CHI,2009-10
+Shot Chart Detail,1020900083,265,100008,Tamecka Dixon,1611661325,Indiana Fever,3,0,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-18,53,1,0,20090715,IND,CHI,2009-10
+Shot Chart Detail,1020900083,267,100008,Tamecka Dixon,1611661325,Indiana Fever,3,0,7,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-7,36,1,1,20090715,IND,CHI,2009-10
+Shot Chart Detail,1020900086,314,100008,Tamecka Dixon,1611661325,Indiana Fever,4,9,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-8,154,1,1,20090717,IND,ATL,2009-10
+Shot Chart Detail,1020900092,90,100008,Tamecka Dixon,1611661325,Indiana Fever,1,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-111,154,1,1,20090719,CON,IND,2009-10
+Shot Chart Detail,1020900092,175,100008,Tamecka Dixon,1611661325,Indiana Fever,2,2,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,11,1,0,20090719,CON,IND,2009-10
+Shot Chart Detail,1020900092,198,100008,Tamecka Dixon,1611661325,Indiana Fever,2,0,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,152,12,1,1,20090719,CON,IND,2009-10
+Shot Chart Detail,1020900092,321,100008,Tamecka Dixon,1611661325,Indiana Fever,4,8,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,19,1,0,20090719,CON,IND,2009-10
+Shot Chart Detail,1020900092,330,100008,Tamecka Dixon,1611661325,Indiana Fever,4,7,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,181,30,1,0,20090719,CON,IND,2009-10
+Shot Chart Detail,1020900092,337,100008,Tamecka Dixon,1611661325,Indiana Fever,4,7,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-141,116,1,0,20090719,CON,IND,2009-10
+Shot Chart Detail,1020900097,160,100008,Tamecka Dixon,1611661325,Indiana Fever,2,7,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,23,159,1,0,20090721,WAS,IND,2009-10
+Shot Chart Detail,1020900103,95,100008,Tamecka Dixon,1611661325,Indiana Fever,2,7,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,12,1,0,20090723,SAN,IND,2009-10
+Shot Chart Detail,1020900103,102,100008,Tamecka Dixon,1611661325,Indiana Fever,2,7,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-11,93,1,0,20090723,SAN,IND,2009-10
+Shot Chart Detail,1020900103,250,100008,Tamecka Dixon,1611661325,Indiana Fever,3,5,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,20,1,1,20090723,SAN,IND,2009-10
+Shot Chart Detail,1020900103,262,100008,Tamecka Dixon,1611661325,Indiana Fever,3,3,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-114,99,1,1,20090723,SAN,IND,2009-10
+Shot Chart Detail,1020900103,269,100008,Tamecka Dixon,1611661325,Indiana Fever,3,3,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,121,88,1,0,20090723,SAN,IND,2009-10
+Shot Chart Detail,1020900103,287,100008,Tamecka Dixon,1611661325,Indiana Fever,3,1,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-180,9,1,1,20090723,SAN,IND,2009-10
+Shot Chart Detail,1020900103,326,100008,Tamecka Dixon,1611661325,Indiana Fever,4,8,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,121,115,1,0,20090723,SAN,IND,2009-10
+Shot Chart Detail,1020900108,103,100008,Tamecka Dixon,1611661325,Indiana Fever,2,9,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-119,190,1,1,20090728,IND,WAS,2009-10
+Shot Chart Detail,1020900114,71,100008,Tamecka Dixon,1611661325,Indiana Fever,1,1,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,121,50,1,1,20090730,IND,CON,2009-10
+Shot Chart Detail,1020900114,112,100008,Tamecka Dixon,1611661325,Indiana Fever,2,9,12,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-127,135,1,1,20090730,IND,CON,2009-10
+Shot Chart Detail,1020900114,296,100008,Tamecka Dixon,1611661325,Indiana Fever,3,2,52,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-133,108,1,1,20090730,IND,CON,2009-10
+Shot Chart Detail,1020900114,299,100008,Tamecka Dixon,1611661325,Indiana Fever,3,2,36,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-157,-2,1,1,20090730,IND,CON,2009-10
+Shot Chart Detail,1020900114,354,100008,Tamecka Dixon,1611661325,Indiana Fever,4,7,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,129,56,1,0,20090730,IND,CON,2009-10
+Shot Chart Detail,1020900123,122,100008,Tamecka Dixon,1611661325,Indiana Fever,2,8,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,121,104,1,0,20090802,WAS,IND,2009-10
+Shot Chart Detail,1020900123,128,100008,Tamecka Dixon,1611661325,Indiana Fever,2,8,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-177,48,1,0,20090802,WAS,IND,2009-10
+Shot Chart Detail,1020900123,144,100008,Tamecka Dixon,1611661325,Indiana Fever,2,6,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-205,86,1,0,20090802,WAS,IND,2009-10
+Shot Chart Detail,1020900123,327,100008,Tamecka Dixon,1611661325,Indiana Fever,3,0,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,7,1,0,20090802,WAS,IND,2009-10
+Shot Chart Detail,1020900123,344,100008,Tamecka Dixon,1611661325,Indiana Fever,4,8,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-152,67,1,1,20090802,WAS,IND,2009-10
+Shot Chart Detail,1020900123,388,100008,Tamecka Dixon,1611661325,Indiana Fever,4,4,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-125,91,1,1,20090802,WAS,IND,2009-10
+Shot Chart Detail,1020900123,446,100008,Tamecka Dixon,1611661325,Indiana Fever,4,1,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-191,-27,1,0,20090802,WAS,IND,2009-10
+Shot Chart Detail,1020900128,78,100008,Tamecka Dixon,1611661325,Indiana Fever,1,1,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-3,1,0,20090805,IND,CHI,2009-10
+Shot Chart Detail,1020900128,85,100008,Tamecka Dixon,1611661325,Indiana Fever,1,0,37,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,12,1,1,20090805,IND,CHI,2009-10
+Shot Chart Detail,1020900128,106,100008,Tamecka Dixon,1611661325,Indiana Fever,2,9,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,28,151,1,0,20090805,IND,CHI,2009-10
+Shot Chart Detail,1020900128,120,100008,Tamecka Dixon,1611661325,Indiana Fever,2,8,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,122,82,1,0,20090805,IND,CHI,2009-10
+Shot Chart Detail,1020900128,317,100008,Tamecka Dixon,1611661325,Indiana Fever,4,7,59,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,7,1,1,20090805,IND,CHI,2009-10
+Shot Chart Detail,1020900128,324,100008,Tamecka Dixon,1611661325,Indiana Fever,4,7,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,-17,1,0,20090805,IND,CHI,2009-10
+Shot Chart Detail,1020900128,363,100008,Tamecka Dixon,1611661325,Indiana Fever,4,4,26,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,23,36,1,1,20090805,IND,CHI,2009-10
+Shot Chart Detail,1020900128,365,100008,Tamecka Dixon,1611661325,Indiana Fever,4,3,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,119,190,1,0,20090805,IND,CHI,2009-10
+Shot Chart Detail,1020900136,87,100008,Tamecka Dixon,1611661325,Indiana Fever,2,9,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090808,PHO,IND,2009-10
+Shot Chart Detail,1020900136,103,100008,Tamecka Dixon,1611661325,Indiana Fever,2,8,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-70,85,1,0,20090808,PHO,IND,2009-10
+Shot Chart Detail,1020900136,112,100008,Tamecka Dixon,1611661325,Indiana Fever,2,7,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,7,86,1,0,20090808,PHO,IND,2009-10
+Shot Chart Detail,1020900136,288,100008,Tamecka Dixon,1611661325,Indiana Fever,3,2,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-180,58,1,0,20090808,PHO,IND,2009-10
+Shot Chart Detail,1020900136,370,100008,Tamecka Dixon,1611661325,Indiana Fever,4,6,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090808,PHO,IND,2009-10
+Shot Chart Detail,1020900140,148,100008,Tamecka Dixon,1611661325,Indiana Fever,2,3,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,157,55,1,0,20090810,LAS,IND,2009-10
+Shot Chart Detail,1020900140,314,100008,Tamecka Dixon,1611661325,Indiana Fever,4,9,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090810,LAS,IND,2009-10
+Shot Chart Detail,1020900146,110,100008,Tamecka Dixon,1611661325,Indiana Fever,2,7,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-152,55,1,1,20090813,MIN,IND,2009-10
+Shot Chart Detail,1020900146,115,100008,Tamecka Dixon,1611661325,Indiana Fever,2,7,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,127,28,1,1,20090813,MIN,IND,2009-10
+Shot Chart Detail,1020900146,304,100008,Tamecka Dixon,1611661325,Indiana Fever,3,1,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-177,14,1,1,20090813,MIN,IND,2009-10
+Shot Chart Detail,1020900146,308,100008,Tamecka Dixon,1611661325,Indiana Fever,3,1,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-163,75,1,1,20090813,MIN,IND,2009-10
+Shot Chart Detail,1020900146,311,100008,Tamecka Dixon,1611661325,Indiana Fever,3,0,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,0,86,1,0,20090813,MIN,IND,2009-10
+Shot Chart Detail,1020900152,90,100008,Tamecka Dixon,1611661325,Indiana Fever,2,9,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-139,104,1,0,20090815,IND,DET,2009-10
+Shot Chart Detail,1020900152,106,100008,Tamecka Dixon,1611661325,Indiana Fever,2,7,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,-27,1,0,20090815,IND,DET,2009-10
+Shot Chart Detail,1020900162,75,100008,Tamecka Dixon,1611661325,Indiana Fever,1,1,43,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090820,SAC,IND,2009-10
+Shot Chart Detail,1020900162,361,100008,Tamecka Dixon,1611661325,Indiana Fever,4,5,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,165,26,1,0,20090820,SAC,IND,2009-10
+Shot Chart Detail,1020900169,147,100008,Tamecka Dixon,1611661325,Indiana Fever,2,6,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-133,89,1,1,20090822,SEA,IND,2009-10
+Shot Chart Detail,1020900169,173,100008,Tamecka Dixon,1611661325,Indiana Fever,2,5,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-112,156,1,1,20090822,SEA,IND,2009-10
+Shot Chart Detail,1020900195,42,100008,Tamecka Dixon,1611661325,Indiana Fever,1,4,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-7,129,1,0,20090902,IND,PHO,2009-10
+Shot Chart Detail,1020900195,49,100008,Tamecka Dixon,1611661325,Indiana Fever,1,4,5,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,-17,1,1,20090902,IND,PHO,2009-10
+Shot Chart Detail,1020900195,52,100008,Tamecka Dixon,1611661325,Indiana Fever,1,3,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,-17,1,0,20090902,IND,PHO,2009-10
+Shot Chart Detail,1020900195,184,100008,Tamecka Dixon,1611661325,Indiana Fever,2,3,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-86,175,1,0,20090902,IND,PHO,2009-10
+Shot Chart Detail,1020900195,186,100008,Tamecka Dixon,1611661325,Indiana Fever,2,3,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,0,1,1,20090902,IND,PHO,2009-10
+Shot Chart Detail,1020900198,97,100008,Tamecka Dixon,1611661325,Indiana Fever,1,0,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-108,83,1,1,20090904,DET,IND,2009-10
+Shot Chart Detail,1020900198,100,100008,Tamecka Dixon,1611661325,Indiana Fever,1,0,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,135,88,1,0,20090904,DET,IND,2009-10
+Shot Chart Detail,1020900198,111,100008,Tamecka Dixon,1611661325,Indiana Fever,1,0,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,173,19,1,1,20090904,DET,IND,2009-10
+Shot Chart Detail,1020900198,168,100008,Tamecka Dixon,1611661325,Indiana Fever,2,5,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-78,219,1,0,20090904,DET,IND,2009-10
+Shot Chart Detail,1020900198,381,100008,Tamecka Dixon,1611661325,Indiana Fever,4,6,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-212,89,1,0,20090904,DET,IND,2009-10
+Shot Chart Detail,1020900198,400,100008,Tamecka Dixon,1611661325,Indiana Fever,4,4,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,129,75,1,1,20090904,DET,IND,2009-10
+Shot Chart Detail,1020900198,403,100008,Tamecka Dixon,1611661325,Indiana Fever,4,4,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-150,55,1,0,20090904,DET,IND,2009-10
+Shot Chart Detail,1020900198,412,100008,Tamecka Dixon,1611661325,Indiana Fever,4,2,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,141,86,1,0,20090904,DET,IND,2009-10
+Shot Chart Detail,1020900198,452,100008,Tamecka Dixon,1611661325,Indiana Fever,5,4,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,13,143,1,0,20090904,DET,IND,2009-10
+Shot Chart Detail,1020900198,479,100008,Tamecka Dixon,1611661325,Indiana Fever,5,0,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090904,DET,IND,2009-10
+Shot Chart Detail,1020900198,507,100008,Tamecka Dixon,1611661325,Indiana Fever,5,0,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-157,99,1,1,20090904,DET,IND,2009-10
+Shot Chart Detail,1020900204,94,100008,Tamecka Dixon,1611661325,Indiana Fever,1,0,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,133,89,1,1,20090906,IND,WAS,2009-10
+Shot Chart Detail,1020900204,374,100008,Tamecka Dixon,1611661325,Indiana Fever,4,6,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,-3,1,1,20090906,IND,WAS,2009-10
+Shot Chart Detail,1020900204,386,100008,Tamecka Dixon,1611661325,Indiana Fever,4,5,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,7,1,0,20090906,IND,WAS,2009-10
+Shot Chart Detail,1020900206,71,100008,Tamecka Dixon,1611661325,Indiana Fever,1,1,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-125,123,1,0,20090908,NYL,IND,2009-10
+Shot Chart Detail,1020900206,90,100008,Tamecka Dixon,1611661325,Indiana Fever,2,8,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,103,132,1,0,20090908,NYL,IND,2009-10
+Shot Chart Detail,1020900206,100,100008,Tamecka Dixon,1611661325,Indiana Fever,2,7,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,95,115,1,1,20090908,NYL,IND,2009-10
+Shot Chart Detail,1020900206,111,100008,Tamecka Dixon,1611661325,Indiana Fever,2,5,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090908,NYL,IND,2009-10
+Shot Chart Detail,1020900206,249,100008,Tamecka Dixon,1611661325,Indiana Fever,3,1,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,43,48,1,0,20090908,NYL,IND,2009-10
+Shot Chart Detail,1020900206,252,100008,Tamecka Dixon,1611661325,Indiana Fever,3,0,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090908,NYL,IND,2009-10
+Shot Chart Detail,1020900210,128,100008,Tamecka Dixon,1611661325,Indiana Fever,2,8,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-160,108,1,0,20090910,CHI,IND,2009-10
+Shot Chart Detail,1020900210,154,100008,Tamecka Dixon,1611661325,Indiana Fever,2,5,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090910,CHI,IND,2009-10
+Shot Chart Detail,1020900219,90,100008,Tamecka Dixon,1611661325,Indiana Fever,1,1,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,-25,1,1,20090913,CON,IND,2009-10
+Shot Chart Detail,1020900219,137,100008,Tamecka Dixon,1611661325,Indiana Fever,2,6,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-8,1,1,20090913,CON,IND,2009-10
+Shot Chart Detail,1020900219,230,100008,Tamecka Dixon,1611661325,Indiana Fever,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,103,85,1,0,20090913,CON,IND,2009-10
+Shot Chart Detail,1020900219,361,100008,Tamecka Dixon,1611661325,Indiana Fever,3,2,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,20,1,0,20090913,CON,IND,2009-10
+Shot Chart Detail,1020900219,364,100008,Tamecka Dixon,1611661325,Indiana Fever,3,1,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-177,17,1,0,20090913,CON,IND,2009-10
+Shot Chart Detail,1020900219,367,100008,Tamecka Dixon,1611661325,Indiana Fever,3,0,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,12,1,0,20090913,CON,IND,2009-10
+Shot Chart Detail,1020900219,375,100008,Tamecka Dixon,1611661325,Indiana Fever,3,0,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,-6,1,1,20090913,CON,IND,2009-10
+Shot Chart Detail,1020900219,425,100008,Tamecka Dixon,1611661325,Indiana Fever,4,5,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,0,204,1,1,20090913,CON,IND,2009-10
+Shot Chart Detail,1020900219,437,100008,Tamecka Dixon,1611661325,Indiana Fever,4,3,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,171,6,1,0,20090913,CON,IND,2009-10
+Shot Chart Detail,1020900219,446,100008,Tamecka Dixon,1611661325,Indiana Fever,4,2,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,10,134,1,0,20090913,CON,IND,2009-10
+Shot Chart Detail,1020900219,455,100008,Tamecka Dixon,1611661325,Indiana Fever,4,1,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,-2,1,1,20090913,CON,IND,2009-10

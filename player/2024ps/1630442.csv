@@ -1,0 +1,12 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1042400111,354,1630442,Natasha Mack,1611661317,Phoenix Mercury,3,2,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,11,1,1,20240922,MIN,PHO,2024-25
+Shot Chart Detail,1042400111,372,1630442,Natasha Mack,1611661317,Phoenix Mercury,3,1,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,71,117,1,0,20240922,MIN,PHO,2024-25
+Shot Chart Detail,1042400112,78,1630442,Natasha Mack,1611661317,Phoenix Mercury,1,4,6,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,3,1,0,20240925,MIN,PHO,2024-25
+Shot Chart Detail,1042400112,116,1630442,Natasha Mack,1611661317,Phoenix Mercury,1,1,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,6,165,1,1,20240925,MIN,PHO,2024-25
+Shot Chart Detail,1042400112,159,1630442,Natasha Mack,1611661317,Phoenix Mercury,2,8,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-3,94,1,1,20240925,MIN,PHO,2024-25
+Shot Chart Detail,1042400112,237,1630442,Natasha Mack,1611661317,Phoenix Mercury,2,4,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,2,1,1,20240925,MIN,PHO,2024-25
+Shot Chart Detail,1042400112,245,1630442,Natasha Mack,1611661317,Phoenix Mercury,2,3,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,1,1,1,20240925,MIN,PHO,2024-25
+Shot Chart Detail,1042400112,396,1630442,Natasha Mack,1611661317,Phoenix Mercury,3,2,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,35,152,1,0,20240925,MIN,PHO,2024-25
+Shot Chart Detail,1042400112,401,1630442,Natasha Mack,1611661317,Phoenix Mercury,3,1,55,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,25,1,1,20240925,MIN,PHO,2024-25
+Shot Chart Detail,1042400112,451,1630442,Natasha Mack,1611661317,Phoenix Mercury,4,8,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,40,33,1,0,20240925,MIN,PHO,2024-25
+Shot Chart Detail,1042400112,581,1630442,Natasha Mack,1611661317,Phoenix Mercury,4,0,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,12,34,1,1,20240925,MIN,PHO,2024-25

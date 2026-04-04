@@ -1,0 +1,17 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1029900077,267,100178,Sonia Chase,1611661314,Charlotte Sting,2,9,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,-10,1,0,19990710,CLE,CHA,1999-00
+Shot Chart Detail,1029900082,100,100178,Sonia Chase,1611661314,Charlotte Sting,1,8,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,104,194,1,0,19990712,WAS,CHA,1999-00
+Shot Chart Detail,1029900087,169,100178,Sonia Chase,1611661314,Charlotte Sting,1,0,3,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,20,-203,-14,1,0,19990716,ORL,CHA,1999-00
+Shot Chart Detail,1029900106,164,100178,Sonia Chase,1611661314,Charlotte Sting,1,1,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-48,209,1,1,19990723,CHA,HOU,1999-00
+Shot Chart Detail,1029900106,236,100178,Sonia Chase,1611661314,Charlotte Sting,2,13,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,20,199,44,1,1,19990723,CHA,HOU,1999-00
+Shot Chart Detail,1029900106,255,100178,Sonia Chase,1611661314,Charlotte Sting,2,11,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,21,1,0,19990723,CHA,HOU,1999-00
+Shot Chart Detail,1029900106,257,100178,Sonia Chase,1611661314,Charlotte Sting,2,11,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990723,CHA,HOU,1999-00
+Shot Chart Detail,1029900106,333,100178,Sonia Chase,1611661314,Charlotte Sting,2,4,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,121,188,1,0,19990723,CHA,HOU,1999-00
+Shot Chart Detail,1029900130,103,100178,Sonia Chase,1611661314,Charlotte Sting,1,9,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-38,224,1,0,19990731,MIN,CHA,1999-00
+Shot Chart Detail,1029900130,123,100178,Sonia Chase,1611661314,Charlotte Sting,1,7,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,201,100,1,0,19990731,MIN,CHA,1999-00
+Shot Chart Detail,1029900140,102,100178,Sonia Chase,1611661314,Charlotte Sting,1,6,26,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,20,207,-27,1,1,19990804,CHA,SAC,1999-00
+Shot Chart Detail,1029900140,235,100178,Sonia Chase,1611661314,Charlotte Sting,2,10,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,16,1,0,19990804,CHA,SAC,1999-00
+Shot Chart Detail,1029900146,361,100178,Sonia Chase,1611661314,Charlotte Sting,2,1,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-197,76,1,0,19990806,HOU,CHA,1999-00
+Shot Chart Detail,1029900184,78,100178,Sonia Chase,1611661314,Charlotte Sting,1,9,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990820,CHA,DET,1999-00
+Shot Chart Detail,1029900184,84,100178,Sonia Chase,1611661314,Charlotte Sting,1,8,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,20,171,111,1,0,19990820,CHA,DET,1999-00
+Shot Chart Detail,1029900184,100,100178,Sonia Chase,1611661314,Charlotte Sting,1,6,48,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-212,27,1,0,19990820,CHA,DET,1999-00

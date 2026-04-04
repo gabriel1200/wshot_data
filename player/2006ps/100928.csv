@@ -1,0 +1,10 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1040600111,31,100928,Ebony Hoffman,1611661325,Indiana Fever,1,6,44,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,17,1,1,20060817,IND,DET,2006-07
+Shot Chart Detail,1040600111,146,100928,Ebony Hoffman,1611661325,Indiana Fever,2,6,0,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,5,1,1,20060817,IND,DET,2006-07
+Shot Chart Detail,1040600111,212,100928,Ebony Hoffman,1611661325,Indiana Fever,3,9,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,146,68,1,1,20060817,IND,DET,2006-07
+Shot Chart Detail,1040600111,243,100928,Ebony Hoffman,1611661325,Indiana Fever,3,4,40,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,16,36,1,1,20060817,IND,DET,2006-07
+Shot Chart Detail,1040600111,272,100928,Ebony Hoffman,1611661325,Indiana Fever,3,1,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,-18,1,1,20060817,IND,DET,2006-07
+Shot Chart Detail,1040600111,301,100928,Ebony Hoffman,1611661325,Indiana Fever,4,8,43,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-13,30,1,0,20060817,IND,DET,2006-07
+Shot Chart Detail,1040600111,303,100928,Ebony Hoffman,1611661325,Indiana Fever,4,8,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,-8,1,0,20060817,IND,DET,2006-07
+Shot Chart Detail,1040600112,2,100928,Ebony Hoffman,1611661325,Indiana Fever,1,9,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060819,DET,IND,2006-07
+Shot Chart Detail,1040600112,147,100928,Ebony Hoffman,1611661325,Indiana Fever,2,5,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,13,1,0,20060819,DET,IND,2006-07

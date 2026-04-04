@@ -1,0 +1,123 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020900004,100,100690,Coco Miller,1611661330,Atlanta Dream,1,0,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,23,-231,48,1,0,20090606,ATL,IND,2009-10
+Shot Chart Detail,1020900004,560,100690,Coco Miller,1611661330,Atlanta Dream,5,0,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,173,17,1,0,20090606,ATL,IND,2009-10
+Shot Chart Detail,1020900004,628,100690,Coco Miller,1611661330,Atlanta Dream,6,3,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-160,75,1,1,20090606,ATL,IND,2009-10
+Shot Chart Detail,1020900008,85,100690,Coco Miller,1611661330,Atlanta Dream,1,2,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-84,131,1,1,20090607,WAS,ATL,2009-10
+Shot Chart Detail,1020900008,262,100690,Coco Miller,1611661330,Atlanta Dream,3,7,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-190,129,1,1,20090607,WAS,ATL,2009-10
+Shot Chart Detail,1020900008,283,100690,Coco Miller,1611661330,Atlanta Dream,3,5,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,12,184,1,1,20090607,WAS,ATL,2009-10
+Shot Chart Detail,1020900008,285,100690,Coco Miller,1611661330,Atlanta Dream,3,4,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-144,91,1,0,20090607,WAS,ATL,2009-10
+Shot Chart Detail,1020900008,289,100690,Coco Miller,1611661330,Atlanta Dream,3,4,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,4,1,1,20090607,WAS,ATL,2009-10
+Shot Chart Detail,1020900008,358,100690,Coco Miller,1611661330,Atlanta Dream,4,9,36,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-35,9,1,1,20090607,WAS,ATL,2009-10
+Shot Chart Detail,1020900008,361,100690,Coco Miller,1611661330,Atlanta Dream,4,8,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-144,-11,1,0,20090607,WAS,ATL,2009-10
+Shot Chart Detail,1020900008,396,100690,Coco Miller,1611661330,Atlanta Dream,4,6,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-101,69,1,0,20090607,WAS,ATL,2009-10
+Shot Chart Detail,1020900008,425,100690,Coco Miller,1611661330,Atlanta Dream,4,3,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,15,1,1,20090607,WAS,ATL,2009-10
+Shot Chart Detail,1020900008,469,100690,Coco Miller,1611661330,Atlanta Dream,4,1,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-71,137,1,1,20090607,WAS,ATL,2009-10
+Shot Chart Detail,1020900008,488,100690,Coco Miller,1611661330,Atlanta Dream,4,0,14,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-141,78,1,1,20090607,WAS,ATL,2009-10
+Shot Chart Detail,1020900018,6,100690,Coco Miller,1611661330,Atlanta Dream,1,8,48,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-136,52,1,1,20090612,CHI,ATL,2009-10
+Shot Chart Detail,1020900018,147,100690,Coco Miller,1611661330,Atlanta Dream,2,6,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,106,190,1,0,20090612,CHI,ATL,2009-10
+Shot Chart Detail,1020900018,160,100690,Coco Miller,1611661330,Atlanta Dream,2,5,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,176,121,1,0,20090612,CHI,ATL,2009-10
+Shot Chart Detail,1020900018,322,100690,Coco Miller,1611661330,Atlanta Dream,3,0,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090612,CHI,ATL,2009-10
+Shot Chart Detail,1020900018,324,100690,Coco Miller,1611661330,Atlanta Dream,3,0,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-182,143,1,0,20090612,CHI,ATL,2009-10
+Shot Chart Detail,1020900018,413,100690,Coco Miller,1611661330,Atlanta Dream,4,3,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090612,CHI,ATL,2009-10
+Shot Chart Detail,1020900018,424,100690,Coco Miller,1611661330,Atlanta Dream,4,3,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-4,164,1,0,20090612,CHI,ATL,2009-10
+Shot Chart Detail,1020900018,437,100690,Coco Miller,1611661330,Atlanta Dream,4,2,23,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,15,1,0,20090612,CHI,ATL,2009-10
+Shot Chart Detail,1020900018,446,100690,Coco Miller,1611661330,Atlanta Dream,4,1,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-29,192,1,1,20090612,CHI,ATL,2009-10
+Shot Chart Detail,1020900022,139,100690,Coco Miller,1611661330,Atlanta Dream,2,8,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-43,4,1,0,20090614,CON,ATL,2009-10
+Shot Chart Detail,1020900022,164,100690,Coco Miller,1611661330,Atlanta Dream,2,6,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-177,1,1,0,20090614,CON,ATL,2009-10
+Shot Chart Detail,1020900022,330,100690,Coco Miller,1611661330,Atlanta Dream,3,0,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,100,131,1,1,20090614,CON,ATL,2009-10
+Shot Chart Detail,1020900022,347,100690,Coco Miller,1611661330,Atlanta Dream,4,8,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,59,4,1,1,20090614,CON,ATL,2009-10
+Shot Chart Detail,1020900029,402,100690,Coco Miller,1611661330,Atlanta Dream,4,9,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,114,190,1,0,20090619,ATL,WAS,2009-10
+Shot Chart Detail,1020900029,422,100690,Coco Miller,1611661330,Atlanta Dream,4,8,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-67,124,1,0,20090619,ATL,WAS,2009-10
+Shot Chart Detail,1020900029,433,100690,Coco Miller,1611661330,Atlanta Dream,4,7,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,130,91,1,1,20090619,ATL,WAS,2009-10
+Shot Chart Detail,1020900035,116,100690,Coco Miller,1611661330,Atlanta Dream,2,9,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-38,82,1,0,20090621,ATL,NYL,2009-10
+Shot Chart Detail,1020900035,135,100690,Coco Miller,1611661330,Atlanta Dream,2,8,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-41,175,1,0,20090621,ATL,NYL,2009-10
+Shot Chart Detail,1020900035,373,100690,Coco Miller,1611661330,Atlanta Dream,4,9,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-116,33,1,0,20090621,ATL,NYL,2009-10
+Shot Chart Detail,1020900035,380,100690,Coco Miller,1611661330,Atlanta Dream,4,8,58,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,0,1,1,20090621,ATL,NYL,2009-10
+Shot Chart Detail,1020900035,418,100690,Coco Miller,1611661330,Atlanta Dream,4,5,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-175,184,1,0,20090621,ATL,NYL,2009-10
+Shot Chart Detail,1020900039,386,100690,Coco Miller,1611661330,Atlanta Dream,4,1,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,124,71,1,0,20090623,ATL,CHI,2009-10
+Shot Chart Detail,1020900044,160,100690,Coco Miller,1611661330,Atlanta Dream,2,7,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-79,228,1,0,20090626,ATL,DET,2009-10
+Shot Chart Detail,1020900044,553,100690,Coco Miller,1611661330,Atlanta Dream,4,1,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,168,146,1,1,20090626,ATL,DET,2009-10
+Shot Chart Detail,1020900047,391,100690,Coco Miller,1611661330,Atlanta Dream,4,7,24,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,212,15,1,1,20090627,CON,ATL,2009-10
+Shot Chart Detail,1020900047,459,100690,Coco Miller,1611661330,Atlanta Dream,4,1,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,184,110,1,0,20090627,CON,ATL,2009-10
+Shot Chart Detail,1020900053,61,100690,Coco Miller,1611661330,Atlanta Dream,1,1,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090630,ATL,MIN,2009-10
+Shot Chart Detail,1020900053,90,100690,Coco Miller,1611661330,Atlanta Dream,2,8,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090630,ATL,MIN,2009-10
+Shot Chart Detail,1020900053,95,100690,Coco Miller,1611661330,Atlanta Dream,2,7,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,154,64,1,1,20090630,ATL,MIN,2009-10
+Shot Chart Detail,1020900053,224,100690,Coco Miller,1611661330,Atlanta Dream,3,7,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,114,107,1,0,20090630,ATL,MIN,2009-10
+Shot Chart Detail,1020900053,366,100690,Coco Miller,1611661330,Atlanta Dream,4,6,0,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090630,ATL,MIN,2009-10
+Shot Chart Detail,1020900053,373,100690,Coco Miller,1611661330,Atlanta Dream,4,5,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-38,34,1,0,20090630,ATL,MIN,2009-10
+Shot Chart Detail,1020900053,411,100690,Coco Miller,1611661330,Atlanta Dream,4,2,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,149,80,1,1,20090630,ATL,MIN,2009-10
+Shot Chart Detail,1020900053,436,100690,Coco Miller,1611661330,Atlanta Dream,4,0,14,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090630,ATL,MIN,2009-10
+Shot Chart Detail,1020900060,32,100690,Coco Miller,1611661330,Atlanta Dream,1,7,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,15,154,1,0,20090703,ATL,WAS,2009-10
+Shot Chart Detail,1020900060,275,100690,Coco Miller,1611661330,Atlanta Dream,3,9,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090703,ATL,WAS,2009-10
+Shot Chart Detail,1020900060,291,100690,Coco Miller,1611661330,Atlanta Dream,3,8,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,12,1,0,20090703,ATL,WAS,2009-10
+Shot Chart Detail,1020900060,294,100690,Coco Miller,1611661330,Atlanta Dream,3,7,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-57,159,1,1,20090703,ATL,WAS,2009-10
+Shot Chart Detail,1020900060,306,100690,Coco Miller,1611661330,Atlanta Dream,3,6,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-87,131,1,0,20090703,ATL,WAS,2009-10
+Shot Chart Detail,1020900060,409,100690,Coco Miller,1611661330,Atlanta Dream,4,7,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,24,143,1,0,20090703,ATL,WAS,2009-10
+Shot Chart Detail,1020900060,425,100690,Coco Miller,1611661330,Atlanta Dream,4,6,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-93,23,1,0,20090703,ATL,WAS,2009-10
+Shot Chart Detail,1020900060,451,100690,Coco Miller,1611661330,Atlanta Dream,4,4,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-73,140,1,0,20090703,ATL,WAS,2009-10
+Shot Chart Detail,1020900063,18,100690,Coco Miller,1611661330,Atlanta Dream,1,7,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,1,1,1,20090705,IND,ATL,2009-10
+Shot Chart Detail,1020900063,64,100690,Coco Miller,1611661330,Atlanta Dream,1,4,3,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,7,1,1,20090705,IND,ATL,2009-10
+Shot Chart Detail,1020900063,221,100690,Coco Miller,1611661330,Atlanta Dream,2,0,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-136,101,1,0,20090705,IND,ATL,2009-10
+Shot Chart Detail,1020900066,28,100690,Coco Miller,1611661330,Atlanta Dream,1,6,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,22,-226,28,1,1,20090707,ATL,CON,2009-10
+Shot Chart Detail,1020900066,210,100690,Coco Miller,1611661330,Atlanta Dream,2,1,42,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,65,119,1,1,20090707,ATL,CON,2009-10
+Shot Chart Detail,1020900066,222,100690,Coco Miller,1611661330,Atlanta Dream,2,0,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,37,176,1,0,20090707,ATL,CON,2009-10
+Shot Chart Detail,1020900066,247,100690,Coco Miller,1611661330,Atlanta Dream,3,8,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-57,60,1,0,20090707,ATL,CON,2009-10
+Shot Chart Detail,1020900066,418,100690,Coco Miller,1611661330,Atlanta Dream,4,4,14,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-125,135,1,0,20090707,ATL,CON,2009-10
+Shot Chart Detail,1020900082,107,100690,Coco Miller,1611661330,Atlanta Dream,2,9,27,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-35,19,1,1,20090715,MIN,ATL,2009-10
+Shot Chart Detail,1020900086,107,100690,Coco Miller,1611661330,Atlanta Dream,1,1,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,-6,1,0,20090717,IND,ATL,2009-10
+Shot Chart Detail,1020900093,131,100690,Coco Miller,1611661330,Atlanta Dream,2,5,56,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,15,80,138,1,0,20090719,NYL,ATL,2009-10
+Shot Chart Detail,1020900116,408,100690,Coco Miller,1611661330,Atlanta Dream,4,8,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-130,67,1,0,20090730,ATL,PHO,2009-10
+Shot Chart Detail,1020900116,500,100690,Coco Miller,1611661330,Atlanta Dream,4,1,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,129,173,1,0,20090730,ATL,PHO,2009-10
+Shot Chart Detail,1020900116,506,100690,Coco Miller,1611661330,Atlanta Dream,4,0,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-109,71,1,0,20090730,ATL,PHO,2009-10
+Shot Chart Detail,1020900118,140,100690,Coco Miller,1611661330,Atlanta Dream,2,7,17,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090801,ATL,NYL,2009-10
+Shot Chart Detail,1020900118,209,100690,Coco Miller,1611661330,Atlanta Dream,2,1,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,136,97,1,1,20090801,ATL,NYL,2009-10
+Shot Chart Detail,1020900118,456,100690,Coco Miller,1611661330,Atlanta Dream,4,5,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,149,30,1,1,20090801,ATL,NYL,2009-10
+Shot Chart Detail,1020900129,129,100690,Coco Miller,1611661330,Atlanta Dream,2,8,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-112,-16,1,1,20090806,SAN,ATL,2009-10
+Shot Chart Detail,1020900134,22,100690,Coco Miller,1611661330,Atlanta Dream,1,7,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,37,25,1,1,20090808,ATL,CHI,2009-10
+Shot Chart Detail,1020900134,75,100690,Coco Miller,1611661330,Atlanta Dream,1,2,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-149,91,1,1,20090808,ATL,CHI,2009-10
+Shot Chart Detail,1020900134,93,100690,Coco Miller,1611661330,Atlanta Dream,1,1,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,19,1,1,20090808,ATL,CHI,2009-10
+Shot Chart Detail,1020900134,172,100690,Coco Miller,1611661330,Atlanta Dream,2,4,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-86,105,1,0,20090808,ATL,CHI,2009-10
+Shot Chart Detail,1020900134,212,100690,Coco Miller,1611661330,Atlanta Dream,2,0,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-190,126,1,0,20090808,ATL,CHI,2009-10
+Shot Chart Detail,1020900145,248,100690,Coco Miller,1611661330,Atlanta Dream,2,1,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-210,89,1,1,20090813,ATL,DET,2009-10
+Shot Chart Detail,1020900151,113,100690,Coco Miller,1611661330,Atlanta Dream,1,0,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-60,105,1,0,20090815,ATL,SEA,2009-10
+Shot Chart Detail,1020900151,146,100690,Coco Miller,1611661330,Atlanta Dream,2,7,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,154,75,1,0,20090815,ATL,SEA,2009-10
+Shot Chart Detail,1020900151,148,100690,Coco Miller,1611661330,Atlanta Dream,2,7,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,6,1,1,20090815,ATL,SEA,2009-10
+Shot Chart Detail,1020900151,373,100690,Coco Miller,1611661330,Atlanta Dream,4,9,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-149,45,1,0,20090815,ATL,SEA,2009-10
+Shot Chart Detail,1020900151,396,100690,Coco Miller,1611661330,Atlanta Dream,4,6,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-131,113,1,0,20090815,ATL,SEA,2009-10
+Shot Chart Detail,1020900151,409,100690,Coco Miller,1611661330,Atlanta Dream,4,5,21,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,6,1,1,20090815,ATL,SEA,2009-10
+Shot Chart Detail,1020900151,429,100690,Coco Miller,1611661330,Atlanta Dream,4,3,15,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-142,48,1,1,20090815,ATL,SEA,2009-10
+Shot Chart Detail,1020900161,112,100690,Coco Miller,1611661330,Atlanta Dream,2,9,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,22,-224,33,1,1,20090820,ATL,SAN,2009-10
+Shot Chart Detail,1020900161,119,100690,Coco Miller,1611661330,Atlanta Dream,2,8,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090820,ATL,SAN,2009-10
+Shot Chart Detail,1020900161,381,100690,Coco Miller,1611661330,Atlanta Dream,4,8,17,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,1,1,0,20090820,ATL,SAN,2009-10
+Shot Chart Detail,1020900170,332,100690,Coco Miller,1611661330,Atlanta Dream,3,2,38,Missed Shot,Driving Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,17,26,1,0,20090823,ATL,LAS,2009-10
+Shot Chart Detail,1020900170,356,100690,Coco Miller,1611661330,Atlanta Dream,3,0,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,22,-226,34,1,0,20090823,ATL,LAS,2009-10
+Shot Chart Detail,1020900170,369,100690,Coco Miller,1611661330,Atlanta Dream,4,9,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,121,194,1,0,20090823,ATL,LAS,2009-10
+Shot Chart Detail,1020900170,384,100690,Coco Miller,1611661330,Atlanta Dream,4,7,9,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,1,1,1,20090823,ATL,LAS,2009-10
+Shot Chart Detail,1020900174,117,100690,Coco Miller,1611661330,Atlanta Dream,2,9,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-217,37,1,0,20090825,ATL,SAC,2009-10
+Shot Chart Detail,1020900174,135,100690,Coco Miller,1611661330,Atlanta Dream,2,7,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-166,143,1,1,20090825,ATL,SAC,2009-10
+Shot Chart Detail,1020900174,140,100690,Coco Miller,1611661330,Atlanta Dream,2,7,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090825,ATL,SAC,2009-10
+Shot Chart Detail,1020900174,159,100690,Coco Miller,1611661330,Atlanta Dream,2,6,33,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,78,15,1,1,20090825,ATL,SAC,2009-10
+Shot Chart Detail,1020900174,165,100690,Coco Miller,1611661330,Atlanta Dream,2,5,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,163,61,1,0,20090825,ATL,SAC,2009-10
+Shot Chart Detail,1020900174,167,100690,Coco Miller,1611661330,Atlanta Dream,2,5,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,110,67,1,0,20090825,ATL,SAC,2009-10
+Shot Chart Detail,1020900174,471,100690,Coco Miller,1611661330,Atlanta Dream,4,2,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,20,204,33,1,1,20090825,ATL,SAC,2009-10
+Shot Chart Detail,1020900178,162,100690,Coco Miller,1611661330,Atlanta Dream,2,8,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,89,145,1,1,20090827,DET,ATL,2009-10
+Shot Chart Detail,1020900178,165,100690,Coco Miller,1611661330,Atlanta Dream,2,8,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-95,94,1,0,20090827,DET,ATL,2009-10
+Shot Chart Detail,1020900178,171,100690,Coco Miller,1611661330,Atlanta Dream,2,7,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,108,25,1,1,20090827,DET,ATL,2009-10
+Shot Chart Detail,1020900178,185,100690,Coco Miller,1611661330,Atlanta Dream,2,6,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,1,104,1,0,20090827,DET,ATL,2009-10
+Shot Chart Detail,1020900178,193,100690,Coco Miller,1611661330,Atlanta Dream,2,6,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,45,124,1,0,20090827,DET,ATL,2009-10
+Shot Chart Detail,1020900178,195,100690,Coco Miller,1611661330,Atlanta Dream,2,5,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-125,61,1,0,20090827,DET,ATL,2009-10
+Shot Chart Detail,1020900178,384,100690,Coco Miller,1611661330,Atlanta Dream,3,0,5,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,212,9,1,0,20090827,DET,ATL,2009-10
+Shot Chart Detail,1020900194,136,100690,Coco Miller,1611661330,Atlanta Dream,2,6,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,100,145,1,0,20090901,LAS,ATL,2009-10
+Shot Chart Detail,1020900194,176,100690,Coco Miller,1611661330,Atlanta Dream,2,3,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,209,89,1,0,20090901,LAS,ATL,2009-10
+Shot Chart Detail,1020900194,298,100690,Coco Miller,1611661330,Atlanta Dream,3,3,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,23,214,89,1,0,20090901,LAS,ATL,2009-10
+Shot Chart Detail,1020900194,315,100690,Coco Miller,1611661330,Atlanta Dream,3,1,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,-16,1,0,20090901,LAS,ATL,2009-10
+Shot Chart Detail,1020900194,359,100690,Coco Miller,1611661330,Atlanta Dream,4,8,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-106,126,1,1,20090901,LAS,ATL,2009-10
+Shot Chart Detail,1020900200,102,100690,Coco Miller,1611661330,Atlanta Dream,2,9,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-150,7,1,0,20090904,SAC,ATL,2009-10
+Shot Chart Detail,1020900213,117,100690,Coco Miller,1611661330,Atlanta Dream,2,9,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,124,61,1,0,20090911,ATL,CON,2009-10
+Shot Chart Detail,1020900213,363,100690,Coco Miller,1611661330,Atlanta Dream,3,0,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090911,ATL,CON,2009-10
+Shot Chart Detail,1020900213,383,100690,Coco Miller,1611661330,Atlanta Dream,4,8,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-4,176,1,0,20090911,ATL,CON,2009-10
+Shot Chart Detail,1020900213,387,100690,Coco Miller,1611661330,Atlanta Dream,4,7,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,206,77,1,0,20090911,ATL,CON,2009-10
+Shot Chart Detail,1020900213,454,100690,Coco Miller,1611661330,Atlanta Dream,4,3,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,13,165,1,0,20090911,ATL,CON,2009-10
+Shot Chart Detail,1020900215,425,100690,Coco Miller,1611661330,Atlanta Dream,4,1,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,20,204,45,1,0,20090912,WAS,ATL,2009-10
+Shot Chart Detail,1020900215,436,100690,Coco Miller,1611661330,Atlanta Dream,4,1,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-4,96,1,0,20090912,WAS,ATL,2009-10
+Shot Chart Detail,1020900215,459,100690,Coco Miller,1611661330,Atlanta Dream,4,0,46,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,-27,1,1,20090912,WAS,ATL,2009-10

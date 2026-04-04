@@ -1,0 +1,53 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1041500121,70,203813,Anna Cruz,1611661324,Minnesota Lynx,1,1,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,26,126,1,0,20150918,MIN,LAS,2015-16
+Shot Chart Detail,1041500121,150,203813,Anna Cruz,1611661324,Minnesota Lynx,2,1,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,11,1,1,20150918,MIN,LAS,2015-16
+Shot Chart Detail,1041500121,162,203813,Anna Cruz,1611661324,Minnesota Lynx,2,0,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-92,148,1,0,20150918,MIN,LAS,2015-16
+Shot Chart Detail,1041500121,316,203813,Anna Cruz,1611661324,Minnesota Lynx,4,3,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,174,157,1,0,20150918,MIN,LAS,2015-16
+Shot Chart Detail,1041500122,34,203813,Anna Cruz,1611661324,Minnesota Lynx,1,5,59,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,-3,1,0,20150920,LAS,MIN,2015-16
+Shot Chart Detail,1041500122,203,203813,Anna Cruz,1611661324,Minnesota Lynx,2,0,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,179,-8,1,0,20150920,LAS,MIN,2015-16
+Shot Chart Detail,1041500122,207,203813,Anna Cruz,1611661324,Minnesota Lynx,2,0,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,17,1,1,20150920,LAS,MIN,2015-16
+Shot Chart Detail,1041500123,54,203813,Anna Cruz,1611661324,Minnesota Lynx,1,5,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,1,1,1,20150922,MIN,LAS,2015-16
+Shot Chart Detail,1041500123,62,203813,Anna Cruz,1611661324,Minnesota Lynx,1,4,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-4,134,1,1,20150922,MIN,LAS,2015-16
+Shot Chart Detail,1041500123,174,203813,Anna Cruz,1611661324,Minnesota Lynx,2,3,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,54,154,1,0,20150922,MIN,LAS,2015-16
+Shot Chart Detail,1041500123,188,203813,Anna Cruz,1611661324,Minnesota Lynx,2,2,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-213,34,1,0,20150922,MIN,LAS,2015-16
+Shot Chart Detail,1041500123,272,203813,Anna Cruz,1611661324,Minnesota Lynx,3,3,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,168,164,1,1,20150922,MIN,LAS,2015-16
+Shot Chart Detail,1041500123,323,203813,Anna Cruz,1611661324,Minnesota Lynx,4,9,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,4,1,1,20150922,MIN,LAS,2015-16
+Shot Chart Detail,1041500211,46,203813,Anna Cruz,1611661324,Minnesota Lynx,1,3,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-174,60,1,0,20150924,MIN,PHO,2015-16
+Shot Chart Detail,1041500211,132,203813,Anna Cruz,1611661324,Minnesota Lynx,2,5,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,9,1,0,20150924,MIN,PHO,2015-16
+Shot Chart Detail,1041500211,188,203813,Anna Cruz,1611661324,Minnesota Lynx,2,1,29,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,7,1,0,20150924,MIN,PHO,2015-16
+Shot Chart Detail,1041500211,255,203813,Anna Cruz,1611661324,Minnesota Lynx,3,5,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,144,19,1,1,20150924,MIN,PHO,2015-16
+Shot Chart Detail,1041500211,357,203813,Anna Cruz,1611661324,Minnesota Lynx,4,3,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-106,140,1,0,20150924,MIN,PHO,2015-16
+Shot Chart Detail,1041500212,65,203813,Anna Cruz,1611661324,Minnesota Lynx,1,2,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,11,1,1,20150927,PHO,MIN,2015-16
+Shot Chart Detail,1041500212,160,203813,Anna Cruz,1611661324,Minnesota Lynx,2,2,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,23,-228,39,1,1,20150927,PHO,MIN,2015-16
+Shot Chart Detail,1041500212,172,203813,Anna Cruz,1611661324,Minnesota Lynx,2,0,28,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,0,1,0,20150927,PHO,MIN,2015-16
+Shot Chart Detail,1041500212,174,203813,Anna Cruz,1611661324,Minnesota Lynx,2,0,3,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,12,45,1,0,20150927,PHO,MIN,2015-16
+Shot Chart Detail,1041500212,238,203813,Anna Cruz,1611661324,Minnesota Lynx,3,5,10,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,-17,1,0,20150927,PHO,MIN,2015-16
+Shot Chart Detail,1041500212,298,203813,Anna Cruz,1611661324,Minnesota Lynx,4,8,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,23,-235,37,1,1,20150927,PHO,MIN,2015-16
+Shot Chart Detail,1041500301,72,203813,Anna Cruz,1611661324,Minnesota Lynx,1,2,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-6,1,1,20151004,MIN,IND,2015-16
+Shot Chart Detail,1041500301,87,203813,Anna Cruz,1611661324,Minnesota Lynx,1,1,1,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,9,1,1,20151004,MIN,IND,2015-16
+Shot Chart Detail,1041500301,103,203813,Anna Cruz,1611661324,Minnesota Lynx,2,8,59,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,11,1,0,20151004,MIN,IND,2015-16
+Shot Chart Detail,1041500301,269,203813,Anna Cruz,1611661324,Minnesota Lynx,3,2,36,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,19,1,0,20151004,MIN,IND,2015-16
+Shot Chart Detail,1041500301,292,203813,Anna Cruz,1611661324,Minnesota Lynx,3,0,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,119,190,1,0,20151004,MIN,IND,2015-16
+Shot Chart Detail,1041500301,384,203813,Anna Cruz,1611661324,Minnesota Lynx,4,3,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-128,104,1,0,20151004,MIN,IND,2015-16
+Shot Chart Detail,1041500301,391,203813,Anna Cruz,1611661324,Minnesota Lynx,4,3,6,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,0,1,0,20151004,MIN,IND,2015-16
+Shot Chart Detail,1041500302,167,203813,Anna Cruz,1611661324,Minnesota Lynx,2,2,38,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,1,1,0,20151006,MIN,IND,2015-16
+Shot Chart Detail,1041500302,244,203813,Anna Cruz,1611661324,Minnesota Lynx,3,6,11,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,0,1,0,20151006,MIN,IND,2015-16
+Shot Chart Detail,1041500302,303,203813,Anna Cruz,1611661324,Minnesota Lynx,3,1,31,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,14,1,0,20151006,MIN,IND,2015-16
+Shot Chart Detail,1041500302,316,203813,Anna Cruz,1611661324,Minnesota Lynx,3,0,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,15,1,1,20151006,MIN,IND,2015-16
+Shot Chart Detail,1041500302,385,203813,Anna Cruz,1611661324,Minnesota Lynx,4,4,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,11,1,0,20151006,MIN,IND,2015-16
+Shot Chart Detail,1041500303,134,203813,Anna Cruz,1611661324,Minnesota Lynx,2,5,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-117,-16,1,1,20151009,IND,MIN,2015-16
+Shot Chart Detail,1041500303,207,203813,Anna Cruz,1611661324,Minnesota Lynx,3,5,38,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,108,149,1,1,20151009,IND,MIN,2015-16
+Shot Chart Detail,1041500303,215,203813,Anna Cruz,1611661324,Minnesota Lynx,3,5,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,73,142,1,0,20151009,IND,MIN,2015-16
+Shot Chart Detail,1041500303,257,203813,Anna Cruz,1611661324,Minnesota Lynx,3,0,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,-10,1,1,20151009,IND,MIN,2015-16
+Shot Chart Detail,1041500304,41,203813,Anna Cruz,1611661324,Minnesota Lynx,1,4,52,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,-14,1,1,20151011,IND,MIN,2015-16
+Shot Chart Detail,1041500304,59,203813,Anna Cruz,1611661324,Minnesota Lynx,1,3,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,0,1,1,20151011,IND,MIN,2015-16
+Shot Chart Detail,1041500304,76,203813,Anna Cruz,1611661324,Minnesota Lynx,1,1,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-43,-16,1,0,20151011,IND,MIN,2015-16
+Shot Chart Detail,1041500304,154,203813,Anna Cruz,1611661324,Minnesota Lynx,2,2,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-19,201,1,0,20151011,IND,MIN,2015-16
+Shot Chart Detail,1041500304,215,203813,Anna Cruz,1611661324,Minnesota Lynx,3,6,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,70,151,1,0,20151011,IND,MIN,2015-16
+Shot Chart Detail,1041500304,223,203813,Anna Cruz,1611661324,Minnesota Lynx,3,6,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,-13,1,0,20151011,IND,MIN,2015-16
+Shot Chart Detail,1041500304,305,203813,Anna Cruz,1611661324,Minnesota Lynx,4,7,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-93,0,1,0,20151011,IND,MIN,2015-16
+Shot Chart Detail,1041500304,367,203813,Anna Cruz,1611661324,Minnesota Lynx,4,1,34,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,0,1,0,20151011,IND,MIN,2015-16
+Shot Chart Detail,1041500305,47,203813,Anna Cruz,1611661324,Minnesota Lynx,1,4,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,3,1,0,20151014,MIN,IND,2015-16
+Shot Chart Detail,1041500305,99,203813,Anna Cruz,1611661324,Minnesota Lynx,2,9,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20151014,MIN,IND,2015-16
+Shot Chart Detail,1041500305,155,203813,Anna Cruz,1611661324,Minnesota Lynx,2,4,10,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,4,1,0,20151014,MIN,IND,2015-16
+Shot Chart Detail,1041500305,316,203813,Anna Cruz,1611661324,Minnesota Lynx,4,9,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,89,206,1,1,20151014,MIN,IND,2015-16

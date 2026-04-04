@@ -1,0 +1,9 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020300025,452,100856,Petra Ujhelyi,1611661321,Detroit Shock,2,0,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030605,DET,CON,2003-04
+Shot Chart Detail,1020300048,344,100856,Petra Ujhelyi,1611661321,Detroit Shock,2,8,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,26,35,1,0,20030614,WAS,DET,2003-04
+Shot Chart Detail,1020300048,417,100856,Petra Ujhelyi,1611661321,Detroit Shock,2,2,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,-1,1,1,20030614,WAS,DET,2003-04
+Shot Chart Detail,1020300075,108,100856,Petra Ujhelyi,1611661321,Detroit Shock,1,6,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030624,DET,IND,2003-04
+Shot Chart Detail,1020300086,128,100856,Petra Ujhelyi,1611661321,Detroit Shock,1,6,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,-3,1,0,20030628,DET,PHO,2003-04
+Shot Chart Detail,1020300096,413,100856,Petra Ujhelyi,1611661321,Detroit Shock,2,0,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-146,35,1,0,20030703,DET,CHA,2003-04
+Shot Chart Detail,1020300110,404,100856,Petra Ujhelyi,1611661321,Detroit Shock,2,2,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-44,45,1,0,20030708,DET,CON,2003-04
+Shot Chart Detail,1020300234,104,100856,Petra Ujhelyi,1611661321,Detroit Shock,1,8,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-120,95,1,0,20030825,DET,WAS,2003-04

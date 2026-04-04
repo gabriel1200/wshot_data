@@ -1,0 +1,8 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1040300111,52,100097,Rushia Brown,1611661314,Charlotte Sting,1,13,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-15,148,1,1,20030828,CON,CHA,2003-04
+Shot Chart Detail,1040300111,211,100097,Rushia Brown,1611661314,Charlotte Sting,2,15,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-28,33,1,1,20030828,CON,CHA,2003-04
+Shot Chart Detail,1040300111,230,100097,Rushia Brown,1611661314,Charlotte Sting,2,13,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,-8,1,0,20030828,CON,CHA,2003-04
+Shot Chart Detail,1040300111,243,100097,Rushia Brown,1611661314,Charlotte Sting,2,12,39,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,13,33,1,1,20030828,CON,CHA,2003-04
+Shot Chart Detail,1040300112,197,100097,Rushia Brown,1611661314,Charlotte Sting,1,1,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030830,CHA,CON,2003-04
+Shot Chart Detail,1040300112,246,100097,Rushia Brown,1611661314,Charlotte Sting,2,12,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030830,CHA,CON,2003-04
+Shot Chart Detail,1040300112,333,100097,Rushia Brown,1611661314,Charlotte Sting,2,3,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030830,CHA,CON,2003-04

@@ -1,0 +1,20 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1040200111,60,100723,Asjha Jones,1611661322,Washington Mystics,1,12,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,144,-15,1,0,20020815,WAS,CHA,2002-03
+Shot Chart Detail,1040200111,70,100723,Asjha Jones,1611661322,Washington Mystics,1,11,12,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,39,-4,1,0,20020815,WAS,CHA,2002-03
+Shot Chart Detail,1040200111,252,100723,Asjha Jones,1611661322,Washington Mystics,2,9,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,7,1,1,20020815,WAS,CHA,2002-03
+Shot Chart Detail,1040200111,308,100723,Asjha Jones,1611661322,Washington Mystics,2,3,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,-15,1,1,20020815,WAS,CHA,2002-03
+Shot Chart Detail,1040200112,68,100723,Asjha Jones,1611661322,Washington Mystics,1,12,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020817,CHA,WAS,2002-03
+Shot Chart Detail,1040200112,71,100723,Asjha Jones,1611661322,Washington Mystics,1,11,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,94,-2,1,1,20020817,CHA,WAS,2002-03
+Shot Chart Detail,1040200201,189,100723,Asjha Jones,1611661322,Washington Mystics,1,0,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,-2,1,0,20020822,WAS,NYL,2002-03
+Shot Chart Detail,1040200201,192,100723,Asjha Jones,1611661322,Washington Mystics,1,0,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,5,135,1,1,20020822,WAS,NYL,2002-03
+Shot Chart Detail,1040200201,204,100723,Asjha Jones,1611661322,Washington Mystics,2,15,17,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-92,51,1,1,20020822,WAS,NYL,2002-03
+Shot Chart Detail,1040200201,221,100723,Asjha Jones,1611661322,Washington Mystics,2,12,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-166,70,1,1,20020822,WAS,NYL,2002-03
+Shot Chart Detail,1040200201,227,100723,Asjha Jones,1611661322,Washington Mystics,2,11,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-63,93,1,0,20020822,WAS,NYL,2002-03
+Shot Chart Detail,1040200201,234,100723,Asjha Jones,1611661322,Washington Mystics,2,9,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,5,131,1,0,20020822,WAS,NYL,2002-03
+Shot Chart Detail,1040200202,77,100723,Asjha Jones,1611661322,Washington Mystics,1,9,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-128,78,1,0,20020824,NYL,WAS,2002-03
+Shot Chart Detail,1040200202,263,100723,Asjha Jones,1611661322,Washington Mystics,2,8,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-1,141,1,0,20020824,NYL,WAS,2002-03
+Shot Chart Detail,1040200202,276,100723,Asjha Jones,1611661322,Washington Mystics,2,6,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020824,NYL,WAS,2002-03
+Shot Chart Detail,1040200203,56,100723,Asjha Jones,1611661322,Washington Mystics,1,12,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,3,213,1,1,20020825,NYL,WAS,2002-03
+Shot Chart Detail,1040200203,63,100723,Asjha Jones,1611661322,Washington Mystics,1,11,50,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-101,36,1,1,20020825,NYL,WAS,2002-03
+Shot Chart Detail,1040200203,246,100723,Asjha Jones,1611661322,Washington Mystics,2,11,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-122,179,1,0,20020825,NYL,WAS,2002-03
+Shot Chart Detail,1040200203,263,100723,Asjha Jones,1611661322,Washington Mystics,2,9,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-101,36,1,0,20020825,NYL,WAS,2002-03

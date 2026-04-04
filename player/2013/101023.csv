@@ -1,0 +1,71 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1021300002,7,101023,Sancho Lyttle,1611661330,Atlanta Dream,1,9,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-81,170,1,0,20130525,ATL,TUL,2013-14
+Shot Chart Detail,1021300002,26,101023,Sancho Lyttle,1611661330,Atlanta Dream,1,7,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-41,194,1,0,20130525,ATL,TUL,2013-14
+Shot Chart Detail,1021300002,46,101023,Sancho Lyttle,1611661330,Atlanta Dream,1,4,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,91,143,1,1,20130525,ATL,TUL,2013-14
+Shot Chart Detail,1021300002,236,101023,Sancho Lyttle,1611661330,Atlanta Dream,2,2,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,89,126,1,0,20130525,ATL,TUL,2013-14
+Shot Chart Detail,1021300002,289,101023,Sancho Lyttle,1611661330,Atlanta Dream,3,9,46,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,45,99,1,1,20130525,ATL,TUL,2013-14
+Shot Chart Detail,1021300002,300,101023,Sancho Lyttle,1611661330,Atlanta Dream,3,8,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,135,123,1,1,20130525,ATL,TUL,2013-14
+Shot Chart Detail,1021300002,336,101023,Sancho Lyttle,1611661330,Atlanta Dream,3,5,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-23,186,1,0,20130525,ATL,TUL,2013-14
+Shot Chart Detail,1021300002,385,101023,Sancho Lyttle,1611661330,Atlanta Dream,3,2,12,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,15,71,1,1,20130525,ATL,TUL,2013-14
+Shot Chart Detail,1021300002,441,101023,Sancho Lyttle,1611661330,Atlanta Dream,4,8,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,133,131,1,0,20130525,ATL,TUL,2013-14
+Shot Chart Detail,1021300002,443,101023,Sancho Lyttle,1611661330,Atlanta Dream,4,8,35,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,39,1,1,20130525,ATL,TUL,2013-14
+Shot Chart Detail,1021300002,459,101023,Sancho Lyttle,1611661330,Atlanta Dream,4,7,14,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,4,126,1,1,20130525,ATL,TUL,2013-14
+Shot Chart Detail,1021300002,527,101023,Sancho Lyttle,1611661330,Atlanta Dream,4,2,32,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,122,44,1,1,20130525,ATL,TUL,2013-14
+Shot Chart Detail,1021300002,538,101023,Sancho Lyttle,1611661330,Atlanta Dream,4,1,43,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,168,30,1,1,20130525,ATL,TUL,2013-14
+Shot Chart Detail,1021300007,94,101023,Sancho Lyttle,1611661330,Atlanta Dream,1,1,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,-2,1,1,20130531,IND,ATL,2013-14
+Shot Chart Detail,1021300007,235,101023,Sancho Lyttle,1611661330,Atlanta Dream,3,7,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,81,151,1,0,20130531,IND,ATL,2013-14
+Shot Chart Detail,1021300007,288,101023,Sancho Lyttle,1611661330,Atlanta Dream,3,2,41,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,12,85,1,1,20130531,IND,ATL,2013-14
+Shot Chart Detail,1021300007,313,101023,Sancho Lyttle,1611661330,Atlanta Dream,3,0,28,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,12,1,0,20130531,IND,ATL,2013-14
+Shot Chart Detail,1021300007,324,101023,Sancho Lyttle,1611661330,Atlanta Dream,4,9,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-43,179,1,1,20130531,IND,ATL,2013-14
+Shot Chart Detail,1021300007,374,101023,Sancho Lyttle,1611661330,Atlanta Dream,4,4,24,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,-6,1,1,20130531,IND,ATL,2013-14
+Shot Chart Detail,1021300007,390,101023,Sancho Lyttle,1611661330,Atlanta Dream,4,1,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-75,187,1,0,20130531,IND,ATL,2013-14
+Shot Chart Detail,1021300012,29,101023,Sancho Lyttle,1611661330,Atlanta Dream,1,7,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,14,1,1,20130602,WAS,ATL,2013-14
+Shot Chart Detail,1021300012,49,101023,Sancho Lyttle,1611661330,Atlanta Dream,1,5,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-54,83,1,0,20130602,WAS,ATL,2013-14
+Shot Chart Detail,1021300012,55,101023,Sancho Lyttle,1611661330,Atlanta Dream,1,4,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,56,127,1,0,20130602,WAS,ATL,2013-14
+Shot Chart Detail,1021300012,96,101023,Sancho Lyttle,1611661330,Atlanta Dream,1,2,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,7,1,1,20130602,WAS,ATL,2013-14
+Shot Chart Detail,1021300012,104,101023,Sancho Lyttle,1611661330,Atlanta Dream,1,1,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,1,20130602,WAS,ATL,2013-14
+Shot Chart Detail,1021300012,240,101023,Sancho Lyttle,1611661330,Atlanta Dream,2,0,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,185,172,1,0,20130602,WAS,ATL,2013-14
+Shot Chart Detail,1021300012,257,101023,Sancho Lyttle,1611661330,Atlanta Dream,3,8,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,-17,1,1,20130602,WAS,ATL,2013-14
+Shot Chart Detail,1021300012,260,101023,Sancho Lyttle,1611661330,Atlanta Dream,3,7,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-117,50,1,0,20130602,WAS,ATL,2013-14
+Shot Chart Detail,1021300012,343,101023,Sancho Lyttle,1611661330,Atlanta Dream,4,9,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,-3,1,0,20130602,WAS,ATL,2013-14
+Shot Chart Detail,1021300012,367,101023,Sancho Lyttle,1611661330,Atlanta Dream,4,8,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,26,74,1,0,20130602,WAS,ATL,2013-14
+Shot Chart Detail,1021300012,434,101023,Sancho Lyttle,1611661330,Atlanta Dream,4,2,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-45,156,1,1,20130602,WAS,ATL,2013-14
+Shot Chart Detail,1021300012,443,101023,Sancho Lyttle,1611661330,Atlanta Dream,4,1,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,-11,1,1,20130602,WAS,ATL,2013-14
+Shot Chart Detail,1021300018,34,101023,Sancho Lyttle,1611661330,Atlanta Dream,1,6,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,173,94,1,1,20130607,ATL,NYL,2013-14
+Shot Chart Detail,1021300018,47,101023,Sancho Lyttle,1611661330,Atlanta Dream,1,4,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-43,165,1,1,20130607,ATL,NYL,2013-14
+Shot Chart Detail,1021300018,51,101023,Sancho Lyttle,1611661330,Atlanta Dream,1,3,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-13,159,1,1,20130607,ATL,NYL,2013-14
+Shot Chart Detail,1021300018,69,101023,Sancho Lyttle,1611661330,Atlanta Dream,1,1,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-2,183,1,1,20130607,ATL,NYL,2013-14
+Shot Chart Detail,1021300018,75,101023,Sancho Lyttle,1611661330,Atlanta Dream,1,1,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-95,175,1,0,20130607,ATL,NYL,2013-14
+Shot Chart Detail,1021300018,264,101023,Sancho Lyttle,1611661330,Atlanta Dream,3,6,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-70,12,1,1,20130607,ATL,NYL,2013-14
+Shot Chart Detail,1021300018,268,101023,Sancho Lyttle,1611661330,Atlanta Dream,3,6,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,37,1,1,20130607,ATL,NYL,2013-14
+Shot Chart Detail,1021300018,296,101023,Sancho Lyttle,1611661330,Atlanta Dream,3,4,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-54,168,1,0,20130607,ATL,NYL,2013-14
+Shot Chart Detail,1021300018,300,101023,Sancho Lyttle,1611661330,Atlanta Dream,3,3,48,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,15,149,1,1,20130607,ATL,NYL,2013-14
+Shot Chart Detail,1021300018,376,101023,Sancho Lyttle,1611661330,Atlanta Dream,4,7,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,21,164,1,1,20130607,ATL,NYL,2013-14
+Shot Chart Detail,1021300024,14,101023,Sancho Lyttle,1611661330,Atlanta Dream,1,9,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,135,74,1,0,20130609,NYL,ATL,2013-14
+Shot Chart Detail,1021300024,34,101023,Sancho Lyttle,1611661330,Atlanta Dream,1,6,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,21,22,1,0,20130609,NYL,ATL,2013-14
+Shot Chart Detail,1021300024,55,101023,Sancho Lyttle,1611661330,Atlanta Dream,1,4,9,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-5,34,1,0,20130609,NYL,ATL,2013-14
+Shot Chart Detail,1021300024,57,101023,Sancho Lyttle,1611661330,Atlanta Dream,1,4,8,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,16,1,1,20130609,NYL,ATL,2013-14
+Shot Chart Detail,1021300024,79,101023,Sancho Lyttle,1611661330,Atlanta Dream,1,2,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,140,78,1,0,20130609,NYL,ATL,2013-14
+Shot Chart Detail,1021300024,117,101023,Sancho Lyttle,1611661330,Atlanta Dream,2,8,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,151,82,1,0,20130609,NYL,ATL,2013-14
+Shot Chart Detail,1021300024,123,101023,Sancho Lyttle,1611661330,Atlanta Dream,2,7,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-32,181,1,0,20130609,NYL,ATL,2013-14
+Shot Chart Detail,1021300024,130,101023,Sancho Lyttle,1611661330,Atlanta Dream,2,6,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,22,1,1,20130609,NYL,ATL,2013-14
+Shot Chart Detail,1021300024,208,101023,Sancho Lyttle,1611661330,Atlanta Dream,2,0,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,6,34,1,1,20130609,NYL,ATL,2013-14
+Shot Chart Detail,1021300024,224,101023,Sancho Lyttle,1611661330,Atlanta Dream,3,9,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,125,203,1,1,20130609,NYL,ATL,2013-14
+Shot Chart Detail,1021300024,254,101023,Sancho Lyttle,1611661330,Atlanta Dream,3,6,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,114,48,1,0,20130609,NYL,ATL,2013-14
+Shot Chart Detail,1021300024,256,101023,Sancho Lyttle,1611661330,Atlanta Dream,3,6,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-139,200,1,1,20130609,NYL,ATL,2013-14
+Shot Chart Detail,1021300024,262,101023,Sancho Lyttle,1611661330,Atlanta Dream,3,5,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,94,145,1,1,20130609,NYL,ATL,2013-14
+Shot Chart Detail,1021300024,313,101023,Sancho Lyttle,1611661330,Atlanta Dream,3,1,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,34,197,1,0,20130609,NYL,ATL,2013-14
+Shot Chart Detail,1021300024,382,101023,Sancho Lyttle,1611661330,Atlanta Dream,4,6,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-46,118,1,0,20130609,NYL,ATL,2013-14
+Shot Chart Detail,1021300024,386,101023,Sancho Lyttle,1611661330,Atlanta Dream,4,5,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-141,184,1,0,20130609,NYL,ATL,2013-14
+Shot Chart Detail,1021300024,424,101023,Sancho Lyttle,1611661330,Atlanta Dream,4,1,56,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,51,52,1,0,20130609,NYL,ATL,2013-14
+Shot Chart Detail,1021300024,450,101023,Sancho Lyttle,1611661330,Atlanta Dream,4,0,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,26,1,1,20130609,NYL,ATL,2013-14
+Shot Chart Detail,1021300073,4,101023,Sancho Lyttle,1611661330,Atlanta Dream,1,9,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-157,61,1,0,20130709,MIN,ATL,2013-14
+Shot Chart Detail,1021300073,31,101023,Sancho Lyttle,1611661330,Atlanta Dream,1,6,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,92,183,1,0,20130709,MIN,ATL,2013-14
+Shot Chart Detail,1021300073,45,101023,Sancho Lyttle,1611661330,Atlanta Dream,1,4,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,65,222,1,0,20130709,MIN,ATL,2013-14
+Shot Chart Detail,1021300073,49,101023,Sancho Lyttle,1611661330,Atlanta Dream,1,4,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-144,101,1,1,20130709,MIN,ATL,2013-14
+Shot Chart Detail,1021300073,57,101023,Sancho Lyttle,1611661330,Atlanta Dream,1,3,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-142,102,1,0,20130709,MIN,ATL,2013-14
+Shot Chart Detail,1021300073,149,101023,Sancho Lyttle,1611661330,Atlanta Dream,2,5,41,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-32,25,1,1,20130709,MIN,ATL,2013-14
+Shot Chart Detail,1021300073,163,101023,Sancho Lyttle,1611661330,Atlanta Dream,2,5,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,24,175,1,0,20130709,MIN,ATL,2013-14
+Shot Chart Detail,1021300073,174,101023,Sancho Lyttle,1611661330,Atlanta Dream,2,3,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,47,151,1,1,20130709,MIN,ATL,2013-14
+Shot Chart Detail,1021300073,204,101023,Sancho Lyttle,1611661330,Atlanta Dream,2,1,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,15,1,1,20130709,MIN,ATL,2013-14
+Shot Chart Detail,1021300073,231,101023,Sancho Lyttle,1611661330,Atlanta Dream,3,9,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-5,197,1,0,20130709,MIN,ATL,2013-14

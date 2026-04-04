@@ -1,0 +1,342 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1021300002,13,203017,Glory Johnson,1611661321,Tulsa Shock,1,8,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-4,181,1,0,20130525,ATL,TUL,2013-14
+Shot Chart Detail,1021300002,40,203017,Glory Johnson,1611661321,Tulsa Shock,1,5,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,14,1,1,20130525,ATL,TUL,2013-14
+Shot Chart Detail,1021300002,43,203017,Glory Johnson,1611661321,Tulsa Shock,1,4,53,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,11,1,0,20130525,ATL,TUL,2013-14
+Shot Chart Detail,1021300002,94,203017,Glory Johnson,1611661321,Tulsa Shock,1,1,27,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,36,1,1,20130525,ATL,TUL,2013-14
+Shot Chart Detail,1021300002,211,203017,Glory Johnson,1611661321,Tulsa Shock,2,3,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,11,1,0,20130525,ATL,TUL,2013-14
+Shot Chart Detail,1021300002,291,203017,Glory Johnson,1611661321,Tulsa Shock,3,9,33,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,15,1,0,20130525,ATL,TUL,2013-14
+Shot Chart Detail,1021300002,370,203017,Glory Johnson,1611661321,Tulsa Shock,3,3,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,7,1,1,20130525,ATL,TUL,2013-14
+Shot Chart Detail,1021300002,528,203017,Glory Johnson,1611661321,Tulsa Shock,4,2,19,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,7,1,0,20130525,ATL,TUL,2013-14
+Shot Chart Detail,1021300002,537,203017,Glory Johnson,1611661321,Tulsa Shock,4,2,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-11,201,1,1,20130525,ATL,TUL,2013-14
+Shot Chart Detail,1021300002,562,203017,Glory Johnson,1611661321,Tulsa Shock,4,0,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,32,176,1,0,20130525,ATL,TUL,2013-14
+Shot Chart Detail,1021300005,17,203017,Glory Johnson,1611661321,Tulsa Shock,1,8,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-103,140,1,0,20130527,TUL,WAS,2013-14
+Shot Chart Detail,1021300005,50,203017,Glory Johnson,1611661321,Tulsa Shock,1,4,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-98,146,1,0,20130527,TUL,WAS,2013-14
+Shot Chart Detail,1021300005,62,203017,Glory Johnson,1611661321,Tulsa Shock,1,2,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,14,1,1,20130527,TUL,WAS,2013-14
+Shot Chart Detail,1021300005,138,203017,Glory Johnson,1611661321,Tulsa Shock,2,4,46,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,30,1,0,20130527,TUL,WAS,2013-14
+Shot Chart Detail,1021300005,156,203017,Glory Johnson,1611661321,Tulsa Shock,2,3,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,17,1,1,20130527,TUL,WAS,2013-14
+Shot Chart Detail,1021300005,159,203017,Glory Johnson,1611661321,Tulsa Shock,2,2,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,91,11,1,1,20130527,TUL,WAS,2013-14
+Shot Chart Detail,1021300005,226,203017,Glory Johnson,1611661321,Tulsa Shock,3,8,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-56,175,1,1,20130527,TUL,WAS,2013-14
+Shot Chart Detail,1021300005,237,203017,Glory Johnson,1611661321,Tulsa Shock,3,7,29,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,28,1,0,20130527,TUL,WAS,2013-14
+Shot Chart Detail,1021300005,243,203017,Glory Johnson,1611661321,Tulsa Shock,3,6,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,14,1,0,20130527,TUL,WAS,2013-14
+Shot Chart Detail,1021300005,245,203017,Glory Johnson,1611661321,Tulsa Shock,3,6,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,15,48,1,0,20130527,TUL,WAS,2013-14
+Shot Chart Detail,1021300005,265,203017,Glory Johnson,1611661321,Tulsa Shock,3,4,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,9,1,1,20130527,TUL,WAS,2013-14
+Shot Chart Detail,1021300005,488,203017,Glory Johnson,1611661321,Tulsa Shock,5,1,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,42,192,1,0,20130527,TUL,WAS,2013-14
+Shot Chart Detail,1021300005,497,203017,Glory Johnson,1611661321,Tulsa Shock,5,0,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,22,1,0,20130527,TUL,WAS,2013-14
+Shot Chart Detail,1021300008,22,203017,Glory Johnson,1611661321,Tulsa Shock,1,7,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,160,71,1,1,20130531,NYL,TUL,2013-14
+Shot Chart Detail,1021300008,47,203017,Glory Johnson,1611661321,Tulsa Shock,1,4,8,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,28,50,1,0,20130531,NYL,TUL,2013-14
+Shot Chart Detail,1021300008,84,203017,Glory Johnson,1611661321,Tulsa Shock,1,0,24,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-41,156,1,1,20130531,NYL,TUL,2013-14
+Shot Chart Detail,1021300008,139,203017,Glory Johnson,1611661321,Tulsa Shock,2,5,27,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,11,1,0,20130531,NYL,TUL,2013-14
+Shot Chart Detail,1021300008,147,203017,Glory Johnson,1611661321,Tulsa Shock,2,5,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,12,134,1,0,20130531,NYL,TUL,2013-14
+Shot Chart Detail,1021300008,155,203017,Glory Johnson,1611661321,Tulsa Shock,2,4,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,17,1,0,20130531,NYL,TUL,2013-14
+Shot Chart Detail,1021300008,187,203017,Glory Johnson,1611661321,Tulsa Shock,2,2,51,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,20,48,1,1,20130531,NYL,TUL,2013-14
+Shot Chart Detail,1021300008,228,203017,Glory Johnson,1611661321,Tulsa Shock,3,9,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,48,233,1,0,20130531,NYL,TUL,2013-14
+Shot Chart Detail,1021300008,291,203017,Glory Johnson,1611661321,Tulsa Shock,3,2,57,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,39,44,1,0,20130531,NYL,TUL,2013-14
+Shot Chart Detail,1021300008,386,203017,Glory Johnson,1611661321,Tulsa Shock,4,5,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,7,1,0,20130531,NYL,TUL,2013-14
+Shot Chart Detail,1021300008,422,203017,Glory Johnson,1611661321,Tulsa Shock,4,2,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,12,1,1,20130531,NYL,TUL,2013-14
+Shot Chart Detail,1021300008,454,203017,Glory Johnson,1611661321,Tulsa Shock,4,0,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,9,1,1,20130531,NYL,TUL,2013-14
+Shot Chart Detail,1021300008,508,203017,Glory Johnson,1611661321,Tulsa Shock,5,0,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,4,1,0,20130531,NYL,TUL,2013-14
+Shot Chart Detail,1021300008,510,203017,Glory Johnson,1611661321,Tulsa Shock,5,0,42,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,-6,1,0,20130531,NYL,TUL,2013-14
+Shot Chart Detail,1021300013,2,203017,Glory Johnson,1611661321,Tulsa Shock,1,9,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,187,15,1,0,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300013,65,203017,Glory Johnson,1611661321,Tulsa Shock,1,2,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,100,162,1,1,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300013,76,203017,Glory Johnson,1611661321,Tulsa Shock,1,2,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,72,107,1,0,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300013,193,203017,Glory Johnson,1611661321,Tulsa Shock,2,0,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,17,1,1,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300013,212,203017,Glory Johnson,1611661321,Tulsa Shock,3,8,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-144,105,1,0,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300013,218,203017,Glory Johnson,1611661321,Tulsa Shock,3,8,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,12,1,1,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300013,228,203017,Glory Johnson,1611661321,Tulsa Shock,3,6,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-26,108,1,0,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300013,235,203017,Glory Johnson,1611661321,Tulsa Shock,3,5,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,149,23,1,0,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300013,258,203017,Glory Johnson,1611661321,Tulsa Shock,3,1,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,25,1,1,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300013,350,203017,Glory Johnson,1611661321,Tulsa Shock,4,5,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,12,1,1,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300013,352,203017,Glory Johnson,1611661321,Tulsa Shock,4,5,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-134,22,1,0,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300020,3,203017,Glory Johnson,1611661321,Tulsa Shock,1,9,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-190,17,1,1,20130607,SEA,TUL,2013-14
+Shot Chart Detail,1021300020,6,203017,Glory Johnson,1611661321,Tulsa Shock,1,8,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-26,167,1,1,20130607,SEA,TUL,2013-14
+Shot Chart Detail,1021300020,135,203017,Glory Johnson,1611661321,Tulsa Shock,2,4,3,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,58,37,1,1,20130607,SEA,TUL,2013-14
+Shot Chart Detail,1021300020,145,203017,Glory Johnson,1611661321,Tulsa Shock,2,3,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-7,41,1,0,20130607,SEA,TUL,2013-14
+Shot Chart Detail,1021300020,165,203017,Glory Johnson,1611661321,Tulsa Shock,2,0,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-76,15,1,0,20130607,SEA,TUL,2013-14
+Shot Chart Detail,1021300020,187,203017,Glory Johnson,1611661321,Tulsa Shock,3,8,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-52,50,1,0,20130607,SEA,TUL,2013-14
+Shot Chart Detail,1021300020,211,203017,Glory Johnson,1611661321,Tulsa Shock,3,6,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,11,1,1,20130607,SEA,TUL,2013-14
+Shot Chart Detail,1021300020,263,203017,Glory Johnson,1611661321,Tulsa Shock,3,2,34,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-51,25,1,1,20130607,SEA,TUL,2013-14
+Shot Chart Detail,1021300020,276,203017,Glory Johnson,1611661321,Tulsa Shock,3,1,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,3,1,1,20130607,SEA,TUL,2013-14
+Shot Chart Detail,1021300020,338,203017,Glory Johnson,1611661321,Tulsa Shock,4,5,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,34,162,1,0,20130607,SEA,TUL,2013-14
+Shot Chart Detail,1021300020,373,203017,Glory Johnson,1611661321,Tulsa Shock,4,2,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,48,19,1,0,20130607,SEA,TUL,2013-14
+Shot Chart Detail,1021300023,14,203017,Glory Johnson,1611661321,Tulsa Shock,1,8,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,-3,1,0,20130608,LAS,TUL,2013-14
+Shot Chart Detail,1021300023,32,203017,Glory Johnson,1611661321,Tulsa Shock,1,7,10,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,75,119,1,1,20130608,LAS,TUL,2013-14
+Shot Chart Detail,1021300023,35,203017,Glory Johnson,1611661321,Tulsa Shock,1,6,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,0,183,1,0,20130608,LAS,TUL,2013-14
+Shot Chart Detail,1021300023,49,203017,Glory Johnson,1611661321,Tulsa Shock,1,5,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,-2,1,1,20130608,LAS,TUL,2013-14
+Shot Chart Detail,1021300023,82,203017,Glory Johnson,1611661321,Tulsa Shock,1,2,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,11,1,0,20130608,LAS,TUL,2013-14
+Shot Chart Detail,1021300023,182,203017,Glory Johnson,1611661321,Tulsa Shock,2,3,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,0,1,1,20130608,LAS,TUL,2013-14
+Shot Chart Detail,1021300023,192,203017,Glory Johnson,1611661321,Tulsa Shock,2,1,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,73,9,1,0,20130608,LAS,TUL,2013-14
+Shot Chart Detail,1021300023,227,203017,Glory Johnson,1611661321,Tulsa Shock,3,9,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-103,151,1,0,20130608,LAS,TUL,2013-14
+Shot Chart Detail,1021300023,365,203017,Glory Johnson,1611661321,Tulsa Shock,4,4,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,-8,1,1,20130608,LAS,TUL,2013-14
+Shot Chart Detail,1021300023,391,203017,Glory Johnson,1611661321,Tulsa Shock,4,1,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-6,1,1,20130608,LAS,TUL,2013-14
+Shot Chart Detail,1021300023,459,203017,Glory Johnson,1611661321,Tulsa Shock,5,1,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,-3,1,0,20130608,LAS,TUL,2013-14
+Shot Chart Detail,1021300030,18,203017,Glory Johnson,1611661321,Tulsa Shock,1,7,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,2,205,1,0,20130614,TUL,MIN,2013-14
+Shot Chart Detail,1021300030,38,203017,Glory Johnson,1611661321,Tulsa Shock,1,5,10,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-59,17,1,0,20130614,TUL,MIN,2013-14
+Shot Chart Detail,1021300030,41,203017,Glory Johnson,1611661321,Tulsa Shock,1,4,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,17,1,1,20130614,TUL,MIN,2013-14
+Shot Chart Detail,1021300030,94,203017,Glory Johnson,1611661321,Tulsa Shock,2,9,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,7,1,1,20130614,TUL,MIN,2013-14
+Shot Chart Detail,1021300030,99,203017,Glory Johnson,1611661321,Tulsa Shock,2,8,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,9,1,1,20130614,TUL,MIN,2013-14
+Shot Chart Detail,1021300030,207,203017,Glory Johnson,1611661321,Tulsa Shock,2,0,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,23,129,1,0,20130614,TUL,MIN,2013-14
+Shot Chart Detail,1021300030,231,203017,Glory Johnson,1611661321,Tulsa Shock,3,8,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,0,1,0,20130614,TUL,MIN,2013-14
+Shot Chart Detail,1021300030,239,203017,Glory Johnson,1611661321,Tulsa Shock,3,6,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-45,127,1,0,20130614,TUL,MIN,2013-14
+Shot Chart Detail,1021300030,252,203017,Glory Johnson,1611661321,Tulsa Shock,3,5,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,133,1,1,1,20130614,TUL,MIN,2013-14
+Shot Chart Detail,1021300030,254,203017,Glory Johnson,1611661321,Tulsa Shock,3,5,6,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,25,1,1,20130614,TUL,MIN,2013-14
+Shot Chart Detail,1021300030,262,203017,Glory Johnson,1611661321,Tulsa Shock,3,4,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,1,1,0,20130614,TUL,MIN,2013-14
+Shot Chart Detail,1021300030,276,203017,Glory Johnson,1611661321,Tulsa Shock,3,2,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,23,1,0,20130614,TUL,MIN,2013-14
+Shot Chart Detail,1021300030,285,203017,Glory Johnson,1611661321,Tulsa Shock,3,2,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,14,1,1,20130614,TUL,MIN,2013-14
+Shot Chart Detail,1021300030,335,203017,Glory Johnson,1611661321,Tulsa Shock,4,7,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,17,1,0,20130614,TUL,MIN,2013-14
+Shot Chart Detail,1021300030,336,203017,Glory Johnson,1611661321,Tulsa Shock,4,7,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,19,1,1,20130614,TUL,MIN,2013-14
+Shot Chart Detail,1021300030,356,203017,Glory Johnson,1611661321,Tulsa Shock,4,5,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,6,1,0,20130614,TUL,MIN,2013-14
+Shot Chart Detail,1021300030,369,203017,Glory Johnson,1611661321,Tulsa Shock,4,4,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,11,1,1,20130614,TUL,MIN,2013-14
+Shot Chart Detail,1021300030,373,203017,Glory Johnson,1611661321,Tulsa Shock,4,3,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,7,1,0,20130614,TUL,MIN,2013-14
+Shot Chart Detail,1021300030,386,203017,Glory Johnson,1611661321,Tulsa Shock,4,2,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,9,1,1,20130614,TUL,MIN,2013-14
+Shot Chart Detail,1021300035,19,203017,Glory Johnson,1611661321,Tulsa Shock,1,7,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,13,230,1,1,20130616,TUL,PHO,2013-14
+Shot Chart Detail,1021300035,22,203017,Glory Johnson,1611661321,Tulsa Shock,1,7,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-122,80,1,0,20130616,TUL,PHO,2013-14
+Shot Chart Detail,1021300035,30,203017,Glory Johnson,1611661321,Tulsa Shock,1,6,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,77,12,1,1,20130616,TUL,PHO,2013-14
+Shot Chart Detail,1021300035,36,203017,Glory Johnson,1611661321,Tulsa Shock,1,5,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,12,1,0,20130616,TUL,PHO,2013-14
+Shot Chart Detail,1021300035,51,203017,Glory Johnson,1611661321,Tulsa Shock,1,3,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,119,3,1,0,20130616,TUL,PHO,2013-14
+Shot Chart Detail,1021300035,74,203017,Glory Johnson,1611661321,Tulsa Shock,1,1,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,4,1,1,20130616,TUL,PHO,2013-14
+Shot Chart Detail,1021300035,76,203017,Glory Johnson,1611661321,Tulsa Shock,1,1,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,0,1,0,20130616,TUL,PHO,2013-14
+Shot Chart Detail,1021300035,142,203017,Glory Johnson,1611661321,Tulsa Shock,2,4,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,14,1,1,20130616,TUL,PHO,2013-14
+Shot Chart Detail,1021300035,159,203017,Glory Johnson,1611661321,Tulsa Shock,2,3,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,14,1,1,20130616,TUL,PHO,2013-14
+Shot Chart Detail,1021300035,183,203017,Glory Johnson,1611661321,Tulsa Shock,2,1,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,9,1,1,20130616,TUL,PHO,2013-14
+Shot Chart Detail,1021300035,191,203017,Glory Johnson,1611661321,Tulsa Shock,2,1,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,15,1,1,20130616,TUL,PHO,2013-14
+Shot Chart Detail,1021300035,198,203017,Glory Johnson,1611661321,Tulsa Shock,2,0,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,9,1,1,20130616,TUL,PHO,2013-14
+Shot Chart Detail,1021300035,229,203017,Glory Johnson,1611661321,Tulsa Shock,3,7,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-19,213,1,0,20130616,TUL,PHO,2013-14
+Shot Chart Detail,1021300035,243,203017,Glory Johnson,1611661321,Tulsa Shock,3,5,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,15,1,1,20130616,TUL,PHO,2013-14
+Shot Chart Detail,1021300035,337,203017,Glory Johnson,1611661321,Tulsa Shock,4,6,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,7,1,1,20130616,TUL,PHO,2013-14
+Shot Chart Detail,1021300035,345,203017,Glory Johnson,1611661321,Tulsa Shock,4,5,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-26,127,1,1,20130616,TUL,PHO,2013-14
+Shot Chart Detail,1021300035,348,203017,Glory Johnson,1611661321,Tulsa Shock,4,5,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,7,30,1,0,20130616,TUL,PHO,2013-14
+Shot Chart Detail,1021300035,350,203017,Glory Johnson,1611661321,Tulsa Shock,4,5,9,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,36,1,0,20130616,TUL,PHO,2013-14
+Shot Chart Detail,1021300035,365,203017,Glory Johnson,1611661321,Tulsa Shock,4,4,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,83,4,1,0,20130616,TUL,PHO,2013-14
+Shot Chart Detail,1021300035,370,203017,Glory Johnson,1611661321,Tulsa Shock,4,3,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,6,1,0,20130616,TUL,PHO,2013-14
+Shot Chart Detail,1021300035,400,203017,Glory Johnson,1611661321,Tulsa Shock,4,0,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,9,1,1,20130616,TUL,PHO,2013-14
+Shot Chart Detail,1021300035,411,203017,Glory Johnson,1611661321,Tulsa Shock,4,0,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,77,11,1,0,20130616,TUL,PHO,2013-14
+Shot Chart Detail,1021300035,490,203017,Glory Johnson,1611661321,Tulsa Shock,5,0,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,17,1,0,20130616,TUL,PHO,2013-14
+Shot Chart Detail,1021300039,2,203017,Glory Johnson,1611661321,Tulsa Shock,1,9,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,89,41,1,0,20130620,TUL,CHI,2013-14
+Shot Chart Detail,1021300039,13,203017,Glory Johnson,1611661321,Tulsa Shock,1,8,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-24,39,1,0,20130620,TUL,CHI,2013-14
+Shot Chart Detail,1021300039,35,203017,Glory Johnson,1611661321,Tulsa Shock,1,6,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,6,1,1,20130620,TUL,CHI,2013-14
+Shot Chart Detail,1021300039,54,203017,Glory Johnson,1611661321,Tulsa Shock,1,4,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,15,1,1,20130620,TUL,CHI,2013-14
+Shot Chart Detail,1021300039,69,203017,Glory Johnson,1611661321,Tulsa Shock,1,3,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,20,36,1,0,20130620,TUL,CHI,2013-14
+Shot Chart Detail,1021300039,73,203017,Glory Johnson,1611661321,Tulsa Shock,1,3,24,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-23,25,1,1,20130620,TUL,CHI,2013-14
+Shot Chart Detail,1021300039,85,203017,Glory Johnson,1611661321,Tulsa Shock,1,1,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-128,60,1,0,20130620,TUL,CHI,2013-14
+Shot Chart Detail,1021300039,139,203017,Glory Johnson,1611661321,Tulsa Shock,2,6,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-142,0,1,0,20130620,TUL,CHI,2013-14
+Shot Chart Detail,1021300039,176,203017,Glory Johnson,1611661321,Tulsa Shock,2,2,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,144,25,1,1,20130620,TUL,CHI,2013-14
+Shot Chart Detail,1021300039,201,203017,Glory Johnson,1611661321,Tulsa Shock,2,0,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,39,34,1,0,20130620,TUL,CHI,2013-14
+Shot Chart Detail,1021300039,228,203017,Glory Johnson,1611661321,Tulsa Shock,3,8,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,11,1,1,20130620,TUL,CHI,2013-14
+Shot Chart Detail,1021300039,247,203017,Glory Johnson,1611661321,Tulsa Shock,3,7,11,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,25,1,0,20130620,TUL,CHI,2013-14
+Shot Chart Detail,1021300039,398,203017,Glory Johnson,1611661321,Tulsa Shock,4,6,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,17,1,0,20130620,TUL,CHI,2013-14
+Shot Chart Detail,1021300039,450,203017,Glory Johnson,1611661321,Tulsa Shock,4,1,19,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,22,1,0,20130620,TUL,CHI,2013-14
+Shot Chart Detail,1021300044,25,203017,Glory Johnson,1611661321,Tulsa Shock,1,7,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,11,1,0,20130622,TUL,SEA,2013-14
+Shot Chart Detail,1021300044,60,203017,Glory Johnson,1611661321,Tulsa Shock,1,4,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,3,1,0,20130622,TUL,SEA,2013-14
+Shot Chart Detail,1021300044,142,203017,Glory Johnson,1611661321,Tulsa Shock,2,6,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,6,1,0,20130622,TUL,SEA,2013-14
+Shot Chart Detail,1021300044,143,203017,Glory Johnson,1611661321,Tulsa Shock,2,6,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,19,1,0,20130622,TUL,SEA,2013-14
+Shot Chart Detail,1021300044,160,203017,Glory Johnson,1611661321,Tulsa Shock,2,4,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,33,1,0,20130622,TUL,SEA,2013-14
+Shot Chart Detail,1021300044,180,203017,Glory Johnson,1611661321,Tulsa Shock,2,3,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,20,28,1,0,20130622,TUL,SEA,2013-14
+Shot Chart Detail,1021300044,241,203017,Glory Johnson,1611661321,Tulsa Shock,3,7,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,11,1,1,20130622,TUL,SEA,2013-14
+Shot Chart Detail,1021300044,252,203017,Glory Johnson,1611661321,Tulsa Shock,3,5,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,9,1,1,20130622,TUL,SEA,2013-14
+Shot Chart Detail,1021300047,15,203017,Glory Johnson,1611661321,Tulsa Shock,1,7,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,108,172,1,0,20130623,MIN,TUL,2013-14
+Shot Chart Detail,1021300047,18,203017,Glory Johnson,1611661321,Tulsa Shock,1,7,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,4,1,1,20130623,MIN,TUL,2013-14
+Shot Chart Detail,1021300047,56,203017,Glory Johnson,1611661321,Tulsa Shock,1,3,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,7,192,1,1,20130623,MIN,TUL,2013-14
+Shot Chart Detail,1021300047,59,203017,Glory Johnson,1611661321,Tulsa Shock,1,2,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,6,1,1,20130623,MIN,TUL,2013-14
+Shot Chart Detail,1021300047,74,203017,Glory Johnson,1611661321,Tulsa Shock,1,2,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,19,1,0,20130623,MIN,TUL,2013-14
+Shot Chart Detail,1021300047,76,203017,Glory Johnson,1611661321,Tulsa Shock,1,2,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-164,63,1,0,20130623,MIN,TUL,2013-14
+Shot Chart Detail,1021300047,82,203017,Glory Johnson,1611661321,Tulsa Shock,1,1,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-127,52,1,0,20130623,MIN,TUL,2013-14
+Shot Chart Detail,1021300047,176,203017,Glory Johnson,1611661321,Tulsa Shock,2,3,59,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,17,78,1,1,20130623,MIN,TUL,2013-14
+Shot Chart Detail,1021300047,235,203017,Glory Johnson,1611661321,Tulsa Shock,3,8,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-1,1,1,20130623,MIN,TUL,2013-14
+Shot Chart Detail,1021300047,258,203017,Glory Johnson,1611661321,Tulsa Shock,3,6,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,14,1,1,20130623,MIN,TUL,2013-14
+Shot Chart Detail,1021300047,260,203017,Glory Johnson,1611661321,Tulsa Shock,3,5,44,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,14,1,1,20130623,MIN,TUL,2013-14
+Shot Chart Detail,1021300047,353,203017,Glory Johnson,1611661321,Tulsa Shock,4,6,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,12,1,1,20130623,MIN,TUL,2013-14
+Shot Chart Detail,1021300047,356,203017,Glory Johnson,1611661321,Tulsa Shock,4,6,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,12,190,1,0,20130623,MIN,TUL,2013-14
+Shot Chart Detail,1021300047,395,203017,Glory Johnson,1611661321,Tulsa Shock,4,3,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,-3,1,1,20130623,MIN,TUL,2013-14
+Shot Chart Detail,1021300047,400,203017,Glory Johnson,1611661321,Tulsa Shock,4,3,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,12,1,0,20130623,MIN,TUL,2013-14
+Shot Chart Detail,1021300053,23,203017,Glory Johnson,1611661321,Tulsa Shock,1,7,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,-21,1,0,20130628,IND,TUL,2013-14
+Shot Chart Detail,1021300053,54,203017,Glory Johnson,1611661321,Tulsa Shock,1,4,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-93,155,1,1,20130628,IND,TUL,2013-14
+Shot Chart Detail,1021300053,121,203017,Glory Johnson,1611661321,Tulsa Shock,2,7,24,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-27,-27,1,0,20130628,IND,TUL,2013-14
+Shot Chart Detail,1021300053,218,203017,Glory Johnson,1611661321,Tulsa Shock,3,7,38,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,-8,1,1,20130628,IND,TUL,2013-14
+Shot Chart Detail,1021300053,227,203017,Glory Johnson,1611661321,Tulsa Shock,3,6,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,4,1,1,20130628,IND,TUL,2013-14
+Shot Chart Detail,1021300053,234,203017,Glory Johnson,1611661321,Tulsa Shock,3,5,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,-3,1,0,20130628,IND,TUL,2013-14
+Shot Chart Detail,1021300053,268,203017,Glory Johnson,1611661321,Tulsa Shock,3,2,30,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,17,1,0,20130628,IND,TUL,2013-14
+Shot Chart Detail,1021300053,304,203017,Glory Johnson,1611661321,Tulsa Shock,4,9,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,6,1,0,20130628,IND,TUL,2013-14
+Shot Chart Detail,1021300053,307,203017,Glory Johnson,1611661321,Tulsa Shock,4,9,4,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-37,37,1,1,20130628,IND,TUL,2013-14
+Shot Chart Detail,1021300053,312,203017,Glory Johnson,1611661321,Tulsa Shock,4,8,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,147,-27,1,0,20130628,IND,TUL,2013-14
+Shot Chart Detail,1021300053,315,203017,Glory Johnson,1611661321,Tulsa Shock,4,7,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,4,1,0,20130628,IND,TUL,2013-14
+Shot Chart Detail,1021300053,399,203017,Glory Johnson,1611661321,Tulsa Shock,4,0,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,-6,1,0,20130628,IND,TUL,2013-14
+Shot Chart Detail,1021300053,401,203017,Glory Johnson,1611661321,Tulsa Shock,4,0,46,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,4,-35,1,0,20130628,IND,TUL,2013-14
+Shot Chart Detail,1021300060,13,203017,Glory Johnson,1611661321,Tulsa Shock,1,8,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-11,1,0,20130630,WAS,TUL,2013-14
+Shot Chart Detail,1021300060,60,203017,Glory Johnson,1611661321,Tulsa Shock,1,4,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,121,55,1,0,20130630,WAS,TUL,2013-14
+Shot Chart Detail,1021300060,91,203017,Glory Johnson,1611661321,Tulsa Shock,1,2,22,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,69,23,1,0,20130630,WAS,TUL,2013-14
+Shot Chart Detail,1021300060,261,203017,Glory Johnson,1611661321,Tulsa Shock,2,1,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,-6,1,0,20130630,WAS,TUL,2013-14
+Shot Chart Detail,1021300060,352,203017,Glory Johnson,1611661321,Tulsa Shock,3,4,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,-16,1,1,20130630,WAS,TUL,2013-14
+Shot Chart Detail,1021300060,371,203017,Glory Johnson,1611661321,Tulsa Shock,3,2,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,20,1,0,20130630,WAS,TUL,2013-14
+Shot Chart Detail,1021300063,27,203017,Glory Johnson,1611661321,Tulsa Shock,1,6,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,0,20130702,CON,TUL,2013-14
+Shot Chart Detail,1021300063,34,203017,Glory Johnson,1611661321,Tulsa Shock,1,5,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-8,1,1,20130702,CON,TUL,2013-14
+Shot Chart Detail,1021300063,61,203017,Glory Johnson,1611661321,Tulsa Shock,1,2,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,4,1,0,20130702,CON,TUL,2013-14
+Shot Chart Detail,1021300063,186,203017,Glory Johnson,1611661321,Tulsa Shock,2,2,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,-11,1,0,20130702,CON,TUL,2013-14
+Shot Chart Detail,1021300063,188,203017,Glory Johnson,1611661321,Tulsa Shock,2,1,57,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,-13,1,1,20130702,CON,TUL,2013-14
+Shot Chart Detail,1021300063,190,203017,Glory Johnson,1611661321,Tulsa Shock,2,1,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,4,170,1,0,20130702,CON,TUL,2013-14
+Shot Chart Detail,1021300063,210,203017,Glory Johnson,1611661321,Tulsa Shock,3,9,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,14,1,1,20130702,CON,TUL,2013-14
+Shot Chart Detail,1021300063,253,203017,Glory Johnson,1611661321,Tulsa Shock,3,6,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20130702,CON,TUL,2013-14
+Shot Chart Detail,1021300063,270,203017,Glory Johnson,1611661321,Tulsa Shock,3,6,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,-5,1,0,20130702,CON,TUL,2013-14
+Shot Chart Detail,1021300063,359,203017,Glory Johnson,1611661321,Tulsa Shock,4,8,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-5,1,0,20130702,CON,TUL,2013-14
+Shot Chart Detail,1021300063,367,203017,Glory Johnson,1611661321,Tulsa Shock,4,7,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,7,1,0,20130702,CON,TUL,2013-14
+Shot Chart Detail,1021300063,375,203017,Glory Johnson,1611661321,Tulsa Shock,4,7,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,0,20130702,CON,TUL,2013-14
+Shot Chart Detail,1021300063,386,203017,Glory Johnson,1611661321,Tulsa Shock,4,6,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,7,1,0,20130702,CON,TUL,2013-14
+Shot Chart Detail,1021300063,397,203017,Glory Johnson,1611661321,Tulsa Shock,4,5,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,-3,1,0,20130702,CON,TUL,2013-14
+Shot Chart Detail,1021300063,399,203017,Glory Johnson,1611661321,Tulsa Shock,4,4,55,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,0,1,1,20130702,CON,TUL,2013-14
+Shot Chart Detail,1021300077,7,203017,Glory Johnson,1611661321,Tulsa Shock,1,8,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,0,71,1,0,20130711,TUL,LAS,2013-14
+Shot Chart Detail,1021300077,29,203017,Glory Johnson,1611661321,Tulsa Shock,1,6,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,17,1,1,20130711,TUL,LAS,2013-14
+Shot Chart Detail,1021300077,34,203017,Glory Johnson,1611661321,Tulsa Shock,1,5,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,26,1,0,20130711,TUL,LAS,2013-14
+Shot Chart Detail,1021300077,38,203017,Glory Johnson,1611661321,Tulsa Shock,1,4,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,11,1,1,20130711,TUL,LAS,2013-14
+Shot Chart Detail,1021300077,100,203017,Glory Johnson,1611661321,Tulsa Shock,2,8,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,12,1,1,20130711,TUL,LAS,2013-14
+Shot Chart Detail,1021300077,164,203017,Glory Johnson,1611661321,Tulsa Shock,2,3,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,136,124,1,1,20130711,TUL,LAS,2013-14
+Shot Chart Detail,1021300086,28,203017,Glory Johnson,1611661321,Tulsa Shock,1,6,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,95,9,1,0,20130717,SEA,TUL,2013-14
+Shot Chart Detail,1021300086,77,203017,Glory Johnson,1611661321,Tulsa Shock,1,2,36,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,14,27,1,0,20130717,SEA,TUL,2013-14
+Shot Chart Detail,1021300086,92,203017,Glory Johnson,1611661321,Tulsa Shock,1,1,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-73,149,1,1,20130717,SEA,TUL,2013-14
+Shot Chart Detail,1021300086,136,203017,Glory Johnson,1611661321,Tulsa Shock,2,6,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,160,108,1,1,20130717,SEA,TUL,2013-14
+Shot Chart Detail,1021300086,195,203017,Glory Johnson,1611661321,Tulsa Shock,2,1,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,7,1,1,20130717,SEA,TUL,2013-14
+Shot Chart Detail,1021300086,213,203017,Glory Johnson,1611661321,Tulsa Shock,2,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,67,167,1,1,20130717,SEA,TUL,2013-14
+Shot Chart Detail,1021300086,239,203017,Glory Johnson,1611661321,Tulsa Shock,3,7,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,103,0,1,0,20130717,SEA,TUL,2013-14
+Shot Chart Detail,1021300086,247,203017,Glory Johnson,1611661321,Tulsa Shock,3,6,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,-2,1,0,20130717,SEA,TUL,2013-14
+Shot Chart Detail,1021300086,290,203017,Glory Johnson,1611661321,Tulsa Shock,3,1,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,64,44,1,0,20130717,SEA,TUL,2013-14
+Shot Chart Detail,1021300086,356,203017,Glory Johnson,1611661321,Tulsa Shock,4,7,22,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-136,0,1,1,20130717,SEA,TUL,2013-14
+Shot Chart Detail,1021300092,14,203017,Glory Johnson,1611661321,Tulsa Shock,1,8,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,20,153,1,0,20130719,TUL,CON,2013-14
+Shot Chart Detail,1021300092,18,203017,Glory Johnson,1611661321,Tulsa Shock,1,8,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,67,186,1,0,20130719,TUL,CON,2013-14
+Shot Chart Detail,1021300092,24,203017,Glory Johnson,1611661321,Tulsa Shock,1,7,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-95,39,1,1,20130719,TUL,CON,2013-14
+Shot Chart Detail,1021300092,28,203017,Glory Johnson,1611661321,Tulsa Shock,1,7,7,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,11,1,1,20130719,TUL,CON,2013-14
+Shot Chart Detail,1021300092,32,203017,Glory Johnson,1611661321,Tulsa Shock,1,6,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,14,1,0,20130719,TUL,CON,2013-14
+Shot Chart Detail,1021300092,35,203017,Glory Johnson,1611661321,Tulsa Shock,1,6,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,28,1,0,20130719,TUL,CON,2013-14
+Shot Chart Detail,1021300092,67,203017,Glory Johnson,1611661321,Tulsa Shock,1,3,0,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,14,1,0,20130719,TUL,CON,2013-14
+Shot Chart Detail,1021300092,252,203017,Glory Johnson,1611661321,Tulsa Shock,3,7,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,9,1,0,20130719,TUL,CON,2013-14
+Shot Chart Detail,1021300092,256,203017,Glory Johnson,1611661321,Tulsa Shock,3,7,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,9,1,0,20130719,TUL,CON,2013-14
+Shot Chart Detail,1021300092,268,203017,Glory Johnson,1611661321,Tulsa Shock,3,5,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,26,1,0,20130719,TUL,CON,2013-14
+Shot Chart Detail,1021300092,281,203017,Glory Johnson,1611661321,Tulsa Shock,3,5,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,25,1,0,20130719,TUL,CON,2013-14
+Shot Chart Detail,1021300092,393,203017,Glory Johnson,1611661321,Tulsa Shock,4,6,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,23,22,1,1,20130719,TUL,CON,2013-14
+Shot Chart Detail,1021300092,435,203017,Glory Johnson,1611661321,Tulsa Shock,4,1,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,1,1,1,20130719,TUL,CON,2013-14
+Shot Chart Detail,1021300097,33,203017,Glory Johnson,1611661321,Tulsa Shock,1,6,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-125,36,1,1,20130721,TUL,ATL,2013-14
+Shot Chart Detail,1021300097,54,203017,Glory Johnson,1611661321,Tulsa Shock,1,3,52,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,37,9,1,1,20130721,TUL,ATL,2013-14
+Shot Chart Detail,1021300097,69,203017,Glory Johnson,1611661321,Tulsa Shock,1,2,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,124,129,1,0,20130721,TUL,ATL,2013-14
+Shot Chart Detail,1021300097,86,203017,Glory Johnson,1611661321,Tulsa Shock,1,0,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,0,1,1,20130721,TUL,ATL,2013-14
+Shot Chart Detail,1021300097,111,203017,Glory Johnson,1611661321,Tulsa Shock,2,8,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-79,138,1,0,20130721,TUL,ATL,2013-14
+Shot Chart Detail,1021300097,169,203017,Glory Johnson,1611661321,Tulsa Shock,2,4,47,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,22,1,1,20130721,TUL,ATL,2013-14
+Shot Chart Detail,1021300097,174,203017,Glory Johnson,1611661321,Tulsa Shock,2,3,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,22,1,1,20130721,TUL,ATL,2013-14
+Shot Chart Detail,1021300097,261,203017,Glory Johnson,1611661321,Tulsa Shock,3,7,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-90,165,1,0,20130721,TUL,ATL,2013-14
+Shot Chart Detail,1021300097,280,203017,Glory Johnson,1611661321,Tulsa Shock,3,6,16,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,28,60,1,1,20130721,TUL,ATL,2013-14
+Shot Chart Detail,1021300097,341,203017,Glory Johnson,1611661321,Tulsa Shock,3,1,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,16,1,0,20130721,TUL,ATL,2013-14
+Shot Chart Detail,1021300097,367,203017,Glory Johnson,1611661321,Tulsa Shock,3,0,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,7,1,1,20130721,TUL,ATL,2013-14
+Shot Chart Detail,1021300097,412,203017,Glory Johnson,1611661321,Tulsa Shock,4,6,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,11,1,1,20130721,TUL,ATL,2013-14
+Shot Chart Detail,1021300097,426,203017,Glory Johnson,1611661321,Tulsa Shock,4,4,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,19,1,0,20130721,TUL,ATL,2013-14
+Shot Chart Detail,1021300097,427,203017,Glory Johnson,1611661321,Tulsa Shock,4,4,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,20,1,1,20130721,TUL,ATL,2013-14
+Shot Chart Detail,1021300104,17,203017,Glory Johnson,1611661321,Tulsa Shock,1,7,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,1,1,1,20130725,TUL,IND,2013-14
+Shot Chart Detail,1021300104,31,203017,Glory Johnson,1611661321,Tulsa Shock,1,5,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-23,72,1,0,20130725,TUL,IND,2013-14
+Shot Chart Detail,1021300104,37,203017,Glory Johnson,1611661321,Tulsa Shock,1,4,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-105,167,1,0,20130725,TUL,IND,2013-14
+Shot Chart Detail,1021300104,44,203017,Glory Johnson,1611661321,Tulsa Shock,1,3,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,6,1,0,20130725,TUL,IND,2013-14
+Shot Chart Detail,1021300104,157,203017,Glory Johnson,1611661321,Tulsa Shock,2,4,21,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,21,34,1,0,20130725,TUL,IND,2013-14
+Shot Chart Detail,1021300104,342,203017,Glory Johnson,1611661321,Tulsa Shock,4,9,11,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,9,1,1,20130725,TUL,IND,2013-14
+Shot Chart Detail,1021300104,347,203017,Glory Johnson,1611661321,Tulsa Shock,4,8,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,33,1,0,20130725,TUL,IND,2013-14
+Shot Chart Detail,1021300110,2,203017,Glory Johnson,1611661321,Tulsa Shock,1,9,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,15,1,1,20130802,TUL,LAS,2013-14
+Shot Chart Detail,1021300110,49,203017,Glory Johnson,1611661321,Tulsa Shock,1,5,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,0,1,0,20130802,TUL,LAS,2013-14
+Shot Chart Detail,1021300110,52,203017,Glory Johnson,1611661321,Tulsa Shock,1,4,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-139,41,1,0,20130802,TUL,LAS,2013-14
+Shot Chart Detail,1021300110,55,203017,Glory Johnson,1611661321,Tulsa Shock,1,4,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,1,1,1,20130802,TUL,LAS,2013-14
+Shot Chart Detail,1021300110,58,203017,Glory Johnson,1611661321,Tulsa Shock,1,3,26,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,37,-2,1,1,20130802,TUL,LAS,2013-14
+Shot Chart Detail,1021300110,71,203017,Glory Johnson,1611661321,Tulsa Shock,1,0,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,1,1,1,20130802,TUL,LAS,2013-14
+Shot Chart Detail,1021300110,137,203017,Glory Johnson,1611661321,Tulsa Shock,2,5,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,24,33,1,0,20130802,TUL,LAS,2013-14
+Shot Chart Detail,1021300110,181,203017,Glory Johnson,1611661321,Tulsa Shock,2,0,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,11,1,0,20130802,TUL,LAS,2013-14
+Shot Chart Detail,1021300110,194,203017,Glory Johnson,1611661321,Tulsa Shock,3,9,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,3,1,1,20130802,TUL,LAS,2013-14
+Shot Chart Detail,1021300110,211,203017,Glory Johnson,1611661321,Tulsa Shock,3,7,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,13,195,1,0,20130802,TUL,LAS,2013-14
+Shot Chart Detail,1021300110,231,203017,Glory Johnson,1611661321,Tulsa Shock,3,6,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,72,148,1,0,20130802,TUL,LAS,2013-14
+Shot Chart Detail,1021300110,273,203017,Glory Johnson,1611661321,Tulsa Shock,3,2,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,20,1,0,20130802,TUL,LAS,2013-14
+Shot Chart Detail,1021300110,398,203017,Glory Johnson,1611661321,Tulsa Shock,4,1,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,3,1,1,20130802,TUL,LAS,2013-14
+Shot Chart Detail,1021300110,444,203017,Glory Johnson,1611661321,Tulsa Shock,4,0,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,19,1,1,20130802,TUL,LAS,2013-14
+Shot Chart Detail,1021300116,2,203017,Glory Johnson,1611661321,Tulsa Shock,1,9,44,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,4,132,1,0,20130804,SAN,TUL,2013-14
+Shot Chart Detail,1021300116,7,203017,Glory Johnson,1611661321,Tulsa Shock,1,9,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,189,-6,1,0,20130804,SAN,TUL,2013-14
+Shot Chart Detail,1021300116,41,203017,Glory Johnson,1611661321,Tulsa Shock,1,5,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-60,138,1,0,20130804,SAN,TUL,2013-14
+Shot Chart Detail,1021300116,48,203017,Glory Johnson,1611661321,Tulsa Shock,1,4,26,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,2,52,1,1,20130804,SAN,TUL,2013-14
+Shot Chart Detail,1021300116,57,203017,Glory Johnson,1611661321,Tulsa Shock,1,3,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,12,1,0,20130804,SAN,TUL,2013-14
+Shot Chart Detail,1021300116,61,203017,Glory Johnson,1611661321,Tulsa Shock,1,3,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,176,107,1,1,20130804,SAN,TUL,2013-14
+Shot Chart Detail,1021300116,226,203017,Glory Johnson,1611661321,Tulsa Shock,2,0,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,4,1,1,20130804,SAN,TUL,2013-14
+Shot Chart Detail,1021300116,243,203017,Glory Johnson,1611661321,Tulsa Shock,3,9,28,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-37,44,1,1,20130804,SAN,TUL,2013-14
+Shot Chart Detail,1021300116,268,203017,Glory Johnson,1611661321,Tulsa Shock,3,6,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,0,1,0,20130804,SAN,TUL,2013-14
+Shot Chart Detail,1021300116,269,203017,Glory Johnson,1611661321,Tulsa Shock,3,6,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,11,1,1,20130804,SAN,TUL,2013-14
+Shot Chart Detail,1021300116,290,203017,Glory Johnson,1611661321,Tulsa Shock,3,3,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,1,1,1,20130804,SAN,TUL,2013-14
+Shot Chart Detail,1021300116,313,203017,Glory Johnson,1611661321,Tulsa Shock,3,1,5,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-35,11,1,0,20130804,SAN,TUL,2013-14
+Shot Chart Detail,1021300116,319,203017,Glory Johnson,1611661321,Tulsa Shock,3,0,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,9,1,1,20130804,SAN,TUL,2013-14
+Shot Chart Detail,1021300116,393,203017,Glory Johnson,1611661321,Tulsa Shock,4,3,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,11,1,1,20130804,SAN,TUL,2013-14
+Shot Chart Detail,1021300116,407,203017,Glory Johnson,1611661321,Tulsa Shock,4,1,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,1,1,0,20130804,SAN,TUL,2013-14
+Shot Chart Detail,1021300126,38,203017,Glory Johnson,1611661321,Tulsa Shock,1,4,38,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,7,1,1,20130809,PHO,TUL,2013-14
+Shot Chart Detail,1021300126,69,203017,Glory Johnson,1611661321,Tulsa Shock,1,1,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20130809,PHO,TUL,2013-14
+Shot Chart Detail,1021300126,78,203017,Glory Johnson,1611661321,Tulsa Shock,1,1,15,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,37,0,1,0,20130809,PHO,TUL,2013-14
+Shot Chart Detail,1021300126,137,203017,Glory Johnson,1611661321,Tulsa Shock,2,6,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-3,1,1,20130809,PHO,TUL,2013-14
+Shot Chart Detail,1021300126,151,203017,Glory Johnson,1611661321,Tulsa Shock,2,4,54,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,19,1,0,20130809,PHO,TUL,2013-14
+Shot Chart Detail,1021300126,220,203017,Glory Johnson,1611661321,Tulsa Shock,3,9,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,9,1,1,20130809,PHO,TUL,2013-14
+Shot Chart Detail,1021300126,252,203017,Glory Johnson,1611661321,Tulsa Shock,3,6,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,4,167,1,0,20130809,PHO,TUL,2013-14
+Shot Chart Detail,1021300150,49,203017,Glory Johnson,1611661321,Tulsa Shock,1,4,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-68,113,1,1,20130820,TUL,PHO,2013-14
+Shot Chart Detail,1021300150,56,203017,Glory Johnson,1611661321,Tulsa Shock,1,3,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,125,20,1,1,20130820,TUL,PHO,2013-14
+Shot Chart Detail,1021300150,58,203017,Glory Johnson,1611661321,Tulsa Shock,1,2,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,15,1,0,20130820,TUL,PHO,2013-14
+Shot Chart Detail,1021300150,81,203017,Glory Johnson,1611661321,Tulsa Shock,1,0,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-116,52,1,0,20130820,TUL,PHO,2013-14
+Shot Chart Detail,1021300150,296,203017,Glory Johnson,1611661321,Tulsa Shock,3,1,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,30,1,1,20130820,TUL,PHO,2013-14
+Shot Chart Detail,1021300150,361,203017,Glory Johnson,1611661321,Tulsa Shock,4,5,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,7,1,0,20130820,TUL,PHO,2013-14
+Shot Chart Detail,1021300150,412,203017,Glory Johnson,1611661321,Tulsa Shock,4,1,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,12,1,1,20130820,TUL,PHO,2013-14
+Shot Chart Detail,1021300155,2,203017,Glory Johnson,1611661321,Tulsa Shock,1,9,44,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,22,1,0,20130823,TUL,SAN,2013-14
+Shot Chart Detail,1021300155,9,203017,Glory Johnson,1611661321,Tulsa Shock,1,8,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,11,1,1,20130823,TUL,SAN,2013-14
+Shot Chart Detail,1021300155,135,203017,Glory Johnson,1611661321,Tulsa Shock,2,5,49,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-4,72,1,1,20130823,TUL,SAN,2013-14
+Shot Chart Detail,1021300155,145,203017,Glory Johnson,1611661321,Tulsa Shock,2,5,14,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,20,1,1,20130823,TUL,SAN,2013-14
+Shot Chart Detail,1021300155,158,203017,Glory Johnson,1611661321,Tulsa Shock,2,4,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,4,1,0,20130823,TUL,SAN,2013-14
+Shot Chart Detail,1021300155,212,203017,Glory Johnson,1611661321,Tulsa Shock,3,7,7,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-35,11,1,0,20130823,TUL,SAN,2013-14
+Shot Chart Detail,1021300155,231,203017,Glory Johnson,1611661321,Tulsa Shock,3,5,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,78,157,1,0,20130823,TUL,SAN,2013-14
+Shot Chart Detail,1021300155,242,203017,Glory Johnson,1611661321,Tulsa Shock,3,4,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,26,1,0,20130823,TUL,SAN,2013-14
+Shot Chart Detail,1021300155,308,203017,Glory Johnson,1611661321,Tulsa Shock,4,7,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,23,22,1,1,20130823,TUL,SAN,2013-14
+Shot Chart Detail,1021300155,319,203017,Glory Johnson,1611661321,Tulsa Shock,4,6,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,17,1,0,20130823,TUL,SAN,2013-14
+Shot Chart Detail,1021300155,331,203017,Glory Johnson,1611661321,Tulsa Shock,4,5,31,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-45,77,1,1,20130823,TUL,SAN,2013-14
+Shot Chart Detail,1021300155,337,203017,Glory Johnson,1611661321,Tulsa Shock,4,4,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,4,1,1,20130823,TUL,SAN,2013-14
+Shot Chart Detail,1021300155,355,203017,Glory Johnson,1611661321,Tulsa Shock,4,2,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,124,160,1,1,20130823,TUL,SAN,2013-14
+Shot Chart Detail,1021300162,10,203017,Glory Johnson,1611661321,Tulsa Shock,1,8,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,0,1,0,20130825,LAS,TUL,2013-14
+Shot Chart Detail,1021300162,33,203017,Glory Johnson,1611661321,Tulsa Shock,1,7,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,6,1,1,20130825,LAS,TUL,2013-14
+Shot Chart Detail,1021300162,35,203017,Glory Johnson,1611661321,Tulsa Shock,1,6,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,0,1,0,20130825,LAS,TUL,2013-14
+Shot Chart Detail,1021300162,46,203017,Glory Johnson,1611661321,Tulsa Shock,1,5,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,12,1,1,20130825,LAS,TUL,2013-14
+Shot Chart Detail,1021300162,63,203017,Glory Johnson,1611661321,Tulsa Shock,1,4,13,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,97,37,1,0,20130825,LAS,TUL,2013-14
+Shot Chart Detail,1021300162,71,203017,Glory Johnson,1611661321,Tulsa Shock,1,3,22,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,-3,1,0,20130825,LAS,TUL,2013-14
+Shot Chart Detail,1021300162,90,203017,Glory Johnson,1611661321,Tulsa Shock,1,2,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,7,179,1,0,20130825,LAS,TUL,2013-14
+Shot Chart Detail,1021300162,293,203017,Glory Johnson,1611661321,Tulsa Shock,3,2,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-5,1,1,20130825,LAS,TUL,2013-14
+Shot Chart Detail,1021300162,301,203017,Glory Johnson,1611661321,Tulsa Shock,3,1,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,61,181,1,0,20130825,LAS,TUL,2013-14
+Shot Chart Detail,1021300162,319,203017,Glory Johnson,1611661321,Tulsa Shock,3,0,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,11,1,1,20130825,LAS,TUL,2013-14
+Shot Chart Detail,1021300162,443,203017,Glory Johnson,1611661321,Tulsa Shock,5,3,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-188,0,1,0,20130825,LAS,TUL,2013-14
+Shot Chart Detail,1021300162,456,203017,Glory Johnson,1611661321,Tulsa Shock,5,2,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,-10,1,0,20130825,LAS,TUL,2013-14
+Shot Chart Detail,1021300169,2,203017,Glory Johnson,1611661321,Tulsa Shock,1,9,43,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,28,1,0,20130830,TUL,SAN,2013-14
+Shot Chart Detail,1021300169,14,203017,Glory Johnson,1611661321,Tulsa Shock,1,7,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,196,20,1,0,20130830,TUL,SAN,2013-14
+Shot Chart Detail,1021300169,19,203017,Glory Johnson,1611661321,Tulsa Shock,1,7,16,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,12,1,1,20130830,TUL,SAN,2013-14
+Shot Chart Detail,1021300169,38,203017,Glory Johnson,1611661321,Tulsa Shock,1,5,50,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,11,1,1,20130830,TUL,SAN,2013-14
+Shot Chart Detail,1021300169,59,203017,Glory Johnson,1611661321,Tulsa Shock,1,4,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,23,1,1,20130830,TUL,SAN,2013-14
+Shot Chart Detail,1021300169,120,203017,Glory Johnson,1611661321,Tulsa Shock,2,6,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-56,197,1,0,20130830,TUL,SAN,2013-14
+Shot Chart Detail,1021300169,142,203017,Glory Johnson,1611661321,Tulsa Shock,2,3,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,0,1,0,20130830,TUL,SAN,2013-14
+Shot Chart Detail,1021300169,150,203017,Glory Johnson,1611661321,Tulsa Shock,2,2,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,69,14,1,0,20130830,TUL,SAN,2013-14
+Shot Chart Detail,1021300169,151,203017,Glory Johnson,1611661321,Tulsa Shock,2,2,34,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,9,1,1,20130830,TUL,SAN,2013-14
+Shot Chart Detail,1021300169,174,203017,Glory Johnson,1611661321,Tulsa Shock,2,0,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,37,22,1,0,20130830,TUL,SAN,2013-14
+Shot Chart Detail,1021300169,189,203017,Glory Johnson,1611661321,Tulsa Shock,3,8,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,9,1,0,20130830,TUL,SAN,2013-14
+Shot Chart Detail,1021300169,259,203017,Glory Johnson,1611661321,Tulsa Shock,3,3,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,36,42,1,0,20130830,TUL,SAN,2013-14
+Shot Chart Detail,1021300169,268,203017,Glory Johnson,1611661321,Tulsa Shock,3,2,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,17,1,1,20130830,TUL,SAN,2013-14
+Shot Chart Detail,1021300169,272,203017,Glory Johnson,1611661321,Tulsa Shock,3,1,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-136,11,1,0,20130830,TUL,SAN,2013-14
+Shot Chart Detail,1021300169,348,203017,Glory Johnson,1611661321,Tulsa Shock,4,3,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,11,1,1,20130830,TUL,SAN,2013-14
+Shot Chart Detail,1021300174,141,203017,Glory Johnson,1611661321,Tulsa Shock,2,6,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,41,1,0,20130901,TUL,NYL,2013-14
+Shot Chart Detail,1021300174,164,203017,Glory Johnson,1611661321,Tulsa Shock,2,3,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,12,1,1,20130901,TUL,NYL,2013-14
+Shot Chart Detail,1021300174,227,203017,Glory Johnson,1611661321,Tulsa Shock,3,6,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,84,131,1,0,20130901,TUL,NYL,2013-14
+Shot Chart Detail,1021300174,238,203017,Glory Johnson,1611661321,Tulsa Shock,3,5,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,25,1,1,20130901,TUL,NYL,2013-14
+Shot Chart Detail,1021300174,252,203017,Glory Johnson,1611661321,Tulsa Shock,3,4,19,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,13,33,1,0,20130901,TUL,NYL,2013-14
+Shot Chart Detail,1021300174,272,203017,Glory Johnson,1611661321,Tulsa Shock,3,3,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,0,1,1,20130901,TUL,NYL,2013-14
+Shot Chart Detail,1021300174,299,203017,Glory Johnson,1611661321,Tulsa Shock,3,1,57,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,20,1,0,20130901,TUL,NYL,2013-14
+Shot Chart Detail,1021300174,368,203017,Glory Johnson,1611661321,Tulsa Shock,4,7,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,30,1,0,20130901,TUL,NYL,2013-14
+Shot Chart Detail,1021300180,22,203017,Glory Johnson,1611661321,Tulsa Shock,1,7,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,9,1,0,20130906,TUL,LAS,2013-14
+Shot Chart Detail,1021300180,24,203017,Glory Johnson,1611661321,Tulsa Shock,1,7,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,13,30,1,0,20130906,TUL,LAS,2013-14
+Shot Chart Detail,1021300180,40,203017,Glory Johnson,1611661321,Tulsa Shock,1,5,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,106,77,1,1,20130906,TUL,LAS,2013-14
+Shot Chart Detail,1021300180,43,203017,Glory Johnson,1611661321,Tulsa Shock,1,5,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,24,25,1,0,20130906,TUL,LAS,2013-14
+Shot Chart Detail,1021300180,63,203017,Glory Johnson,1611661321,Tulsa Shock,1,3,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-10,22,1,1,20130906,TUL,LAS,2013-14
+Shot Chart Detail,1021300180,227,203017,Glory Johnson,1611661321,Tulsa Shock,3,8,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,19,1,1,20130906,TUL,LAS,2013-14
+Shot Chart Detail,1021300180,241,203017,Glory Johnson,1611661321,Tulsa Shock,3,6,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,125,75,1,1,20130906,TUL,LAS,2013-14
+Shot Chart Detail,1021300180,272,203017,Glory Johnson,1611661321,Tulsa Shock,3,2,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,20,1,1,20130906,TUL,LAS,2013-14
+Shot Chart Detail,1021300180,346,203017,Glory Johnson,1611661321,Tulsa Shock,4,5,5,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,53,31,1,1,20130906,TUL,LAS,2013-14
+Shot Chart Detail,1021300180,360,203017,Glory Johnson,1611661321,Tulsa Shock,4,3,43,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,30,1,0,20130906,TUL,LAS,2013-14
+Shot Chart Detail,1021300180,364,203017,Glory Johnson,1611661321,Tulsa Shock,4,3,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,14,1,1,20130906,TUL,LAS,2013-14
+Shot Chart Detail,1021300180,411,203017,Glory Johnson,1611661321,Tulsa Shock,4,0,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,-40,233,1,0,20130906,TUL,LAS,2013-14
+Shot Chart Detail,1021300187,29,203017,Glory Johnson,1611661321,Tulsa Shock,1,6,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,0,1,1,20130908,SAN,TUL,2013-14
+Shot Chart Detail,1021300187,61,203017,Glory Johnson,1611661321,Tulsa Shock,1,3,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,33,1,1,20130908,SAN,TUL,2013-14
+Shot Chart Detail,1021300187,63,203017,Glory Johnson,1611661321,Tulsa Shock,1,2,29,Missed Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,18,129,1,0,20130908,SAN,TUL,2013-14
+Shot Chart Detail,1021300187,193,203017,Glory Johnson,1611661321,Tulsa Shock,3,7,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,9,198,1,0,20130908,SAN,TUL,2013-14
+Shot Chart Detail,1021300187,217,203017,Glory Johnson,1611661321,Tulsa Shock,3,5,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-97,1,1,0,20130908,SAN,TUL,2013-14

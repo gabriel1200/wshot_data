@@ -1,0 +1,7 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1040300131,58,100233,Tiffani Johnson,1611661316,Houston Comets,1,13,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-43,117,1,0,20030829,SAC,HOU,2003-04
+Shot Chart Detail,1040300132,183,100233,Tiffani Johnson,1611661316,Houston Comets,1,0,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030831,HOU,SAC,2003-04
+Shot Chart Detail,1040300132,254,100233,Tiffani Johnson,1611661316,Houston Comets,2,12,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030831,HOU,SAC,2003-04
+Shot Chart Detail,1040300132,264,100233,Tiffani Johnson,1611661316,Houston Comets,2,12,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,80,36,1,0,20030831,HOU,SAC,2003-04
+Shot Chart Detail,1040300132,300,100233,Tiffani Johnson,1611661316,Houston Comets,2,8,50,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,5,69,1,0,20030831,HOU,SAC,2003-04
+Shot Chart Detail,1040300133,76,100233,Tiffani Johnson,1611661316,Houston Comets,1,12,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030902,HOU,SAC,2003-04

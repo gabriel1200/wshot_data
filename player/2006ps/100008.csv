@@ -1,0 +1,12 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1040600131,152,100008,Tamecka Dixon,1611661316,Houston Comets,2,4,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-69,123,1,0,20060817,HOU,SAC,2006-07
+Shot Chart Detail,1040600131,160,100008,Tamecka Dixon,1611661316,Houston Comets,2,3,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-179,59,1,1,20060817,HOU,SAC,2006-07
+Shot Chart Detail,1040600131,375,100008,Tamecka Dixon,1611661316,Houston Comets,4,2,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-164,87,1,1,20060817,HOU,SAC,2006-07
+Shot Chart Detail,1040600131,384,100008,Tamecka Dixon,1611661316,Houston Comets,4,2,5,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2,51,1,0,20060817,HOU,SAC,2006-07
+Shot Chart Detail,1040600131,388,100008,Tamecka Dixon,1611661316,Houston Comets,4,1,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-149,87,1,0,20060817,HOU,SAC,2006-07
+Shot Chart Detail,1040600132,100,100008,Tamecka Dixon,1611661316,Houston Comets,2,8,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,105,72,1,1,20060819,SAC,HOU,2006-07
+Shot Chart Detail,1040600132,118,100008,Tamecka Dixon,1611661316,Houston Comets,2,6,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-97,158,1,1,20060819,SAC,HOU,2006-07
+Shot Chart Detail,1040600132,139,100008,Tamecka Dixon,1611661316,Houston Comets,2,3,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,89,25,1,0,20060819,SAC,HOU,2006-07
+Shot Chart Detail,1040600132,211,100008,Tamecka Dixon,1611661316,Houston Comets,3,6,2,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20060819,SAC,HOU,2006-07
+Shot Chart Detail,1040600132,247,100008,Tamecka Dixon,1611661316,Houston Comets,3,1,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20060819,SAC,HOU,2006-07
+Shot Chart Detail,1040600132,366,100008,Tamecka Dixon,1611661316,Houston Comets,4,1,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,161,118,1,0,20060819,SAC,HOU,2006-07

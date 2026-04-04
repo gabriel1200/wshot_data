@@ -1,0 +1,13 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1040500111,85,100393,La'Keshia Frett,1611661313,New York Liberty,1,7,47,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,39,68,1,1,20050830,NYL,IND,2005-06
+Shot Chart Detail,1040500112,2,100393,La'Keshia Frett,1611661313,New York Liberty,1,19,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-3,145,1,0,20050901,IND,NYL,2005-06
+Shot Chart Detail,1040500112,36,100393,La'Keshia Frett,1611661313,New York Liberty,1,14,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-136,-9,1,0,20050901,IND,NYL,2005-06
+Shot Chart Detail,1040500112,64,100393,La'Keshia Frett,1611661313,New York Liberty,1,11,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,-13,1,0,20050901,IND,NYL,2005-06
+Shot Chart Detail,1040500112,164,100393,La'Keshia Frett,1611661313,New York Liberty,1,2,49,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-3,100,1,1,20050901,IND,NYL,2005-06
+Shot Chart Detail,1040500112,183,100393,La'Keshia Frett,1611661313,New York Liberty,1,0,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,54,150,1,0,20050901,IND,NYL,2005-06
+Shot Chart Detail,1040500112,211,100393,La'Keshia Frett,1611661313,New York Liberty,2,13,9,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-36,-16,1,0,20050901,IND,NYL,2005-06
+Shot Chart Detail,1040500112,228,100393,La'Keshia Frett,1611661313,New York Liberty,2,11,35,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,-13,1,1,20050901,IND,NYL,2005-06
+Shot Chart Detail,1040500112,236,100393,La'Keshia Frett,1611661313,New York Liberty,2,10,7,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,-13,1,1,20050901,IND,NYL,2005-06
+Shot Chart Detail,1040500112,270,100393,La'Keshia Frett,1611661313,New York Liberty,2,7,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,-5,1,1,20050901,IND,NYL,2005-06
+Shot Chart Detail,1040500112,280,100393,La'Keshia Frett,1611661313,New York Liberty,2,6,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-9,1,0,20050901,IND,NYL,2005-06
+Shot Chart Detail,1040500112,293,100393,La'Keshia Frett,1611661313,New York Liberty,2,4,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,-24,1,0,20050901,IND,NYL,2005-06

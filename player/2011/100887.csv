@@ -1,0 +1,22 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1021100005,52,100887,Marion Jones,1611661321,Tulsa Shock,1,4,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-19,47,1,0,20110604,SAN,TUL,2011-12
+Shot Chart Detail,1021100005,63,100887,Marion Jones,1611661321,Tulsa Shock,1,3,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,-6,1,0,20110604,SAN,TUL,2011-12
+Shot Chart Detail,1021100005,70,100887,Marion Jones,1611661321,Tulsa Shock,1,2,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-97,1,1,0,20110604,SAN,TUL,2011-12
+Shot Chart Detail,1021100005,403,100887,Marion Jones,1611661321,Tulsa Shock,4,4,39,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,9,1,0,20110604,SAN,TUL,2011-12
+Shot Chart Detail,1021100008,443,100887,Marion Jones,1611661321,Tulsa Shock,4,1,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,154,148,1,0,20110607,MIN,TUL,2011-12
+Shot Chart Detail,1021100012,66,100887,Marion Jones,1611661321,Tulsa Shock,1,3,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,127,9,1,0,20110610,TUL,SAN,2011-12
+Shot Chart Detail,1021100026,184,100887,Marion Jones,1611661321,Tulsa Shock,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,43,173,397,1,0,20110618,TUL,WAS,2011-12
+Shot Chart Detail,1021100034,172,100887,Marion Jones,1611661321,Tulsa Shock,2,4,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-109,80,1,0,20110621,TUL,SEA,2011-12
+Shot Chart Detail,1021100036,168,100887,Marion Jones,1611661321,Tulsa Shock,2,6,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,99,200,1,0,20110623,TUL,NYL,2011-12
+Shot Chart Detail,1021100045,403,100887,Marion Jones,1611661321,Tulsa Shock,4,7,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,184,-27,1,0,20110626,WAS,TUL,2011-12
+Shot Chart Detail,1021100045,459,100887,Marion Jones,1611661321,Tulsa Shock,4,3,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,-10,1,0,20110626,WAS,TUL,2011-12
+Shot Chart Detail,1021100045,465,100887,Marion Jones,1611661321,Tulsa Shock,4,3,8,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,-13,1,0,20110626,WAS,TUL,2011-12
+Shot Chart Detail,1021100051,385,100887,Marion Jones,1611661321,Tulsa Shock,4,7,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,20,1,0,20110630,TUL,MIN,2011-12
+Shot Chart Detail,1021100051,403,100887,Marion Jones,1611661321,Tulsa Shock,4,6,5,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-27,26,1,0,20110630,TUL,MIN,2011-12
+Shot Chart Detail,1021100060,421,100887,Marion Jones,1611661321,Tulsa Shock,4,6,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,22,1,0,20110708,TUL,PHO,2011-12
+Shot Chart Detail,1021100066,73,100887,Marion Jones,1611661321,Tulsa Shock,1,1,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,77,214,1,0,20110710,PHO,TUL,2011-12
+Shot Chart Detail,1021100066,79,100887,Marion Jones,1611661321,Tulsa Shock,1,0,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,12,1,1,20110710,PHO,TUL,2011-12
+Shot Chart Detail,1021100066,158,100887,Marion Jones,1611661321,Tulsa Shock,2,3,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,14,1,1,20110710,PHO,TUL,2011-12
+Shot Chart Detail,1021100066,256,100887,Marion Jones,1611661321,Tulsa Shock,3,4,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,149,-3,1,1,20110710,PHO,TUL,2011-12
+Shot Chart Detail,1021100080,165,100887,Marion Jones,1611661321,Tulsa Shock,2,4,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,15,1,1,20110717,NYL,TUL,2011-12
+Shot Chart Detail,1021100080,275,100887,Marion Jones,1611661321,Tulsa Shock,3,5,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-157,14,1,0,20110717,NYL,TUL,2011-12

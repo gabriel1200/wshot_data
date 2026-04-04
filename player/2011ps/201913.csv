@@ -1,0 +1,15 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1041100101,6,201913,Kia Vaughn,1611661313,New York Liberty,1,9,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,-10,1,1,20110915,IND,NYL,2011-12
+Shot Chart Detail,1041100101,12,201913,Kia Vaughn,1611661313,New York Liberty,1,8,34,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,-2,1,1,20110915,IND,NYL,2011-12
+Shot Chart Detail,1041100101,110,201913,Kia Vaughn,1611661313,New York Liberty,2,8,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,0,1,0,20110915,IND,NYL,2011-12
+Shot Chart Detail,1041100101,114,201913,Kia Vaughn,1611661313,New York Liberty,2,8,20,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,-11,1,1,20110915,IND,NYL,2011-12
+Shot Chart Detail,1041100101,126,201913,Kia Vaughn,1611661313,New York Liberty,2,7,11,Made Shot,Jump Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,33,1,1,20110915,IND,NYL,2011-12
+Shot Chart Detail,1041100101,213,201913,Kia Vaughn,1611661313,New York Liberty,3,7,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-169,-17,1,0,20110915,IND,NYL,2011-12
+Shot Chart Detail,1041100101,396,201913,Kia Vaughn,1611661313,New York Liberty,4,1,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-139,93,1,0,20110915,IND,NYL,2011-12
+Shot Chart Detail,1041100102,13,201913,Kia Vaughn,1611661313,New York Liberty,1,8,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-100,140,1,0,20110917,NYL,IND,2011-12
+Shot Chart Detail,1041100102,238,201913,Kia Vaughn,1611661313,New York Liberty,3,6,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,9,1,1,20110917,NYL,IND,2011-12
+Shot Chart Detail,1041100102,259,201913,Kia Vaughn,1611661313,New York Liberty,3,4,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,9,176,1,1,20110917,NYL,IND,2011-12
+Shot Chart Detail,1041100103,7,201913,Kia Vaughn,1611661313,New York Liberty,1,8,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-35,118,1,0,20110919,IND,NYL,2011-12
+Shot Chart Detail,1041100103,14,201913,Kia Vaughn,1611661313,New York Liberty,1,7,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,14,1,1,20110919,IND,NYL,2011-12
+Shot Chart Detail,1041100103,162,201913,Kia Vaughn,1611661313,New York Liberty,2,3,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,25,1,1,20110919,IND,NYL,2011-12
+Shot Chart Detail,1041100103,246,201913,Kia Vaughn,1611661313,New York Liberty,3,5,31,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,-6,1,0,20110919,IND,NYL,2011-12

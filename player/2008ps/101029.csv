@@ -1,0 +1,10 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1040800101,78,101029,Kristen Mann,1611661325,Indiana Fever,1,1,11,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,22,-218,-32,1,1,20080919,IND,DET,2008-09
+Shot Chart Detail,1040800101,108,101029,Kristen Mann,1611661325,Indiana Fever,2,7,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,153,164,1,0,20080919,IND,DET,2008-09
+Shot Chart Detail,1040800101,298,101029,Kristen Mann,1611661325,Indiana Fever,4,6,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,117,133,1,1,20080919,IND,DET,2008-09
+Shot Chart Detail,1040800101,327,101029,Kristen Mann,1611661325,Indiana Fever,4,3,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,107,196,1,0,20080919,IND,DET,2008-09
+Shot Chart Detail,1040800102,54,101029,Kristen Mann,1611661325,Indiana Fever,1,2,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,22,-223,28,1,1,20080921,DET,IND,2008-09
+Shot Chart Detail,1040800102,244,101029,Kristen Mann,1611661325,Indiana Fever,3,2,30,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,95,35,1,1,20080921,DET,IND,2008-09
+Shot Chart Detail,1040800102,262,101029,Kristen Mann,1611661325,Indiana Fever,3,0,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-138,76,1,0,20080921,DET,IND,2008-09
+Shot Chart Detail,1040800103,71,101029,Kristen Mann,1611661325,Indiana Fever,1,0,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,103,202,1,0,20080923,DET,IND,2008-09
+Shot Chart Detail,1040800103,111,101029,Kristen Mann,1611661325,Indiana Fever,2,5,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,72,217,1,0,20080923,DET,IND,2008-09

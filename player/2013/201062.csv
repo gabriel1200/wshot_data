@@ -1,0 +1,131 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1021300006,294,201062,Shay Murphy,1611661329,Chicago Sky,3,2,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-169,183,1,0,20130527,PHO,CHI,2013-14
+Shot Chart Detail,1021300009,102,201062,Shay Murphy,1611661329,Chicago Sky,2,9,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,222,94,1,1,20130531,CHI,CON,2013-14
+Shot Chart Detail,1021300013,78,201062,Shay Murphy,1611661329,Chicago Sky,1,2,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,170,173,1,0,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300013,270,201062,Shay Murphy,1611661329,Chicago Sky,3,0,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,166,157,1,0,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300013,410,201062,Shay Murphy,1611661329,Chicago Sky,4,0,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,143,77,1,0,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300019,260,201062,Shay Murphy,1611661329,Chicago Sky,3,4,44,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,25,1,0,20130607,SAN,CHI,2013-14
+Shot Chart Detail,1021300019,284,201062,Shay Murphy,1611661329,Chicago Sky,3,2,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,11,1,1,20130607,SAN,CHI,2013-14
+Shot Chart Detail,1021300019,286,201062,Shay Murphy,1611661329,Chicago Sky,3,2,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,144,14,1,0,20130607,SAN,CHI,2013-14
+Shot Chart Detail,1021300019,287,201062,Shay Murphy,1611661329,Chicago Sky,3,2,18,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,95,30,1,1,20130607,SAN,CHI,2013-14
+Shot Chart Detail,1021300019,428,201062,Shay Murphy,1611661329,Chicago Sky,4,0,12,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-2,1,0,20130607,SAN,CHI,2013-14
+Shot Chart Detail,1021300025,86,201062,Shay Murphy,1611661329,Chicago Sky,1,0,43,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,0,1,1,20130609,CHI,SAN,2013-14
+Shot Chart Detail,1021300025,92,201062,Shay Murphy,1611661329,Chicago Sky,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Back Court(BC),Back Court Shot,43,125,413,1,0,20130609,CHI,SAN,2013-14
+Shot Chart Detail,1021300025,210,201062,Shay Murphy,1611661329,Chicago Sky,2,1,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,4,1,0,20130609,CHI,SAN,2013-14
+Shot Chart Detail,1021300039,146,201062,Shay Murphy,1611661329,Chicago Sky,2,5,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,204,124,1,0,20130620,TUL,CHI,2013-14
+Shot Chart Detail,1021300039,157,201062,Shay Murphy,1611661329,Chicago Sky,2,4,17,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,11,1,0,20130620,TUL,CHI,2013-14
+Shot Chart Detail,1021300043,188,201062,Shay Murphy,1611661329,Chicago Sky,2,2,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,17,1,1,20130622,IND,CHI,2013-14
+Shot Chart Detail,1021300043,200,201062,Shay Murphy,1611661329,Chicago Sky,2,0,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-125,148,1,0,20130622,IND,CHI,2013-14
+Shot Chart Detail,1021300043,203,201062,Shay Murphy,1611661329,Chicago Sky,2,0,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-217,119,1,0,20130622,IND,CHI,2013-14
+Shot Chart Detail,1021300051,129,201062,Shay Murphy,1611661329,Chicago Sky,2,9,19,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,-19,1,0,20130626,CHI,NYL,2013-14
+Shot Chart Detail,1021300051,148,201062,Shay Murphy,1611661329,Chicago Sky,2,7,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,187,77,1,1,20130626,CHI,NYL,2013-14
+Shot Chart Detail,1021300051,164,201062,Shay Murphy,1611661329,Chicago Sky,2,6,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,12,1,0,20130626,CHI,NYL,2013-14
+Shot Chart Detail,1021300051,171,201062,Shay Murphy,1611661329,Chicago Sky,2,6,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,95,22,1,0,20130626,CHI,NYL,2013-14
+Shot Chart Detail,1021300051,175,201062,Shay Murphy,1611661329,Chicago Sky,2,5,50,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,22,1,1,20130626,CHI,NYL,2013-14
+Shot Chart Detail,1021300051,188,201062,Shay Murphy,1611661329,Chicago Sky,2,4,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,9,1,1,20130626,CHI,NYL,2013-14
+Shot Chart Detail,1021300051,222,201062,Shay Murphy,1611661329,Chicago Sky,2,1,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,23,-221,83,1,0,20130626,CHI,NYL,2013-14
+Shot Chart Detail,1021300051,338,201062,Shay Murphy,1611661329,Chicago Sky,4,9,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,130,137,1,0,20130626,CHI,NYL,2013-14
+Shot Chart Detail,1021300051,340,201062,Shay Murphy,1611661329,Chicago Sky,4,8,54,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,3,1,1,20130626,CHI,NYL,2013-14
+Shot Chart Detail,1021300051,351,201062,Shay Murphy,1611661329,Chicago Sky,4,7,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-87,183,1,1,20130626,CHI,NYL,2013-14
+Shot Chart Detail,1021300051,360,201062,Shay Murphy,1611661329,Chicago Sky,4,6,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-89,183,1,0,20130626,CHI,NYL,2013-14
+Shot Chart Detail,1021300058,103,201062,Shay Murphy,1611661329,Chicago Sky,1,1,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,17,1,0,20130629,CHI,LAS,2013-14
+Shot Chart Detail,1021300058,230,201062,Shay Murphy,1611661329,Chicago Sky,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,42,155,397,1,0,20130629,CHI,LAS,2013-14
+Shot Chart Detail,1021300058,349,201062,Shay Murphy,1611661329,Chicago Sky,3,0,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),24+ ft.,23,231,33,1,0,20130629,CHI,LAS,2013-14
+Shot Chart Detail,1021300062,74,201062,Shay Murphy,1611661329,Chicago Sky,1,2,48,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,-11,1,0,20130702,CHI,SEA,2013-14
+Shot Chart Detail,1021300062,83,201062,Shay Murphy,1611661329,Chicago Sky,1,1,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,11,1,1,20130702,CHI,SEA,2013-14
+Shot Chart Detail,1021300062,118,201062,Shay Murphy,1611661329,Chicago Sky,2,8,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,11,1,0,20130702,CHI,SEA,2013-14
+Shot Chart Detail,1021300062,120,201062,Shay Murphy,1611661329,Chicago Sky,2,8,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,11,1,0,20130702,CHI,SEA,2013-14
+Shot Chart Detail,1021300062,134,201062,Shay Murphy,1611661329,Chicago Sky,2,7,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-89,173,1,0,20130702,CHI,SEA,2013-14
+Shot Chart Detail,1021300062,327,201062,Shay Murphy,1611661329,Chicago Sky,3,0,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,147,34,1,0,20130702,CHI,SEA,2013-14
+Shot Chart Detail,1021300062,329,201062,Shay Murphy,1611661329,Chicago Sky,3,0,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,168,167,1,0,20130702,CHI,SEA,2013-14
+Shot Chart Detail,1021300062,354,201062,Shay Murphy,1611661329,Chicago Sky,4,8,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,132,197,1,0,20130702,CHI,SEA,2013-14
+Shot Chart Detail,1021300062,408,201062,Shay Murphy,1611661329,Chicago Sky,4,3,47,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,17,1,0,20130702,CHI,SEA,2013-14
+Shot Chart Detail,1021300070,336,201062,Shay Murphy,1611661329,Chicago Sky,3,2,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,185,140,1,0,20130707,NYL,CHI,2013-14
+Shot Chart Detail,1021300070,348,201062,Shay Murphy,1611661329,Chicago Sky,3,1,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,20,1,0,20130707,NYL,CHI,2013-14
+Shot Chart Detail,1021300070,350,201062,Shay Murphy,1611661329,Chicago Sky,3,1,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-29,28,1,0,20130707,NYL,CHI,2013-14
+Shot Chart Detail,1021300070,459,201062,Shay Murphy,1611661329,Chicago Sky,4,2,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),24+ ft.,23,228,55,1,1,20130707,NYL,CHI,2013-14
+Shot Chart Detail,1021300074,323,201062,Shay Murphy,1611661329,Chicago Sky,3,3,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-188,1,1,0,20130710,CHI,WAS,2013-14
+Shot Chart Detail,1021300074,325,201062,Shay Murphy,1611661329,Chicago Sky,3,3,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,157,175,1,0,20130710,CHI,WAS,2013-14
+Shot Chart Detail,1021300078,117,201062,Shay Murphy,1611661329,Chicago Sky,1,0,7,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-48,34,1,1,20130712,CON,CHI,2013-14
+Shot Chart Detail,1021300078,128,201062,Shay Murphy,1611661329,Chicago Sky,2,9,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-235,126,1,0,20130712,CON,CHI,2013-14
+Shot Chart Detail,1021300078,322,201062,Shay Murphy,1611661329,Chicago Sky,3,0,1,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,55,-11,550,1,0,20130712,CON,CHI,2013-14
+Shot Chart Detail,1021300078,438,201062,Shay Murphy,1611661329,Chicago Sky,4,0,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,7,1,0,20130712,CON,CHI,2013-14
+Shot Chart Detail,1021300088,100,201062,Shay Murphy,1611661329,Chicago Sky,1,0,41,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-13,1,1,20130718,NYL,CHI,2013-14
+Shot Chart Detail,1021300088,105,201062,Shay Murphy,1611661329,Chicago Sky,1,0,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,4,1,1,20130718,NYL,CHI,2013-14
+Shot Chart Detail,1021300088,117,201062,Shay Murphy,1611661329,Chicago Sky,2,9,2,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-4,53,1,1,20130718,NYL,CHI,2013-14
+Shot Chart Detail,1021300088,120,201062,Shay Murphy,1611661329,Chicago Sky,2,8,41,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,1,1,0,20130718,NYL,CHI,2013-14
+Shot Chart Detail,1021300088,129,201062,Shay Murphy,1611661329,Chicago Sky,2,7,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,124,200,1,0,20130718,NYL,CHI,2013-14
+Shot Chart Detail,1021300088,286,201062,Shay Murphy,1611661329,Chicago Sky,3,3,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,7,1,1,20130718,NYL,CHI,2013-14
+Shot Chart Detail,1021300088,303,201062,Shay Murphy,1611661329,Chicago Sky,3,2,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,94,206,1,1,20130718,NYL,CHI,2013-14
+Shot Chart Detail,1021300088,312,201062,Shay Murphy,1611661329,Chicago Sky,3,1,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,67,227,1,0,20130718,NYL,CHI,2013-14
+Shot Chart Detail,1021300088,441,201062,Shay Murphy,1611661329,Chicago Sky,4,2,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-120,208,1,0,20130718,NYL,CHI,2013-14
+Shot Chart Detail,1021300093,222,201062,Shay Murphy,1611661329,Chicago Sky,2,0,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-11,252,1,0,20130720,CHI,NYL,2013-14
+Shot Chart Detail,1021300100,392,201062,Shay Murphy,1611661329,Chicago Sky,4,9,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,7,48,1,0,20130724,WAS,CHI,2013-14
+Shot Chart Detail,1021300111,281,201062,Shay Murphy,1611661329,Chicago Sky,3,3,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-71,236,1,0,20130802,CHI,WAS,2013-14
+Shot Chart Detail,1021300111,309,201062,Shay Murphy,1611661329,Chicago Sky,3,1,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,15,1,1,20130802,CHI,WAS,2013-14
+Shot Chart Detail,1021300111,328,201062,Shay Murphy,1611661329,Chicago Sky,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-71,216,1,0,20130802,CHI,WAS,2013-14
+Shot Chart Detail,1021300111,342,201062,Shay Murphy,1611661329,Chicago Sky,4,9,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-133,216,1,0,20130802,CHI,WAS,2013-14
+Shot Chart Detail,1021300111,344,201062,Shay Murphy,1611661329,Chicago Sky,4,8,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-171,194,1,0,20130802,CHI,WAS,2013-14
+Shot Chart Detail,1021300111,406,201062,Shay Murphy,1611661329,Chicago Sky,4,4,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,231,91,1,0,20130802,CHI,WAS,2013-14
+Shot Chart Detail,1021300111,409,201062,Shay Murphy,1611661329,Chicago Sky,4,4,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,14,1,1,20130802,CHI,WAS,2013-14
+Shot Chart Detail,1021300113,160,201062,Shay Murphy,1611661329,Chicago Sky,2,5,5,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,14,1,0,20130803,IND,CHI,2013-14
+Shot Chart Detail,1021300113,192,201062,Shay Murphy,1611661329,Chicago Sky,2,2,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,135,206,1,0,20130803,IND,CHI,2013-14
+Shot Chart Detail,1021300113,319,201062,Shay Murphy,1611661329,Chicago Sky,3,1,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-6,1,1,20130803,IND,CHI,2013-14
+Shot Chart Detail,1021300113,325,201062,Shay Murphy,1611661329,Chicago Sky,3,1,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,0,1,0,20130803,IND,CHI,2013-14
+Shot Chart Detail,1021300113,348,201062,Shay Murphy,1611661329,Chicago Sky,4,9,5,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-73,55,1,1,20130803,IND,CHI,2013-14
+Shot Chart Detail,1021300113,387,201062,Shay Murphy,1611661329,Chicago Sky,4,5,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-179,178,1,0,20130803,IND,CHI,2013-14
+Shot Chart Detail,1021300113,402,201062,Shay Murphy,1611661329,Chicago Sky,4,4,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,3,1,0,20130803,IND,CHI,2013-14
+Shot Chart Detail,1021300120,183,201062,Shay Murphy,1611661329,Chicago Sky,2,1,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,43,94,1,0,20130806,CHI,IND,2013-14
+Shot Chart Detail,1021300120,302,201062,Shay Murphy,1611661329,Chicago Sky,3,2,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,4,246,1,0,20130806,CHI,IND,2013-14
+Shot Chart Detail,1021300120,312,201062,Shay Murphy,1611661329,Chicago Sky,3,1,42,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,1,1,0,20130806,CHI,IND,2013-14
+Shot Chart Detail,1021300120,360,201062,Shay Murphy,1611661329,Chicago Sky,4,7,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,11,1,0,20130806,CHI,IND,2013-14
+Shot Chart Detail,1021300125,146,201062,Shay Murphy,1611661329,Chicago Sky,2,6,5,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,4,1,0,20130809,CON,CHI,2013-14
+Shot Chart Detail,1021300125,306,201062,Shay Murphy,1611661329,Chicago Sky,3,0,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-5,1,1,20130809,CON,CHI,2013-14
+Shot Chart Detail,1021300125,377,201062,Shay Murphy,1611661329,Chicago Sky,4,4,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-142,126,1,0,20130809,CON,CHI,2013-14
+Shot Chart Detail,1021300125,384,201062,Shay Murphy,1611661329,Chicago Sky,4,3,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,0,20130809,CON,CHI,2013-14
+Shot Chart Detail,1021300125,419,201062,Shay Murphy,1611661329,Chicago Sky,4,0,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-95,31,1,0,20130809,CON,CHI,2013-14
+Shot Chart Detail,1021300132,286,201062,Shay Murphy,1611661329,Chicago Sky,3,0,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-116,151,1,0,20130811,CHI,MIN,2013-14
+Shot Chart Detail,1021300132,306,201062,Shay Murphy,1611661329,Chicago Sky,4,8,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,149,209,1,0,20130811,CHI,MIN,2013-14
+Shot Chart Detail,1021300135,126,201062,Shay Murphy,1611661329,Chicago Sky,2,7,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-3,1,0,20130813,LAS,CHI,2013-14
+Shot Chart Detail,1021300135,141,201062,Shay Murphy,1611661329,Chicago Sky,2,6,31,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,0,1,0,20130813,LAS,CHI,2013-14
+Shot Chart Detail,1021300135,144,201062,Shay Murphy,1611661329,Chicago Sky,2,6,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-5,1,1,20130813,LAS,CHI,2013-14
+Shot Chart Detail,1021300135,153,201062,Shay Murphy,1611661329,Chicago Sky,2,5,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-160,93,1,0,20130813,LAS,CHI,2013-14
+Shot Chart Detail,1021300135,255,201062,Shay Murphy,1611661329,Chicago Sky,3,3,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,-5,1,0,20130813,LAS,CHI,2013-14
+Shot Chart Detail,1021300135,282,201062,Shay Murphy,1611661329,Chicago Sky,3,1,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,4,252,1,0,20130813,LAS,CHI,2013-14
+Shot Chart Detail,1021300135,427,201062,Shay Murphy,1611661329,Chicago Sky,4,0,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,23,193,134,1,0,20130813,LAS,CHI,2013-14
+Shot Chart Detail,1021300138,97,201062,Shay Murphy,1611661329,Chicago Sky,1,0,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,2,58,1,0,20130815,SEA,CHI,2013-14
+Shot Chart Detail,1021300138,255,201062,Shay Murphy,1611661329,Chicago Sky,3,4,10,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,14,1,0,20130815,SEA,CHI,2013-14
+Shot Chart Detail,1021300138,288,201062,Shay Murphy,1611661329,Chicago Sky,3,0,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,3,1,0,20130815,SEA,CHI,2013-14
+Shot Chart Detail,1021300146,130,201062,Shay Murphy,1611661329,Chicago Sky,2,7,9,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,26,1,0,20130818,CHI,CON,2013-14
+Shot Chart Detail,1021300146,296,201062,Shay Murphy,1611661329,Chicago Sky,3,1,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-160,170,1,1,20130818,CHI,CON,2013-14
+Shot Chart Detail,1021300146,344,201062,Shay Murphy,1611661329,Chicago Sky,4,7,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,12,1,1,20130818,CHI,CON,2013-14
+Shot Chart Detail,1021300146,388,201062,Shay Murphy,1611661329,Chicago Sky,4,3,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,12,1,1,20130818,CHI,CON,2013-14
+Shot Chart Detail,1021300146,406,201062,Shay Murphy,1611661329,Chicago Sky,4,1,29,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,11,1,1,20130818,CHI,CON,2013-14
+Shot Chart Detail,1021300146,443,201062,Shay Murphy,1611661329,Chicago Sky,4,0,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,14,1,1,20130818,CHI,CON,2013-14
+Shot Chart Detail,1021300149,92,201062,Shay Murphy,1611661329,Chicago Sky,1,0,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,30,1,0,20130820,WAS,CHI,2013-14
+Shot Chart Detail,1021300149,128,201062,Shay Murphy,1611661329,Chicago Sky,2,8,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,25,1,0,20130820,WAS,CHI,2013-14
+Shot Chart Detail,1021300149,226,201062,Shay Murphy,1611661329,Chicago Sky,2,0,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,220,121,1,0,20130820,WAS,CHI,2013-14
+Shot Chart Detail,1021300149,366,201062,Shay Murphy,1611661329,Chicago Sky,3,1,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,28,36,1,0,20130820,WAS,CHI,2013-14
+Shot Chart Detail,1021300156,104,201062,Shay Murphy,1611661329,Chicago Sky,2,9,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,154,75,1,1,20130823,CHI,NYL,2013-14
+Shot Chart Detail,1021300156,108,201062,Shay Murphy,1611661329,Chicago Sky,2,8,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,3,1,1,20130823,CHI,NYL,2013-14
+Shot Chart Detail,1021300156,305,201062,Shay Murphy,1611661329,Chicago Sky,3,0,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,13,74,1,0,20130823,CHI,NYL,2013-14
+Shot Chart Detail,1021300156,314,201062,Shay Murphy,1611661329,Chicago Sky,4,9,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,184,39,1,0,20130823,CHI,NYL,2013-14
+Shot Chart Detail,1021300156,334,201062,Shay Murphy,1611661329,Chicago Sky,4,7,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,-2,1,0,20130823,CHI,NYL,2013-14
+Shot Chart Detail,1021300156,339,201062,Shay Murphy,1611661329,Chicago Sky,4,7,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,17,235,1,0,20130823,CHI,NYL,2013-14
+Shot Chart Detail,1021300159,78,201062,Shay Murphy,1611661329,Chicago Sky,1,2,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,114,25,1,0,20130824,ATL,CHI,2013-14
+Shot Chart Detail,1021300159,80,201062,Shay Murphy,1611661329,Chicago Sky,1,2,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),24+ ft.,23,231,30,1,0,20130824,ATL,CHI,2013-14
+Shot Chart Detail,1021300170,302,201062,Shay Murphy,1611661329,Chicago Sky,3,0,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,2,211,1,1,20130831,CHI,ATL,2013-14
+Shot Chart Detail,1021300170,328,201062,Shay Murphy,1611661329,Chicago Sky,4,8,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,62,176,1,1,20130831,CHI,ATL,2013-14
+Shot Chart Detail,1021300170,330,201062,Shay Murphy,1611661329,Chicago Sky,4,8,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,125,162,1,0,20130831,CHI,ATL,2013-14
+Shot Chart Detail,1021300170,378,201062,Shay Murphy,1611661329,Chicago Sky,4,4,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-111,124,1,0,20130831,CHI,ATL,2013-14
+Shot Chart Detail,1021300170,388,201062,Shay Murphy,1611661329,Chicago Sky,4,3,22,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-242,-17,1,0,20130831,CHI,ATL,2013-14
+Shot Chart Detail,1021300181,318,201062,Shay Murphy,1611661329,Chicago Sky,4,8,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,30,1,0,20130906,CHI,IND,2013-14
+Shot Chart Detail,1021300186,147,201062,Shay Murphy,1611661329,Chicago Sky,2,8,2,Made Shot,Running Bank shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,17,31,1,1,20130908,WAS,CHI,2013-14
+Shot Chart Detail,1021300186,391,201062,Shay Murphy,1611661329,Chicago Sky,4,7,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,1,20130908,WAS,CHI,2013-14
+Shot Chart Detail,1021300186,402,201062,Shay Murphy,1611661329,Chicago Sky,4,5,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,111,213,1,1,20130908,WAS,CHI,2013-14
+Shot Chart Detail,1021300192,81,201062,Shay Murphy,1611661329,Chicago Sky,1,1,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,1,1,0,20130911,CHI,PHO,2013-14
+Shot Chart Detail,1021300192,108,201062,Shay Murphy,1611661329,Chicago Sky,2,9,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,138,190,1,0,20130911,CHI,PHO,2013-14
+Shot Chart Detail,1021300197,121,201062,Shay Murphy,1611661329,Chicago Sky,2,8,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,193,69,1,0,20130913,CHI,ATL,2013-14
+Shot Chart Detail,1021300197,136,201062,Shay Murphy,1611661329,Chicago Sky,2,7,42,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,-2,1,1,20130913,CHI,ATL,2013-14
+Shot Chart Detail,1021300199,142,201062,Shay Murphy,1611661329,Chicago Sky,2,6,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-175,142,1,0,20130914,MIN,CHI,2013-14
+Shot Chart Detail,1021300199,397,201062,Shay Murphy,1611661329,Chicago Sky,4,0,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-19,227,1,1,20130914,MIN,CHI,2013-14

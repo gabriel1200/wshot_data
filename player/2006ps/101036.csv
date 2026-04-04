@@ -1,0 +1,13 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1040600111,202,101036,Angelina Williams,1611661321,Detroit Shock,2,0,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,90,174,1,0,20060817,IND,DET,2006-07
+Shot Chart Detail,1040600111,282,101036,Angelina Williams,1611661321,Detroit Shock,3,1,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-5,1,1,20060817,IND,DET,2006-07
+Shot Chart Detail,1040600111,296,101036,Angelina Williams,1611661321,Detroit Shock,4,9,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,149,-13,1,0,20060817,IND,DET,2006-07
+Shot Chart Detail,1040600203,380,101036,Angelina Williams,1611661321,Detroit Shock,4,2,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,52,117,1,1,20060827,CON,DET,2006-07
+Shot Chart Detail,1040600203,401,101036,Angelina Williams,1611661321,Detroit Shock,4,0,6,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,15,1,0,20060827,CON,DET,2006-07
+Shot Chart Detail,1040600303,451,101036,Angelina Williams,1611661321,Detroit Shock,4,2,53,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20060903,SAC,DET,2006-07
+Shot Chart Detail,1040600303,455,101036,Angelina Williams,1611661321,Detroit Shock,4,2,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-163,84,1,1,20060903,SAC,DET,2006-07
+Shot Chart Detail,1040600303,469,101036,Angelina Williams,1611661321,Detroit Shock,4,1,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060903,SAC,DET,2006-07
+Shot Chart Detail,1040600304,313,101036,Angelina Williams,1611661321,Detroit Shock,4,9,41,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,210,5,1,0,20060906,SAC,DET,2006-07
+Shot Chart Detail,1040600304,341,101036,Angelina Williams,1611661321,Detroit Shock,4,7,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060906,SAC,DET,2006-07
+Shot Chart Detail,1040600304,350,101036,Angelina Williams,1611661321,Detroit Shock,4,6,14,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-217,12,1,0,20060906,SAC,DET,2006-07
+Shot Chart Detail,1040600305,317,101036,Angelina Williams,1611661321,Detroit Shock,3,0,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,66,58,1,0,20060909,DET,SAC,2006-07

@@ -1,0 +1,142 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1021000052,87,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,0,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-155,-3,1,1,20100611,SAN,TUL,2010-11
+Shot Chart Detail,1021000052,148,101080,Jennifer Lacy,1611661321,Tulsa Shock,2,5,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,0,20100611,SAN,TUL,2010-11
+Shot Chart Detail,1021000052,386,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,7,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-6,1,1,20100611,SAN,TUL,2010-11
+Shot Chart Detail,1021000052,428,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,4,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-2,1,1,20100611,SAN,TUL,2010-11
+Shot Chart Detail,1021000052,432,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,3,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,173,151,1,1,20100611,SAN,TUL,2010-11
+Shot Chart Detail,1021000057,61,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,3,4,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-218,-14,1,1,20100612,PHO,TUL,2010-11
+Shot Chart Detail,1021000057,98,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,0,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,80,209,1,0,20100612,PHO,TUL,2010-11
+Shot Chart Detail,1021000057,122,101080,Jennifer Lacy,1611661321,Tulsa Shock,2,8,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,69,205,1,0,20100612,PHO,TUL,2010-11
+Shot Chart Detail,1021000057,235,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,9,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,88,153,1,0,20100612,PHO,TUL,2010-11
+Shot Chart Detail,1021000057,253,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,7,45,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,162,6,1,0,20100612,PHO,TUL,2010-11
+Shot Chart Detail,1021000057,277,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,5,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,136,165,1,0,20100612,PHO,TUL,2010-11
+Shot Chart Detail,1021000057,400,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,4,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,20,1,0,20100612,PHO,TUL,2010-11
+Shot Chart Detail,1021000063,88,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,2,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-119,67,1,0,20100618,MIN,TUL,2010-11
+Shot Chart Detail,1021000063,105,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,2,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-152,60,1,1,20100618,MIN,TUL,2010-11
+Shot Chart Detail,1021000063,136,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-212,71,1,0,20100618,MIN,TUL,2010-11
+Shot Chart Detail,1021000063,340,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,4,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-5,164,1,0,20100618,MIN,TUL,2010-11
+Shot Chart Detail,1021000063,463,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,4,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-168,129,1,0,20100618,MIN,TUL,2010-11
+Shot Chart Detail,1021000063,467,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,4,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100618,MIN,TUL,2010-11
+Shot Chart Detail,1021000068,112,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,0,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100619,TUL,MIN,2010-11
+Shot Chart Detail,1021000068,363,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,5,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,124,4,1,0,20100619,TUL,MIN,2010-11
+Shot Chart Detail,1021000073,174,101080,Jennifer Lacy,1611661321,Tulsa Shock,2,4,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,147,34,1,0,20100623,ATL,TUL,2010-11
+Shot Chart Detail,1021000073,200,101080,Jennifer Lacy,1611661321,Tulsa Shock,2,2,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,211,39,1,1,20100623,ATL,TUL,2010-11
+Shot Chart Detail,1021000073,322,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,5,53,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-217,4,1,1,20100623,ATL,TUL,2010-11
+Shot Chart Detail,1021000073,334,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,4,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,0,1,0,20100623,ATL,TUL,2010-11
+Shot Chart Detail,1021000073,336,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,4,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-182,115,1,1,20100623,ATL,TUL,2010-11
+Shot Chart Detail,1021000073,440,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,6,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,15,1,1,20100623,ATL,TUL,2010-11
+Shot Chart Detail,1021000073,463,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,4,36,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,0,93,1,0,20100623,ATL,TUL,2010-11
+Shot Chart Detail,1021000076,56,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,3,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-131,165,1,1,20100625,TUL,NYL,2010-11
+Shot Chart Detail,1021000076,79,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,1,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-160,137,1,0,20100625,TUL,NYL,2010-11
+Shot Chart Detail,1021000076,82,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,0,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-127,72,1,0,20100625,TUL,NYL,2010-11
+Shot Chart Detail,1021000076,145,101080,Jennifer Lacy,1611661321,Tulsa Shock,2,3,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,11,1,0,20100625,TUL,NYL,2010-11
+Shot Chart Detail,1021000076,161,101080,Jennifer Lacy,1611661321,Tulsa Shock,2,2,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100625,TUL,NYL,2010-11
+Shot Chart Detail,1021000076,237,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,6,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,20,36,1,0,20100625,TUL,NYL,2010-11
+Shot Chart Detail,1021000076,261,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,4,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,119,146,1,0,20100625,TUL,NYL,2010-11
+Shot Chart Detail,1021000076,267,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,3,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100625,TUL,NYL,2010-11
+Shot Chart Detail,1021000076,296,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,1,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100625,TUL,NYL,2010-11
+Shot Chart Detail,1021000076,304,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,1,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100625,TUL,NYL,2010-11
+Shot Chart Detail,1021000076,344,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,8,51,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,215,9,1,1,20100625,TUL,NYL,2010-11
+Shot Chart Detail,1021000076,355,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,7,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100625,TUL,NYL,2010-11
+Shot Chart Detail,1021000076,441,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,0,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100625,TUL,NYL,2010-11
+Shot Chart Detail,1021000076,455,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,0,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100625,TUL,NYL,2010-11
+Shot Chart Detail,1021000083,52,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,4,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,3,1,0,20100627,TUL,SEA,2010-11
+Shot Chart Detail,1021000083,121,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,0,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,23,1,0,20100627,TUL,SEA,2010-11
+Shot Chart Detail,1021000083,290,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,4,46,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-217,19,1,1,20100627,TUL,SEA,2010-11
+Shot Chart Detail,1021000083,334,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,1,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-138,105,1,0,20100627,TUL,SEA,2010-11
+Shot Chart Detail,1021000087,76,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,2,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-188,97,1,1,20100629,TUL,CON,2010-11
+Shot Chart Detail,1021000087,86,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,1,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-112,9,1,0,20100629,TUL,CON,2010-11
+Shot Chart Detail,1021000087,104,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,0,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,135,83,1,1,20100629,TUL,CON,2010-11
+Shot Chart Detail,1021000087,226,101080,Jennifer Lacy,1611661321,Tulsa Shock,2,1,9,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,20,-207,-10,1,1,20100629,TUL,CON,2010-11
+Shot Chart Detail,1021000087,228,101080,Jennifer Lacy,1611661321,Tulsa Shock,2,0,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,20,-174,115,1,0,20100629,TUL,CON,2010-11
+Shot Chart Detail,1021000087,231,101080,Jennifer Lacy,1611661321,Tulsa Shock,2,0,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,170,15,1,0,20100629,TUL,CON,2010-11
+Shot Chart Detail,1021000087,291,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,4,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,21,148,1,0,20100629,TUL,CON,2010-11
+Shot Chart Detail,1021000087,309,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,3,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,189,42,1,1,20100629,TUL,CON,2010-11
+Shot Chart Detail,1021000087,441,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,3,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,-2,1,1,20100629,TUL,CON,2010-11
+Shot Chart Detail,1021000096,64,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,2,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100703,TUL,WAS,2010-11
+Shot Chart Detail,1021000096,74,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,2,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,114,60,1,0,20100703,TUL,WAS,2010-11
+Shot Chart Detail,1021000096,205,101080,Jennifer Lacy,1611661321,Tulsa Shock,2,0,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,13,219,1,0,20100703,TUL,WAS,2010-11
+Shot Chart Detail,1021000096,248,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,6,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,58,28,1,0,20100703,TUL,WAS,2010-11
+Shot Chart Detail,1021000096,307,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,1,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-87,195,1,1,20100703,TUL,WAS,2010-11
+Shot Chart Detail,1021000096,390,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,4,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-60,82,1,0,20100703,TUL,WAS,2010-11
+Shot Chart Detail,1021000096,430,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,2,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-68,83,1,0,20100703,TUL,WAS,2010-11
+Shot Chart Detail,1021000103,65,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,4,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,-2,1,0,20100708,IND,TUL,2010-11
+Shot Chart Detail,1021000103,82,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,2,55,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-37,0,1,1,20100708,IND,TUL,2010-11
+Shot Chart Detail,1021000103,89,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,2,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-152,165,1,1,20100708,IND,TUL,2010-11
+Shot Chart Detail,1021000103,100,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,1,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,119,58,1,0,20100708,IND,TUL,2010-11
+Shot Chart Detail,1021000103,109,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,0,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,4,1,0,20100708,IND,TUL,2010-11
+Shot Chart Detail,1021000103,111,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,0,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,48,0,1,0,20100708,IND,TUL,2010-11
+Shot Chart Detail,1021000103,114,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,0,10,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,220,1,1,0,20100708,IND,TUL,2010-11
+Shot Chart Detail,1021000103,186,101080,Jennifer Lacy,1611661321,Tulsa Shock,2,4,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,-16,1,1,20100708,IND,TUL,2010-11
+Shot Chart Detail,1021000103,265,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,6,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,165,-2,1,1,20100708,IND,TUL,2010-11
+Shot Chart Detail,1021000103,279,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,4,57,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,217,3,1,1,20100708,IND,TUL,2010-11
+Shot Chart Detail,1021000103,297,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,3,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-215,71,1,0,20100708,IND,TUL,2010-11
+Shot Chart Detail,1021000103,299,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,3,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-10,1,0,20100708,IND,TUL,2010-11
+Shot Chart Detail,1021000103,335,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,1,29,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-8,33,1,0,20100708,IND,TUL,2010-11
+Shot Chart Detail,1021000106,142,101080,Jennifer Lacy,1611661321,Tulsa Shock,2,5,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-150,157,1,1,20100713,TUL,LAS,2010-11
+Shot Chart Detail,1021000106,158,101080,Jennifer Lacy,1611661321,Tulsa Shock,2,4,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,119,1,1,1,20100713,TUL,LAS,2010-11
+Shot Chart Detail,1021000106,282,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,2,59,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-212,15,1,0,20100713,TUL,LAS,2010-11
+Shot Chart Detail,1021000106,301,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,1,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-86,37,1,0,20100713,TUL,LAS,2010-11
+Shot Chart Detail,1021000106,380,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,3,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-142,20,1,0,20100713,TUL,LAS,2010-11
+Shot Chart Detail,1021000106,396,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,2,10,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,20,-209,-6,1,0,20100713,TUL,LAS,2010-11
+Shot Chart Detail,1021000113,17,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,7,18,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,-11,1,1,20100716,SAN,TUL,2010-11
+Shot Chart Detail,1021000113,46,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,4,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20100716,SAN,TUL,2010-11
+Shot Chart Detail,1021000113,155,101080,Jennifer Lacy,1611661321,Tulsa Shock,2,4,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-213,31,1,0,20100716,SAN,TUL,2010-11
+Shot Chart Detail,1021000113,165,101080,Jennifer Lacy,1611661321,Tulsa Shock,2,2,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,155,175,1,0,20100716,SAN,TUL,2010-11
+Shot Chart Detail,1021000113,311,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,8,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,20,-205,33,1,0,20100716,SAN,TUL,2010-11
+Shot Chart Detail,1021000113,318,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,7,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-190,20,1,1,20100716,SAN,TUL,2010-11
+Shot Chart Detail,1021000113,326,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,6,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,176,129,1,0,20100716,SAN,TUL,2010-11
+Shot Chart Detail,1021000113,365,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,2,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-5,1,1,20100716,SAN,TUL,2010-11
+Shot Chart Detail,1021000113,370,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,1,22,Missed Shot,Running Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,95,11,1,0,20100716,SAN,TUL,2010-11
+Shot Chart Detail,1021000117,10,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,9,12,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-41,19,1,1,20100717,PHO,TUL,2010-11
+Shot Chart Detail,1021000117,30,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,5,44,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,65,4,1,1,20100717,PHO,TUL,2010-11
+Shot Chart Detail,1021000117,33,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,5,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,69,11,1,0,20100717,PHO,TUL,2010-11
+Shot Chart Detail,1021000117,95,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,0,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,58,17,1,0,20100717,PHO,TUL,2010-11
+Shot Chart Detail,1021000117,160,101080,Jennifer Lacy,1611661321,Tulsa Shock,2,5,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-141,69,1,0,20100717,PHO,TUL,2010-11
+Shot Chart Detail,1021000117,372,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,6,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100717,PHO,TUL,2010-11
+Shot Chart Detail,1021000117,384,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,4,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,110,156,1,1,20100717,PHO,TUL,2010-11
+Shot Chart Detail,1021000117,401,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,3,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100717,PHO,TUL,2010-11
+Shot Chart Detail,1021000117,441,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,1,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-56,216,1,0,20100717,PHO,TUL,2010-11
+Shot Chart Detail,1021000122,63,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,4,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,14,1,0,20100720,LAS,TUL,2010-11
+Shot Chart Detail,1021000122,88,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,0,45,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-213,-25,1,1,20100720,LAS,TUL,2010-11
+Shot Chart Detail,1021000122,90,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,0,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-136,102,1,0,20100720,LAS,TUL,2010-11
+Shot Chart Detail,1021000122,108,101080,Jennifer Lacy,1611661321,Tulsa Shock,2,7,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100720,LAS,TUL,2010-11
+Shot Chart Detail,1021000122,222,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,9,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100720,LAS,TUL,2010-11
+Shot Chart Detail,1021000122,294,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,3,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-198,83,1,0,20100720,LAS,TUL,2010-11
+Shot Chart Detail,1021000122,368,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,8,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100720,LAS,TUL,2010-11
+Shot Chart Detail,1021000122,376,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,8,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100720,LAS,TUL,2010-11
+Shot Chart Detail,1021000127,90,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,1,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,157,151,1,0,20100722,TUL,PHO,2010-11
+Shot Chart Detail,1021000127,109,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,0,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100722,TUL,PHO,2010-11
+Shot Chart Detail,1021000127,202,101080,Jennifer Lacy,1611661321,Tulsa Shock,2,3,24,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,39,85,1,1,20100722,TUL,PHO,2010-11
+Shot Chart Detail,1021000127,205,101080,Jennifer Lacy,1611661321,Tulsa Shock,2,2,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,9,1,0,20100722,TUL,PHO,2010-11
+Shot Chart Detail,1021000127,289,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,5,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100722,TUL,PHO,2010-11
+Shot Chart Detail,1021000127,302,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,4,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100722,TUL,PHO,2010-11
+Shot Chart Detail,1021000127,323,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,3,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100722,TUL,PHO,2010-11
+Shot Chart Detail,1021000127,497,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,0,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100722,TUL,PHO,2010-11
+Shot Chart Detail,1021000134,3,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,9,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,37,187,1,1,20100725,SEA,TUL,2010-11
+Shot Chart Detail,1021000134,28,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,7,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,12,1,0,20100725,SEA,TUL,2010-11
+Shot Chart Detail,1021000134,53,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,4,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,15,1,0,20100725,SEA,TUL,2010-11
+Shot Chart Detail,1021000134,77,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,1,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-158,164,1,0,20100725,SEA,TUL,2010-11
+Shot Chart Detail,1021000134,184,101080,Jennifer Lacy,1611661321,Tulsa Shock,2,0,47,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-48,11,1,1,20100725,SEA,TUL,2010-11
+Shot Chart Detail,1021000134,264,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,2,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,9,1,0,20100725,SEA,TUL,2010-11
+Shot Chart Detail,1021000135,79,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,2,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-26,22,1,0,20100727,TUL,ATL,2010-11
+Shot Chart Detail,1021000135,159,101080,Jennifer Lacy,1611661321,Tulsa Shock,2,5,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-190,1,1,0,20100727,TUL,ATL,2010-11
+Shot Chart Detail,1021000135,361,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,0,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100727,TUL,ATL,2010-11
+Shot Chart Detail,1021000135,363,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,0,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100727,TUL,ATL,2010-11
+Shot Chart Detail,1021000135,490,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,3,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100727,TUL,ATL,2010-11
+Shot Chart Detail,1021000135,504,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,2,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100727,TUL,ATL,2010-11
+Shot Chart Detail,1021000135,512,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,1,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,6,1,0,20100727,TUL,ATL,2010-11
+Shot Chart Detail,1021000135,515,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,1,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100727,TUL,ATL,2010-11
+Shot Chart Detail,1021000146,100,101080,Jennifer Lacy,1611661321,Tulsa Shock,2,9,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,133,55,1,1,20100730,TUL,SAN,2010-11
+Shot Chart Detail,1021000150,432,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,5,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-43,20,1,0,20100801,WAS,TUL,2010-11
+Shot Chart Detail,1021000150,459,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,3,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,4,1,1,20100801,WAS,TUL,2010-11
+Shot Chart Detail,1021000150,496,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,0,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,24,-231,75,1,0,20100801,WAS,TUL,2010-11
+Shot Chart Detail,1021000156,386,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,1,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-157,151,1,0,20100803,TUL,SEA,2010-11
+Shot Chart Detail,1021000163,79,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,1,3,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,217,11,1,0,20100806,LAS,TUL,2010-11
+Shot Chart Detail,1021000165,55,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,4,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,215,42,1,1,20100807,SEA,TUL,2010-11
+Shot Chart Detail,1021000165,103,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,1,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,77,219,1,0,20100807,SEA,TUL,2010-11
+Shot Chart Detail,1021000165,182,101080,Jennifer Lacy,1611661321,Tulsa Shock,2,5,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100807,SEA,TUL,2010-11
+Shot Chart Detail,1021000165,259,101080,Jennifer Lacy,1611661321,Tulsa Shock,3,8,24,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,0,1,0,20100807,SEA,TUL,2010-11
+Shot Chart Detail,1021000165,402,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,7,21,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-220,-16,1,0,20100807,SEA,TUL,2010-11
+Shot Chart Detail,1021000180,77,101080,Jennifer Lacy,1611661321,Tulsa Shock,1,1,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,10,220,1,0,20100813,SAN,TUL,2010-11
+Shot Chart Detail,1021000188,465,101080,Jennifer Lacy,1611661321,Tulsa Shock,4,1,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,3,1,0,20100817,CON,TUL,2010-11

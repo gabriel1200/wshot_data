@@ -1,0 +1,6 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1021900077,80,203069,Avery Warley-Talbert,1611661313,New York Liberty,1,2,33,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20190705,PHO,NYL,2019-20
+Shot Chart Detail,1021900077,454,203069,Avery Warley-Talbert,1611661313,New York Liberty,4,3,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,12,1,0,20190705,PHO,NYL,2019-20
+Shot Chart Detail,1021900081,140,203069,Avery Warley-Talbert,1611661313,New York Liberty,1,0,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,0,20190707,NYL,LVA,2019-20
+Shot Chart Detail,1021900081,539,203069,Avery Warley-Talbert,1611661313,New York Liberty,4,4,1,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,7,1,0,20190707,NYL,LVA,2019-20
+Shot Chart Detail,1021900081,583,203069,Avery Warley-Talbert,1611661313,New York Liberty,4,0,1,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,26,1,0,20190707,NYL,LVA,2019-20

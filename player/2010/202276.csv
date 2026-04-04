@@ -1,0 +1,6 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1021000020,365,202276,Gabriela Marginean,1611661324,Minnesota Lynx,3,2,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,111,6,1,0,20100523,MIN,TUL,2010-11
+Shot Chart Detail,1021000020,388,202276,Gabriela Marginean,1611661324,Minnesota Lynx,3,0,38,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100523,MIN,TUL,2010-11
+Shot Chart Detail,1021000020,578,202276,Gabriela Marginean,1611661324,Minnesota Lynx,4,0,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100523,MIN,TUL,2010-11
+Shot Chart Detail,1021000020,580,202276,Gabriela Marginean,1611661324,Minnesota Lynx,4,0,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100523,MIN,TUL,2010-11
+Shot Chart Detail,1021000020,581,202276,Gabriela Marginean,1611661324,Minnesota Lynx,4,0,30,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100523,MIN,TUL,2010-11

@@ -1,0 +1,228 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020900030,114,100843,Cheryl Ford,1611661321,Detroit Shock,2,8,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090619,DET,IND,2009-10
+Shot Chart Detail,1020900030,120,100843,Cheryl Ford,1611661321,Detroit Shock,2,6,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-29,47,1,0,20090619,DET,IND,2009-10
+Shot Chart Detail,1020900030,224,100843,Cheryl Ford,1611661321,Detroit Shock,3,6,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090619,DET,IND,2009-10
+Shot Chart Detail,1020900030,354,100843,Cheryl Ford,1611661321,Detroit Shock,4,7,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090619,DET,IND,2009-10
+Shot Chart Detail,1020900036,3,100843,Cheryl Ford,1611661321,Detroit Shock,1,9,39,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,11,1,1,20090621,IND,DET,2009-10
+Shot Chart Detail,1020900036,63,100843,Cheryl Ford,1611661321,Detroit Shock,1,2,51,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,3,1,1,20090621,IND,DET,2009-10
+Shot Chart Detail,1020900036,194,100843,Cheryl Ford,1611661321,Detroit Shock,3,8,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,14,1,0,20090621,IND,DET,2009-10
+Shot Chart Detail,1020900036,197,100843,Cheryl Ford,1611661321,Detroit Shock,3,8,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,135,112,1,0,20090621,IND,DET,2009-10
+Shot Chart Detail,1020900036,270,100843,Cheryl Ford,1611661321,Detroit Shock,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-29,241,1,0,20090621,IND,DET,2009-10
+Shot Chart Detail,1020900036,276,100843,Cheryl Ford,1611661321,Detroit Shock,4,9,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,11,1,0,20090621,IND,DET,2009-10
+Shot Chart Detail,1020900044,33,100843,Cheryl Ford,1611661321,Detroit Shock,1,6,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,3,1,0,20090626,ATL,DET,2009-10
+Shot Chart Detail,1020900044,35,100843,Cheryl Ford,1611661321,Detroit Shock,1,6,16,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090626,ATL,DET,2009-10
+Shot Chart Detail,1020900044,98,100843,Cheryl Ford,1611661321,Detroit Shock,1,1,17,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,9,1,1,20090626,ATL,DET,2009-10
+Shot Chart Detail,1020900044,158,100843,Cheryl Ford,1611661321,Detroit Shock,2,7,32,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,20,1,0,20090626,ATL,DET,2009-10
+Shot Chart Detail,1020900044,227,100843,Cheryl Ford,1611661321,Detroit Shock,2,3,9,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,1,1,1,20090626,ATL,DET,2009-10
+Shot Chart Detail,1020900044,331,100843,Cheryl Ford,1611661321,Detroit Shock,3,7,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,15,1,0,20090626,ATL,DET,2009-10
+Shot Chart Detail,1020900044,366,100843,Cheryl Ford,1611661321,Detroit Shock,3,4,48,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,23,28,1,0,20090626,ATL,DET,2009-10
+Shot Chart Detail,1020900044,487,100843,Cheryl Ford,1611661321,Detroit Shock,4,6,11,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,1,1,0,20090626,ATL,DET,2009-10
+Shot Chart Detail,1020900051,47,100843,Cheryl Ford,1611661321,Detroit Shock,1,5,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090628,DET,SAC,2009-10
+Shot Chart Detail,1020900051,124,100843,Cheryl Ford,1611661321,Detroit Shock,2,9,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090628,DET,SAC,2009-10
+Shot Chart Detail,1020900051,149,100843,Cheryl Ford,1611661321,Detroit Shock,2,7,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090628,DET,SAC,2009-10
+Shot Chart Detail,1020900051,159,100843,Cheryl Ford,1611661321,Detroit Shock,2,6,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090628,DET,SAC,2009-10
+Shot Chart Detail,1020900051,275,100843,Cheryl Ford,1611661321,Detroit Shock,3,9,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090628,DET,SAC,2009-10
+Shot Chart Detail,1020900051,277,100843,Cheryl Ford,1611661321,Detroit Shock,3,9,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090628,DET,SAC,2009-10
+Shot Chart Detail,1020900051,300,100843,Cheryl Ford,1611661321,Detroit Shock,3,6,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,64,33,1,0,20090628,DET,SAC,2009-10
+Shot Chart Detail,1020900051,326,100843,Cheryl Ford,1611661321,Detroit Shock,3,5,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090628,DET,SAC,2009-10
+Shot Chart Detail,1020900051,332,100843,Cheryl Ford,1611661321,Detroit Shock,3,4,26,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,6,1,1,20090628,DET,SAC,2009-10
+Shot Chart Detail,1020900051,453,100843,Cheryl Ford,1611661321,Detroit Shock,4,5,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090628,DET,SAC,2009-10
+Shot Chart Detail,1020900058,27,100843,Cheryl Ford,1611661321,Detroit Shock,1,6,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090702,NYL,DET,2009-10
+Shot Chart Detail,1020900058,37,100843,Cheryl Ford,1611661321,Detroit Shock,1,5,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090702,NYL,DET,2009-10
+Shot Chart Detail,1020900058,83,100843,Cheryl Ford,1611661321,Detroit Shock,1,1,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090702,NYL,DET,2009-10
+Shot Chart Detail,1020900058,87,100843,Cheryl Ford,1611661321,Detroit Shock,1,1,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090702,NYL,DET,2009-10
+Shot Chart Detail,1020900058,191,100843,Cheryl Ford,1611661321,Detroit Shock,2,3,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090702,NYL,DET,2009-10
+Shot Chart Detail,1020900058,218,100843,Cheryl Ford,1611661321,Detroit Shock,2,1,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090702,NYL,DET,2009-10
+Shot Chart Detail,1020900058,313,100843,Cheryl Ford,1611661321,Detroit Shock,3,2,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090702,NYL,DET,2009-10
+Shot Chart Detail,1020900058,393,100843,Cheryl Ford,1611661321,Detroit Shock,4,5,11,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,26,1,0,20090702,NYL,DET,2009-10
+Shot Chart Detail,1020900058,436,100843,Cheryl Ford,1611661321,Detroit Shock,4,1,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090702,NYL,DET,2009-10
+Shot Chart Detail,1020900062,229,100843,Cheryl Ford,1611661321,Detroit Shock,2,0,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,15,1,0,20090705,DET,CON,2009-10
+Shot Chart Detail,1020900062,362,100843,Cheryl Ford,1611661321,Detroit Shock,4,7,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,15,1,0,20090705,DET,CON,2009-10
+Shot Chart Detail,1020900062,428,100843,Cheryl Ford,1611661321,Detroit Shock,4,1,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090705,DET,CON,2009-10
+Shot Chart Detail,1020900074,3,100843,Cheryl Ford,1611661321,Detroit Shock,1,9,29,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,11,1,0,20090711,CON,DET,2009-10
+Shot Chart Detail,1020900074,10,100843,Cheryl Ford,1611661321,Detroit Shock,1,9,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,69,23,1,0,20090711,CON,DET,2009-10
+Shot Chart Detail,1020900074,16,100843,Cheryl Ford,1611661321,Detroit Shock,1,8,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-34,31,1,0,20090711,CON,DET,2009-10
+Shot Chart Detail,1020900074,33,100843,Cheryl Ford,1611661321,Detroit Shock,1,6,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,11,1,0,20090711,CON,DET,2009-10
+Shot Chart Detail,1020900074,49,100843,Cheryl Ford,1611661321,Detroit Shock,1,4,56,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,160,4,1,1,20090711,CON,DET,2009-10
+Shot Chart Detail,1020900074,253,100843,Cheryl Ford,1611661321,Detroit Shock,3,8,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,0,20090711,CON,DET,2009-10
+Shot Chart Detail,1020900074,258,100843,Cheryl Ford,1611661321,Detroit Shock,3,7,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,19,1,0,20090711,CON,DET,2009-10
+Shot Chart Detail,1020900074,278,100843,Cheryl Ford,1611661321,Detroit Shock,3,5,57,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,89,4,1,1,20090711,CON,DET,2009-10
+Shot Chart Detail,1020900074,284,100843,Cheryl Ford,1611661321,Detroit Shock,3,5,24,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,4,39,1,0,20090711,CON,DET,2009-10
+Shot Chart Detail,1020900074,338,100843,Cheryl Ford,1611661321,Detroit Shock,3,0,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,23,1,1,20090711,CON,DET,2009-10
+Shot Chart Detail,1020900074,360,100843,Cheryl Ford,1611661321,Detroit Shock,4,8,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,12,1,0,20090711,CON,DET,2009-10
+Shot Chart Detail,1020900074,392,100843,Cheryl Ford,1611661321,Detroit Shock,4,5,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,1,1,0,20090711,CON,DET,2009-10
+Shot Chart Detail,1020900085,20,100843,Cheryl Ford,1611661321,Detroit Shock,1,7,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,53,39,1,0,20090715,SEA,DET,2009-10
+Shot Chart Detail,1020900085,41,100843,Cheryl Ford,1611661321,Detroit Shock,1,5,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090715,SEA,DET,2009-10
+Shot Chart Detail,1020900085,117,100843,Cheryl Ford,1611661321,Detroit Shock,2,7,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,11,1,0,20090715,SEA,DET,2009-10
+Shot Chart Detail,1020900085,174,100843,Cheryl Ford,1611661321,Detroit Shock,2,1,56,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,50,42,1,1,20090715,SEA,DET,2009-10
+Shot Chart Detail,1020900085,250,100843,Cheryl Ford,1611661321,Detroit Shock,3,5,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090715,SEA,DET,2009-10
+Shot Chart Detail,1020900085,335,100843,Cheryl Ford,1611661321,Detroit Shock,4,9,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090715,SEA,DET,2009-10
+Shot Chart Detail,1020900091,2,100843,Cheryl Ford,1611661321,Detroit Shock,1,9,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090718,PHO,DET,2009-10
+Shot Chart Detail,1020900091,15,100843,Cheryl Ford,1611661321,Detroit Shock,1,7,48,Missed Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,65,25,1,0,20090718,PHO,DET,2009-10
+Shot Chart Detail,1020900091,26,100843,Cheryl Ford,1611661321,Detroit Shock,1,6,39,Missed Shot,Turnaround Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,34,1,0,20090718,PHO,DET,2009-10
+Shot Chart Detail,1020900091,36,100843,Cheryl Ford,1611661321,Detroit Shock,1,5,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090718,PHO,DET,2009-10
+Shot Chart Detail,1020900091,48,100843,Cheryl Ford,1611661321,Detroit Shock,1,5,12,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,54,25,1,1,20090718,PHO,DET,2009-10
+Shot Chart Detail,1020900091,140,100843,Cheryl Ford,1611661321,Detroit Shock,2,8,36,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-41,52,1,0,20090718,PHO,DET,2009-10
+Shot Chart Detail,1020900091,266,100843,Cheryl Ford,1611661321,Detroit Shock,3,8,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-24,77,1,0,20090718,PHO,DET,2009-10
+Shot Chart Detail,1020900091,277,100843,Cheryl Ford,1611661321,Detroit Shock,3,6,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090718,PHO,DET,2009-10
+Shot Chart Detail,1020900091,279,100843,Cheryl Ford,1611661321,Detroit Shock,3,6,30,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,34,39,1,1,20090718,PHO,DET,2009-10
+Shot Chart Detail,1020900091,359,100843,Cheryl Ford,1611661321,Detroit Shock,4,7,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090718,PHO,DET,2009-10
+Shot Chart Detail,1020900091,373,100843,Cheryl Ford,1611661321,Detroit Shock,4,6,51,Missed Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,25,1,0,20090718,PHO,DET,2009-10
+Shot Chart Detail,1020900091,447,100843,Cheryl Ford,1611661321,Detroit Shock,4,1,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090718,PHO,DET,2009-10
+Shot Chart Detail,1020900117,29,100843,Cheryl Ford,1611661321,Detroit Shock,1,6,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090731,DET,MIN,2009-10
+Shot Chart Detail,1020900117,69,100843,Cheryl Ford,1611661321,Detroit Shock,1,3,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090731,DET,MIN,2009-10
+Shot Chart Detail,1020900117,120,100843,Cheryl Ford,1611661321,Detroit Shock,2,9,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,118,25,1,0,20090731,DET,MIN,2009-10
+Shot Chart Detail,1020900117,224,100843,Cheryl Ford,1611661321,Detroit Shock,3,9,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090731,DET,MIN,2009-10
+Shot Chart Detail,1020900117,305,100843,Cheryl Ford,1611661321,Detroit Shock,3,1,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090731,DET,MIN,2009-10
+Shot Chart Detail,1020900117,331,100843,Cheryl Ford,1611661321,Detroit Shock,4,9,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090731,DET,MIN,2009-10
+Shot Chart Detail,1020900117,383,100843,Cheryl Ford,1611661321,Detroit Shock,4,4,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090731,DET,MIN,2009-10
+Shot Chart Detail,1020900117,442,100843,Cheryl Ford,1611661321,Detroit Shock,4,2,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090731,DET,MIN,2009-10
+Shot Chart Detail,1020900124,41,100843,Cheryl Ford,1611661321,Detroit Shock,1,5,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,19,1,1,20090802,DET,CON,2009-10
+Shot Chart Detail,1020900124,54,100843,Cheryl Ford,1611661321,Detroit Shock,1,4,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-27,63,1,0,20090802,DET,CON,2009-10
+Shot Chart Detail,1020900124,144,100843,Cheryl Ford,1611661321,Detroit Shock,2,7,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,105,11,1,0,20090802,DET,CON,2009-10
+Shot Chart Detail,1020900124,148,100843,Cheryl Ford,1611661321,Detroit Shock,2,6,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090802,DET,CON,2009-10
+Shot Chart Detail,1020900124,161,100843,Cheryl Ford,1611661321,Detroit Shock,2,5,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090802,DET,CON,2009-10
+Shot Chart Detail,1020900124,231,100843,Cheryl Ford,1611661321,Detroit Shock,3,9,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090802,DET,CON,2009-10
+Shot Chart Detail,1020900124,265,100843,Cheryl Ford,1611661321,Detroit Shock,3,6,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090802,DET,CON,2009-10
+Shot Chart Detail,1020900124,372,100843,Cheryl Ford,1611661321,Detroit Shock,4,6,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090802,DET,CON,2009-10
+Shot Chart Detail,1020900124,381,100843,Cheryl Ford,1611661321,Detroit Shock,4,6,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,29,137,1,0,20090802,DET,CON,2009-10
+Shot Chart Detail,1020900124,405,100843,Cheryl Ford,1611661321,Detroit Shock,4,3,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090802,DET,CON,2009-10
+Shot Chart Detail,1020900126,87,100843,Cheryl Ford,1611661321,Detroit Shock,2,9,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-150,66,1,0,20090804,DET,NYL,2009-10
+Shot Chart Detail,1020900126,106,100843,Cheryl Ford,1611661321,Detroit Shock,2,7,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090804,DET,NYL,2009-10
+Shot Chart Detail,1020900126,109,100843,Cheryl Ford,1611661321,Detroit Shock,2,6,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090804,DET,NYL,2009-10
+Shot Chart Detail,1020900126,209,100843,Cheryl Ford,1611661321,Detroit Shock,3,7,44,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-89,47,1,1,20090804,DET,NYL,2009-10
+Shot Chart Detail,1020900131,110,100843,Cheryl Ford,1611661321,Detroit Shock,2,9,13,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,15,37,1,0,20090807,WAS,DET,2009-10
+Shot Chart Detail,1020900131,258,100843,Cheryl Ford,1611661321,Detroit Shock,3,6,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,15,1,0,20090807,WAS,DET,2009-10
+Shot Chart Detail,1020900131,371,100843,Cheryl Ford,1611661321,Detroit Shock,4,6,54,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-38,-2,1,0,20090807,WAS,DET,2009-10
+Shot Chart Detail,1020900139,24,100843,Cheryl Ford,1611661321,Detroit Shock,1,7,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,4,1,0,20090809,DET,CHI,2009-10
+Shot Chart Detail,1020900139,36,100843,Cheryl Ford,1611661321,Detroit Shock,1,5,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090809,DET,CHI,2009-10
+Shot Chart Detail,1020900139,115,100843,Cheryl Ford,1611661321,Detroit Shock,2,9,9,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090809,DET,CHI,2009-10
+Shot Chart Detail,1020900139,251,100843,Cheryl Ford,1611661321,Detroit Shock,3,6,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090809,DET,CHI,2009-10
+Shot Chart Detail,1020900139,346,100843,Cheryl Ford,1611661321,Detroit Shock,4,8,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090809,DET,CHI,2009-10
+Shot Chart Detail,1020900139,372,100843,Cheryl Ford,1611661321,Detroit Shock,4,6,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090809,DET,CHI,2009-10
+Shot Chart Detail,1020900139,374,100843,Cheryl Ford,1611661321,Detroit Shock,4,5,58,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-112,33,1,1,20090809,DET,CHI,2009-10
+Shot Chart Detail,1020900141,2,100843,Cheryl Ford,1611661321,Detroit Shock,1,9,46,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,37,9,1,0,20090811,WAS,DET,2009-10
+Shot Chart Detail,1020900141,9,100843,Cheryl Ford,1611661321,Detroit Shock,1,8,32,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,-3,1,1,20090811,WAS,DET,2009-10
+Shot Chart Detail,1020900141,243,100843,Cheryl Ford,1611661321,Detroit Shock,3,8,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,42,-3,1,0,20090811,WAS,DET,2009-10
+Shot Chart Detail,1020900141,330,100843,Cheryl Ford,1611661321,Detroit Shock,3,0,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-141,60,1,1,20090811,WAS,DET,2009-10
+Shot Chart Detail,1020900141,354,100843,Cheryl Ford,1611661321,Detroit Shock,4,9,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,1,1,1,20090811,WAS,DET,2009-10
+Shot Chart Detail,1020900141,375,100843,Cheryl Ford,1611661321,Detroit Shock,4,6,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,3,1,1,20090811,WAS,DET,2009-10
+Shot Chart Detail,1020900141,404,100843,Cheryl Ford,1611661321,Detroit Shock,4,3,57,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-76,17,1,1,20090811,WAS,DET,2009-10
+Shot Chart Detail,1020900145,6,100843,Cheryl Ford,1611661321,Detroit Shock,1,9,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-92,50,1,0,20090813,ATL,DET,2009-10
+Shot Chart Detail,1020900145,182,100843,Cheryl Ford,1611661321,Detroit Shock,2,5,46,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,67,45,1,1,20090813,ATL,DET,2009-10
+Shot Chart Detail,1020900145,200,100843,Cheryl Ford,1611661321,Detroit Shock,2,4,51,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-5,1,1,20090813,ATL,DET,2009-10
+Shot Chart Detail,1020900145,266,100843,Cheryl Ford,1611661321,Detroit Shock,3,9,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,0,1,0,20090813,ATL,DET,2009-10
+Shot Chart Detail,1020900145,284,100843,Cheryl Ford,1611661321,Detroit Shock,3,8,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,0,1,1,20090813,ATL,DET,2009-10
+Shot Chart Detail,1020900145,298,100843,Cheryl Ford,1611661321,Detroit Shock,3,7,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,11,1,0,20090813,ATL,DET,2009-10
+Shot Chart Detail,1020900145,302,100843,Cheryl Ford,1611661321,Detroit Shock,3,6,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,1,1,1,20090813,ATL,DET,2009-10
+Shot Chart Detail,1020900145,380,100843,Cheryl Ford,1611661321,Detroit Shock,3,1,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,0,1,0,20090813,ATL,DET,2009-10
+Shot Chart Detail,1020900145,393,100843,Cheryl Ford,1611661321,Detroit Shock,3,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,201,75,1,0,20090813,ATL,DET,2009-10
+Shot Chart Detail,1020900145,473,100843,Cheryl Ford,1611661321,Detroit Shock,4,2,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,37,19,1,0,20090813,ATL,DET,2009-10
+Shot Chart Detail,1020900152,23,100843,Cheryl Ford,1611661321,Detroit Shock,1,7,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,6,1,1,20090815,IND,DET,2009-10
+Shot Chart Detail,1020900152,48,100843,Cheryl Ford,1611661321,Detroit Shock,1,4,5,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-13,61,1,0,20090815,IND,DET,2009-10
+Shot Chart Detail,1020900152,177,100843,Cheryl Ford,1611661321,Detroit Shock,2,2,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,50,72,1,0,20090815,IND,DET,2009-10
+Shot Chart Detail,1020900152,180,100843,Cheryl Ford,1611661321,Detroit Shock,2,2,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,-8,1,1,20090815,IND,DET,2009-10
+Shot Chart Detail,1020900152,336,100843,Cheryl Ford,1611661321,Detroit Shock,4,8,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,36,176,1,0,20090815,IND,DET,2009-10
+Shot Chart Detail,1020900152,347,100843,Cheryl Ford,1611661321,Detroit Shock,4,7,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,-8,1,1,20090815,IND,DET,2009-10
+Shot Chart Detail,1020900152,360,100843,Cheryl Ford,1611661321,Detroit Shock,4,6,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,-8,1,0,20090815,IND,DET,2009-10
+Shot Chart Detail,1020900152,370,100843,Cheryl Ford,1611661321,Detroit Shock,4,5,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,-11,1,0,20090815,IND,DET,2009-10
+Shot Chart Detail,1020900157,52,100843,Cheryl Ford,1611661321,Detroit Shock,1,4,38,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090818,DET,SEA,2009-10
+Shot Chart Detail,1020900157,142,100843,Cheryl Ford,1611661321,Detroit Shock,2,5,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-136,41,1,0,20090818,DET,SEA,2009-10
+Shot Chart Detail,1020900157,227,100843,Cheryl Ford,1611661321,Detroit Shock,3,7,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090818,DET,SEA,2009-10
+Shot Chart Detail,1020900157,256,100843,Cheryl Ford,1611661321,Detroit Shock,3,3,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,106,34,1,0,20090818,DET,SEA,2009-10
+Shot Chart Detail,1020900167,20,100843,Cheryl Ford,1611661321,Detroit Shock,1,8,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090822,CHI,DET,2009-10
+Shot Chart Detail,1020900167,23,100843,Cheryl Ford,1611661321,Detroit Shock,1,8,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-65,30,1,0,20090822,CHI,DET,2009-10
+Shot Chart Detail,1020900167,42,100843,Cheryl Ford,1611661321,Detroit Shock,1,5,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-134,89,1,0,20090822,CHI,DET,2009-10
+Shot Chart Detail,1020900167,45,100843,Cheryl Ford,1611661321,Detroit Shock,1,5,26,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,127,48,1,1,20090822,CHI,DET,2009-10
+Shot Chart Detail,1020900167,57,100843,Cheryl Ford,1611661321,Detroit Shock,1,4,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090822,CHI,DET,2009-10
+Shot Chart Detail,1020900167,71,100843,Cheryl Ford,1611661321,Detroit Shock,1,2,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,147,52,1,0,20090822,CHI,DET,2009-10
+Shot Chart Detail,1020900167,221,100843,Cheryl Ford,1611661321,Detroit Shock,3,8,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090822,CHI,DET,2009-10
+Shot Chart Detail,1020900167,283,100843,Cheryl Ford,1611661321,Detroit Shock,3,2,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,34,53,1,0,20090822,CHI,DET,2009-10
+Shot Chart Detail,1020900167,371,100843,Cheryl Ford,1611661321,Detroit Shock,4,5,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090822,CHI,DET,2009-10
+Shot Chart Detail,1020900172,24,100843,Cheryl Ford,1611661321,Detroit Shock,1,7,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090823,DET,SAN,2009-10
+Shot Chart Detail,1020900172,151,100843,Cheryl Ford,1611661321,Detroit Shock,2,5,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,80,148,1,0,20090823,DET,SAN,2009-10
+Shot Chart Detail,1020900173,16,100843,Cheryl Ford,1611661321,Detroit Shock,1,8,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,45,41,1,0,20090825,CON,DET,2009-10
+Shot Chart Detail,1020900173,41,100843,Cheryl Ford,1611661321,Detroit Shock,1,5,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,1,1,0,20090825,CON,DET,2009-10
+Shot Chart Detail,1020900173,45,100843,Cheryl Ford,1611661321,Detroit Shock,1,4,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,6,1,1,20090825,CON,DET,2009-10
+Shot Chart Detail,1020900173,49,100843,Cheryl Ford,1611661321,Detroit Shock,1,3,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,0,1,0,20090825,CON,DET,2009-10
+Shot Chart Detail,1020900173,157,100843,Cheryl Ford,1611661321,Detroit Shock,2,4,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,12,1,0,20090825,CON,DET,2009-10
+Shot Chart Detail,1020900173,170,100843,Cheryl Ford,1611661321,Detroit Shock,2,3,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,1,20090825,CON,DET,2009-10
+Shot Chart Detail,1020900173,228,100843,Cheryl Ford,1611661321,Detroit Shock,3,8,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-117,63,1,0,20090825,CON,DET,2009-10
+Shot Chart Detail,1020900173,236,100843,Cheryl Ford,1611661321,Detroit Shock,3,7,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,34,75,1,0,20090825,CON,DET,2009-10
+Shot Chart Detail,1020900173,240,100843,Cheryl Ford,1611661321,Detroit Shock,3,6,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,3,1,1,20090825,CON,DET,2009-10
+Shot Chart Detail,1020900173,267,100843,Cheryl Ford,1611661321,Detroit Shock,3,4,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,12,1,1,20090825,CON,DET,2009-10
+Shot Chart Detail,1020900178,2,100843,Cheryl Ford,1611661321,Detroit Shock,1,9,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,23,1,0,20090827,DET,ATL,2009-10
+Shot Chart Detail,1020900178,5,100843,Cheryl Ford,1611661321,Detroit Shock,1,9,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090827,DET,ATL,2009-10
+Shot Chart Detail,1020900178,57,100843,Cheryl Ford,1611661321,Detroit Shock,1,5,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,133,30,1,0,20090827,DET,ATL,2009-10
+Shot Chart Detail,1020900178,129,100843,Cheryl Ford,1611661321,Detroit Shock,1,0,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090827,DET,ATL,2009-10
+Shot Chart Detail,1020900178,189,100843,Cheryl Ford,1611661321,Detroit Shock,2,6,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090827,DET,ATL,2009-10
+Shot Chart Detail,1020900178,225,100843,Cheryl Ford,1611661321,Detroit Shock,2,4,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090827,DET,ATL,2009-10
+Shot Chart Detail,1020900178,231,100843,Cheryl Ford,1611661321,Detroit Shock,2,3,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,122,17,1,0,20090827,DET,ATL,2009-10
+Shot Chart Detail,1020900178,267,100843,Cheryl Ford,1611661321,Detroit Shock,2,0,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090827,DET,ATL,2009-10
+Shot Chart Detail,1020900178,293,100843,Cheryl Ford,1611661321,Detroit Shock,3,7,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090827,DET,ATL,2009-10
+Shot Chart Detail,1020900178,308,100843,Cheryl Ford,1611661321,Detroit Shock,3,5,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090827,DET,ATL,2009-10
+Shot Chart Detail,1020900183,9,100843,Cheryl Ford,1611661321,Detroit Shock,1,8,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,95,19,1,0,20090829,SAN,DET,2009-10
+Shot Chart Detail,1020900183,28,100843,Cheryl Ford,1611661321,Detroit Shock,1,6,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,103,23,1,0,20090829,SAN,DET,2009-10
+Shot Chart Detail,1020900183,32,100843,Cheryl Ford,1611661321,Detroit Shock,1,5,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,14,1,0,20090829,SAN,DET,2009-10
+Shot Chart Detail,1020900183,93,100843,Cheryl Ford,1611661321,Detroit Shock,2,8,31,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,37,30,1,1,20090829,SAN,DET,2009-10
+Shot Chart Detail,1020900183,135,100843,Cheryl Ford,1611661321,Detroit Shock,2,5,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,7,1,1,20090829,SAN,DET,2009-10
+Shot Chart Detail,1020900183,223,100843,Cheryl Ford,1611661321,Detroit Shock,3,7,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,7,1,0,20090829,SAN,DET,2009-10
+Shot Chart Detail,1020900183,272,100843,Cheryl Ford,1611661321,Detroit Shock,3,2,37,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-5,69,1,1,20090829,SAN,DET,2009-10
+Shot Chart Detail,1020900191,19,100843,Cheryl Ford,1611661321,Detroit Shock,1,7,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-65,67,1,0,20090901,DET,PHO,2009-10
+Shot Chart Detail,1020900191,26,100843,Cheryl Ford,1611661321,Detroit Shock,1,7,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090901,DET,PHO,2009-10
+Shot Chart Detail,1020900191,37,100843,Cheryl Ford,1611661321,Detroit Shock,1,6,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090901,DET,PHO,2009-10
+Shot Chart Detail,1020900191,59,100843,Cheryl Ford,1611661321,Detroit Shock,1,4,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090901,DET,PHO,2009-10
+Shot Chart Detail,1020900191,78,100843,Cheryl Ford,1611661321,Detroit Shock,1,3,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090901,DET,PHO,2009-10
+Shot Chart Detail,1020900191,85,100843,Cheryl Ford,1611661321,Detroit Shock,1,2,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090901,DET,PHO,2009-10
+Shot Chart Detail,1020900191,162,100843,Cheryl Ford,1611661321,Detroit Shock,2,7,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-128,23,1,1,20090901,DET,PHO,2009-10
+Shot Chart Detail,1020900191,227,100843,Cheryl Ford,1611661321,Detroit Shock,2,1,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090901,DET,PHO,2009-10
+Shot Chart Detail,1020900191,229,100843,Cheryl Ford,1611661321,Detroit Shock,2,0,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,89,55,1,0,20090901,DET,PHO,2009-10
+Shot Chart Detail,1020900191,257,100843,Cheryl Ford,1611661321,Detroit Shock,3,7,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,147,85,1,0,20090901,DET,PHO,2009-10
+Shot Chart Detail,1020900191,291,100843,Cheryl Ford,1611661321,Detroit Shock,3,5,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,4,1,0,20090901,DET,PHO,2009-10
+Shot Chart Detail,1020900191,293,100843,Cheryl Ford,1611661321,Detroit Shock,3,4,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090901,DET,PHO,2009-10
+Shot Chart Detail,1020900191,298,100843,Cheryl Ford,1611661321,Detroit Shock,3,4,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090901,DET,PHO,2009-10
+Shot Chart Detail,1020900191,304,100843,Cheryl Ford,1611661321,Detroit Shock,3,3,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,30,1,0,20090901,DET,PHO,2009-10
+Shot Chart Detail,1020900191,369,100843,Cheryl Ford,1611661321,Detroit Shock,4,8,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090901,DET,PHO,2009-10
+Shot Chart Detail,1020900191,455,100843,Cheryl Ford,1611661321,Detroit Shock,4,0,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090901,DET,PHO,2009-10
+Shot Chart Detail,1020900198,23,100843,Cheryl Ford,1611661321,Detroit Shock,1,7,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090904,DET,IND,2009-10
+Shot Chart Detail,1020900198,35,100843,Cheryl Ford,1611661321,Detroit Shock,1,6,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,144,31,1,0,20090904,DET,IND,2009-10
+Shot Chart Detail,1020900198,50,100843,Cheryl Ford,1611661321,Detroit Shock,1,4,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,-59,228,1,0,20090904,DET,IND,2009-10
+Shot Chart Detail,1020900198,123,100843,Cheryl Ford,1611661321,Detroit Shock,2,8,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,12,1,0,20090904,DET,IND,2009-10
+Shot Chart Detail,1020900198,127,100843,Cheryl Ford,1611661321,Detroit Shock,2,8,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090904,DET,IND,2009-10
+Shot Chart Detail,1020900198,173,100843,Cheryl Ford,1611661321,Detroit Shock,2,5,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090904,DET,IND,2009-10
+Shot Chart Detail,1020900198,260,100843,Cheryl Ford,1611661321,Detroit Shock,3,7,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090904,DET,IND,2009-10
+Shot Chart Detail,1020900198,305,100843,Cheryl Ford,1611661321,Detroit Shock,3,3,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090904,DET,IND,2009-10
+Shot Chart Detail,1020900205,16,100843,Cheryl Ford,1611661321,Detroit Shock,1,8,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090906,DET,CHI,2009-10
+Shot Chart Detail,1020900205,18,100843,Cheryl Ford,1611661321,Detroit Shock,1,8,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090906,DET,CHI,2009-10
+Shot Chart Detail,1020900205,32,100843,Cheryl Ford,1611661321,Detroit Shock,1,6,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090906,DET,CHI,2009-10
+Shot Chart Detail,1020900205,180,100843,Cheryl Ford,1611661321,Detroit Shock,2,3,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090906,DET,CHI,2009-10
+Shot Chart Detail,1020900205,231,100843,Cheryl Ford,1611661321,Detroit Shock,3,9,10,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,50,17,1,0,20090906,DET,CHI,2009-10
+Shot Chart Detail,1020900205,245,100843,Cheryl Ford,1611661321,Detroit Shock,3,7,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,127,37,1,1,20090906,DET,CHI,2009-10
+Shot Chart Detail,1020900205,290,100843,Cheryl Ford,1611661321,Detroit Shock,3,4,15,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,2,50,1,1,20090906,DET,CHI,2009-10
+Shot Chart Detail,1020900205,309,100843,Cheryl Ford,1611661321,Detroit Shock,3,2,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-27,115,1,0,20090906,DET,CHI,2009-10
+Shot Chart Detail,1020900205,312,100843,Cheryl Ford,1611661321,Detroit Shock,3,2,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090906,DET,CHI,2009-10
+Shot Chart Detail,1020900205,421,100843,Cheryl Ford,1611661321,Detroit Shock,4,4,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090906,DET,CHI,2009-10
+Shot Chart Detail,1020900208,8,100843,Cheryl Ford,1611661321,Detroit Shock,1,8,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,103,88,1,0,20090909,MIN,DET,2009-10
+Shot Chart Detail,1020900208,18,100843,Cheryl Ford,1611661321,Detroit Shock,1,7,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090909,MIN,DET,2009-10
+Shot Chart Detail,1020900208,32,100843,Cheryl Ford,1611661321,Detroit Shock,1,6,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090909,MIN,DET,2009-10
+Shot Chart Detail,1020900208,71,100843,Cheryl Ford,1611661321,Detroit Shock,1,4,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090909,MIN,DET,2009-10
+Shot Chart Detail,1020900208,151,100843,Cheryl Ford,1611661321,Detroit Shock,2,6,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090909,MIN,DET,2009-10
+Shot Chart Detail,1020900208,192,100843,Cheryl Ford,1611661321,Detroit Shock,2,3,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090909,MIN,DET,2009-10
+Shot Chart Detail,1020900208,201,100843,Cheryl Ford,1611661321,Detroit Shock,2,2,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090909,MIN,DET,2009-10
+Shot Chart Detail,1020900208,253,100843,Cheryl Ford,1611661321,Detroit Shock,3,8,42,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,9,30,1,0,20090909,MIN,DET,2009-10
+Shot Chart Detail,1020900208,358,100843,Cheryl Ford,1611661321,Detroit Shock,4,9,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090909,MIN,DET,2009-10
+Shot Chart Detail,1020900208,406,100843,Cheryl Ford,1611661321,Detroit Shock,4,6,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090909,MIN,DET,2009-10
+Shot Chart Detail,1020900208,408,100843,Cheryl Ford,1611661321,Detroit Shock,4,5,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090909,MIN,DET,2009-10
+Shot Chart Detail,1020900208,448,100843,Cheryl Ford,1611661321,Detroit Shock,4,2,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090909,MIN,DET,2009-10
+Shot Chart Detail,1020900209,51,100843,Cheryl Ford,1611661321,Detroit Shock,1,4,35,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,25,1,0,20090910,DET,NYL,2009-10
+Shot Chart Detail,1020900209,65,100843,Cheryl Ford,1611661321,Detroit Shock,1,2,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090910,DET,NYL,2009-10
+Shot Chart Detail,1020900209,128,100843,Cheryl Ford,1611661321,Detroit Shock,2,5,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090910,DET,NYL,2009-10
+Shot Chart Detail,1020900209,155,100843,Cheryl Ford,1611661321,Detroit Shock,2,3,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-70,96,1,0,20090910,DET,NYL,2009-10
+Shot Chart Detail,1020900209,208,100843,Cheryl Ford,1611661321,Detroit Shock,3,9,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090910,DET,NYL,2009-10
+Shot Chart Detail,1020900209,281,100843,Cheryl Ford,1611661321,Detroit Shock,3,1,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090910,DET,NYL,2009-10
+Shot Chart Detail,1020900209,300,100843,Cheryl Ford,1611661321,Detroit Shock,3,0,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090910,DET,NYL,2009-10
+Shot Chart Detail,1020900209,321,100843,Cheryl Ford,1611661321,Detroit Shock,4,7,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090910,DET,NYL,2009-10
+Shot Chart Detail,1020900216,18,100843,Cheryl Ford,1611661321,Detroit Shock,1,7,57,Missed Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,75,55,1,0,20090912,CHI,DET,2009-10
+Shot Chart Detail,1020900216,165,100843,Cheryl Ford,1611661321,Detroit Shock,2,5,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090912,CHI,DET,2009-10
+Shot Chart Detail,1020900216,169,100843,Cheryl Ford,1611661321,Detroit Shock,2,4,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,11,1,0,20090912,CHI,DET,2009-10
+Shot Chart Detail,1020900216,183,100843,Cheryl Ford,1611661321,Detroit Shock,2,3,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090912,CHI,DET,2009-10

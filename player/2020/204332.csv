@@ -1,0 +1,8 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1022001029,257,204332,Cierra Burdick,1611661319,Las Vegas Aces,2,0,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,125,-3,1,0,20200805,WAS,LVA,2020-21
+Shot Chart Detail,1022001047,509,204332,Cierra Burdick,1611661319,Las Vegas Aces,4,1,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-7,166,1,0,20200811,IND,LVA,2020-21
+Shot Chart Detail,1022001060,535,204332,Cierra Burdick,1611661319,Las Vegas Aces,4,1,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-48,157,1,1,20200815,LVA,WAS,2020-21
+Shot Chart Detail,1022001072,529,204332,Cierra Burdick,1611661319,Las Vegas Aces,4,1,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,13,1,1,20200820,LVA,CON,2020-21
+Shot Chart Detail,1022001096,551,204332,Cierra Burdick,1611661319,Las Vegas Aces,4,0,28,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-61,152,1,0,20200829,LVA,NYL,2020-21
+Shot Chart Detail,1022001107,544,204332,Cierra Burdick,1611661319,Las Vegas Aces,4,1,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,-11,1,0,20200903,CON,LVA,2020-21
+Shot Chart Detail,1022001113,523,204332,Cierra Burdick,1611661319,Las Vegas Aces,4,0,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-2,168,1,0,20200905,ATL,LVA,2020-21

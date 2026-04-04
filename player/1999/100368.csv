@@ -1,0 +1,15 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1029900002,137,100368,Angie Braziel,1611661314,Charlotte Sting,1,5,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,126,-27,1,0,19990610,WAS,CHA,1999-00
+Shot Chart Detail,1029900030,86,100368,Angie Braziel,1611661314,Charlotte Sting,1,11,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990622,DET,CHA,1999-00
+Shot Chart Detail,1029900030,91,100368,Angie Braziel,1611661314,Charlotte Sting,1,10,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-141,61,1,0,19990622,DET,CHA,1999-00
+Shot Chart Detail,1029900030,117,100368,Angie Braziel,1611661314,Charlotte Sting,1,8,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990622,DET,CHA,1999-00
+Shot Chart Detail,1029900030,119,100368,Angie Braziel,1611661314,Charlotte Sting,1,7,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-104,66,1,0,19990622,DET,CHA,1999-00
+Shot Chart Detail,1029900033,377,100368,Angie Braziel,1611661314,Charlotte Sting,2,3,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-113,14,1,1,19990624,CHA,PHO,1999-00
+Shot Chart Detail,1029900033,404,100368,Angie Braziel,1611661314,Charlotte Sting,2,1,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-57,18,1,0,19990624,CHA,PHO,1999-00
+Shot Chart Detail,1029900039,184,100368,Angie Braziel,1611661314,Charlotte Sting,1,0,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,48,5,1,0,19990625,CLE,CHA,1999-00
+Shot Chart Detail,1029900044,261,100368,Angie Braziel,1611661314,Charlotte Sting,2,8,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990627,NYL,CHA,1999-00
+Shot Chart Detail,1029900044,298,100368,Angie Braziel,1611661314,Charlotte Sting,2,4,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,66,104,1,0,19990627,NYL,CHA,1999-00
+Shot Chart Detail,1029900044,321,100368,Angie Braziel,1611661314,Charlotte Sting,2,1,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990627,NYL,CHA,1999-00
+Shot Chart Detail,1029900146,178,100368,Angie Braziel,1611661314,Charlotte Sting,1,2,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990806,HOU,CHA,1999-00
+Shot Chart Detail,1029900146,184,100368,Angie Braziel,1611661314,Charlotte Sting,1,2,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990806,HOU,CHA,1999-00
+Shot Chart Detail,1029900146,196,100368,Angie Braziel,1611661314,Charlotte Sting,1,0,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,1,166,1,0,19990806,HOU,CHA,1999-00

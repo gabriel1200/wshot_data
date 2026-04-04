@@ -1,0 +1,14 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1029700013,333,100049,Raegan Scott,1611661319,Utah Starzz,2,5,25,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-10,90,1,1,19970628,UTA,HOU,1997-98
+Shot Chart Detail,1029700021,143,100049,Raegan Scott,1611661319,Utah Starzz,1,5,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-51,6,1,0,19970703,UTA,PHO,1997-98
+Shot Chart Detail,1029700040,188,100049,Raegan Scott,1611661319,Utah Starzz,1,0,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,73,145,1,0,19970714,HOU,UTA,1997-98
+Shot Chart Detail,1029700040,375,100049,Raegan Scott,1611661319,Utah Starzz,2,1,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970714,HOU,UTA,1997-98
+Shot Chart Detail,1029700040,407,100049,Raegan Scott,1611661319,Utah Starzz,2,0,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,77,52,1,0,19970714,HOU,UTA,1997-98
+Shot Chart Detail,1029700047,392,100049,Raegan Scott,1611661319,Utah Starzz,2,2,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,71,23,1,0,19970717,NYL,UTA,1997-98
+Shot Chart Detail,1029700047,396,100049,Raegan Scott,1611661319,Utah Starzz,2,1,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,73,58,1,1,19970717,NYL,UTA,1997-98
+Shot Chart Detail,1029700050,326,100049,Raegan Scott,1611661319,Utah Starzz,2,6,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,10,108,1,1,19970719,CLE,UTA,1997-98
+Shot Chart Detail,1029700050,328,100049,Raegan Scott,1611661319,Utah Starzz,2,5,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-118,88,1,0,19970719,CLE,UTA,1997-98
+Shot Chart Detail,1029700050,357,100049,Raegan Scott,1611661319,Utah Starzz,2,3,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,99,8,1,1,19970719,CLE,UTA,1997-98
+Shot Chart Detail,1029700050,366,100049,Raegan Scott,1611661319,Utah Starzz,2,2,20,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,8,1,0,19970719,CLE,UTA,1997-98
+Shot Chart Detail,1029700050,376,100049,Raegan Scott,1611661319,Utah Starzz,2,1,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,142,84,1,0,19970719,CLE,UTA,1997-98
+Shot Chart Detail,1029700050,389,100049,Raegan Scott,1611661319,Utah Starzz,2,0,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-116,88,1,1,19970719,CLE,UTA,1997-98

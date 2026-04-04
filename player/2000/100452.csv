@@ -1,0 +1,57 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020000008,313,100452,E.C. Hill,1611661314,Charlotte Sting,2,11,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,16,1,0,20000601,ORL,CHA,2000-01
+Shot Chart Detail,1020000008,326,100452,E.C. Hill,1611661314,Charlotte Sting,2,9,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,12,209,1,1,20000601,ORL,CHA,2000-01
+Shot Chart Detail,1020000013,438,100452,E.C. Hill,1611661314,Charlotte Sting,3,0,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-134,175,1,0,20000603,CHA,MIA,2000-01
+Shot Chart Detail,1020000036,92,100452,E.C. Hill,1611661314,Charlotte Sting,1,9,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,100,98,1,0,20000609,CHA,SEA,2000-01
+Shot Chart Detail,1020000036,252,100452,E.C. Hill,1611661314,Charlotte Sting,2,9,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,21,1,0,20000609,CHA,SEA,2000-01
+Shot Chart Detail,1020000057,331,100452,E.C. Hill,1611661314,Charlotte Sting,2,8,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-115,100,1,0,20000615,UTA,CHA,2000-01
+Shot Chart Detail,1020000057,416,100452,E.C. Hill,1611661314,Charlotte Sting,2,1,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,5,1,1,20000615,UTA,CHA,2000-01
+Shot Chart Detail,1020000057,422,100452,E.C. Hill,1611661314,Charlotte Sting,2,0,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,29,115,1,0,20000615,UTA,CHA,2000-01
+Shot Chart Detail,1020000064,115,100452,E.C. Hill,1611661314,Charlotte Sting,1,9,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,158,128,1,0,20000617,SAC,CHA,2000-01
+Shot Chart Detail,1020000064,273,100452,E.C. Hill,1611661314,Charlotte Sting,2,12,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,143,93,1,0,20000617,SAC,CHA,2000-01
+Shot Chart Detail,1020000064,322,100452,E.C. Hill,1611661314,Charlotte Sting,2,8,5,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,20,207,5,1,0,20000617,SAC,CHA,2000-01
+Shot Chart Detail,1020000069,116,100452,E.C. Hill,1611661314,Charlotte Sting,1,7,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,59,141,1,0,20000618,LAS,CHA,2000-01
+Shot Chart Detail,1020000080,81,100452,E.C. Hill,1611661314,Charlotte Sting,1,9,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,33,216,1,0,20000622,CHA,PHO,2000-01
+Shot Chart Detail,1020000080,385,100452,E.C. Hill,1611661314,Charlotte Sting,2,1,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-85,55,1,1,20000622,CHA,PHO,2000-01
+Shot Chart Detail,1020000101,79,100452,E.C. Hill,1611661314,Charlotte Sting,1,9,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000628,CHA,HOU,2000-01
+Shot Chart Detail,1020000101,100,100452,E.C. Hill,1611661314,Charlotte Sting,1,5,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,70,196,1,1,20000628,CHA,HOU,2000-01
+Shot Chart Detail,1020000101,212,100452,E.C. Hill,1611661314,Charlotte Sting,2,12,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,154,145,1,1,20000628,CHA,HOU,2000-01
+Shot Chart Detail,1020000113,76,100452,E.C. Hill,1611661314,Charlotte Sting,1,11,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000701,CHA,WAS,2000-01
+Shot Chart Detail,1020000113,285,100452,E.C. Hill,1611661314,Charlotte Sting,2,9,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,218,51,1,1,20000701,CHA,WAS,2000-01
+Shot Chart Detail,1020000113,297,100452,E.C. Hill,1611661314,Charlotte Sting,2,8,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,-3,209,1,1,20000701,CHA,WAS,2000-01
+Shot Chart Detail,1020000113,310,100452,E.C. Hill,1611661314,Charlotte Sting,2,7,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000701,CHA,WAS,2000-01
+Shot Chart Detail,1020000126,114,100452,E.C. Hill,1611661314,Charlotte Sting,1,7,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000705,CHA,MIA,2000-01
+Shot Chart Detail,1020000126,274,100452,E.C. Hill,1611661314,Charlotte Sting,2,9,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000705,CHA,MIA,2000-01
+Shot Chart Detail,1020000135,335,100452,E.C. Hill,1611661314,Charlotte Sting,2,0,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,44,201,1,0,20000707,HOU,CHA,2000-01
+Shot Chart Detail,1020000139,136,100452,E.C. Hill,1611661314,Charlotte Sting,1,7,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000708,CHA,CLE,2000-01
+Shot Chart Detail,1020000139,258,100452,E.C. Hill,1611661314,Charlotte Sting,2,14,50,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,3,91,1,1,20000708,CHA,CLE,2000-01
+Shot Chart Detail,1020000139,287,100452,E.C. Hill,1611661314,Charlotte Sting,2,11,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,130,179,1,0,20000708,CHA,CLE,2000-01
+Shot Chart Detail,1020000139,316,100452,E.C. Hill,1611661314,Charlotte Sting,2,8,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,211,38,1,0,20000708,CHA,CLE,2000-01
+Shot Chart Detail,1020000139,326,100452,E.C. Hill,1611661314,Charlotte Sting,2,7,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-143,149,1,0,20000708,CHA,CLE,2000-01
+Shot Chart Detail,1020000139,344,100452,E.C. Hill,1611661314,Charlotte Sting,2,6,30,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000708,CHA,CLE,2000-01
+Shot Chart Detail,1020000148,290,100452,E.C. Hill,1611661314,Charlotte Sting,2,9,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-132,188,1,0,20000710,CLE,CHA,2000-01
+Shot Chart Detail,1020000151,94,100452,E.C. Hill,1611661314,Charlotte Sting,1,9,34,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-8,66,1,0,20000712,NYL,CHA,2000-01
+Shot Chart Detail,1020000151,101,100452,E.C. Hill,1611661314,Charlotte Sting,1,8,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-166,139,1,0,20000712,NYL,CHA,2000-01
+Shot Chart Detail,1020000151,262,100452,E.C. Hill,1611661314,Charlotte Sting,2,13,4,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-1,111,1,1,20000712,NYL,CHA,2000-01
+Shot Chart Detail,1020000165,233,100452,E.C. Hill,1611661314,Charlotte Sting,2,10,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-119,27,1,1,20000715,WAS,CHA,2000-01
+Shot Chart Detail,1020000165,269,100452,E.C. Hill,1611661314,Charlotte Sting,2,6,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,-53,203,1,0,20000715,WAS,CHA,2000-01
+Shot Chart Detail,1020000178,251,100452,E.C. Hill,1611661314,Charlotte Sting,2,11,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-121,216,1,0,20000721,CHA,POR,2000-01
+Shot Chart Detail,1020000184,93,100452,E.C. Hill,1611661314,Charlotte Sting,1,7,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,10,227,1,0,20000722,IND,CHA,2000-01
+Shot Chart Detail,1020000184,328,100452,E.C. Hill,1611661314,Charlotte Sting,2,1,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-149,25,1,0,20000722,IND,CHA,2000-01
+Shot Chart Detail,1020000184,339,100452,E.C. Hill,1611661314,Charlotte Sting,2,0,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-173,61,1,1,20000722,IND,CHA,2000-01
+Shot Chart Detail,1020000191,96,100452,E.C. Hill,1611661314,Charlotte Sting,1,7,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-121,209,1,0,20000724,CHA,IND,2000-01
+Shot Chart Detail,1020000191,280,100452,E.C. Hill,1611661314,Charlotte Sting,2,9,19,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,3,74,1,0,20000724,CHA,IND,2000-01
+Shot Chart Detail,1020000196,15,100452,E.C. Hill,1611661314,Charlotte Sting,1,17,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,85,98,1,0,20000726,CHA,WAS,2000-01
+Shot Chart Detail,1020000203,105,100452,E.C. Hill,1611661314,Charlotte Sting,1,8,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,57,115,1,0,20000728,CHA,NYL,2000-01
+Shot Chart Detail,1020000203,116,100452,E.C. Hill,1611661314,Charlotte Sting,1,7,54,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-218,-5,1,0,20000728,CHA,NYL,2000-01
+Shot Chart Detail,1020000210,86,100452,E.C. Hill,1611661314,Charlotte Sting,1,10,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,-5,1,1,20000729,DET,CHA,2000-01
+Shot Chart Detail,1020000210,326,100452,E.C. Hill,1611661314,Charlotte Sting,2,6,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-94,100,1,0,20000729,DET,CHA,2000-01
+Shot Chart Detail,1020000216,82,100452,E.C. Hill,1611661314,Charlotte Sting,1,9,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-33,63,1,0,20000731,NYL,CHA,2000-01
+Shot Chart Detail,1020000216,345,100452,E.C. Hill,1611661314,Charlotte Sting,2,2,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,25,175,1,0,20000731,NYL,CHA,2000-01
+Shot Chart Detail,1020000216,378,100452,E.C. Hill,1611661314,Charlotte Sting,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-113,186,1,0,20000731,NYL,CHA,2000-01
+Shot Chart Detail,1020000234,90,100452,E.C. Hill,1611661314,Charlotte Sting,1,10,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-3,115,1,0,20000805,CHA,UTA,2000-01
+Shot Chart Detail,1020000234,91,100452,E.C. Hill,1611661314,Charlotte Sting,1,10,14,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000805,CHA,UTA,2000-01
+Shot Chart Detail,1020000247,261,100452,E.C. Hill,1611661314,Charlotte Sting,2,12,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000808,CHA,MIN,2000-01
+Shot Chart Detail,1020000247,273,100452,E.C. Hill,1611661314,Charlotte Sting,2,10,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,18,227,1,0,20000808,CHA,MIN,2000-01
+Shot Chart Detail,1020000252,181,100452,E.C. Hill,1611661314,Charlotte Sting,1,7,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-26,129,1,0,20000809,IND,CHA,2000-01
+Shot Chart Detail,1020000252,299,100452,E.C. Hill,1611661314,Charlotte Sting,2,9,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-57,87,1,0,20000809,IND,CHA,2000-01

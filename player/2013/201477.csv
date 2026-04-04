@@ -1,0 +1,191 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1021300006,86,201477,Tamera Young,1611661329,Chicago Sky,1,1,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,1,20130527,PHO,CHI,2013-14
+Shot Chart Detail,1021300006,167,201477,Tamera Young,1611661329,Chicago Sky,2,4,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,0,1,0,20130527,PHO,CHI,2013-14
+Shot Chart Detail,1021300006,173,201477,Tamera Young,1611661329,Chicago Sky,2,4,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,0,1,1,20130527,PHO,CHI,2013-14
+Shot Chart Detail,1021300006,209,201477,Tamera Young,1611661329,Chicago Sky,2,0,34,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-2,74,1,1,20130527,PHO,CHI,2013-14
+Shot Chart Detail,1021300006,285,201477,Tamera Young,1611661329,Chicago Sky,3,3,20,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-147,146,1,1,20130527,PHO,CHI,2013-14
+Shot Chart Detail,1021300006,351,201477,Tamera Young,1611661329,Chicago Sky,4,8,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,4,1,1,20130527,PHO,CHI,2013-14
+Shot Chart Detail,1021300009,70,201477,Tamera Young,1611661329,Chicago Sky,1,2,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,12,1,0,20130531,CHI,CON,2013-14
+Shot Chart Detail,1021300009,323,201477,Tamera Young,1611661329,Chicago Sky,4,8,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,19,1,0,20130531,CHI,CON,2013-14
+Shot Chart Detail,1021300009,329,201477,Tamera Young,1611661329,Chicago Sky,4,7,22,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-26,60,1,0,20130531,CHI,CON,2013-14
+Shot Chart Detail,1021300009,331,201477,Tamera Young,1611661329,Chicago Sky,4,7,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,3,1,0,20130531,CHI,CON,2013-14
+Shot Chart Detail,1021300009,333,201477,Tamera Young,1611661329,Chicago Sky,4,7,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,1,20130531,CHI,CON,2013-14
+Shot Chart Detail,1021300009,411,201477,Tamera Young,1611661329,Chicago Sky,4,0,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,9,1,1,20130531,CHI,CON,2013-14
+Shot Chart Detail,1021300013,63,201477,Tamera Young,1611661329,Chicago Sky,1,2,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,20,93,1,0,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300013,82,201477,Tamera Young,1611661329,Chicago Sky,1,1,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-82,55,1,1,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300013,90,201477,Tamera Young,1611661329,Chicago Sky,1,0,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,43,48,1,0,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300013,152,201477,Tamera Young,1611661329,Chicago Sky,2,4,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-136,115,1,1,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300013,155,201477,Tamera Young,1611661329,Chicago Sky,2,3,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,58,119,1,1,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300013,169,201477,Tamera Young,1611661329,Chicago Sky,2,2,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,4,1,0,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300013,181,201477,Tamera Young,1611661329,Chicago Sky,2,1,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,12,1,0,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300013,305,201477,Tamera Young,1611661329,Chicago Sky,4,8,52,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,2,47,1,1,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300013,312,201477,Tamera Young,1611661329,Chicago Sky,4,8,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,-8,1,1,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300013,351,201477,Tamera Young,1611661329,Chicago Sky,4,5,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,9,1,1,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300013,370,201477,Tamera Young,1611661329,Chicago Sky,4,4,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,17,1,0,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300013,374,201477,Tamera Young,1611661329,Chicago Sky,4,3,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-163,115,1,1,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300013,376,201477,Tamera Young,1611661329,Chicago Sky,4,2,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,34,1,1,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300019,13,201477,Tamera Young,1611661329,Chicago Sky,1,8,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,6,1,1,20130607,SAN,CHI,2013-14
+Shot Chart Detail,1021300019,17,201477,Tamera Young,1611661329,Chicago Sky,1,7,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-114,19,1,0,20130607,SAN,CHI,2013-14
+Shot Chart Detail,1021300019,56,201477,Tamera Young,1611661329,Chicago Sky,1,3,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,11,1,0,20130607,SAN,CHI,2013-14
+Shot Chart Detail,1021300019,127,201477,Tamera Young,1611661329,Chicago Sky,2,6,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-205,1,1,0,20130607,SAN,CHI,2013-14
+Shot Chart Detail,1021300019,141,201477,Tamera Young,1611661329,Chicago Sky,2,5,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,-10,1,0,20130607,SAN,CHI,2013-14
+Shot Chart Detail,1021300019,212,201477,Tamera Young,1611661329,Chicago Sky,3,9,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-62,168,1,1,20130607,SAN,CHI,2013-14
+Shot Chart Detail,1021300019,223,201477,Tamera Young,1611661329,Chicago Sky,3,7,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,-14,1,0,20130607,SAN,CHI,2013-14
+Shot Chart Detail,1021300025,7,201477,Tamera Young,1611661329,Chicago Sky,1,9,0,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-146,80,1,0,20130609,CHI,SAN,2013-14
+Shot Chart Detail,1021300025,28,201477,Tamera Young,1611661329,Chicago Sky,1,6,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-125,1,1,0,20130609,CHI,SAN,2013-14
+Shot Chart Detail,1021300025,177,201477,Tamera Young,1611661329,Chicago Sky,2,3,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,12,1,0,20130609,CHI,SAN,2013-14
+Shot Chart Detail,1021300025,452,201477,Tamera Young,1611661329,Chicago Sky,4,0,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,23,218,93,1,0,20130609,CHI,SAN,2013-14
+Shot Chart Detail,1021300034,26,201477,Tamera Young,1611661329,Chicago Sky,1,7,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,78,145,1,0,20130616,ATL,CHI,2013-14
+Shot Chart Detail,1021300034,212,201477,Tamera Young,1611661329,Chicago Sky,2,2,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,192,45,1,0,20130616,ATL,CHI,2013-14
+Shot Chart Detail,1021300034,226,201477,Tamera Young,1611661329,Chicago Sky,2,0,59,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,19,1,0,20130616,ATL,CHI,2013-14
+Shot Chart Detail,1021300034,256,201477,Tamera Young,1611661329,Chicago Sky,3,8,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-52,115,1,0,20130616,ATL,CHI,2013-14
+Shot Chart Detail,1021300034,263,201477,Tamera Young,1611661329,Chicago Sky,3,7,52,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,12,1,1,20130616,ATL,CHI,2013-14
+Shot Chart Detail,1021300034,347,201477,Tamera Young,1611661329,Chicago Sky,3,7,14,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,9,1,0,20130616,ATL,CHI,2013-14
+Shot Chart Detail,1021300034,330,201477,Tamera Young,1611661329,Chicago Sky,3,3,10,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,9,1,0,20130616,ATL,CHI,2013-14
+Shot Chart Detail,1021300034,487,201477,Tamera Young,1611661329,Chicago Sky,4,0,10,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,124,124,1,1,20130616,ATL,CHI,2013-14
+Shot Chart Detail,1021300039,74,201477,Tamera Young,1611661329,Chicago Sky,1,2,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,19,1,1,20130620,TUL,CHI,2013-14
+Shot Chart Detail,1021300039,87,201477,Tamera Young,1611661329,Chicago Sky,1,1,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,152,11,1,0,20130620,TUL,CHI,2013-14
+Shot Chart Detail,1021300039,111,201477,Tamera Young,1611661329,Chicago Sky,2,9,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,97,118,1,1,20130620,TUL,CHI,2013-14
+Shot Chart Detail,1021300039,124,201477,Tamera Young,1611661329,Chicago Sky,2,8,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,54,42,1,0,20130620,TUL,CHI,2013-14
+Shot Chart Detail,1021300039,279,201477,Tamera Young,1611661329,Chicago Sky,3,5,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-27,20,1,0,20130620,TUL,CHI,2013-14
+Shot Chart Detail,1021300039,322,201477,Tamera Young,1611661329,Chicago Sky,3,1,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,17,1,0,20130620,TUL,CHI,2013-14
+Shot Chart Detail,1021300043,110,201477,Tamera Young,1611661329,Chicago Sky,2,9,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-11,159,1,0,20130622,IND,CHI,2013-14
+Shot Chart Detail,1021300043,195,201477,Tamera Young,1611661329,Chicago Sky,2,1,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,0,1,1,20130622,IND,CHI,2013-14
+Shot Chart Detail,1021300043,206,201477,Tamera Young,1611661329,Chicago Sky,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-161,-25,1,0,20130622,IND,CHI,2013-14
+Shot Chart Detail,1021300051,197,201477,Tamera Young,1611661329,Chicago Sky,2,3,28,Missed Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,15,1,0,20130626,CHI,NYL,2013-14
+Shot Chart Detail,1021300051,201,201477,Tamera Young,1611661329,Chicago Sky,2,2,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,154,126,1,0,20130626,CHI,NYL,2013-14
+Shot Chart Detail,1021300051,216,201477,Tamera Young,1611661329,Chicago Sky,2,1,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,147,78,1,0,20130626,CHI,NYL,2013-14
+Shot Chart Detail,1021300051,346,201477,Tamera Young,1611661329,Chicago Sky,4,7,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,-22,1,1,20130626,CHI,NYL,2013-14
+Shot Chart Detail,1021300051,415,201477,Tamera Young,1611661329,Chicago Sky,4,1,56,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,56,96,1,0,20130626,CHI,NYL,2013-14
+Shot Chart Detail,1021300051,426,201477,Tamera Young,1611661329,Chicago Sky,4,1,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-198,14,1,1,20130626,CHI,NYL,2013-14
+Shot Chart Detail,1021300058,148,201477,Tamera Young,1611661329,Chicago Sky,2,7,27,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,7,1,1,20130629,CHI,LAS,2013-14
+Shot Chart Detail,1021300058,169,201477,Tamera Young,1611661329,Chicago Sky,2,4,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,9,1,1,20130629,CHI,LAS,2013-14
+Shot Chart Detail,1021300058,355,201477,Tamera Young,1611661329,Chicago Sky,3,0,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,15,1,0,20130629,CHI,LAS,2013-14
+Shot Chart Detail,1021300058,356,201477,Tamera Young,1611661329,Chicago Sky,3,0,12,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,4,1,0,20130629,CHI,LAS,2013-14
+Shot Chart Detail,1021300062,70,201477,Tamera Young,1611661329,Chicago Sky,1,2,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,100,134,1,0,20130702,CHI,SEA,2013-14
+Shot Chart Detail,1021300062,86,201477,Tamera Young,1611661329,Chicago Sky,1,1,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,80,148,1,1,20130702,CHI,SEA,2013-14
+Shot Chart Detail,1021300062,207,201477,Tamera Young,1611661329,Chicago Sky,2,1,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,7,1,0,20130702,CHI,SEA,2013-14
+Shot Chart Detail,1021300062,214,201477,Tamera Young,1611661329,Chicago Sky,2,1,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,11,1,0,20130702,CHI,SEA,2013-14
+Shot Chart Detail,1021300074,214,201477,Tamera Young,1611661329,Chicago Sky,2,2,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-217,0,1,1,20130710,CHI,WAS,2013-14
+Shot Chart Detail,1021300074,236,201477,Tamera Young,1611661329,Chicago Sky,2,0,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,9,1,1,20130710,CHI,WAS,2013-14
+Shot Chart Detail,1021300074,369,201477,Tamera Young,1611661329,Chicago Sky,4,8,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,144,0,1,0,20130710,CHI,WAS,2013-14
+Shot Chart Detail,1021300078,89,201477,Tamera Young,1611661329,Chicago Sky,1,2,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,7,1,1,20130712,CON,CHI,2013-14
+Shot Chart Detail,1021300078,132,201477,Tamera Young,1611661329,Chicago Sky,2,9,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,11,1,1,20130712,CON,CHI,2013-14
+Shot Chart Detail,1021300078,318,201477,Tamera Young,1611661329,Chicago Sky,3,0,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,3,1,0,20130712,CON,CHI,2013-14
+Shot Chart Detail,1021300078,330,201477,Tamera Young,1611661329,Chicago Sky,4,9,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,6,1,1,20130712,CON,CHI,2013-14
+Shot Chart Detail,1021300078,346,201477,Tamera Young,1611661329,Chicago Sky,4,8,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,155,1,1,1,20130712,CON,CHI,2013-14
+Shot Chart Detail,1021300078,367,201477,Tamera Young,1611661329,Chicago Sky,4,5,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,56,1,0,20130712,CON,CHI,2013-14
+Shot Chart Detail,1021300088,91,201477,Tamera Young,1611661329,Chicago Sky,1,1,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-177,-22,1,0,20130718,NYL,CHI,2013-14
+Shot Chart Detail,1021300088,284,201477,Tamera Young,1611661329,Chicago Sky,3,3,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,192,-21,1,0,20130718,NYL,CHI,2013-14
+Shot Chart Detail,1021300088,340,201477,Tamera Young,1611661329,Chicago Sky,4,8,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,30,1,0,20130718,NYL,CHI,2013-14
+Shot Chart Detail,1021300088,346,201477,Tamera Young,1611661329,Chicago Sky,4,8,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-155,-6,1,0,20130718,NYL,CHI,2013-14
+Shot Chart Detail,1021300093,103,201477,Tamera Young,1611661329,Chicago Sky,1,0,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,75,172,1,1,20130720,CHI,NYL,2013-14
+Shot Chart Detail,1021300093,113,201477,Tamera Young,1611661329,Chicago Sky,1,0,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,65,154,1,0,20130720,CHI,NYL,2013-14
+Shot Chart Detail,1021300093,123,201477,Tamera Young,1611661329,Chicago Sky,2,9,41,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,1,1,1,20130720,CHI,NYL,2013-14
+Shot Chart Detail,1021300093,135,201477,Tamera Young,1611661329,Chicago Sky,2,8,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,4,1,1,20130720,CHI,NYL,2013-14
+Shot Chart Detail,1021300093,144,201477,Tamera Young,1611661329,Chicago Sky,2,8,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,4,1,1,20130720,CHI,NYL,2013-14
+Shot Chart Detail,1021300093,150,201477,Tamera Young,1611661329,Chicago Sky,2,6,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,3,1,1,20130720,CHI,NYL,2013-14
+Shot Chart Detail,1021300093,176,201477,Tamera Young,1611661329,Chicago Sky,2,4,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-180,56,1,1,20130720,CHI,NYL,2013-14
+Shot Chart Detail,1021300093,198,201477,Tamera Young,1611661329,Chicago Sky,2,2,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-166,53,1,1,20130720,CHI,NYL,2013-14
+Shot Chart Detail,1021300093,208,201477,Tamera Young,1611661329,Chicago Sky,2,2,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,91,142,1,0,20130720,CHI,NYL,2013-14
+Shot Chart Detail,1021300093,309,201477,Tamera Young,1611661329,Chicago Sky,3,2,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,7,1,1,20130720,CHI,NYL,2013-14
+Shot Chart Detail,1021300093,339,201477,Tamera Young,1611661329,Chicago Sky,4,9,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-150,89,1,0,20130720,CHI,NYL,2013-14
+Shot Chart Detail,1021300100,103,201477,Tamera Young,1611661329,Chicago Sky,1,0,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,103,88,1,1,20130724,WAS,CHI,2013-14
+Shot Chart Detail,1021300100,168,201477,Tamera Young,1611661329,Chicago Sky,2,5,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-101,-2,1,0,20130724,WAS,CHI,2013-14
+Shot Chart Detail,1021300100,212,201477,Tamera Young,1611661329,Chicago Sky,2,2,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,4,1,1,20130724,WAS,CHI,2013-14
+Shot Chart Detail,1021300100,481,201477,Tamera Young,1611661329,Chicago Sky,4,1,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-199,3,1,1,20130724,WAS,CHI,2013-14
+Shot Chart Detail,1021300111,11,201477,Tamera Young,1611661329,Chicago Sky,1,8,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-193,-2,1,1,20130802,CHI,WAS,2013-14
+Shot Chart Detail,1021300111,21,201477,Tamera Young,1611661329,Chicago Sky,1,7,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,0,1,1,20130802,CHI,WAS,2013-14
+Shot Chart Detail,1021300111,31,201477,Tamera Young,1611661329,Chicago Sky,1,5,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-149,72,1,1,20130802,CHI,WAS,2013-14
+Shot Chart Detail,1021300111,131,201477,Tamera Young,1611661329,Chicago Sky,2,5,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-190,7,1,1,20130802,CHI,WAS,2013-14
+Shot Chart Detail,1021300111,158,201477,Tamera Young,1611661329,Chicago Sky,2,2,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,160,-16,1,0,20130802,CHI,WAS,2013-14
+Shot Chart Detail,1021300111,170,201477,Tamera Young,1611661329,Chicago Sky,2,1,58,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-29,4,1,0,20130802,CHI,WAS,2013-14
+Shot Chart Detail,1021300111,172,201477,Tamera Young,1611661329,Chicago Sky,2,1,57,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,-6,1,0,20130802,CHI,WAS,2013-14
+Shot Chart Detail,1021300111,178,201477,Tamera Young,1611661329,Chicago Sky,2,1,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-2,60,1,1,20130802,CHI,WAS,2013-14
+Shot Chart Detail,1021300111,285,201477,Tamera Young,1611661329,Chicago Sky,3,2,51,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,36,50,1,0,20130802,CHI,WAS,2013-14
+Shot Chart Detail,1021300113,343,201477,Tamera Young,1611661329,Chicago Sky,4,9,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,0,154,1,0,20130803,IND,CHI,2013-14
+Shot Chart Detail,1021300113,440,201477,Tamera Young,1611661329,Chicago Sky,4,2,53,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-41,140,1,1,20130803,IND,CHI,2013-14
+Shot Chart Detail,1021300120,88,201477,Tamera Young,1611661329,Chicago Sky,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-177,-2,1,0,20130806,CHI,IND,2013-14
+Shot Chart Detail,1021300120,108,201477,Tamera Young,1611661329,Chicago Sky,2,7,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-2,60,1,0,20130806,CHI,IND,2013-14
+Shot Chart Detail,1021300120,166,201477,Tamera Young,1611661329,Chicago Sky,2,3,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,4,1,1,20130806,CHI,IND,2013-14
+Shot Chart Detail,1021300120,287,201477,Tamera Young,1611661329,Chicago Sky,3,3,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,1,1,1,20130806,CHI,IND,2013-14
+Shot Chart Detail,1021300125,93,201477,Tamera Young,1611661329,Chicago Sky,1,1,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-11,1,0,20130809,CON,CHI,2013-14
+Shot Chart Detail,1021300125,287,201477,Tamera Young,1611661329,Chicago Sky,3,1,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,42,1,0,20130809,CON,CHI,2013-14
+Shot Chart Detail,1021300125,330,201477,Tamera Young,1611661329,Chicago Sky,4,8,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,0,1,0,20130809,CON,CHI,2013-14
+Shot Chart Detail,1021300125,404,201477,Tamera Young,1611661329,Chicago Sky,4,1,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,67,132,1,0,20130809,CON,CHI,2013-14
+Shot Chart Detail,1021300135,46,201477,Tamera Young,1611661329,Chicago Sky,1,5,26,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,0,1,0,20130813,LAS,CHI,2013-14
+Shot Chart Detail,1021300135,83,201477,Tamera Young,1611661329,Chicago Sky,1,2,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,42,1,0,20130813,LAS,CHI,2013-14
+Shot Chart Detail,1021300135,90,201477,Tamera Young,1611661329,Chicago Sky,1,1,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,4,1,1,20130813,LAS,CHI,2013-14
+Shot Chart Detail,1021300135,97,201477,Tamera Young,1611661329,Chicago Sky,1,0,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-13,85,1,0,20130813,LAS,CHI,2013-14
+Shot Chart Detail,1021300135,223,201477,Tamera Young,1611661329,Chicago Sky,3,7,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-134,124,1,1,20130813,LAS,CHI,2013-14
+Shot Chart Detail,1021300135,236,201477,Tamera Young,1611661329,Chicago Sky,3,5,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,162,4,1,0,20130813,LAS,CHI,2013-14
+Shot Chart Detail,1021300135,249,201477,Tamera Young,1611661329,Chicago Sky,3,4,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,4,1,1,20130813,LAS,CHI,2013-14
+Shot Chart Detail,1021300135,289,201477,Tamera Young,1611661329,Chicago Sky,3,0,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,56,112,1,1,20130813,LAS,CHI,2013-14
+Shot Chart Detail,1021300138,17,201477,Tamera Young,1611661329,Chicago Sky,1,8,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,48,115,1,0,20130815,SEA,CHI,2013-14
+Shot Chart Detail,1021300138,55,201477,Tamera Young,1611661329,Chicago Sky,1,3,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,45,15,1,0,20130815,SEA,CHI,2013-14
+Shot Chart Detail,1021300138,75,201477,Tamera Young,1611661329,Chicago Sky,1,2,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,17,1,1,20130815,SEA,CHI,2013-14
+Shot Chart Detail,1021300138,83,201477,Tamera Young,1611661329,Chicago Sky,1,1,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-59,15,1,0,20130815,SEA,CHI,2013-14
+Shot Chart Detail,1021300138,181,201477,Tamera Young,1611661329,Chicago Sky,2,2,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,185,3,1,0,20130815,SEA,CHI,2013-14
+Shot Chart Detail,1021300146,18,201477,Tamera Young,1611661329,Chicago Sky,1,8,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-138,108,1,0,20130818,CHI,CON,2013-14
+Shot Chart Detail,1021300146,169,201477,Tamera Young,1611661329,Chicago Sky,2,3,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,-6,1,1,20130818,CHI,CON,2013-14
+Shot Chart Detail,1021300146,185,201477,Tamera Young,1611661329,Chicago Sky,2,2,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,3,1,0,20130818,CHI,CON,2013-14
+Shot Chart Detail,1021300146,188,201477,Tamera Young,1611661329,Chicago Sky,2,2,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,1,1,0,20130818,CHI,CON,2013-14
+Shot Chart Detail,1021300146,191,201477,Tamera Young,1611661329,Chicago Sky,2,1,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-179,-5,1,1,20130818,CHI,CON,2013-14
+Shot Chart Detail,1021300146,230,201477,Tamera Young,1611661329,Chicago Sky,3,8,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,12,1,1,20130818,CHI,CON,2013-14
+Shot Chart Detail,1021300146,254,201477,Tamera Young,1611661329,Chicago Sky,3,5,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,-6,1,1,20130818,CHI,CON,2013-14
+Shot Chart Detail,1021300146,272,201477,Tamera Young,1611661329,Chicago Sky,3,3,6,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-97,-3,1,0,20130818,CHI,CON,2013-14
+Shot Chart Detail,1021300149,66,201477,Tamera Young,1611661329,Chicago Sky,1,3,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-138,48,1,1,20130820,WAS,CHI,2013-14
+Shot Chart Detail,1021300149,78,201477,Tamera Young,1611661329,Chicago Sky,1,1,31,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,-8,1,1,20130820,WAS,CHI,2013-14
+Shot Chart Detail,1021300149,100,201477,Tamera Young,1611661329,Chicago Sky,1,0,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,155,64,1,0,20130820,WAS,CHI,2013-14
+Shot Chart Detail,1021300149,126,201477,Tamera Young,1611661329,Chicago Sky,2,9,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-81,4,1,0,20130820,WAS,CHI,2013-14
+Shot Chart Detail,1021300149,340,201477,Tamera Young,1611661329,Chicago Sky,3,3,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,-3,1,0,20130820,WAS,CHI,2013-14
+Shot Chart Detail,1021300156,79,201477,Tamera Young,1611661329,Chicago Sky,1,1,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-95,-11,1,0,20130823,CHI,NYL,2013-14
+Shot Chart Detail,1021300156,116,201477,Tamera Young,1611661329,Chicago Sky,2,7,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,-8,1,0,20130823,CHI,NYL,2013-14
+Shot Chart Detail,1021300156,282,201477,Tamera Young,1611661329,Chicago Sky,3,2,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,185,-3,1,1,20130823,CHI,NYL,2013-14
+Shot Chart Detail,1021300156,310,201477,Tamera Young,1611661329,Chicago Sky,3,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-201,-10,1,1,20130823,CHI,NYL,2013-14
+Shot Chart Detail,1021300156,319,201477,Tamera Young,1611661329,Chicago Sky,4,9,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,28,165,1,0,20130823,CHI,NYL,2013-14
+Shot Chart Detail,1021300156,331,201477,Tamera Young,1611661329,Chicago Sky,4,8,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,1,1,1,20130823,CHI,NYL,2013-14
+Shot Chart Detail,1021300156,346,201477,Tamera Young,1611661329,Chicago Sky,4,6,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-5,176,1,0,20130823,CHI,NYL,2013-14
+Shot Chart Detail,1021300156,369,201477,Tamera Young,1611661329,Chicago Sky,4,3,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,54,145,1,0,20130823,CHI,NYL,2013-14
+Shot Chart Detail,1021300159,72,201477,Tamera Young,1611661329,Chicago Sky,1,2,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,130,134,1,0,20130824,ATL,CHI,2013-14
+Shot Chart Detail,1021300159,86,201477,Tamera Young,1611661329,Chicago Sky,1,1,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,173,12,1,0,20130824,ATL,CHI,2013-14
+Shot Chart Detail,1021300159,105,201477,Tamera Young,1611661329,Chicago Sky,1,0,31,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-123,75,1,0,20130824,ATL,CHI,2013-14
+Shot Chart Detail,1021300159,208,201477,Tamera Young,1611661329,Chicago Sky,2,3,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,19,1,0,20130824,ATL,CHI,2013-14
+Shot Chart Detail,1021300159,301,201477,Tamera Young,1611661329,Chicago Sky,3,5,47,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,9,1,0,20130824,ATL,CHI,2013-14
+Shot Chart Detail,1021300159,315,201477,Tamera Young,1611661329,Chicago Sky,3,4,19,Missed Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,6,85,1,0,20130824,ATL,CHI,2013-14
+Shot Chart Detail,1021300159,415,201477,Tamera Young,1611661329,Chicago Sky,4,6,49,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,4,1,0,20130824,ATL,CHI,2013-14
+Shot Chart Detail,1021300159,504,201477,Tamera Young,1611661329,Chicago Sky,4,0,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,45,34,1,0,20130824,ATL,CHI,2013-14
+Shot Chart Detail,1021300170,65,201477,Tamera Young,1611661329,Chicago Sky,1,3,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,11,1,1,20130831,CHI,ATL,2013-14
+Shot Chart Detail,1021300170,73,201477,Tamera Young,1611661329,Chicago Sky,1,3,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,7,1,1,20130831,CHI,ATL,2013-14
+Shot Chart Detail,1021300170,113,201477,Tamera Young,1611661329,Chicago Sky,2,9,6,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,7,1,0,20130831,CHI,ATL,2013-14
+Shot Chart Detail,1021300170,249,201477,Tamera Young,1611661329,Chicago Sky,3,4,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,-17,1,0,20130831,CHI,ATL,2013-14
+Shot Chart Detail,1021300170,298,201477,Tamera Young,1611661329,Chicago Sky,3,1,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-37,113,1,1,20130831,CHI,ATL,2013-14
+Shot Chart Detail,1021300170,318,201477,Tamera Young,1611661329,Chicago Sky,4,9,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,127,78,1,1,20130831,CHI,ATL,2013-14
+Shot Chart Detail,1021300170,380,201477,Tamera Young,1611661329,Chicago Sky,4,4,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-169,17,1,0,20130831,CHI,ATL,2013-14
+Shot Chart Detail,1021300170,398,201477,Tamera Young,1611661329,Chicago Sky,4,2,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,11,1,1,20130831,CHI,ATL,2013-14
+Shot Chart Detail,1021300181,80,201477,Tamera Young,1611661329,Chicago Sky,1,0,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,0,1,0,20130906,CHI,IND,2013-14
+Shot Chart Detail,1021300181,159,201477,Tamera Young,1611661329,Chicago Sky,2,4,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,1,1,1,20130906,CHI,IND,2013-14
+Shot Chart Detail,1021300181,299,201477,Tamera Young,1611661329,Chicago Sky,3,1,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,-10,1,0,20130906,CHI,IND,2013-14
+Shot Chart Detail,1021300181,307,201477,Tamera Young,1611661329,Chicago Sky,3,0,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,108,1,1,0,20130906,CHI,IND,2013-14
+Shot Chart Detail,1021300181,313,201477,Tamera Young,1611661329,Chicago Sky,4,9,38,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-75,105,1,1,20130906,CHI,IND,2013-14
+Shot Chart Detail,1021300181,377,201477,Tamera Young,1611661329,Chicago Sky,4,3,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,3,1,0,20130906,CHI,IND,2013-14
+Shot Chart Detail,1021300181,396,201477,Tamera Young,1611661329,Chicago Sky,4,0,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,1,1,0,20130906,CHI,IND,2013-14
+Shot Chart Detail,1021300186,101,201477,Tamera Young,1611661329,Chicago Sky,1,1,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,165,4,1,0,20130908,WAS,CHI,2013-14
+Shot Chart Detail,1021300186,150,201477,Tamera Young,1611661329,Chicago Sky,2,7,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-139,3,1,1,20130908,WAS,CHI,2013-14
+Shot Chart Detail,1021300186,222,201477,Tamera Young,1611661329,Chicago Sky,2,1,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,7,1,0,20130908,WAS,CHI,2013-14
+Shot Chart Detail,1021300186,224,201477,Tamera Young,1611661329,Chicago Sky,2,1,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,7,1,1,20130908,WAS,CHI,2013-14
+Shot Chart Detail,1021300186,313,201477,Tamera Young,1611661329,Chicago Sky,3,2,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,-8,1,0,20130908,WAS,CHI,2013-14
+Shot Chart Detail,1021300192,291,201477,Tamera Young,1611661329,Chicago Sky,3,1,19,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,20,131,1,1,20130911,CHI,PHO,2013-14
+Shot Chart Detail,1021300192,297,201477,Tamera Young,1611661329,Chicago Sky,3,0,45,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,15,134,1,1,20130911,CHI,PHO,2013-14
+Shot Chart Detail,1021300197,100,201477,Tamera Young,1611661329,Chicago Sky,1,0,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,89,145,1,1,20130913,CHI,ATL,2013-14
+Shot Chart Detail,1021300197,148,201477,Tamera Young,1611661329,Chicago Sky,2,6,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-193,-2,1,0,20130913,CHI,ATL,2013-14
+Shot Chart Detail,1021300197,155,201477,Tamera Young,1611661329,Chicago Sky,2,5,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,-2,1,0,20130913,CHI,ATL,2013-14
+Shot Chart Detail,1021300197,288,201477,Tamera Young,1611661329,Chicago Sky,3,4,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,18,149,1,0,20130913,CHI,ATL,2013-14
+Shot Chart Detail,1021300197,305,201477,Tamera Young,1611661329,Chicago Sky,3,2,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,-6,1,0,20130913,CHI,ATL,2013-14
+Shot Chart Detail,1021300197,326,201477,Tamera Young,1611661329,Chicago Sky,3,0,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-5,118,1,0,20130913,CHI,ATL,2013-14
+Shot Chart Detail,1021300197,359,201477,Tamera Young,1611661329,Chicago Sky,4,6,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,15,1,1,20130913,CHI,ATL,2013-14
+Shot Chart Detail,1021300199,50,201477,Tamera Young,1611661329,Chicago Sky,1,5,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,1,1,1,20130914,MIN,CHI,2013-14
+Shot Chart Detail,1021300199,56,201477,Tamera Young,1611661329,Chicago Sky,1,5,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,4,1,1,20130914,MIN,CHI,2013-14
+Shot Chart Detail,1021300199,100,201477,Tamera Young,1611661329,Chicago Sky,1,1,52,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-46,17,1,0,20130914,MIN,CHI,2013-14
+Shot Chart Detail,1021300199,233,201477,Tamera Young,1611661329,Chicago Sky,3,5,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,130,61,1,0,20130914,MIN,CHI,2013-14
+Shot Chart Detail,1021300199,383,201477,Tamera Young,1611661329,Chicago Sky,4,2,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-29,186,1,0,20130914,MIN,CHI,2013-14

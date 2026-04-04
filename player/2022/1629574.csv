@@ -1,0 +1,19 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1022200047,366,1629574,Li Yueru,1611661329,Chicago Sky,3,4,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-22,176,1,0,20220528,CHI,LVA,2022-23
+Shot Chart Detail,1022200047,380,1629574,Li Yueru,1611661329,Chicago Sky,3,3,19,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-5,1,0,20220528,CHI,LVA,2022-23
+Shot Chart Detail,1022200053,138,1629574,Li Yueru,1611661329,Chicago Sky,2,9,26,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,13,1,1,20220531,CHI,PHO,2022-23
+Shot Chart Detail,1022200053,151,1629574,Li Yueru,1611661329,Chicago Sky,2,7,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,11,1,0,20220531,CHI,PHO,2022-23
+Shot Chart Detail,1022200073,410,1629574,Li Yueru,1611661329,Chicago Sky,4,7,31,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,8,1,1,20220610,CON,CHI,2022-23
+Shot Chart Detail,1022200091,129,1629574,Li Yueru,1611661329,Chicago Sky,1,1,45,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,26,1,0,20220617,CHI,ATL,2022-23
+Shot Chart Detail,1022200091,160,1629574,Li Yueru,1611661329,Chicago Sky,2,9,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,9,1,1,20220617,CHI,ATL,2022-23
+Shot Chart Detail,1022200093,135,1629574,Li Yueru,1611661329,Chicago Sky,1,0,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,11,1,0,20220619,IND,CHI,2022-23
+Shot Chart Detail,1022200105,452,1629574,Li Yueru,1611661329,Chicago Sky,4,8,40,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-41,9,1,0,20220623,LAS,CHI,2022-23
+Shot Chart Detail,1022200105,463,1629574,Li Yueru,1611661329,Chicago Sky,4,7,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,23,1,0,20220623,LAS,CHI,2022-23
+Shot Chart Detail,1022200105,479,1629574,Li Yueru,1611661329,Chicago Sky,4,6,20,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-7,38,1,1,20220623,LAS,CHI,2022-23
+Shot Chart Detail,1022200105,518,1629574,Li Yueru,1611661329,Chicago Sky,4,3,23,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,18,1,1,20220623,LAS,CHI,2022-23
+Shot Chart Detail,1022200105,538,1629574,Li Yueru,1611661329,Chicago Sky,4,1,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,204,51,1,0,20220623,LAS,CHI,2022-23
+Shot Chart Detail,1022200134,108,1629574,Li Yueru,1611661329,Chicago Sky,1,0,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,11,1,0,20220707,IND,CHI,2022-23
+Shot Chart Detail,1022200139,567,1629574,Li Yueru,1611661329,Chicago Sky,4,0,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,20,1,1,20220712,CHI,ATL,2022-23
+Shot Chart Detail,1022200146,238,1629574,Li Yueru,1611661329,Chicago Sky,2,2,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,23,1,1,20220714,LAS,CHI,2022-23
+Shot Chart Detail,1022200162,206,1629574,Li Yueru,1611661329,Chicago Sky,2,3,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,50,1,0,20220722,CHI,DAL,2022-23
+Shot Chart Detail,1022200162,210,1629574,Li Yueru,1611661329,Chicago Sky,2,3,9,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,14,1,1,20220722,CHI,DAL,2022-23

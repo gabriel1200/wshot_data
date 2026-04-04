@@ -1,0 +1,7 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020400022,95,100927,Stacy Stephens,1611661321,Detroit Shock,1,10,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-6,43,1,0,20040529,DET,LAS,2004-05
+Shot Chart Detail,1020400071,128,100927,Stacy Stephens,1611661321,Detroit Shock,1,6,12,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,16,66,1,1,20040622,DET,WAS,2004-05
+Shot Chart Detail,1020400071,133,100927,Stacy Stephens,1611661321,Detroit Shock,1,5,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040622,DET,WAS,2004-05
+Shot Chart Detail,1020400075,16,100927,Stacy Stephens,1611661321,Detroit Shock,1,17,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040623,CHA,DET,2004-05
+Shot Chart Detail,1020400078,205,100927,Stacy Stephens,1611661321,Detroit Shock,1,2,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-28,13,1,0,20040625,CON,DET,2004-05
+Shot Chart Detail,1020400078,217,100927,Stacy Stephens,1611661321,Detroit Shock,1,2,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,2,1,1,20040625,CON,DET,2004-05

@@ -1,0 +1,74 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020000008,51,100446,Summer Erb,1611661314,Charlotte Sting,1,14,40,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-14,63,1,0,20000601,ORL,CHA,2000-01
+Shot Chart Detail,1020000008,87,100446,Summer Erb,1611661314,Charlotte Sting,1,11,39,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,12,40,1,1,20000601,ORL,CHA,2000-01
+Shot Chart Detail,1020000008,204,100446,Summer Erb,1611661314,Charlotte Sting,1,0,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000601,ORL,CHA,2000-01
+Shot Chart Detail,1020000008,317,100446,Summer Erb,1611661314,Charlotte Sting,2,10,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000601,ORL,CHA,2000-01
+Shot Chart Detail,1020000013,76,100446,Summer Erb,1611661314,Charlotte Sting,1,10,24,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-53,44,1,0,20000603,CHA,MIA,2000-01
+Shot Chart Detail,1020000013,105,100446,Summer Erb,1611661314,Charlotte Sting,1,6,30,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000603,CHA,MIA,2000-01
+Shot Chart Detail,1020000013,106,100446,Summer Erb,1611661314,Charlotte Sting,1,6,29,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000603,CHA,MIA,2000-01
+Shot Chart Detail,1020000013,221,100446,Summer Erb,1611661314,Charlotte Sting,2,15,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000603,CHA,MIA,2000-01
+Shot Chart Detail,1020000013,267,100446,Summer Erb,1611661314,Charlotte Sting,2,11,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-106,0,1,0,20000603,CHA,MIA,2000-01
+Shot Chart Detail,1020000021,74,100446,Summer Erb,1611661314,Charlotte Sting,1,11,38,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-76,21,1,0,20000605,CHA,CLE,2000-01
+Shot Chart Detail,1020000038,109,100446,Summer Erb,1611661314,Charlotte Sting,1,9,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000610,CHA,ORL,2000-01
+Shot Chart Detail,1020000038,117,100446,Summer Erb,1611661314,Charlotte Sting,1,8,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000610,CHA,ORL,2000-01
+Shot Chart Detail,1020000038,121,100446,Summer Erb,1611661314,Charlotte Sting,1,8,6,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000610,CHA,ORL,2000-01
+Shot Chart Detail,1020000038,140,100446,Summer Erb,1611661314,Charlotte Sting,1,5,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000610,CHA,ORL,2000-01
+Shot Chart Detail,1020000038,288,100446,Summer Erb,1611661314,Charlotte Sting,2,9,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000610,CHA,ORL,2000-01
+Shot Chart Detail,1020000038,329,100446,Summer Erb,1611661314,Charlotte Sting,2,4,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,160,169,1,0,20000610,CHA,ORL,2000-01
+Shot Chart Detail,1020000038,361,100446,Summer Erb,1611661314,Charlotte Sting,2,2,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-31,33,1,0,20000610,CHA,ORL,2000-01
+Shot Chart Detail,1020000038,380,100446,Summer Erb,1611661314,Charlotte Sting,2,0,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000610,CHA,ORL,2000-01
+Shot Chart Detail,1020000045,79,100446,Summer Erb,1611661314,Charlotte Sting,1,12,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000612,DET,CHA,2000-01
+Shot Chart Detail,1020000045,81,100446,Summer Erb,1611661314,Charlotte Sting,1,12,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000612,DET,CHA,2000-01
+Shot Chart Detail,1020000045,253,100446,Summer Erb,1611661314,Charlotte Sting,2,16,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000612,DET,CHA,2000-01
+Shot Chart Detail,1020000045,396,100446,Summer Erb,1611661314,Charlotte Sting,2,1,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000612,DET,CHA,2000-01
+Shot Chart Detail,1020000057,428,100446,Summer Erb,1611661314,Charlotte Sting,2,0,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,35,27,1,0,20000615,UTA,CHA,2000-01
+Shot Chart Detail,1020000064,101,100446,Summer Erb,1611661314,Charlotte Sting,1,9,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,27,46,1,0,20000617,SAC,CHA,2000-01
+Shot Chart Detail,1020000069,126,100446,Summer Erb,1611661314,Charlotte Sting,1,7,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000618,LAS,CHA,2000-01
+Shot Chart Detail,1020000069,128,100446,Summer Erb,1611661314,Charlotte Sting,1,7,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000618,LAS,CHA,2000-01
+Shot Chart Detail,1020000069,181,100446,Summer Erb,1611661314,Charlotte Sting,1,3,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000618,LAS,CHA,2000-01
+Shot Chart Detail,1020000069,283,100446,Summer Erb,1611661314,Charlotte Sting,2,12,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,25,1,0,20000618,LAS,CHA,2000-01
+Shot Chart Detail,1020000069,293,100446,Summer Erb,1611661314,Charlotte Sting,2,11,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000618,LAS,CHA,2000-01
+Shot Chart Detail,1020000069,301,100446,Summer Erb,1611661314,Charlotte Sting,2,10,48,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,53,89,1,1,20000618,LAS,CHA,2000-01
+Shot Chart Detail,1020000069,325,100446,Summer Erb,1611661314,Charlotte Sting,2,9,7,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,5,63,1,1,20000618,LAS,CHA,2000-01
+Shot Chart Detail,1020000069,365,100446,Summer Erb,1611661314,Charlotte Sting,2,5,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000618,LAS,CHA,2000-01
+Shot Chart Detail,1020000069,379,100446,Summer Erb,1611661314,Charlotte Sting,2,3,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000618,LAS,CHA,2000-01
+Shot Chart Detail,1020000069,390,100446,Summer Erb,1611661314,Charlotte Sting,2,2,13,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-63,18,1,1,20000618,LAS,CHA,2000-01
+Shot Chart Detail,1020000069,409,100446,Summer Erb,1611661314,Charlotte Sting,2,0,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000618,LAS,CHA,2000-01
+Shot Chart Detail,1020000076,121,100446,Summer Erb,1611661314,Charlotte Sting,1,7,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,5,1,1,20000620,POR,CHA,2000-01
+Shot Chart Detail,1020000076,243,100446,Summer Erb,1611661314,Charlotte Sting,2,13,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000620,POR,CHA,2000-01
+Shot Chart Detail,1020000076,407,100446,Summer Erb,1611661314,Charlotte Sting,3,1,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-66,38,1,0,20000620,POR,CHA,2000-01
+Shot Chart Detail,1020000080,92,100446,Summer Erb,1611661314,Charlotte Sting,1,8,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000622,CHA,PHO,2000-01
+Shot Chart Detail,1020000080,103,100446,Summer Erb,1611661314,Charlotte Sting,1,8,1,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000622,CHA,PHO,2000-01
+Shot Chart Detail,1020000080,125,100446,Summer Erb,1611661314,Charlotte Sting,1,6,18,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000622,CHA,PHO,2000-01
+Shot Chart Detail,1020000080,144,100446,Summer Erb,1611661314,Charlotte Sting,1,3,51,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-38,38,1,0,20000622,CHA,PHO,2000-01
+Shot Chart Detail,1020000080,291,100446,Summer Erb,1611661314,Charlotte Sting,2,8,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,83,1,1,0,20000622,CHA,PHO,2000-01
+Shot Chart Detail,1020000080,390,100446,Summer Erb,1611661314,Charlotte Sting,2,0,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000622,CHA,PHO,2000-01
+Shot Chart Detail,1020000088,258,100446,Summer Erb,1611661314,Charlotte Sting,2,13,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000624,ORL,CHA,2000-01
+Shot Chart Detail,1020000088,279,100446,Summer Erb,1611661314,Charlotte Sting,2,12,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000624,ORL,CHA,2000-01
+Shot Chart Detail,1020000088,309,100446,Summer Erb,1611661314,Charlotte Sting,2,8,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000624,ORL,CHA,2000-01
+Shot Chart Detail,1020000094,109,100446,Summer Erb,1611661314,Charlotte Sting,1,9,10,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,12,63,1,0,20000625,CHA,DET,2000-01
+Shot Chart Detail,1020000094,123,100446,Summer Erb,1611661314,Charlotte Sting,1,8,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000625,CHA,DET,2000-01
+Shot Chart Detail,1020000094,146,100446,Summer Erb,1611661314,Charlotte Sting,1,6,15,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000625,CHA,DET,2000-01
+Shot Chart Detail,1020000094,230,100446,Summer Erb,1611661314,Charlotte Sting,1,2,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-106,-12,1,1,20000625,CHA,DET,2000-01
+Shot Chart Detail,1020000094,246,100446,Summer Erb,1611661314,Charlotte Sting,1,1,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,85,0,1,1,20000625,CHA,DET,2000-01
+Shot Chart Detail,1020000094,372,100446,Summer Erb,1611661314,Charlotte Sting,2,2,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000625,CHA,DET,2000-01
+Shot Chart Detail,1020000101,87,100446,Summer Erb,1611661314,Charlotte Sting,1,7,30,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,70,-12,1,0,20000628,CHA,HOU,2000-01
+Shot Chart Detail,1020000113,135,100446,Summer Erb,1611661314,Charlotte Sting,1,4,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,91,33,1,0,20000701,CHA,WAS,2000-01
+Shot Chart Detail,1020000135,85,100446,Summer Erb,1611661314,Charlotte Sting,1,7,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,66,33,1,0,20000707,HOU,CHA,2000-01
+Shot Chart Detail,1020000139,120,100446,Summer Erb,1611661314,Charlotte Sting,1,7,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-25,149,1,0,20000708,CHA,CLE,2000-01
+Shot Chart Detail,1020000148,286,100446,Summer Erb,1611661314,Charlotte Sting,2,10,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,16,1,1,20000710,CLE,CHA,2000-01
+Shot Chart Detail,1020000165,84,100446,Summer Erb,1611661314,Charlotte Sting,1,8,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,96,12,1,0,20000715,WAS,CHA,2000-01
+Shot Chart Detail,1020000165,245,100446,Summer Erb,1611661314,Charlotte Sting,2,9,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,16,1,1,20000715,WAS,CHA,2000-01
+Shot Chart Detail,1020000165,243,100446,Summer Erb,1611661314,Charlotte Sting,2,9,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,5,1,0,20000715,WAS,CHA,2000-01
+Shot Chart Detail,1020000165,253,100446,Summer Erb,1611661314,Charlotte Sting,2,8,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,111,-3,1,0,20000715,WAS,CHA,2000-01
+Shot Chart Detail,1020000178,303,100446,Summer Erb,1611661314,Charlotte Sting,2,6,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,91,10,1,0,20000721,CHA,POR,2000-01
+Shot Chart Detail,1020000184,273,100446,Summer Erb,1611661314,Charlotte Sting,2,7,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,1,1,0,20000722,IND,CHA,2000-01
+Shot Chart Detail,1020000203,243,100446,Summer Erb,1611661314,Charlotte Sting,2,13,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-91,21,1,1,20000728,CHA,NYL,2000-01
+Shot Chart Detail,1020000203,271,100446,Summer Erb,1611661314,Charlotte Sting,2,10,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-91,51,1,0,20000728,CHA,NYL,2000-01
+Shot Chart Detail,1020000203,285,100446,Summer Erb,1611661314,Charlotte Sting,2,9,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,145,51,1,0,20000728,CHA,NYL,2000-01
+Shot Chart Detail,1020000203,291,100446,Summer Erb,1611661314,Charlotte Sting,2,8,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,106,104,1,0,20000728,CHA,NYL,2000-01
+Shot Chart Detail,1020000230,389,100446,Summer Erb,1611661314,Charlotte Sting,2,0,7,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-3,102,1,1,20000804,MIA,CHA,2000-01
+Shot Chart Detail,1020000252,125,100446,Summer Erb,1611661314,Charlotte Sting,1,7,52,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-27,40,1,1,20000809,IND,CHA,2000-01
+Shot Chart Detail,1020000252,136,100446,Summer Erb,1611661314,Charlotte Sting,1,6,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-94,141,1,0,20000809,IND,CHA,2000-01
+Shot Chart Detail,1020000252,323,100446,Summer Erb,1611661314,Charlotte Sting,2,7,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-51,-8,1,0,20000809,IND,CHA,2000-01
+Shot Chart Detail,1020000252,387,100446,Summer Erb,1611661314,Charlotte Sting,2,1,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,-18,1,1,20000809,IND,CHA,2000-01

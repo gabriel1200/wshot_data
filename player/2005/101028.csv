@@ -1,0 +1,22 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020500075,214,101028,Loree Moore,1611661313,New York Liberty,2,9,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,57,51,1,1,20050625,CHA,NYL,2005-06
+Shot Chart Detail,1020500091,110,101028,Loree Moore,1611661313,New York Liberty,1,4,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-20,215,1,0,20050702,SAN,NYL,2005-06
+Shot Chart Detail,1020500091,132,101028,Loree Moore,1611661313,New York Liberty,1,2,56,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-41,3,1,0,20050702,SAN,NYL,2005-06
+Shot Chart Detail,1020500100,85,101028,Loree Moore,1611661313,New York Liberty,1,9,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050707,NYL,CON,2005-06
+Shot Chart Detail,1020500102,82,101028,Loree Moore,1611661313,New York Liberty,1,8,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,-21,1,0,20050712,HOU,NYL,2005-06
+Shot Chart Detail,1020500102,85,101028,Loree Moore,1611661313,New York Liberty,1,8,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050712,HOU,NYL,2005-06
+Shot Chart Detail,1020500110,96,101028,Loree Moore,1611661313,New York Liberty,1,5,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050715,NYL,MIN,2005-06
+Shot Chart Detail,1020500124,179,101028,Loree Moore,1611661313,New York Liberty,1,0,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,74,59,1,0,20050719,SEA,NYL,2005-06
+Shot Chart Detail,1020500125,91,101028,Loree Moore,1611661313,New York Liberty,1,7,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050721,PHO,NYL,2005-06
+Shot Chart Detail,1020500129,177,101028,Loree Moore,1611661313,New York Liberty,1,0,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,22,1,0,20050722,SAC,NYL,2005-06
+Shot Chart Detail,1020500129,247,101028,Loree Moore,1611661313,New York Liberty,2,13,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,107,120,1,1,20050722,SAC,NYL,2005-06
+Shot Chart Detail,1020500129,292,101028,Loree Moore,1611661313,New York Liberty,2,8,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050722,SAC,NYL,2005-06
+Shot Chart Detail,1020500134,226,101028,Loree Moore,1611661313,New York Liberty,2,10,23,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050724,MIN,NYL,2005-06
+Shot Chart Detail,1020500150,34,101028,Loree Moore,1611661313,New York Liberty,1,15,29,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050731,NYL,IND,2005-06
+Shot Chart Detail,1020500154,119,101028,Loree Moore,1611661313,New York Liberty,1,5,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,87,95,1,1,20050802,NYL,CON,2005-06
+Shot Chart Detail,1020500173,149,101028,Loree Moore,1611661313,New York Liberty,1,2,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-8,155,1,0,20050810,NYL,LAS,2005-06
+Shot Chart Detail,1020500178,82,101028,Loree Moore,1611661313,New York Liberty,1,9,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050812,CHA,NYL,2005-06
+Shot Chart Detail,1020500185,94,101028,Loree Moore,1611661313,New York Liberty,1,7,52,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050814,NYL,CHA,2005-06
+Shot Chart Detail,1020500206,124,101028,Loree Moore,1611661313,New York Liberty,1,4,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,77,58,1,0,20050823,WAS,NYL,2005-06
+Shot Chart Detail,1020500220,204,101028,Loree Moore,1611661313,New York Liberty,2,10,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-10,184,1,0,20050827,IND,NYL,2005-06
+Shot Chart Detail,1020500220,277,101028,Loree Moore,1611661313,New York Liberty,2,2,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-28,5,1,1,20050827,IND,NYL,2005-06

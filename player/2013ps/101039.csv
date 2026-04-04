@@ -1,0 +1,17 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1041300101,141,101039,Erin Phillips,1611661325,Indiana Fever,2,7,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,6,206,1,1,20130920,CHI,IND,2013-14
+Shot Chart Detail,1041300101,159,101039,Erin Phillips,1611661325,Indiana Fever,2,5,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,88,227,1,1,20130920,CHI,IND,2013-14
+Shot Chart Detail,1041300101,275,101039,Erin Phillips,1611661325,Indiana Fever,3,2,40,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,242,-6,1,0,20130920,CHI,IND,2013-14
+Shot Chart Detail,1041300102,79,101039,Erin Phillips,1611661325,Indiana Fever,1,1,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-146,194,1,1,20130922,IND,CHI,2013-14
+Shot Chart Detail,1041300102,331,101039,Erin Phillips,1611661325,Indiana Fever,3,0,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,-21,1,0,20130922,IND,CHI,2013-14
+Shot Chart Detail,1041300102,381,101039,Erin Phillips,1611661325,Indiana Fever,4,6,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,-8,1,0,20130922,IND,CHI,2013-14
+Shot Chart Detail,1041300201,104,101039,Erin Phillips,1611661325,Indiana Fever,2,9,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-114,200,1,0,20130926,ATL,IND,2013-14
+Shot Chart Detail,1041300201,149,101039,Erin Phillips,1611661325,Indiana Fever,2,5,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),24+ ft.,23,230,30,1,1,20130926,ATL,IND,2013-14
+Shot Chart Detail,1041300201,284,101039,Erin Phillips,1611661325,Indiana Fever,3,3,13,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,11,1,1,20130926,ATL,IND,2013-14
+Shot Chart Detail,1041300201,296,101039,Erin Phillips,1611661325,Indiana Fever,3,1,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,77,233,1,0,20130926,ATL,IND,2013-14
+Shot Chart Detail,1041300202,54,101039,Erin Phillips,1611661325,Indiana Fever,1,4,14,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,-10,1,0,20130929,IND,ATL,2013-14
+Shot Chart Detail,1041300202,117,101039,Erin Phillips,1611661325,Indiana Fever,2,8,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,-17,1,1,20130929,IND,ATL,2013-14
+Shot Chart Detail,1041300202,129,101039,Erin Phillips,1611661325,Indiana Fever,2,7,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,157,108,1,0,20130929,IND,ATL,2013-14
+Shot Chart Detail,1041300202,280,101039,Erin Phillips,1611661325,Indiana Fever,3,4,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,84,219,1,0,20130929,IND,ATL,2013-14
+Shot Chart Detail,1041300202,298,101039,Erin Phillips,1611661325,Indiana Fever,3,3,10,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,-22,1,1,20130929,IND,ATL,2013-14
+Shot Chart Detail,1041300202,407,101039,Erin Phillips,1611661325,Indiana Fever,4,2,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,-52,233,1,0,20130929,IND,ATL,2013-14

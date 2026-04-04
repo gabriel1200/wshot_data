@@ -1,0 +1,13 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1022400239,143,1631031,Queen Egbo,1611661319,Las Vegas Aces,2,9,42,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,127,7,1,1,20240919,LVA,DAL,2024-25
+Shot Chart Detail,1022400239,178,1631031,Queen Egbo,1611661319,Las Vegas Aces,2,7,11,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,22,56,1,1,20240919,LVA,DAL,2024-25
+Shot Chart Detail,1022400239,201,1631031,Queen Egbo,1611661319,Las Vegas Aces,2,5,53,Missed Shot,Putback Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-44,27,1,0,20240919,LVA,DAL,2024-25
+Shot Chart Detail,1022400239,439,1631031,Queen Egbo,1611661319,Las Vegas Aces,4,9,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,-13,1,0,20240919,LVA,DAL,2024-25
+Shot Chart Detail,1022400239,498,1631031,Queen Egbo,1611661319,Las Vegas Aces,4,4,19,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-53,4,1,1,20240919,LVA,DAL,2024-25
+Shot Chart Detail,1022400239,516,1631031,Queen Egbo,1611661319,Las Vegas Aces,4,2,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,11,1,1,20240919,LVA,DAL,2024-25
+Shot Chart Detail,1022400032,560,1631031,Queen Egbo,1611661323,Connecticut Sun,4,3,51,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,0,20240528,CON,PHO,2024-25
+Shot Chart Detail,1022400032,606,1631031,Queen Egbo,1611661323,Connecticut Sun,4,0,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,28,1,0,20240528,CON,PHO,2024-25
+Shot Chart Detail,1022400045,552,1631031,Queen Egbo,1611661323,Connecticut Sun,4,0,58,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-23,25,1,0,20240602,ATL,CON,2024-25
+Shot Chart Detail,1022400045,558,1631031,Queen Egbo,1611661323,Connecticut Sun,4,0,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,135,48,1,0,20240602,ATL,CON,2024-25
+Shot Chart Detail,1022400049,536,1631031,Queen Egbo,1611661323,Connecticut Sun,4,0,21,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-34,27,1,0,20240604,CON,WAS,2024-25
+Shot Chart Detail,1022400092,271,1631031,Queen Egbo,1611661320,Los Angeles Sparks,2,1,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,151,96,1,1,20240622,NYL,LAS,2024-25

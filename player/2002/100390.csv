@@ -1,0 +1,10 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020200007,89,100390,Oksana Zakaluzhnaya,1611661321,Detroit Shock,1,11,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020530,ORL,DET,2002-03
+Shot Chart Detail,1020200007,94,100390,Oksana Zakaluzhnaya,1611661321,Detroit Shock,1,11,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,121,97,1,0,20020530,ORL,DET,2002-03
+Shot Chart Detail,1020200018,123,100390,Oksana Zakaluzhnaya,1611661321,Detroit Shock,1,7,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,117,80,1,0,20020602,DET,IND,2002-03
+Shot Chart Detail,1020200167,397,100390,Oksana Zakaluzhnaya,1611661317,Phoenix Mercury,2,1,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-84,76,1,1,20020719,SEA,PHO,2002-03
+Shot Chart Detail,1020200189,116,100390,Oksana Zakaluzhnaya,1611661317,Phoenix Mercury,1,8,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020726,UTA,PHO,2002-03
+Shot Chart Detail,1020200192,299,100390,Oksana Zakaluzhnaya,1611661317,Phoenix Mercury,2,4,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-77,-6,1,1,20020727,PHO,SAC,2002-03
+Shot Chart Detail,1020200192,306,100390,Oksana Zakaluzhnaya,1611661317,Phoenix Mercury,2,3,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,129,15,1,0,20020727,PHO,SAC,2002-03
+Shot Chart Detail,1020200192,316,100390,Oksana Zakaluzhnaya,1611661317,Phoenix Mercury,2,2,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,19,1,0,20020727,PHO,SAC,2002-03
+Shot Chart Detail,1020200221,370,100390,Oksana Zakaluzhnaya,1611661317,Phoenix Mercury,2,3,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,5,63,1,0,20020804,DET,PHO,2002-03

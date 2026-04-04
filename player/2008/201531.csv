@@ -1,0 +1,5 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020800001,290,201531,Marcedes Walker,1611661316,Houston Comets,3,2,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080517,DET,HOU,2008-09
+Shot Chart Detail,1020800001,296,201531,Marcedes Walker,1611661316,Houston Comets,3,2,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080517,DET,HOU,2008-09
+Shot Chart Detail,1020800046,170,201531,Marcedes Walker,1611661316,Houston Comets,2,4,4,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,-21,1,0,20080607,IND,HOU,2008-09
+Shot Chart Detail,1020800046,172,201531,Marcedes Walker,1611661316,Houston Comets,2,4,1,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,-5,1,0,20080607,IND,HOU,2008-09

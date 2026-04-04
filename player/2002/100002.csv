@@ -1,0 +1,33 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020200005,78,100002,Rebecca Lobo,1611661316,Houston Comets,1,10,38,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-86,19,1,0,20020529,HOU,PHO,2002-03
+Shot Chart Detail,1020200005,248,100002,Rebecca Lobo,1611661316,Houston Comets,2,12,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-8,219,1,0,20020529,HOU,PHO,2002-03
+Shot Chart Detail,1020200005,252,100002,Rebecca Lobo,1611661316,Houston Comets,2,12,15,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020529,HOU,PHO,2002-03
+Shot Chart Detail,1020200005,264,100002,Rebecca Lobo,1611661316,Houston Comets,2,11,2,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-65,9,1,0,20020529,HOU,PHO,2002-03
+Shot Chart Detail,1020200013,80,100002,Rebecca Lobo,1611661316,Houston Comets,1,11,7,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-69,38,1,1,20020601,CLE,HOU,2002-03
+Shot Chart Detail,1020200013,96,100002,Rebecca Lobo,1611661316,Houston Comets,1,9,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,9,1,0,20020601,CLE,HOU,2002-03
+Shot Chart Detail,1020200026,250,100002,Rebecca Lobo,1611661316,Houston Comets,2,12,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,1,66,1,1,20020605,IND,HOU,2002-03
+Shot Chart Detail,1020200026,275,100002,Rebecca Lobo,1611661316,Houston Comets,2,9,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,37,160,1,1,20020605,IND,HOU,2002-03
+Shot Chart Detail,1020200038,66,100002,Rebecca Lobo,1611661316,Houston Comets,1,12,25,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-132,2,1,0,20020609,HOU,SAC,2002-03
+Shot Chart Detail,1020200038,80,100002,Rebecca Lobo,1611661316,Houston Comets,1,11,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020609,HOU,SAC,2002-03
+Shot Chart Detail,1020200038,320,100002,Rebecca Lobo,1611661316,Houston Comets,2,7,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020609,HOU,SAC,2002-03
+Shot Chart Detail,1020200044,71,100002,Rebecca Lobo,1611661316,Houston Comets,1,11,2,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-109,-13,1,1,20020611,HOU,CHA,2002-03
+Shot Chart Detail,1020200044,83,100002,Rebecca Lobo,1611661316,Houston Comets,1,9,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-136,87,1,1,20020611,HOU,CHA,2002-03
+Shot Chart Detail,1020200048,73,100002,Rebecca Lobo,1611661316,Houston Comets,1,10,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,-19,1,0,20020613,WAS,HOU,2002-03
+Shot Chart Detail,1020200048,86,100002,Rebecca Lobo,1611661316,Houston Comets,1,9,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-115,-25,1,1,20020613,WAS,HOU,2002-03
+Shot Chart Detail,1020200057,60,100002,Rebecca Lobo,1611661316,Houston Comets,1,11,55,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,83,36,1,0,20020615,HOU,MIN,2002-03
+Shot Chart Detail,1020200064,51,100002,Rebecca Lobo,1611661316,Houston Comets,1,12,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-18,219,1,0,20020618,MIA,HOU,2002-03
+Shot Chart Detail,1020200127,80,100002,Rebecca Lobo,1611661316,Houston Comets,1,10,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-162,93,1,0,20020706,HOU,DET,2002-03
+Shot Chart Detail,1020200127,275,100002,Rebecca Lobo,1611661316,Houston Comets,2,11,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,3,209,1,1,20020706,HOU,DET,2002-03
+Shot Chart Detail,1020200127,286,100002,Rebecca Lobo,1611661316,Houston Comets,2,9,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020706,HOU,DET,2002-03
+Shot Chart Detail,1020200127,387,100002,Rebecca Lobo,1611661316,Houston Comets,2,0,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-58,205,1,1,20020706,HOU,DET,2002-03
+Shot Chart Detail,1020200137,108,100002,Rebecca Lobo,1611661316,Houston Comets,1,6,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,-2,1,0,20020709,HOU,SEA,2002-03
+Shot Chart Detail,1020200147,393,100002,Rebecca Lobo,1611661316,Houston Comets,2,1,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,-8,205,1,0,20020712,SAC,HOU,2002-03
+Shot Chart Detail,1020200158,190,100002,Rebecca Lobo,1611661316,Houston Comets,1,1,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-149,66,1,0,20020717,UTA,HOU,2002-03
+Shot Chart Detail,1020200186,130,100002,Rebecca Lobo,1611661316,Houston Comets,1,2,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-155,15,1,0,20020725,HOU,MIA,2002-03
+Shot Chart Detail,1020200194,236,100002,Rebecca Lobo,1611661316,Houston Comets,2,9,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,28,1,0,20020728,NYL,HOU,2002-03
+Shot Chart Detail,1020200254,65,100002,Rebecca Lobo,1611661316,Houston Comets,1,11,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020813,HOU,MIN,2002-03
+Shot Chart Detail,1020200254,90,100002,Rebecca Lobo,1611661316,Houston Comets,1,9,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-71,196,1,1,20020813,HOU,MIN,2002-03
+Shot Chart Detail,1020200254,233,100002,Rebecca Lobo,1611661316,Houston Comets,2,11,53,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-77,19,1,1,20020813,HOU,MIN,2002-03
+Shot Chart Detail,1020200254,245,100002,Rebecca Lobo,1611661316,Houston Comets,2,10,30,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-214,15,1,0,20020813,HOU,MIN,2002-03
+Shot Chart Detail,1020200254,286,100002,Rebecca Lobo,1611661316,Houston Comets,2,6,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020813,HOU,MIN,2002-03
+Shot Chart Detail,1020200254,316,100002,Rebecca Lobo,1611661316,Houston Comets,2,3,28,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,19,1,1,20020813,HOU,MIN,2002-03

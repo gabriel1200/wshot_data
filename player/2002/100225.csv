@@ -1,0 +1,42 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020200015,60,100225,Brandy Reed,1611661317,Phoenix Mercury,1,11,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,119,55,1,1,20020601,PHO,UTA,2002-03
+Shot Chart Detail,1020200015,74,100225,Brandy Reed,1611661317,Phoenix Mercury,1,10,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-101,99,1,0,20020601,PHO,UTA,2002-03
+Shot Chart Detail,1020200015,87,100225,Brandy Reed,1611661317,Phoenix Mercury,1,9,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,32,82,1,0,20020601,PHO,UTA,2002-03
+Shot Chart Detail,1020200015,99,100225,Brandy Reed,1611661317,Phoenix Mercury,1,9,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,4,1,0,20020601,PHO,UTA,2002-03
+Shot Chart Detail,1020200015,110,100225,Brandy Reed,1611661317,Phoenix Mercury,1,7,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,-8,1,0,20020601,PHO,UTA,2002-03
+Shot Chart Detail,1020200015,119,100225,Brandy Reed,1611661317,Phoenix Mercury,1,7,26,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,110,49,1,0,20020601,PHO,UTA,2002-03
+Shot Chart Detail,1020200015,214,100225,Brandy Reed,1611661317,Phoenix Mercury,1,0,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,119,72,1,1,20020601,PHO,UTA,2002-03
+Shot Chart Detail,1020200015,261,100225,Brandy Reed,1611661317,Phoenix Mercury,2,13,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-157,137,1,0,20020601,PHO,UTA,2002-03
+Shot Chart Detail,1020200015,280,100225,Brandy Reed,1611661317,Phoenix Mercury,2,11,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-86,21,1,0,20020601,PHO,UTA,2002-03
+Shot Chart Detail,1020200021,2,100225,Brandy Reed,1611661317,Phoenix Mercury,1,19,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,0,1,0,20020603,PHO,WAS,2002-03
+Shot Chart Detail,1020200021,198,100225,Brandy Reed,1611661317,Phoenix Mercury,2,16,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,77,106,1,0,20020603,PHO,WAS,2002-03
+Shot Chart Detail,1020200039,13,100225,Brandy Reed,1611661317,Phoenix Mercury,1,18,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,-4,1,1,20020609,PHO,CHA,2002-03
+Shot Chart Detail,1020200039,17,100225,Brandy Reed,1611661317,Phoenix Mercury,1,17,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020609,PHO,CHA,2002-03
+Shot Chart Detail,1020200039,37,100225,Brandy Reed,1611661317,Phoenix Mercury,1,15,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,77,144,1,0,20020609,PHO,CHA,2002-03
+Shot Chart Detail,1020200039,56,100225,Brandy Reed,1611661317,Phoenix Mercury,1,12,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,4,1,1,20020609,PHO,CHA,2002-03
+Shot Chart Detail,1020200039,223,100225,Brandy Reed,1611661317,Phoenix Mercury,1,2,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,119,21,1,0,20020609,PHO,CHA,2002-03
+Shot Chart Detail,1020200039,198,100225,Brandy Reed,1611661317,Phoenix Mercury,1,1,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,0,1,1,20020609,PHO,CHA,2002-03
+Shot Chart Detail,1020200039,268,100225,Brandy Reed,1611661317,Phoenix Mercury,2,14,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-86,55,1,1,20020609,PHO,CHA,2002-03
+Shot Chart Detail,1020200039,282,100225,Brandy Reed,1611661317,Phoenix Mercury,2,12,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020609,PHO,CHA,2002-03
+Shot Chart Detail,1020200039,337,100225,Brandy Reed,1611661317,Phoenix Mercury,2,7,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,98,184,1,0,20020609,PHO,CHA,2002-03
+Shot Chart Detail,1020200039,355,100225,Brandy Reed,1611661317,Phoenix Mercury,2,5,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,89,82,1,1,20020609,PHO,CHA,2002-03
+Shot Chart Detail,1020200039,362,100225,Brandy Reed,1611661317,Phoenix Mercury,2,4,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,119,4,1,1,20020609,PHO,CHA,2002-03
+Shot Chart Detail,1020200051,4,100225,Brandy Reed,1611661317,Phoenix Mercury,1,19,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,28,1,0,20020613,PHO,DET,2002-03
+Shot Chart Detail,1020200051,17,100225,Brandy Reed,1611661317,Phoenix Mercury,1,18,24,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-79,55,1,1,20020613,PHO,DET,2002-03
+Shot Chart Detail,1020200051,40,100225,Brandy Reed,1611661317,Phoenix Mercury,1,15,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,83,122,1,0,20020613,PHO,DET,2002-03
+Shot Chart Detail,1020200051,65,100225,Brandy Reed,1611661317,Phoenix Mercury,1,13,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,104,34,1,0,20020613,PHO,DET,2002-03
+Shot Chart Detail,1020200051,77,100225,Brandy Reed,1611661317,Phoenix Mercury,1,13,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-109,177,1,0,20020613,PHO,DET,2002-03
+Shot Chart Detail,1020200051,176,100225,Brandy Reed,1611661317,Phoenix Mercury,1,4,11,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,21,1,1,20020613,PHO,DET,2002-03
+Shot Chart Detail,1020200051,220,100225,Brandy Reed,1611661317,Phoenix Mercury,1,2,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020613,PHO,DET,2002-03
+Shot Chart Detail,1020200051,228,100225,Brandy Reed,1611661317,Phoenix Mercury,1,1,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,125,171,1,0,20020613,PHO,DET,2002-03
+Shot Chart Detail,1020200051,236,100225,Brandy Reed,1611661317,Phoenix Mercury,1,0,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020613,PHO,DET,2002-03
+Shot Chart Detail,1020200051,351,100225,Brandy Reed,1611661317,Phoenix Mercury,2,7,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020613,PHO,DET,2002-03
+Shot Chart Detail,1020200051,363,100225,Brandy Reed,1611661317,Phoenix Mercury,2,6,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,32,106,1,0,20020613,PHO,DET,2002-03
+Shot Chart Detail,1020200051,367,100225,Brandy Reed,1611661317,Phoenix Mercury,2,6,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,34,1,1,20020613,PHO,DET,2002-03
+Shot Chart Detail,1020200051,372,100225,Brandy Reed,1611661317,Phoenix Mercury,2,6,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-109,38,1,0,20020613,PHO,DET,2002-03
+Shot Chart Detail,1020200051,380,100225,Brandy Reed,1611661317,Phoenix Mercury,2,5,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-8,127,1,0,20020613,PHO,DET,2002-03
+Shot Chart Detail,1020200051,393,100225,Brandy Reed,1611661317,Phoenix Mercury,2,3,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-79,4,1,1,20020613,PHO,DET,2002-03
+Shot Chart Detail,1020200051,396,100225,Brandy Reed,1611661317,Phoenix Mercury,2,3,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-86,61,1,0,20020613,PHO,DET,2002-03
+Shot Chart Detail,1020200054,24,100225,Brandy Reed,1611661317,Phoenix Mercury,1,16,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,21,1,0,20020614,PHO,SEA,2002-03
+Shot Chart Detail,1020200054,104,100225,Brandy Reed,1611661317,Phoenix Mercury,1,8,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,4,1,0,20020614,PHO,SEA,2002-03
+Shot Chart Detail,1020200054,135,100225,Brandy Reed,1611661317,Phoenix Mercury,1,4,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-157,165,1,0,20020614,PHO,SEA,2002-03

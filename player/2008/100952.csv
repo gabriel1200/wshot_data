@@ -1,0 +1,485 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020800006,27,100952,Jia Perkins,1611661329,Chicago Sky,1,7,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-207,56,1,0,20080517,SEA,CHI,2008-09
+Shot Chart Detail,1020800006,32,100952,Jia Perkins,1611661329,Chicago Sky,1,7,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080517,SEA,CHI,2008-09
+Shot Chart Detail,1020800006,49,100952,Jia Perkins,1611661329,Chicago Sky,1,5,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,128,125,1,1,20080517,SEA,CHI,2008-09
+Shot Chart Detail,1020800006,67,100952,Jia Perkins,1611661329,Chicago Sky,1,3,49,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-128,71,1,1,20080517,SEA,CHI,2008-09
+Shot Chart Detail,1020800006,154,100952,Jia Perkins,1611661329,Chicago Sky,2,5,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,41,235,1,0,20080517,SEA,CHI,2008-09
+Shot Chart Detail,1020800006,209,100952,Jia Perkins,1611661329,Chicago Sky,2,0,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080517,SEA,CHI,2008-09
+Shot Chart Detail,1020800006,211,100952,Jia Perkins,1611661329,Chicago Sky,2,0,12,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,1,86,1,1,20080517,SEA,CHI,2008-09
+Shot Chart Detail,1020800006,383,100952,Jia Perkins,1611661329,Chicago Sky,4,5,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-54,237,1,0,20080517,SEA,CHI,2008-09
+Shot Chart Detail,1020800006,397,100952,Jia Perkins,1611661329,Chicago Sky,4,3,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080517,SEA,CHI,2008-09
+Shot Chart Detail,1020800006,423,100952,Jia Perkins,1611661329,Chicago Sky,4,1,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080517,SEA,CHI,2008-09
+Shot Chart Detail,1020800006,427,100952,Jia Perkins,1611661329,Chicago Sky,4,0,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080517,SEA,CHI,2008-09
+Shot Chart Detail,1020800006,429,100952,Jia Perkins,1611661329,Chicago Sky,4,0,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080517,SEA,CHI,2008-09
+Shot Chart Detail,1020800013,23,100952,Jia Perkins,1611661329,Chicago Sky,1,6,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-128,109,1,0,20080522,CHI,SAC,2008-09
+Shot Chart Detail,1020800013,252,100952,Jia Perkins,1611661329,Chicago Sky,3,5,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,135,97,1,1,20080522,CHI,SAC,2008-09
+Shot Chart Detail,1020800013,265,100952,Jia Perkins,1611661329,Chicago Sky,3,3,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,138,178,1,0,20080522,CHI,SAC,2008-09
+Shot Chart Detail,1020800013,270,100952,Jia Perkins,1611661329,Chicago Sky,3,3,28,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,-1,1,1,20080522,CHI,SAC,2008-09
+Shot Chart Detail,1020800013,273,100952,Jia Perkins,1611661329,Chicago Sky,3,3,1,Missed Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-126,33,1,0,20080522,CHI,SAC,2008-09
+Shot Chart Detail,1020800013,287,100952,Jia Perkins,1611661329,Chicago Sky,3,1,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,210,28,1,0,20080522,CHI,SAC,2008-09
+Shot Chart Detail,1020800013,297,100952,Jia Perkins,1611661329,Chicago Sky,3,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,125,12,1,0,20080522,CHI,SAC,2008-09
+Shot Chart Detail,1020800013,343,100952,Jia Perkins,1611661329,Chicago Sky,4,4,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-159,76,1,1,20080522,CHI,SAC,2008-09
+Shot Chart Detail,1020800013,378,100952,Jia Perkins,1611661329,Chicago Sky,4,1,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080522,CHI,SAC,2008-09
+Shot Chart Detail,1020800025,21,100952,Jia Perkins,1611661329,Chicago Sky,1,8,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,15,122,1,0,20080529,CHI,MIN,2008-09
+Shot Chart Detail,1020800025,61,100952,Jia Perkins,1611661329,Chicago Sky,1,2,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,128,104,1,0,20080529,CHI,MIN,2008-09
+Shot Chart Detail,1020800025,81,100952,Jia Perkins,1611661329,Chicago Sky,1,0,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-123,137,1,0,20080529,CHI,MIN,2008-09
+Shot Chart Detail,1020800025,141,100952,Jia Perkins,1611661329,Chicago Sky,2,5,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,54,118,1,1,20080529,CHI,MIN,2008-09
+Shot Chart Detail,1020800025,152,100952,Jia Perkins,1611661329,Chicago Sky,2,3,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-85,201,1,0,20080529,CHI,MIN,2008-09
+Shot Chart Detail,1020800025,173,100952,Jia Perkins,1611661329,Chicago Sky,2,1,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-39,110,1,1,20080529,CHI,MIN,2008-09
+Shot Chart Detail,1020800025,213,100952,Jia Perkins,1611661329,Chicago Sky,3,7,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,123,125,1,0,20080529,CHI,MIN,2008-09
+Shot Chart Detail,1020800025,237,100952,Jia Perkins,1611661329,Chicago Sky,3,5,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080529,CHI,MIN,2008-09
+Shot Chart Detail,1020800025,243,100952,Jia Perkins,1611661329,Chicago Sky,3,3,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,100,125,1,0,20080529,CHI,MIN,2008-09
+Shot Chart Detail,1020800025,334,100952,Jia Perkins,1611661329,Chicago Sky,4,5,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-67,68,1,0,20080529,CHI,MIN,2008-09
+Shot Chart Detail,1020800025,356,100952,Jia Perkins,1611661329,Chicago Sky,4,3,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-125,87,1,1,20080529,CHI,MIN,2008-09
+Shot Chart Detail,1020800025,366,100952,Jia Perkins,1611661329,Chicago Sky,4,2,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080529,CHI,MIN,2008-09
+Shot Chart Detail,1020800025,405,100952,Jia Perkins,1611661329,Chicago Sky,4,0,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,120,179,1,0,20080529,CHI,MIN,2008-09
+Shot Chart Detail,1020800032,2,100952,Jia Perkins,1611661329,Chicago Sky,1,9,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-153,87,1,1,20080601,CHI,CON,2008-09
+Shot Chart Detail,1020800032,16,100952,Jia Perkins,1611661329,Chicago Sky,1,7,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-20,168,1,0,20080601,CHI,CON,2008-09
+Shot Chart Detail,1020800032,26,100952,Jia Perkins,1611661329,Chicago Sky,1,6,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080601,CHI,CON,2008-09
+Shot Chart Detail,1020800032,60,100952,Jia Perkins,1611661329,Chicago Sky,1,3,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-149,130,1,0,20080601,CHI,CON,2008-09
+Shot Chart Detail,1020800032,74,100952,Jia Perkins,1611661329,Chicago Sky,1,1,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080601,CHI,CON,2008-09
+Shot Chart Detail,1020800032,85,100952,Jia Perkins,1611661329,Chicago Sky,1,1,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,186,133,1,0,20080601,CHI,CON,2008-09
+Shot Chart Detail,1020800032,144,100952,Jia Perkins,1611661329,Chicago Sky,2,6,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-51,169,1,0,20080601,CHI,CON,2008-09
+Shot Chart Detail,1020800032,157,100952,Jia Perkins,1611661329,Chicago Sky,2,5,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-120,122,1,0,20080601,CHI,CON,2008-09
+Shot Chart Detail,1020800032,173,100952,Jia Perkins,1611661329,Chicago Sky,2,4,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,0,148,1,1,20080601,CHI,CON,2008-09
+Shot Chart Detail,1020800032,177,100952,Jia Perkins,1611661329,Chicago Sky,2,3,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-120,114,1,0,20080601,CHI,CON,2008-09
+Shot Chart Detail,1020800032,236,100952,Jia Perkins,1611661329,Chicago Sky,3,6,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,85,141,1,1,20080601,CHI,CON,2008-09
+Shot Chart Detail,1020800032,241,100952,Jia Perkins,1611661329,Chicago Sky,3,5,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-5,102,1,1,20080601,CHI,CON,2008-09
+Shot Chart Detail,1020800032,243,100952,Jia Perkins,1611661329,Chicago Sky,3,5,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080601,CHI,CON,2008-09
+Shot Chart Detail,1020800032,263,100952,Jia Perkins,1611661329,Chicago Sky,3,2,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-94,118,1,1,20080601,CHI,CON,2008-09
+Shot Chart Detail,1020800032,324,100952,Jia Perkins,1611661329,Chicago Sky,4,7,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-10,140,1,0,20080601,CHI,CON,2008-09
+Shot Chart Detail,1020800032,345,100952,Jia Perkins,1611661329,Chicago Sky,4,5,27,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080601,CHI,CON,2008-09
+Shot Chart Detail,1020800032,372,100952,Jia Perkins,1611661329,Chicago Sky,4,3,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-3,66,1,1,20080601,CHI,CON,2008-09
+Shot Chart Detail,1020800032,415,100952,Jia Perkins,1611661329,Chicago Sky,4,0,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,204,105,1,0,20080601,CHI,CON,2008-09
+Shot Chart Detail,1020800032,436,100952,Jia Perkins,1611661329,Chicago Sky,4,0,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,118,-8,1,0,20080601,CHI,CON,2008-09
+Shot Chart Detail,1020800036,132,100952,Jia Perkins,1611661329,Chicago Sky,2,6,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,5,140,1,0,20080603,CHI,LAS,2008-09
+Shot Chart Detail,1020800036,141,100952,Jia Perkins,1611661329,Chicago Sky,2,5,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,154,143,1,1,20080603,CHI,LAS,2008-09
+Shot Chart Detail,1020800036,145,100952,Jia Perkins,1611661329,Chicago Sky,2,5,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-118,33,1,0,20080603,CHI,LAS,2008-09
+Shot Chart Detail,1020800036,151,100952,Jia Perkins,1611661329,Chicago Sky,2,3,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,90,102,1,0,20080603,CHI,LAS,2008-09
+Shot Chart Detail,1020800036,256,100952,Jia Perkins,1611661329,Chicago Sky,3,3,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-133,94,1,0,20080603,CHI,LAS,2008-09
+Shot Chart Detail,1020800036,319,100952,Jia Perkins,1611661329,Chicago Sky,4,8,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-74,169,1,1,20080603,CHI,LAS,2008-09
+Shot Chart Detail,1020800036,334,100952,Jia Perkins,1611661329,Chicago Sky,4,6,38,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-71,110,1,1,20080603,CHI,LAS,2008-09
+Shot Chart Detail,1020800036,350,100952,Jia Perkins,1611661329,Chicago Sky,4,4,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,140,84,1,1,20080603,CHI,LAS,2008-09
+Shot Chart Detail,1020800036,352,100952,Jia Perkins,1611661329,Chicago Sky,4,4,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-118,105,1,0,20080603,CHI,LAS,2008-09
+Shot Chart Detail,1020800036,354,100952,Jia Perkins,1611661329,Chicago Sky,4,3,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,115,138,1,1,20080603,CHI,LAS,2008-09
+Shot Chart Detail,1020800036,357,100952,Jia Perkins,1611661329,Chicago Sky,4,3,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-169,138,1,1,20080603,CHI,LAS,2008-09
+Shot Chart Detail,1020800036,378,100952,Jia Perkins,1611661329,Chicago Sky,4,1,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080603,CHI,LAS,2008-09
+Shot Chart Detail,1020800036,393,100952,Jia Perkins,1611661329,Chicago Sky,4,0,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-108,146,1,0,20080603,CHI,LAS,2008-09
+Shot Chart Detail,1020800036,465,100952,Jia Perkins,1611661329,Chicago Sky,5,0,19,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,25,1,0,20080603,CHI,LAS,2008-09
+Shot Chart Detail,1020800042,12,100952,Jia Perkins,1611661329,Chicago Sky,1,8,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,107,114,1,0,20080606,ATL,CHI,2008-09
+Shot Chart Detail,1020800042,55,100952,Jia Perkins,1611661329,Chicago Sky,1,4,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-120,130,1,0,20080606,ATL,CHI,2008-09
+Shot Chart Detail,1020800042,64,100952,Jia Perkins,1611661329,Chicago Sky,1,4,11,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080606,ATL,CHI,2008-09
+Shot Chart Detail,1020800042,162,100952,Jia Perkins,1611661329,Chicago Sky,2,5,34,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080606,ATL,CHI,2008-09
+Shot Chart Detail,1020800042,224,100952,Jia Perkins,1611661329,Chicago Sky,2,0,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,163,183,1,0,20080606,ATL,CHI,2008-09
+Shot Chart Detail,1020800042,230,100952,Jia Perkins,1611661329,Chicago Sky,2,0,13,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080606,ATL,CHI,2008-09
+Shot Chart Detail,1020800042,270,100952,Jia Perkins,1611661329,Chicago Sky,3,6,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-126,30,1,1,20080606,ATL,CHI,2008-09
+Shot Chart Detail,1020800042,273,100952,Jia Perkins,1611661329,Chicago Sky,3,5,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-133,109,1,0,20080606,ATL,CHI,2008-09
+Shot Chart Detail,1020800042,285,100952,Jia Perkins,1611661329,Chicago Sky,3,4,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,141,77,1,0,20080606,ATL,CHI,2008-09
+Shot Chart Detail,1020800042,381,100952,Jia Perkins,1611661329,Chicago Sky,4,7,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,121,128,1,1,20080606,ATL,CHI,2008-09
+Shot Chart Detail,1020800042,428,100952,Jia Perkins,1611661329,Chicago Sky,4,3,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,59,77,1,0,20080606,ATL,CHI,2008-09
+Shot Chart Detail,1020800042,444,100952,Jia Perkins,1611661329,Chicago Sky,4,2,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-52,163,1,0,20080606,ATL,CHI,2008-09
+Shot Chart Detail,1020800042,475,100952,Jia Perkins,1611661329,Chicago Sky,4,0,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,24,-232,72,1,0,20080606,ATL,CHI,2008-09
+Shot Chart Detail,1020800047,7,100952,Jia Perkins,1611661329,Chicago Sky,1,8,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,120,135,1,1,20080607,CHI,ATL,2008-09
+Shot Chart Detail,1020800047,24,100952,Jia Perkins,1611661329,Chicago Sky,1,6,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,84,141,1,0,20080607,CHI,ATL,2008-09
+Shot Chart Detail,1020800047,86,100952,Jia Perkins,1611661329,Chicago Sky,1,1,1,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,49,45,1,1,20080607,CHI,ATL,2008-09
+Shot Chart Detail,1020800047,88,100952,Jia Perkins,1611661329,Chicago Sky,1,0,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080607,CHI,ATL,2008-09
+Shot Chart Detail,1020800047,108,100952,Jia Perkins,1611661329,Chicago Sky,2,8,10,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080607,CHI,ATL,2008-09
+Shot Chart Detail,1020800047,116,100952,Jia Perkins,1611661329,Chicago Sky,2,7,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080607,CHI,ATL,2008-09
+Shot Chart Detail,1020800047,242,100952,Jia Perkins,1611661329,Chicago Sky,3,4,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-107,151,1,0,20080607,CHI,ATL,2008-09
+Shot Chart Detail,1020800047,251,100952,Jia Perkins,1611661329,Chicago Sky,3,3,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080607,CHI,ATL,2008-09
+Shot Chart Detail,1020800047,268,100952,Jia Perkins,1611661329,Chicago Sky,3,3,1,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,59,120,1,1,20080607,CHI,ATL,2008-09
+Shot Chart Detail,1020800047,348,100952,Jia Perkins,1611661329,Chicago Sky,4,6,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-163,151,1,1,20080607,CHI,ATL,2008-09
+Shot Chart Detail,1020800047,358,100952,Jia Perkins,1611661329,Chicago Sky,4,5,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,107,122,1,0,20080607,CHI,ATL,2008-09
+Shot Chart Detail,1020800047,362,100952,Jia Perkins,1611661329,Chicago Sky,4,4,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-153,143,1,1,20080607,CHI,ATL,2008-09
+Shot Chart Detail,1020800061,5,100952,Jia Perkins,1611661329,Chicago Sky,1,8,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-16,102,1,1,20080613,CHI,WAS,2008-09
+Shot Chart Detail,1020800061,10,100952,Jia Perkins,1611661329,Chicago Sky,1,7,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-138,110,1,0,20080613,CHI,WAS,2008-09
+Shot Chart Detail,1020800061,24,100952,Jia Perkins,1611661329,Chicago Sky,1,5,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080613,CHI,WAS,2008-09
+Shot Chart Detail,1020800061,47,100952,Jia Perkins,1611661329,Chicago Sky,1,3,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080613,CHI,WAS,2008-09
+Shot Chart Detail,1020800061,66,100952,Jia Perkins,1611661329,Chicago Sky,1,1,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,6,189,1,1,20080613,CHI,WAS,2008-09
+Shot Chart Detail,1020800061,149,100952,Jia Perkins,1611661329,Chicago Sky,2,3,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-168,135,1,0,20080613,CHI,WAS,2008-09
+Shot Chart Detail,1020800061,163,100952,Jia Perkins,1611661329,Chicago Sky,2,1,41,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,0,1,0,20080613,CHI,WAS,2008-09
+Shot Chart Detail,1020800061,174,100952,Jia Perkins,1611661329,Chicago Sky,2,1,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-56,72,1,0,20080613,CHI,WAS,2008-09
+Shot Chart Detail,1020800061,183,100952,Jia Perkins,1611661329,Chicago Sky,2,0,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080613,CHI,WAS,2008-09
+Shot Chart Detail,1020800061,195,100952,Jia Perkins,1611661329,Chicago Sky,3,8,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,-13,232,1,0,20080613,CHI,WAS,2008-09
+Shot Chart Detail,1020800061,284,100952,Jia Perkins,1611661329,Chicago Sky,3,0,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080613,CHI,WAS,2008-09
+Shot Chart Detail,1020800061,302,100952,Jia Perkins,1611661329,Chicago Sky,4,8,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,69,123,1,0,20080613,CHI,WAS,2008-09
+Shot Chart Detail,1020800061,313,100952,Jia Perkins,1611661329,Chicago Sky,4,7,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-133,66,1,1,20080613,CHI,WAS,2008-09
+Shot Chart Detail,1020800061,324,100952,Jia Perkins,1611661329,Chicago Sky,4,5,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,138,191,1,0,20080613,CHI,WAS,2008-09
+Shot Chart Detail,1020800061,344,100952,Jia Perkins,1611661329,Chicago Sky,4,4,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-29,138,1,0,20080613,CHI,WAS,2008-09
+Shot Chart Detail,1020800061,365,100952,Jia Perkins,1611661329,Chicago Sky,4,2,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,177,3,1,1,20080613,CHI,WAS,2008-09
+Shot Chart Detail,1020800061,367,100952,Jia Perkins,1611661329,Chicago Sky,4,1,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,102,209,1,1,20080613,CHI,WAS,2008-09
+Shot Chart Detail,1020800074,3,100952,Jia Perkins,1611661329,Chicago Sky,1,9,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,29,158,1,0,20080618,LAS,CHI,2008-09
+Shot Chart Detail,1020800074,94,100952,Jia Perkins,1611661329,Chicago Sky,1,0,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-97,122,1,1,20080618,LAS,CHI,2008-09
+Shot Chart Detail,1020800074,141,100952,Jia Perkins,1611661329,Chicago Sky,2,4,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-125,207,1,1,20080618,LAS,CHI,2008-09
+Shot Chart Detail,1020800074,203,100952,Jia Perkins,1611661329,Chicago Sky,3,7,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080618,LAS,CHI,2008-09
+Shot Chart Detail,1020800074,230,100952,Jia Perkins,1611661329,Chicago Sky,3,5,13,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,10,71,1,1,20080618,LAS,CHI,2008-09
+Shot Chart Detail,1020800074,319,100952,Jia Perkins,1611661329,Chicago Sky,4,5,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-125,194,1,1,20080618,LAS,CHI,2008-09
+Shot Chart Detail,1020800074,323,100952,Jia Perkins,1611661329,Chicago Sky,4,5,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-56,151,1,0,20080618,LAS,CHI,2008-09
+Shot Chart Detail,1020800074,359,100952,Jia Perkins,1611661329,Chicago Sky,4,2,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,151,143,1,1,20080618,LAS,CHI,2008-09
+Shot Chart Detail,1020800074,365,100952,Jia Perkins,1611661329,Chicago Sky,4,1,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080618,LAS,CHI,2008-09
+Shot Chart Detail,1020800074,383,100952,Jia Perkins,1611661329,Chicago Sky,4,0,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-138,181,1,0,20080618,LAS,CHI,2008-09
+Shot Chart Detail,1020800078,4,100952,Jia Perkins,1611661329,Chicago Sky,1,9,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,28,1,0,20080620,PHO,CHI,2008-09
+Shot Chart Detail,1020800078,26,100952,Jia Perkins,1611661329,Chicago Sky,1,6,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,166,138,1,0,20080620,PHO,CHI,2008-09
+Shot Chart Detail,1020800078,44,100952,Jia Perkins,1611661329,Chicago Sky,1,4,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,36,164,1,0,20080620,PHO,CHI,2008-09
+Shot Chart Detail,1020800078,82,100952,Jia Perkins,1611661329,Chicago Sky,1,0,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,38,148,1,1,20080620,PHO,CHI,2008-09
+Shot Chart Detail,1020800078,88,100952,Jia Perkins,1611661329,Chicago Sky,1,0,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,23,195,123,1,1,20080620,PHO,CHI,2008-09
+Shot Chart Detail,1020800078,94,100952,Jia Perkins,1611661329,Chicago Sky,2,9,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080620,PHO,CHI,2008-09
+Shot Chart Detail,1020800078,97,100952,Jia Perkins,1611661329,Chicago Sky,2,9,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080620,PHO,CHI,2008-09
+Shot Chart Detail,1020800078,141,100952,Jia Perkins,1611661329,Chicago Sky,2,5,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,110,186,1,1,20080620,PHO,CHI,2008-09
+Shot Chart Detail,1020800078,146,100952,Jia Perkins,1611661329,Chicago Sky,2,4,31,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,79,54,1,1,20080620,PHO,CHI,2008-09
+Shot Chart Detail,1020800078,206,100952,Jia Perkins,1611661329,Chicago Sky,3,9,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080620,PHO,CHI,2008-09
+Shot Chart Detail,1020800078,247,100952,Jia Perkins,1611661329,Chicago Sky,3,6,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-138,168,1,0,20080620,PHO,CHI,2008-09
+Shot Chart Detail,1020800078,315,100952,Jia Perkins,1611661329,Chicago Sky,3,1,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,154,150,1,0,20080620,PHO,CHI,2008-09
+Shot Chart Detail,1020800078,337,100952,Jia Perkins,1611661329,Chicago Sky,4,9,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,0,169,1,0,20080620,PHO,CHI,2008-09
+Shot Chart Detail,1020800078,371,100952,Jia Perkins,1611661329,Chicago Sky,4,5,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-163,146,1,0,20080620,PHO,CHI,2008-09
+Shot Chart Detail,1020800078,375,100952,Jia Perkins,1611661329,Chicago Sky,4,5,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,94,118,1,0,20080620,PHO,CHI,2008-09
+Shot Chart Detail,1020800078,388,100952,Jia Perkins,1611661329,Chicago Sky,4,4,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-107,63,1,0,20080620,PHO,CHI,2008-09
+Shot Chart Detail,1020800078,415,100952,Jia Perkins,1611661329,Chicago Sky,4,2,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080620,PHO,CHI,2008-09
+Shot Chart Detail,1020800078,431,100952,Jia Perkins,1611661329,Chicago Sky,4,1,36,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-90,28,1,1,20080620,PHO,CHI,2008-09
+Shot Chart Detail,1020800078,436,100952,Jia Perkins,1611661329,Chicago Sky,4,0,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-163,145,1,1,20080620,PHO,CHI,2008-09
+Shot Chart Detail,1020800078,438,100952,Jia Perkins,1611661329,Chicago Sky,4,0,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-158,95,1,1,20080620,PHO,CHI,2008-09
+Shot Chart Detail,1020800078,441,100952,Jia Perkins,1611661329,Chicago Sky,4,0,12,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,41,56,1,1,20080620,PHO,CHI,2008-09
+Shot Chart Detail,1020800078,468,100952,Jia Perkins,1611661329,Chicago Sky,5,3,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080620,PHO,CHI,2008-09
+Shot Chart Detail,1020800078,476,100952,Jia Perkins,1611661329,Chicago Sky,5,1,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-212,31,1,0,20080620,PHO,CHI,2008-09
+Shot Chart Detail,1020800078,497,100952,Jia Perkins,1611661329,Chicago Sky,5,0,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080620,PHO,CHI,2008-09
+Shot Chart Detail,1020800084,6,100952,Jia Perkins,1611661329,Chicago Sky,1,9,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080622,SAC,CHI,2008-09
+Shot Chart Detail,1020800084,20,100952,Jia Perkins,1611661329,Chicago Sky,1,7,1,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-6,48,1,1,20080622,SAC,CHI,2008-09
+Shot Chart Detail,1020800084,35,100952,Jia Perkins,1611661329,Chicago Sky,1,5,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,75,56,1,0,20080622,SAC,CHI,2008-09
+Shot Chart Detail,1020800084,124,100952,Jia Perkins,1611661329,Chicago Sky,2,9,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,55,1,0,20080622,SAC,CHI,2008-09
+Shot Chart Detail,1020800084,149,100952,Jia Perkins,1611661329,Chicago Sky,2,5,40,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-94,49,1,1,20080622,SAC,CHI,2008-09
+Shot Chart Detail,1020800084,170,100952,Jia Perkins,1611661329,Chicago Sky,2,2,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,105,184,1,0,20080622,SAC,CHI,2008-09
+Shot Chart Detail,1020800084,196,100952,Jia Perkins,1611661329,Chicago Sky,2,0,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-25,143,1,0,20080622,SAC,CHI,2008-09
+Shot Chart Detail,1020800084,201,100952,Jia Perkins,1611661329,Chicago Sky,2,0,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,113,138,1,1,20080622,SAC,CHI,2008-09
+Shot Chart Detail,1020800084,209,100952,Jia Perkins,1611661329,Chicago Sky,2,0,2,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-64,49,1,0,20080622,SAC,CHI,2008-09
+Shot Chart Detail,1020800084,238,100952,Jia Perkins,1611661329,Chicago Sky,3,6,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,159,82,1,0,20080622,SAC,CHI,2008-09
+Shot Chart Detail,1020800084,257,100952,Jia Perkins,1611661329,Chicago Sky,3,4,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-122,97,1,0,20080622,SAC,CHI,2008-09
+Shot Chart Detail,1020800084,304,100952,Jia Perkins,1611661329,Chicago Sky,3,0,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080622,SAC,CHI,2008-09
+Shot Chart Detail,1020800084,340,100952,Jia Perkins,1611661329,Chicago Sky,4,7,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,7,1,0,20080622,SAC,CHI,2008-09
+Shot Chart Detail,1020800084,369,100952,Jia Perkins,1611661329,Chicago Sky,4,4,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,112,184,1,1,20080622,SAC,CHI,2008-09
+Shot Chart Detail,1020800084,376,100952,Jia Perkins,1611661329,Chicago Sky,4,3,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,156,45,1,1,20080622,SAC,CHI,2008-09
+Shot Chart Detail,1020800084,384,100952,Jia Perkins,1611661329,Chicago Sky,4,2,34,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-67,122,1,1,20080622,SAC,CHI,2008-09
+Shot Chart Detail,1020800084,391,100952,Jia Perkins,1611661329,Chicago Sky,4,1,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-149,171,1,1,20080622,SAC,CHI,2008-09
+Shot Chart Detail,1020800096,8,100952,Jia Perkins,1611661329,Chicago Sky,1,9,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,105,22,1,0,20080626,CHI,PHO,2008-09
+Shot Chart Detail,1020800096,10,100952,Jia Perkins,1611661329,Chicago Sky,1,8,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,98,86,1,0,20080626,CHI,PHO,2008-09
+Shot Chart Detail,1020800096,24,100952,Jia Perkins,1611661329,Chicago Sky,1,7,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080626,CHI,PHO,2008-09
+Shot Chart Detail,1020800096,74,100952,Jia Perkins,1611661329,Chicago Sky,1,3,23,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080626,CHI,PHO,2008-09
+Shot Chart Detail,1020800096,102,100952,Jia Perkins,1611661329,Chicago Sky,1,1,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-103,109,1,0,20080626,CHI,PHO,2008-09
+Shot Chart Detail,1020800096,105,100952,Jia Perkins,1611661329,Chicago Sky,1,1,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080626,CHI,PHO,2008-09
+Shot Chart Detail,1020800096,235,100952,Jia Perkins,1611661329,Chicago Sky,2,0,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,121,178,1,0,20080626,CHI,PHO,2008-09
+Shot Chart Detail,1020800096,243,100952,Jia Perkins,1611661329,Chicago Sky,3,9,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-6,153,1,0,20080626,CHI,PHO,2008-09
+Shot Chart Detail,1020800096,274,100952,Jia Perkins,1611661329,Chicago Sky,3,7,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,-64,197,1,1,20080626,CHI,PHO,2008-09
+Shot Chart Detail,1020800096,307,100952,Jia Perkins,1611661329,Chicago Sky,3,3,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080626,CHI,PHO,2008-09
+Shot Chart Detail,1020800096,324,100952,Jia Perkins,1611661329,Chicago Sky,3,1,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-174,146,1,0,20080626,CHI,PHO,2008-09
+Shot Chart Detail,1020800096,416,100952,Jia Perkins,1611661329,Chicago Sky,4,3,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,131,178,1,1,20080626,CHI,PHO,2008-09
+Shot Chart Detail,1020800096,436,100952,Jia Perkins,1611661329,Chicago Sky,4,1,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,140,189,1,1,20080626,CHI,PHO,2008-09
+Shot Chart Detail,1020800096,459,100952,Jia Perkins,1611661329,Chicago Sky,4,0,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-154,196,1,0,20080626,CHI,PHO,2008-09
+Shot Chart Detail,1020800099,11,100952,Jia Perkins,1611661329,Chicago Sky,1,8,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,148,-8,1,0,20080628,CHI,DET,2008-09
+Shot Chart Detail,1020800099,26,100952,Jia Perkins,1611661329,Chicago Sky,1,5,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,130,82,1,0,20080628,CHI,DET,2008-09
+Shot Chart Detail,1020800099,63,100952,Jia Perkins,1611661329,Chicago Sky,1,1,48,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080628,CHI,DET,2008-09
+Shot Chart Detail,1020800099,164,100952,Jia Perkins,1611661329,Chicago Sky,2,2,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-153,164,1,1,20080628,CHI,DET,2008-09
+Shot Chart Detail,1020800099,177,100952,Jia Perkins,1611661329,Chicago Sky,2,1,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-164,130,1,1,20080628,CHI,DET,2008-09
+Shot Chart Detail,1020800099,214,100952,Jia Perkins,1611661329,Chicago Sky,3,9,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-164,145,1,0,20080628,CHI,DET,2008-09
+Shot Chart Detail,1020800099,228,100952,Jia Perkins,1611661329,Chicago Sky,3,7,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,57,110,1,0,20080628,CHI,DET,2008-09
+Shot Chart Detail,1020800099,291,100952,Jia Perkins,1611661329,Chicago Sky,3,2,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-28,153,1,0,20080628,CHI,DET,2008-09
+Shot Chart Detail,1020800099,389,100952,Jia Perkins,1611661329,Chicago Sky,4,2,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-117,89,1,0,20080628,CHI,DET,2008-09
+Shot Chart Detail,1020800108,33,100952,Jia Perkins,1611661329,Chicago Sky,1,6,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,67,173,1,1,20080701,MIN,CHI,2008-09
+Shot Chart Detail,1020800108,195,100952,Jia Perkins,1611661329,Chicago Sky,2,1,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,36,217,1,1,20080701,MIN,CHI,2008-09
+Shot Chart Detail,1020800108,226,100952,Jia Perkins,1611661329,Chicago Sky,3,8,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080701,MIN,CHI,2008-09
+Shot Chart Detail,1020800108,263,100952,Jia Perkins,1611661329,Chicago Sky,3,4,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,128,181,1,0,20080701,MIN,CHI,2008-09
+Shot Chart Detail,1020800108,271,100952,Jia Perkins,1611661329,Chicago Sky,3,3,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,6,72,1,0,20080701,MIN,CHI,2008-09
+Shot Chart Detail,1020800108,289,100952,Jia Perkins,1611661329,Chicago Sky,3,1,55,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-39,94,1,1,20080701,MIN,CHI,2008-09
+Shot Chart Detail,1020800108,295,100952,Jia Perkins,1611661329,Chicago Sky,3,1,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,5,71,1,0,20080701,MIN,CHI,2008-09
+Shot Chart Detail,1020800108,306,100952,Jia Perkins,1611661329,Chicago Sky,3,0,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-143,163,1,0,20080701,MIN,CHI,2008-09
+Shot Chart Detail,1020800108,367,100952,Jia Perkins,1611661329,Chicago Sky,4,4,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,177,135,1,1,20080701,MIN,CHI,2008-09
+Shot Chart Detail,1020800108,387,100952,Jia Perkins,1611661329,Chicago Sky,4,2,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-10,97,1,0,20080701,MIN,CHI,2008-09
+Shot Chart Detail,1020800108,399,100952,Jia Perkins,1611661329,Chicago Sky,4,1,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-179,127,1,1,20080701,MIN,CHI,2008-09
+Shot Chart Detail,1020800108,409,100952,Jia Perkins,1611661329,Chicago Sky,4,0,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-66,122,1,0,20080701,MIN,CHI,2008-09
+Shot Chart Detail,1020800112,12,100952,Jia Perkins,1611661329,Chicago Sky,1,7,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,167,-29,1,1,20080702,IND,CHI,2008-09
+Shot Chart Detail,1020800112,34,100952,Jia Perkins,1611661329,Chicago Sky,1,4,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-80,150,1,0,20080702,IND,CHI,2008-09
+Shot Chart Detail,1020800112,70,100952,Jia Perkins,1611661329,Chicago Sky,1,1,25,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-163,51,1,1,20080702,IND,CHI,2008-09
+Shot Chart Detail,1020800112,116,100952,Jia Perkins,1611661329,Chicago Sky,2,7,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,52,150,1,0,20080702,IND,CHI,2008-09
+Shot Chart Detail,1020800112,139,100952,Jia Perkins,1611661329,Chicago Sky,2,5,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,-3,1,1,20080702,IND,CHI,2008-09
+Shot Chart Detail,1020800112,144,100952,Jia Perkins,1611661329,Chicago Sky,2,5,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-6,1,1,20080702,IND,CHI,2008-09
+Shot Chart Detail,1020800112,178,100952,Jia Perkins,1611661329,Chicago Sky,2,1,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,23,-228,46,1,1,20080702,IND,CHI,2008-09
+Shot Chart Detail,1020800112,187,100952,Jia Perkins,1611661329,Chicago Sky,2,0,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,6,74,1,0,20080702,IND,CHI,2008-09
+Shot Chart Detail,1020800112,217,100952,Jia Perkins,1611661329,Chicago Sky,3,8,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,-9,1,0,20080702,IND,CHI,2008-09
+Shot Chart Detail,1020800112,242,100952,Jia Perkins,1611661329,Chicago Sky,3,5,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,22,1,0,20080702,IND,CHI,2008-09
+Shot Chart Detail,1020800112,334,100952,Jia Perkins,1611661329,Chicago Sky,4,6,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,14,-72,123,1,0,20080702,IND,CHI,2008-09
+Shot Chart Detail,1020800112,343,100952,Jia Perkins,1611661329,Chicago Sky,4,5,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,22,-222,38,1,0,20080702,IND,CHI,2008-09
+Shot Chart Detail,1020800112,379,100952,Jia Perkins,1611661329,Chicago Sky,4,3,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,90,61,1,0,20080702,IND,CHI,2008-09
+Shot Chart Detail,1020800119,8,100952,Jia Perkins,1611661329,Chicago Sky,1,8,41,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080705,ATL,CHI,2008-09
+Shot Chart Detail,1020800119,23,100952,Jia Perkins,1611661329,Chicago Sky,1,7,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-131,74,1,0,20080705,ATL,CHI,2008-09
+Shot Chart Detail,1020800119,34,100952,Jia Perkins,1611661329,Chicago Sky,1,6,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,46,97,1,1,20080705,ATL,CHI,2008-09
+Shot Chart Detail,1020800119,57,100952,Jia Perkins,1611661329,Chicago Sky,1,3,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,123,125,1,0,20080705,ATL,CHI,2008-09
+Shot Chart Detail,1020800119,112,100952,Jia Perkins,1611661329,Chicago Sky,2,9,29,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080705,ATL,CHI,2008-09
+Shot Chart Detail,1020800119,120,100952,Jia Perkins,1611661329,Chicago Sky,2,8,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,23,-199,127,1,0,20080705,ATL,CHI,2008-09
+Shot Chart Detail,1020800119,129,100952,Jia Perkins,1611661329,Chicago Sky,2,7,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,13,163,1,0,20080705,ATL,CHI,2008-09
+Shot Chart Detail,1020800119,220,100952,Jia Perkins,1611661329,Chicago Sky,3,9,23,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,45,1,1,20080705,ATL,CHI,2008-09
+Shot Chart Detail,1020800119,223,100952,Jia Perkins,1611661329,Chicago Sky,3,8,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,161,82,1,1,20080705,ATL,CHI,2008-09
+Shot Chart Detail,1020800119,227,100952,Jia Perkins,1611661329,Chicago Sky,3,7,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,24,247,1,0,20080705,ATL,CHI,2008-09
+Shot Chart Detail,1020800119,232,100952,Jia Perkins,1611661329,Chicago Sky,3,7,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-130,100,1,0,20080705,ATL,CHI,2008-09
+Shot Chart Detail,1020800119,239,100952,Jia Perkins,1611661329,Chicago Sky,3,7,0,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,36,53,1,1,20080705,ATL,CHI,2008-09
+Shot Chart Detail,1020800119,251,100952,Jia Perkins,1611661329,Chicago Sky,3,6,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,54,1,1,20080705,ATL,CHI,2008-09
+Shot Chart Detail,1020800119,269,100952,Jia Perkins,1611661329,Chicago Sky,3,4,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-87,122,1,1,20080705,ATL,CHI,2008-09
+Shot Chart Detail,1020800119,281,100952,Jia Perkins,1611661329,Chicago Sky,3,3,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,-1,1,0,20080705,ATL,CHI,2008-09
+Shot Chart Detail,1020800119,375,100952,Jia Perkins,1611661329,Chicago Sky,4,5,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,148,202,1,1,20080705,ATL,CHI,2008-09
+Shot Chart Detail,1020800119,412,100952,Jia Perkins,1611661329,Chicago Sky,4,2,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-154,204,1,0,20080705,ATL,CHI,2008-09
+Shot Chart Detail,1020800119,423,100952,Jia Perkins,1611661329,Chicago Sky,4,0,57,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,54,28,1,0,20080705,ATL,CHI,2008-09
+Shot Chart Detail,1020800119,429,100952,Jia Perkins,1611661329,Chicago Sky,4,0,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,130,207,1,0,20080705,ATL,CHI,2008-09
+Shot Chart Detail,1020800119,441,100952,Jia Perkins,1611661329,Chicago Sky,4,0,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,23,229,1,1,20080705,ATL,CHI,2008-09
+Shot Chart Detail,1020800132,20,100952,Jia Perkins,1611661329,Chicago Sky,1,7,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,117,133,1,1,20080710,CHI,SAN,2008-09
+Shot Chart Detail,1020800132,40,100952,Jia Perkins,1611661329,Chicago Sky,1,4,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-156,140,1,0,20080710,CHI,SAN,2008-09
+Shot Chart Detail,1020800132,77,100952,Jia Perkins,1611661329,Chicago Sky,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,105,148,1,0,20080710,CHI,SAN,2008-09
+Shot Chart Detail,1020800132,122,100952,Jia Perkins,1611661329,Chicago Sky,2,4,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,15,161,1,0,20080710,CHI,SAN,2008-09
+Shot Chart Detail,1020800132,152,100952,Jia Perkins,1611661329,Chicago Sky,2,1,27,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080710,CHI,SAN,2008-09
+Shot Chart Detail,1020800132,167,100952,Jia Perkins,1611661329,Chicago Sky,3,9,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080710,CHI,SAN,2008-09
+Shot Chart Detail,1020800132,207,100952,Jia Perkins,1611661329,Chicago Sky,3,4,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,1,160,1,1,20080710,CHI,SAN,2008-09
+Shot Chart Detail,1020800132,217,100952,Jia Perkins,1611661329,Chicago Sky,3,3,46,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-218,10,1,0,20080710,CHI,SAN,2008-09
+Shot Chart Detail,1020800132,251,100952,Jia Perkins,1611661329,Chicago Sky,3,0,32,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,130,115,1,1,20080710,CHI,SAN,2008-09
+Shot Chart Detail,1020800132,269,100952,Jia Perkins,1611661329,Chicago Sky,4,8,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080710,CHI,SAN,2008-09
+Shot Chart Detail,1020800132,296,100952,Jia Perkins,1611661329,Chicago Sky,4,7,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-43,48,1,0,20080710,CHI,SAN,2008-09
+Shot Chart Detail,1020800132,321,100952,Jia Perkins,1611661329,Chicago Sky,4,4,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,-3,1,1,20080710,CHI,SAN,2008-09
+Shot Chart Detail,1020800132,331,100952,Jia Perkins,1611661329,Chicago Sky,4,3,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080710,CHI,SAN,2008-09
+Shot Chart Detail,1020800132,338,100952,Jia Perkins,1611661329,Chicago Sky,4,2,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-16,82,1,0,20080710,CHI,SAN,2008-09
+Shot Chart Detail,1020800132,355,100952,Jia Perkins,1611661329,Chicago Sky,4,0,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,79,207,1,0,20080710,CHI,SAN,2008-09
+Shot Chart Detail,1020800132,364,100952,Jia Perkins,1611661329,Chicago Sky,4,0,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,212,31,1,1,20080710,CHI,SAN,2008-09
+Shot Chart Detail,1020800132,366,100952,Jia Perkins,1611661329,Chicago Sky,4,0,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080710,CHI,SAN,2008-09
+Shot Chart Detail,1020800136,51,100952,Jia Perkins,1611661329,Chicago Sky,1,2,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,80,141,1,0,20080712,IND,CHI,2008-09
+Shot Chart Detail,1020800136,81,100952,Jia Perkins,1611661329,Chicago Sky,2,9,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,-23,1,0,20080712,IND,CHI,2008-09
+Shot Chart Detail,1020800136,129,100952,Jia Perkins,1611661329,Chicago Sky,2,4,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,110,201,1,0,20080712,IND,CHI,2008-09
+Shot Chart Detail,1020800136,200,100952,Jia Perkins,1611661329,Chicago Sky,3,6,49,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-6,1,0,20080712,IND,CHI,2008-09
+Shot Chart Detail,1020800136,216,100952,Jia Perkins,1611661329,Chicago Sky,3,5,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,8,1,0,20080712,IND,CHI,2008-09
+Shot Chart Detail,1020800136,220,100952,Jia Perkins,1611661329,Chicago Sky,3,4,54,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-107,45,1,1,20080712,IND,CHI,2008-09
+Shot Chart Detail,1020800136,226,100952,Jia Perkins,1611661329,Chicago Sky,3,4,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,115,181,1,0,20080712,IND,CHI,2008-09
+Shot Chart Detail,1020800136,233,100952,Jia Perkins,1611661329,Chicago Sky,3,3,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-108,56,1,0,20080712,IND,CHI,2008-09
+Shot Chart Detail,1020800136,257,100952,Jia Perkins,1611661329,Chicago Sky,3,1,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,0,1,0,20080712,IND,CHI,2008-09
+Shot Chart Detail,1020800136,260,100952,Jia Perkins,1611661329,Chicago Sky,3,0,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,26,155,1,1,20080712,IND,CHI,2008-09
+Shot Chart Detail,1020800136,276,100952,Jia Perkins,1611661329,Chicago Sky,4,8,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-154,89,1,0,20080712,IND,CHI,2008-09
+Shot Chart Detail,1020800136,322,100952,Jia Perkins,1611661329,Chicago Sky,4,4,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-34,153,1,1,20080712,IND,CHI,2008-09
+Shot Chart Detail,1020800136,325,100952,Jia Perkins,1611661329,Chicago Sky,4,3,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,-21,1,0,20080712,IND,CHI,2008-09
+Shot Chart Detail,1020800136,337,100952,Jia Perkins,1611661329,Chicago Sky,4,2,44,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-18,132,1,1,20080712,IND,CHI,2008-09
+Shot Chart Detail,1020800136,341,100952,Jia Perkins,1611661329,Chicago Sky,4,2,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-69,151,1,0,20080712,IND,CHI,2008-09
+Shot Chart Detail,1020800136,376,100952,Jia Perkins,1611661329,Chicago Sky,4,0,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,-23,229,1,0,20080712,IND,CHI,2008-09
+Shot Chart Detail,1020800142,10,100952,Jia Perkins,1611661329,Chicago Sky,1,9,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-113,0,1,1,20080713,CHI,ATL,2008-09
+Shot Chart Detail,1020800142,33,100952,Jia Perkins,1611661329,Chicago Sky,1,6,0,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-100,79,1,0,20080713,CHI,ATL,2008-09
+Shot Chart Detail,1020800142,69,100952,Jia Perkins,1611661329,Chicago Sky,1,2,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-107,181,1,1,20080713,CHI,ATL,2008-09
+Shot Chart Detail,1020800142,142,100952,Jia Perkins,1611661329,Chicago Sky,2,4,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-143,153,1,1,20080713,CHI,ATL,2008-09
+Shot Chart Detail,1020800142,163,100952,Jia Perkins,1611661329,Chicago Sky,2,2,52,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-10,76,1,1,20080713,CHI,ATL,2008-09
+Shot Chart Detail,1020800142,201,100952,Jia Perkins,1611661329,Chicago Sky,3,9,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080713,CHI,ATL,2008-09
+Shot Chart Detail,1020800142,208,100952,Jia Perkins,1611661329,Chicago Sky,3,8,1,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-149,31,1,0,20080713,CHI,ATL,2008-09
+Shot Chart Detail,1020800142,224,100952,Jia Perkins,1611661329,Chicago Sky,3,6,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,54,210,1,0,20080713,CHI,ATL,2008-09
+Shot Chart Detail,1020800142,308,100952,Jia Perkins,1611661329,Chicago Sky,4,9,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,69,22,1,0,20080713,CHI,ATL,2008-09
+Shot Chart Detail,1020800146,23,100952,Jia Perkins,1611661329,Chicago Sky,1,6,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,179,153,1,0,20080716,DET,CHI,2008-09
+Shot Chart Detail,1020800146,31,100952,Jia Perkins,1611661329,Chicago Sky,1,5,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,120,110,1,0,20080716,DET,CHI,2008-09
+Shot Chart Detail,1020800146,43,100952,Jia Perkins,1611661329,Chicago Sky,1,3,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,126,100,1,0,20080716,DET,CHI,2008-09
+Shot Chart Detail,1020800146,73,100952,Jia Perkins,1611661329,Chicago Sky,1,2,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,181,115,1,1,20080716,DET,CHI,2008-09
+Shot Chart Detail,1020800146,85,100952,Jia Perkins,1611661329,Chicago Sky,1,0,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-115,31,1,0,20080716,DET,CHI,2008-09
+Shot Chart Detail,1020800146,128,100952,Jia Perkins,1611661329,Chicago Sky,2,5,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,207,81,1,0,20080716,DET,CHI,2008-09
+Shot Chart Detail,1020800146,176,100952,Jia Perkins,1611661329,Chicago Sky,2,0,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,20,1,1,20080716,DET,CHI,2008-09
+Shot Chart Detail,1020800146,182,100952,Jia Perkins,1611661329,Chicago Sky,3,9,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,102,133,1,0,20080716,DET,CHI,2008-09
+Shot Chart Detail,1020800146,184,100952,Jia Perkins,1611661329,Chicago Sky,3,9,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-89,40,1,1,20080716,DET,CHI,2008-09
+Shot Chart Detail,1020800146,229,100952,Jia Perkins,1611661329,Chicago Sky,3,4,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,61,169,1,0,20080716,DET,CHI,2008-09
+Shot Chart Detail,1020800146,327,100952,Jia Perkins,1611661329,Chicago Sky,4,6,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-200,100,1,1,20080716,DET,CHI,2008-09
+Shot Chart Detail,1020800146,334,100952,Jia Perkins,1611661329,Chicago Sky,4,5,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,110,202,1,1,20080716,DET,CHI,2008-09
+Shot Chart Detail,1020800146,347,100952,Jia Perkins,1611661329,Chicago Sky,4,4,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-218,69,1,0,20080716,DET,CHI,2008-09
+Shot Chart Detail,1020800146,352,100952,Jia Perkins,1611661329,Chicago Sky,4,3,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,43,1,1,20080716,DET,CHI,2008-09
+Shot Chart Detail,1020800146,356,100952,Jia Perkins,1611661329,Chicago Sky,4,2,57,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-112,82,1,0,20080716,DET,CHI,2008-09
+Shot Chart Detail,1020800146,364,100952,Jia Perkins,1611661329,Chicago Sky,4,2,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080716,DET,CHI,2008-09
+Shot Chart Detail,1020800146,376,100952,Jia Perkins,1611661329,Chicago Sky,4,1,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-174,138,1,1,20080716,DET,CHI,2008-09
+Shot Chart Detail,1020800146,379,100952,Jia Perkins,1611661329,Chicago Sky,4,0,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,39,224,1,0,20080716,DET,CHI,2008-09
+Shot Chart Detail,1020800146,389,100952,Jia Perkins,1611661329,Chicago Sky,4,0,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,92,225,1,0,20080716,DET,CHI,2008-09
+Shot Chart Detail,1020800146,391,100952,Jia Perkins,1611661329,Chicago Sky,4,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-159,179,1,0,20080716,DET,CHI,2008-09
+Shot Chart Detail,1020800153,2,100952,Jia Perkins,1611661329,Chicago Sky,1,9,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080718,CHI,CON,2008-09
+Shot Chart Detail,1020800153,8,100952,Jia Perkins,1611661329,Chicago Sky,1,9,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,1,115,1,0,20080718,CHI,CON,2008-09
+Shot Chart Detail,1020800153,19,100952,Jia Perkins,1611661329,Chicago Sky,1,7,55,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080718,CHI,CON,2008-09
+Shot Chart Detail,1020800153,57,100952,Jia Perkins,1611661329,Chicago Sky,1,2,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,57,210,1,1,20080718,CHI,CON,2008-09
+Shot Chart Detail,1020800153,74,100952,Jia Perkins,1611661329,Chicago Sky,1,0,36,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080718,CHI,CON,2008-09
+Shot Chart Detail,1020800153,144,100952,Jia Perkins,1611661329,Chicago Sky,2,2,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,110,122,1,1,20080718,CHI,CON,2008-09
+Shot Chart Detail,1020800153,158,100952,Jia Perkins,1611661329,Chicago Sky,2,1,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,113,107,1,0,20080718,CHI,CON,2008-09
+Shot Chart Detail,1020800153,231,100952,Jia Perkins,1611661329,Chicago Sky,3,5,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,141,82,1,1,20080718,CHI,CON,2008-09
+Shot Chart Detail,1020800153,316,100952,Jia Perkins,1611661329,Chicago Sky,4,8,34,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080718,CHI,CON,2008-09
+Shot Chart Detail,1020800153,319,100952,Jia Perkins,1611661329,Chicago Sky,4,8,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,66,33,1,0,20080718,CHI,CON,2008-09
+Shot Chart Detail,1020800153,327,100952,Jia Perkins,1611661329,Chicago Sky,4,7,15,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080718,CHI,CON,2008-09
+Shot Chart Detail,1020800153,330,100952,Jia Perkins,1611661329,Chicago Sky,4,6,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-94,206,1,0,20080718,CHI,CON,2008-09
+Shot Chart Detail,1020800153,362,100952,Jia Perkins,1611661329,Chicago Sky,4,4,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-113,192,1,0,20080718,CHI,CON,2008-09
+Shot Chart Detail,1020800153,419,100952,Jia Perkins,1611661329,Chicago Sky,4,0,22,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080718,CHI,CON,2008-09
+Shot Chart Detail,1020800159,8,100952,Jia Perkins,1611661329,Chicago Sky,1,9,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,90,89,1,1,20080720,CON,CHI,2008-09
+Shot Chart Detail,1020800159,40,100952,Jia Perkins,1611661329,Chicago Sky,1,5,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-61,81,1,0,20080720,CON,CHI,2008-09
+Shot Chart Detail,1020800159,51,100952,Jia Perkins,1611661329,Chicago Sky,1,4,18,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-59,18,1,1,20080720,CON,CHI,2008-09
+Shot Chart Detail,1020800159,161,100952,Jia Perkins,1611661329,Chicago Sky,2,2,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,103,191,1,1,20080720,CON,CHI,2008-09
+Shot Chart Detail,1020800159,177,100952,Jia Perkins,1611661329,Chicago Sky,2,0,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080720,CON,CHI,2008-09
+Shot Chart Detail,1020800159,198,100952,Jia Perkins,1611661329,Chicago Sky,3,8,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,20,1,1,20080720,CON,CHI,2008-09
+Shot Chart Detail,1020800159,252,100952,Jia Perkins,1611661329,Chicago Sky,3,2,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,194,146,1,0,20080720,CON,CHI,2008-09
+Shot Chart Detail,1020800159,264,100952,Jia Perkins,1611661329,Chicago Sky,3,0,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,82,77,1,0,20080720,CON,CHI,2008-09
+Shot Chart Detail,1020800159,307,100952,Jia Perkins,1611661329,Chicago Sky,4,6,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,3,1,0,20080720,CON,CHI,2008-09
+Shot Chart Detail,1020800159,315,100952,Jia Perkins,1611661329,Chicago Sky,4,5,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-31,186,1,1,20080720,CON,CHI,2008-09
+Shot Chart Detail,1020800159,343,100952,Jia Perkins,1611661329,Chicago Sky,4,1,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-122,114,1,0,20080720,CON,CHI,2008-09
+Shot Chart Detail,1020800159,359,100952,Jia Perkins,1611661329,Chicago Sky,4,0,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,0,1,1,20080720,CON,CHI,2008-09
+Shot Chart Detail,1020800165,29,100952,Jia Perkins,1611661329,Chicago Sky,1,4,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-90,45,1,0,20080722,CHI,IND,2008-09
+Shot Chart Detail,1020800165,49,100952,Jia Perkins,1611661329,Chicago Sky,1,2,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,113,179,1,0,20080722,CHI,IND,2008-09
+Shot Chart Detail,1020800165,95,100952,Jia Perkins,1611661329,Chicago Sky,2,6,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080722,CHI,IND,2008-09
+Shot Chart Detail,1020800165,197,100952,Jia Perkins,1611661329,Chicago Sky,3,6,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080722,CHI,IND,2008-09
+Shot Chart Detail,1020800165,231,100952,Jia Perkins,1611661329,Chicago Sky,3,3,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-187,-13,1,1,20080722,CHI,IND,2008-09
+Shot Chart Detail,1020800165,252,100952,Jia Perkins,1611661329,Chicago Sky,3,1,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-187,125,1,0,20080722,CHI,IND,2008-09
+Shot Chart Detail,1020800165,266,100952,Jia Perkins,1611661329,Chicago Sky,3,0,8,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-215,-6,1,1,20080722,CHI,IND,2008-09
+Shot Chart Detail,1020800165,293,100952,Jia Perkins,1611661329,Chicago Sky,4,7,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080722,CHI,IND,2008-09
+Shot Chart Detail,1020800165,296,100952,Jia Perkins,1611661329,Chicago Sky,4,7,23,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-218,2,1,0,20080722,CHI,IND,2008-09
+Shot Chart Detail,1020800165,340,100952,Jia Perkins,1611661329,Chicago Sky,4,2,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-135,54,1,0,20080722,CHI,IND,2008-09
+Shot Chart Detail,1020800165,344,100952,Jia Perkins,1611661329,Chicago Sky,4,2,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,97,206,1,0,20080722,CHI,IND,2008-09
+Shot Chart Detail,1020800165,354,100952,Jia Perkins,1611661329,Chicago Sky,4,1,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-130,174,1,0,20080722,CHI,IND,2008-09
+Shot Chart Detail,1020800168,15,100952,Jia Perkins,1611661329,Chicago Sky,1,7,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,156,10,1,0,20080724,SAN,CHI,2008-09
+Shot Chart Detail,1020800168,42,100952,Jia Perkins,1611661329,Chicago Sky,1,4,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-202,72,1,1,20080724,SAN,CHI,2008-09
+Shot Chart Detail,1020800168,56,100952,Jia Perkins,1611661329,Chicago Sky,1,2,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-72,118,1,0,20080724,SAN,CHI,2008-09
+Shot Chart Detail,1020800168,69,100952,Jia Perkins,1611661329,Chicago Sky,1,1,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-187,109,1,0,20080724,SAN,CHI,2008-09
+Shot Chart Detail,1020800168,130,100952,Jia Perkins,1611661329,Chicago Sky,2,5,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,67,8,1,0,20080724,SAN,CHI,2008-09
+Shot Chart Detail,1020800168,162,100952,Jia Perkins,1611661329,Chicago Sky,2,2,18,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,-3,1,1,20080724,SAN,CHI,2008-09
+Shot Chart Detail,1020800168,186,100952,Jia Perkins,1611661329,Chicago Sky,3,8,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-13,104,1,1,20080724,SAN,CHI,2008-09
+Shot Chart Detail,1020800168,196,100952,Jia Perkins,1611661329,Chicago Sky,3,7,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,136,100,1,0,20080724,SAN,CHI,2008-09
+Shot Chart Detail,1020800168,255,100952,Jia Perkins,1611661329,Chicago Sky,3,0,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-61,25,1,0,20080724,SAN,CHI,2008-09
+Shot Chart Detail,1020800168,315,100952,Jia Perkins,1611661329,Chicago Sky,4,3,38,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,5,102,1,1,20080724,SAN,CHI,2008-09
+Shot Chart Detail,1020800168,317,100952,Jia Perkins,1611661329,Chicago Sky,4,3,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,40,1,0,20080724,SAN,CHI,2008-09
+Shot Chart Detail,1020800168,331,100952,Jia Perkins,1611661329,Chicago Sky,4,1,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-51,114,1,0,20080724,SAN,CHI,2008-09
+Shot Chart Detail,1020800168,357,100952,Jia Perkins,1611661329,Chicago Sky,4,0,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-1,1,0,20080724,SAN,CHI,2008-09
+Shot Chart Detail,1020800177,31,100952,Jia Perkins,1611661329,Chicago Sky,1,6,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080726,HOU,CHI,2008-09
+Shot Chart Detail,1020800177,39,100952,Jia Perkins,1611661329,Chicago Sky,1,6,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,169,151,1,1,20080726,HOU,CHI,2008-09
+Shot Chart Detail,1020800177,94,100952,Jia Perkins,1611661329,Chicago Sky,1,1,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-164,66,1,0,20080726,HOU,CHI,2008-09
+Shot Chart Detail,1020800177,99,100952,Jia Perkins,1611661329,Chicago Sky,1,0,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,135,186,1,0,20080726,HOU,CHI,2008-09
+Shot Chart Detail,1020800177,149,100952,Jia Perkins,1611661329,Chicago Sky,2,4,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080726,HOU,CHI,2008-09
+Shot Chart Detail,1020800177,157,100952,Jia Perkins,1611661329,Chicago Sky,2,4,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,171,-24,1,0,20080726,HOU,CHI,2008-09
+Shot Chart Detail,1020800177,216,100952,Jia Perkins,1611661329,Chicago Sky,3,8,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-28,127,1,0,20080726,HOU,CHI,2008-09
+Shot Chart Detail,1020800177,222,100952,Jia Perkins,1611661329,Chicago Sky,3,7,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,153,178,1,0,20080726,HOU,CHI,2008-09
+Shot Chart Detail,1020800177,284,100952,Jia Perkins,1611661329,Chicago Sky,3,1,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,23,205,118,1,1,20080726,HOU,CHI,2008-09
+Shot Chart Detail,1020800177,286,100952,Jia Perkins,1611661329,Chicago Sky,3,0,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,115,212,1,1,20080726,HOU,CHI,2008-09
+Shot Chart Detail,1020800177,317,100952,Jia Perkins,1611661329,Chicago Sky,4,6,46,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,0,1,1,20080726,HOU,CHI,2008-09
+Shot Chart Detail,1020800177,341,100952,Jia Perkins,1611661329,Chicago Sky,4,3,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080726,HOU,CHI,2008-09
+Shot Chart Detail,1020800177,353,100952,Jia Perkins,1611661329,Chicago Sky,4,2,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-10,141,1,0,20080726,HOU,CHI,2008-09
+Shot Chart Detail,1020800177,355,100952,Jia Perkins,1611661329,Chicago Sky,4,2,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,112,58,1,0,20080726,HOU,CHI,2008-09
+Shot Chart Detail,1020800186,19,100952,Jia Perkins,1611661329,Chicago Sky,1,8,25,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,144,112,1,1,20080828,NYL,CHI,2008-09
+Shot Chart Detail,1020800186,21,100952,Jia Perkins,1611661329,Chicago Sky,1,7,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,39,-169,358,1,0,20080828,NYL,CHI,2008-09
+Shot Chart Detail,1020800186,46,100952,Jia Perkins,1611661329,Chicago Sky,1,4,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,64,168,1,1,20080828,NYL,CHI,2008-09
+Shot Chart Detail,1020800186,91,100952,Jia Perkins,1611661329,Chicago Sky,1,0,33,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,59,122,1,1,20080828,NYL,CHI,2008-09
+Shot Chart Detail,1020800186,101,100952,Jia Perkins,1611661329,Chicago Sky,2,9,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-174,140,1,1,20080828,NYL,CHI,2008-09
+Shot Chart Detail,1020800186,178,100952,Jia Perkins,1611661329,Chicago Sky,2,0,4,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-6,160,1,1,20080828,NYL,CHI,2008-09
+Shot Chart Detail,1020800186,206,100952,Jia Perkins,1611661329,Chicago Sky,3,5,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,95,153,1,0,20080828,NYL,CHI,2008-09
+Shot Chart Detail,1020800186,273,100952,Jia Perkins,1611661329,Chicago Sky,3,0,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,144,171,1,0,20080828,NYL,CHI,2008-09
+Shot Chart Detail,1020800186,282,100952,Jia Perkins,1611661329,Chicago Sky,4,9,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080828,NYL,CHI,2008-09
+Shot Chart Detail,1020800186,302,100952,Jia Perkins,1611661329,Chicago Sky,4,8,7,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,5,74,1,1,20080828,NYL,CHI,2008-09
+Shot Chart Detail,1020800186,351,100952,Jia Perkins,1611661329,Chicago Sky,4,2,59,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-72,84,1,1,20080828,NYL,CHI,2008-09
+Shot Chart Detail,1020800186,359,100952,Jia Perkins,1611661329,Chicago Sky,4,2,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,200,71,1,0,20080828,NYL,CHI,2008-09
+Shot Chart Detail,1020800190,2,100952,Jia Perkins,1611661329,Chicago Sky,1,9,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-154,-32,1,1,20080829,WAS,CHI,2008-09
+Shot Chart Detail,1020800190,43,100952,Jia Perkins,1611661329,Chicago Sky,1,5,49,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,8,35,1,0,20080829,WAS,CHI,2008-09
+Shot Chart Detail,1020800190,45,100952,Jia Perkins,1611661329,Chicago Sky,1,5,46,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-3,20,1,1,20080829,WAS,CHI,2008-09
+Shot Chart Detail,1020800190,65,100952,Jia Perkins,1611661329,Chicago Sky,1,4,17,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-143,82,1,1,20080829,WAS,CHI,2008-09
+Shot Chart Detail,1020800190,209,100952,Jia Perkins,1611661329,Chicago Sky,2,1,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-56,107,1,0,20080829,WAS,CHI,2008-09
+Shot Chart Detail,1020800190,221,100952,Jia Perkins,1611661329,Chicago Sky,2,0,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-123,115,1,0,20080829,WAS,CHI,2008-09
+Shot Chart Detail,1020800190,254,100952,Jia Perkins,1611661329,Chicago Sky,3,8,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,10,1,1,20080829,WAS,CHI,2008-09
+Shot Chart Detail,1020800190,259,100952,Jia Perkins,1611661329,Chicago Sky,3,7,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,24,-241,63,1,0,20080829,WAS,CHI,2008-09
+Shot Chart Detail,1020800190,263,100952,Jia Perkins,1611661329,Chicago Sky,3,7,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,0,1,1,20080829,WAS,CHI,2008-09
+Shot Chart Detail,1020800190,266,100952,Jia Perkins,1611661329,Chicago Sky,3,6,43,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-10,72,1,1,20080829,WAS,CHI,2008-09
+Shot Chart Detail,1020800190,269,100952,Jia Perkins,1611661329,Chicago Sky,3,6,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-64,17,1,0,20080829,WAS,CHI,2008-09
+Shot Chart Detail,1020800190,272,100952,Jia Perkins,1611661329,Chicago Sky,3,6,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,8,1,1,20080829,WAS,CHI,2008-09
+Shot Chart Detail,1020800190,296,100952,Jia Perkins,1611661329,Chicago Sky,3,4,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,212,61,1,1,20080829,WAS,CHI,2008-09
+Shot Chart Detail,1020800190,307,100952,Jia Perkins,1611661329,Chicago Sky,3,3,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,23,163,1,0,20080829,WAS,CHI,2008-09
+Shot Chart Detail,1020800190,311,100952,Jia Perkins,1611661329,Chicago Sky,3,2,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-135,209,1,0,20080829,WAS,CHI,2008-09
+Shot Chart Detail,1020800190,318,100952,Jia Perkins,1611661329,Chicago Sky,3,1,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,5,151,1,1,20080829,WAS,CHI,2008-09
+Shot Chart Detail,1020800190,365,100952,Jia Perkins,1611661329,Chicago Sky,4,8,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,120,186,1,0,20080829,WAS,CHI,2008-09
+Shot Chart Detail,1020800190,384,100952,Jia Perkins,1611661329,Chicago Sky,4,6,21,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,38,2,1,0,20080829,WAS,CHI,2008-09
+Shot Chart Detail,1020800190,386,100952,Jia Perkins,1611661329,Chicago Sky,4,6,18,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,12,1,1,20080829,WAS,CHI,2008-09
+Shot Chart Detail,1020800190,405,100952,Jia Perkins,1611661329,Chicago Sky,4,5,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,23,-202,120,1,0,20080829,WAS,CHI,2008-09
+Shot Chart Detail,1020800190,410,100952,Jia Perkins,1611661329,Chicago Sky,4,4,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,131,100,1,1,20080829,WAS,CHI,2008-09
+Shot Chart Detail,1020800198,14,100952,Jia Perkins,1611661329,Chicago Sky,1,7,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,163,91,1,1,20080831,CHI,DET,2008-09
+Shot Chart Detail,1020800198,158,100952,Jia Perkins,1611661329,Chicago Sky,2,3,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,149,161,1,1,20080831,CHI,DET,2008-09
+Shot Chart Detail,1020800198,165,100952,Jia Perkins,1611661329,Chicago Sky,2,3,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,136,184,1,0,20080831,CHI,DET,2008-09
+Shot Chart Detail,1020800198,251,100952,Jia Perkins,1611661329,Chicago Sky,3,5,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-85,146,1,0,20080831,CHI,DET,2008-09
+Shot Chart Detail,1020800198,315,100952,Jia Perkins,1611661329,Chicago Sky,3,0,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-110,79,1,1,20080831,CHI,DET,2008-09
+Shot Chart Detail,1020800198,327,100952,Jia Perkins,1611661329,Chicago Sky,4,8,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,108,48,1,1,20080831,CHI,DET,2008-09
+Shot Chart Detail,1020800198,354,100952,Jia Perkins,1611661329,Chicago Sky,4,5,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-148,68,1,1,20080831,CHI,DET,2008-09
+Shot Chart Detail,1020800198,363,100952,Jia Perkins,1611661329,Chicago Sky,4,4,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080831,CHI,DET,2008-09
+Shot Chart Detail,1020800198,380,100952,Jia Perkins,1611661329,Chicago Sky,4,2,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,100,125,1,0,20080831,CHI,DET,2008-09
+Shot Chart Detail,1020800198,414,100952,Jia Perkins,1611661329,Chicago Sky,5,4,2,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-210,-8,1,0,20080831,CHI,DET,2008-09
+Shot Chart Detail,1020800198,421,100952,Jia Perkins,1611661329,Chicago Sky,5,3,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,125,12,1,1,20080831,CHI,DET,2008-09
+Shot Chart Detail,1020800198,426,100952,Jia Perkins,1611661329,Chicago Sky,5,2,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,128,59,1,0,20080831,CHI,DET,2008-09
+Shot Chart Detail,1020800204,4,100952,Jia Perkins,1611661329,Chicago Sky,1,9,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080904,CHI,SEA,2008-09
+Shot Chart Detail,1020800204,25,100952,Jia Perkins,1611661329,Chicago Sky,1,7,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-94,128,1,0,20080904,CHI,SEA,2008-09
+Shot Chart Detail,1020800204,41,100952,Jia Perkins,1611661329,Chicago Sky,1,6,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080904,CHI,SEA,2008-09
+Shot Chart Detail,1020800204,51,100952,Jia Perkins,1611661329,Chicago Sky,1,5,58,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080904,CHI,SEA,2008-09
+Shot Chart Detail,1020800204,53,100952,Jia Perkins,1611661329,Chicago Sky,1,5,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080904,CHI,SEA,2008-09
+Shot Chart Detail,1020800204,78,100952,Jia Perkins,1611661329,Chicago Sky,1,1,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,44,156,1,1,20080904,CHI,SEA,2008-09
+Shot Chart Detail,1020800204,154,100952,Jia Perkins,1611661329,Chicago Sky,2,4,21,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-148,8,1,1,20080904,CHI,SEA,2008-09
+Shot Chart Detail,1020800204,204,100952,Jia Perkins,1611661329,Chicago Sky,3,8,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,0,107,1,1,20080904,CHI,SEA,2008-09
+Shot Chart Detail,1020800204,222,100952,Jia Perkins,1611661329,Chicago Sky,3,6,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-125,10,1,1,20080904,CHI,SEA,2008-09
+Shot Chart Detail,1020800204,243,100952,Jia Perkins,1611661329,Chicago Sky,3,3,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-120,201,1,1,20080904,CHI,SEA,2008-09
+Shot Chart Detail,1020800204,360,100952,Jia Perkins,1611661329,Chicago Sky,4,2,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-100,128,1,0,20080904,CHI,SEA,2008-09
+Shot Chart Detail,1020800204,370,100952,Jia Perkins,1611661329,Chicago Sky,4,0,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-2,86,1,0,20080904,CHI,SEA,2008-09
+Shot Chart Detail,1020800205,27,100952,Jia Perkins,1611661329,Chicago Sky,1,6,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,2,1,0,20080905,CON,CHI,2008-09
+Shot Chart Detail,1020800205,75,100952,Jia Perkins,1611661329,Chicago Sky,1,0,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,13,1,0,20080905,CON,CHI,2008-09
+Shot Chart Detail,1020800205,145,100952,Jia Perkins,1611661329,Chicago Sky,2,3,56,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,75,81,1,0,20080905,CON,CHI,2008-09
+Shot Chart Detail,1020800205,149,100952,Jia Perkins,1611661329,Chicago Sky,2,3,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,98,186,1,0,20080905,CON,CHI,2008-09
+Shot Chart Detail,1020800205,169,100952,Jia Perkins,1611661329,Chicago Sky,2,1,15,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080905,CON,CHI,2008-09
+Shot Chart Detail,1020800205,174,100952,Jia Perkins,1611661329,Chicago Sky,2,0,48,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-143,-11,1,1,20080905,CON,CHI,2008-09
+Shot Chart Detail,1020800205,193,100952,Jia Perkins,1611661329,Chicago Sky,3,8,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-31,100,1,0,20080905,CON,CHI,2008-09
+Shot Chart Detail,1020800205,225,100952,Jia Perkins,1611661329,Chicago Sky,3,4,47,Made Shot,Driving Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-123,0,1,1,20080905,CON,CHI,2008-09
+Shot Chart Detail,1020800205,236,100952,Jia Perkins,1611661329,Chicago Sky,3,4,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,136,35,1,1,20080905,CON,CHI,2008-09
+Shot Chart Detail,1020800205,238,100952,Jia Perkins,1611661329,Chicago Sky,3,3,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,2,1,0,20080905,CON,CHI,2008-09
+Shot Chart Detail,1020800205,352,100952,Jia Perkins,1611661329,Chicago Sky,4,0,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-99,217,1,0,20080905,CON,CHI,2008-09
+Shot Chart Detail,1020800205,368,100952,Jia Perkins,1611661329,Chicago Sky,4,0,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,13,1,1,20080905,CON,CHI,2008-09
+Shot Chart Detail,1020800205,374,100952,Jia Perkins,1611661329,Chicago Sky,4,0,15,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,11,68,1,1,20080905,CON,CHI,2008-09
+Shot Chart Detail,1020800205,379,100952,Jia Perkins,1611661329,Chicago Sky,4,0,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,0,1,1,20080905,CON,CHI,2008-09
+Shot Chart Detail,1020800214,28,100952,Jia Perkins,1611661329,Chicago Sky,1,5,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-131,58,1,0,20080907,NYL,CHI,2008-09
+Shot Chart Detail,1020800214,50,100952,Jia Perkins,1611661329,Chicago Sky,1,2,5,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,215,-6,1,0,20080907,NYL,CHI,2008-09
+Shot Chart Detail,1020800214,53,100952,Jia Perkins,1611661329,Chicago Sky,1,1,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080907,NYL,CHI,2008-09
+Shot Chart Detail,1020800214,92,100952,Jia Perkins,1611661329,Chicago Sky,2,7,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080907,NYL,CHI,2008-09
+Shot Chart Detail,1020800214,143,100952,Jia Perkins,1611661329,Chicago Sky,2,3,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-75,156,1,1,20080907,NYL,CHI,2008-09
+Shot Chart Detail,1020800214,175,100952,Jia Perkins,1611661329,Chicago Sky,3,9,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,144,133,1,1,20080907,NYL,CHI,2008-09
+Shot Chart Detail,1020800214,268,100952,Jia Perkins,1611661329,Chicago Sky,3,0,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,126,145,1,1,20080907,NYL,CHI,2008-09
+Shot Chart Detail,1020800214,274,100952,Jia Perkins,1611661329,Chicago Sky,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,79,224,1,0,20080907,NYL,CHI,2008-09
+Shot Chart Detail,1020800214,304,100952,Jia Perkins,1611661329,Chicago Sky,4,6,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080907,NYL,CHI,2008-09
+Shot Chart Detail,1020800214,318,100952,Jia Perkins,1611661329,Chicago Sky,4,4,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-8,59,1,0,20080907,NYL,CHI,2008-09
+Shot Chart Detail,1020800214,324,100952,Jia Perkins,1611661329,Chicago Sky,4,4,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080907,NYL,CHI,2008-09
+Shot Chart Detail,1020800214,337,100952,Jia Perkins,1611661329,Chicago Sky,4,2,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,138,189,1,0,20080907,NYL,CHI,2008-09
+Shot Chart Detail,1020800214,342,100952,Jia Perkins,1611661329,Chicago Sky,4,2,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080907,NYL,CHI,2008-09
+Shot Chart Detail,1020800214,359,100952,Jia Perkins,1611661329,Chicago Sky,4,0,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,21,229,1,1,20080907,NYL,CHI,2008-09
+Shot Chart Detail,1020800214,369,100952,Jia Perkins,1611661329,Chicago Sky,4,0,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-113,155,1,0,20080907,NYL,CHI,2008-09
+Shot Chart Detail,1020800214,382,100952,Jia Perkins,1611661329,Chicago Sky,4,0,10,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080907,NYL,CHI,2008-09
+Shot Chart Detail,1020800220,46,100952,Jia Perkins,1611661329,Chicago Sky,1,6,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,62,117,1,0,20080909,CHI,WAS,2008-09
+Shot Chart Detail,1020800220,86,100952,Jia Perkins,1611661329,Chicago Sky,1,3,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,85,206,1,0,20080909,CHI,WAS,2008-09
+Shot Chart Detail,1020800220,150,100952,Jia Perkins,1611661329,Chicago Sky,2,6,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,186,137,1,0,20080909,CHI,WAS,2008-09
+Shot Chart Detail,1020800220,166,100952,Jia Perkins,1611661329,Chicago Sky,2,5,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-130,76,1,1,20080909,CHI,WAS,2008-09
+Shot Chart Detail,1020800220,169,100952,Jia Perkins,1611661329,Chicago Sky,2,4,40,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,98,137,1,1,20080909,CHI,WAS,2008-09
+Shot Chart Detail,1020800220,172,100952,Jia Perkins,1611661329,Chicago Sky,2,4,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080909,CHI,WAS,2008-09
+Shot Chart Detail,1020800220,183,100952,Jia Perkins,1611661329,Chicago Sky,2,3,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,0,1,1,20080909,CHI,WAS,2008-09
+Shot Chart Detail,1020800220,185,100952,Jia Perkins,1611661329,Chicago Sky,2,3,2,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080909,CHI,WAS,2008-09
+Shot Chart Detail,1020800220,283,100952,Jia Perkins,1611661329,Chicago Sky,3,4,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,120,122,1,1,20080909,CHI,WAS,2008-09
+Shot Chart Detail,1020800220,324,100952,Jia Perkins,1611661329,Chicago Sky,3,0,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,118,94,1,0,20080909,CHI,WAS,2008-09
+Shot Chart Detail,1020800220,362,100952,Jia Perkins,1611661329,Chicago Sky,4,7,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080909,CHI,WAS,2008-09
+Shot Chart Detail,1020800220,379,100952,Jia Perkins,1611661329,Chicago Sky,4,6,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,5,89,1,1,20080909,CHI,WAS,2008-09
+Shot Chart Detail,1020800220,384,100952,Jia Perkins,1611661329,Chicago Sky,4,6,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-125,18,1,1,20080909,CHI,WAS,2008-09
+Shot Chart Detail,1020800229,36,100952,Jia Perkins,1611661329,Chicago Sky,1,4,59,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-117,56,1,1,20080912,CHI,NYL,2008-09
+Shot Chart Detail,1020800229,52,100952,Jia Perkins,1611661329,Chicago Sky,1,3,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,107,82,1,0,20080912,CHI,NYL,2008-09
+Shot Chart Detail,1020800229,86,100952,Jia Perkins,1611661329,Chicago Sky,2,9,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-115,189,1,1,20080912,CHI,NYL,2008-09
+Shot Chart Detail,1020800229,88,100952,Jia Perkins,1611661329,Chicago Sky,2,8,43,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080912,CHI,NYL,2008-09
+Shot Chart Detail,1020800229,159,100952,Jia Perkins,1611661329,Chicago Sky,2,1,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,13,123,1,1,20080912,CHI,NYL,2008-09
+Shot Chart Detail,1020800229,210,100952,Jia Perkins,1611661329,Chicago Sky,3,4,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-108,141,1,0,20080912,CHI,NYL,2008-09
+Shot Chart Detail,1020800229,247,100952,Jia Perkins,1611661329,Chicago Sky,3,1,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-67,141,1,0,20080912,CHI,NYL,2008-09
+Shot Chart Detail,1020800229,253,100952,Jia Perkins,1611661329,Chicago Sky,3,0,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,5,68,1,1,20080912,CHI,NYL,2008-09
+Shot Chart Detail,1020800229,266,100952,Jia Perkins,1611661329,Chicago Sky,4,9,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080912,CHI,NYL,2008-09
+Shot Chart Detail,1020800229,278,100952,Jia Perkins,1611661329,Chicago Sky,4,7,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080912,CHI,NYL,2008-09
+Shot Chart Detail,1020800229,312,100952,Jia Perkins,1611661329,Chicago Sky,4,4,8,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-3,112,1,1,20080912,CHI,NYL,2008-09
+Shot Chart Detail,1020800229,335,100952,Jia Perkins,1611661329,Chicago Sky,4,2,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,-1,1,0,20080912,CHI,NYL,2008-09
+Shot Chart Detail,1020800229,340,100952,Jia Perkins,1611661329,Chicago Sky,4,1,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080912,CHI,NYL,2008-09
+Shot Chart Detail,1020800229,370,100952,Jia Perkins,1611661329,Chicago Sky,4,0,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080912,CHI,NYL,2008-09
+Shot Chart Detail,1020800237,15,100952,Jia Perkins,1611661329,Chicago Sky,1,8,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,136,183,1,0,20080914,CHI,HOU,2008-09
+Shot Chart Detail,1020800237,41,100952,Jia Perkins,1611661329,Chicago Sky,1,4,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-11,173,1,1,20080914,CHI,HOU,2008-09
+Shot Chart Detail,1020800237,66,100952,Jia Perkins,1611661329,Chicago Sky,1,2,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,125,0,1,0,20080914,CHI,HOU,2008-09
+Shot Chart Detail,1020800237,88,100952,Jia Perkins,1611661329,Chicago Sky,1,0,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-199,133,1,1,20080914,CHI,HOU,2008-09
+Shot Chart Detail,1020800237,95,100952,Jia Perkins,1611661329,Chicago Sky,1,0,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,36,99,1,0,20080914,CHI,HOU,2008-09
+Shot Chart Detail,1020800237,100,100952,Jia Perkins,1611661329,Chicago Sky,2,9,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,107,135,1,0,20080914,CHI,HOU,2008-09
+Shot Chart Detail,1020800237,207,100952,Jia Perkins,1611661329,Chicago Sky,3,9,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,31,123,1,0,20080914,CHI,HOU,2008-09
+Shot Chart Detail,1020800237,211,100952,Jia Perkins,1611661329,Chicago Sky,3,9,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-2,155,1,0,20080914,CHI,HOU,2008-09
+Shot Chart Detail,1020800237,263,100952,Jia Perkins,1611661329,Chicago Sky,3,2,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-153,171,1,0,20080914,CHI,HOU,2008-09
+Shot Chart Detail,1020800237,353,100952,Jia Perkins,1611661329,Chicago Sky,4,5,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,138,92,1,0,20080914,CHI,HOU,2008-09
+Shot Chart Detail,1020800237,371,100952,Jia Perkins,1611661329,Chicago Sky,4,4,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,13,109,1,1,20080914,CHI,HOU,2008-09
+Shot Chart Detail,1020800237,374,100952,Jia Perkins,1611661329,Chicago Sky,4,3,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,30,1,1,20080914,CHI,HOU,2008-09
+Shot Chart Detail,1020800237,389,100952,Jia Perkins,1611661329,Chicago Sky,4,2,19,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-71,115,1,1,20080914,CHI,HOU,2008-09
+Shot Chart Detail,1020800237,411,100952,Jia Perkins,1611661329,Chicago Sky,4,0,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-94,36,1,1,20080914,CHI,HOU,2008-09
+Shot Chart Detail,1020800237,418,100952,Jia Perkins,1611661329,Chicago Sky,4,0,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-154,179,1,0,20080914,CHI,HOU,2008-09

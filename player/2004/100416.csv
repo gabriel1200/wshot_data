@@ -1,0 +1,285 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020400003,4,100416,Sheri Sam,1611661328,Seattle Storm,1,19,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,24,36,1,0,20040520,SEA,MIN,2004-05
+Shot Chart Detail,1020400003,20,100416,Sheri Sam,1611661328,Seattle Storm,1,17,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,84,-3,1,0,20040520,SEA,MIN,2004-05
+Shot Chart Detail,1020400003,40,100416,Sheri Sam,1611661328,Seattle Storm,1,15,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,82,0,1,0,20040520,SEA,MIN,2004-05
+Shot Chart Detail,1020400003,142,100416,Sheri Sam,1611661328,Seattle Storm,1,6,54,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,71,132,1,1,20040520,SEA,MIN,2004-05
+Shot Chart Detail,1020400003,276,100416,Sheri Sam,1611661328,Seattle Storm,2,15,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,202,58,1,1,20040520,SEA,MIN,2004-05
+Shot Chart Detail,1020400003,332,100416,Sheri Sam,1611661328,Seattle Storm,2,8,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-46,8,1,0,20040520,SEA,MIN,2004-05
+Shot Chart Detail,1020400003,343,100416,Sheri Sam,1611661328,Seattle Storm,2,8,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040520,SEA,MIN,2004-05
+Shot Chart Detail,1020400003,352,100416,Sheri Sam,1611661328,Seattle Storm,2,6,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,108,28,1,0,20040520,SEA,MIN,2004-05
+Shot Chart Detail,1020400010,13,100416,Sheri Sam,1611661328,Seattle Storm,1,18,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-102,153,1,1,20040522,SEA,LAS,2004-05
+Shot Chart Detail,1020400010,25,100416,Sheri Sam,1611661328,Seattle Storm,1,16,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-143,161,1,0,20040522,SEA,LAS,2004-05
+Shot Chart Detail,1020400010,166,100416,Sheri Sam,1611661328,Seattle Storm,1,3,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040522,SEA,LAS,2004-05
+Shot Chart Detail,1020400010,232,100416,Sheri Sam,1611661328,Seattle Storm,1,2,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,10,141,1,1,20040522,SEA,LAS,2004-05
+Shot Chart Detail,1020400010,269,100416,Sheri Sam,1611661328,Seattle Storm,2,15,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,1,222,1,0,20040522,SEA,LAS,2004-05
+Shot Chart Detail,1020400010,351,100416,Sheri Sam,1611661328,Seattle Storm,2,8,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,120,201,1,1,20040522,SEA,LAS,2004-05
+Shot Chart Detail,1020400010,386,100416,Sheri Sam,1611661328,Seattle Storm,2,5,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-11,229,1,0,20040522,SEA,LAS,2004-05
+Shot Chart Detail,1020400021,5,100416,Sheri Sam,1611661328,Seattle Storm,1,18,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040528,PHO,SEA,2004-05
+Shot Chart Detail,1020400021,7,100416,Sheri Sam,1611661328,Seattle Storm,1,18,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,5,1,0,20040528,PHO,SEA,2004-05
+Shot Chart Detail,1020400021,27,100416,Sheri Sam,1611661328,Seattle Storm,1,16,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,117,63,1,0,20040528,PHO,SEA,2004-05
+Shot Chart Detail,1020400021,95,100416,Sheri Sam,1611661328,Seattle Storm,1,8,56,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-102,18,1,1,20040528,PHO,SEA,2004-05
+Shot Chart Detail,1020400021,110,100416,Sheri Sam,1611661328,Seattle Storm,1,7,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-64,81,1,0,20040528,PHO,SEA,2004-05
+Shot Chart Detail,1020400021,217,100416,Sheri Sam,1611661328,Seattle Storm,2,16,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040528,PHO,SEA,2004-05
+Shot Chart Detail,1020400021,270,100416,Sheri Sam,1611661328,Seattle Storm,2,10,13,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,218,-16,1,0,20040528,PHO,SEA,2004-05
+Shot Chart Detail,1020400021,296,100416,Sheri Sam,1611661328,Seattle Storm,2,8,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,41,1,0,20040528,PHO,SEA,2004-05
+Shot Chart Detail,1020400021,330,100416,Sheri Sam,1611661328,Seattle Storm,2,4,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,192,104,1,0,20040528,PHO,SEA,2004-05
+Shot Chart Detail,1020400021,353,100416,Sheri Sam,1611661328,Seattle Storm,2,1,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040528,PHO,SEA,2004-05
+Shot Chart Detail,1020400021,377,100416,Sheri Sam,1611661328,Seattle Storm,2,0,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,51,51,1,0,20040528,PHO,SEA,2004-05
+Shot Chart Detail,1020400028,12,100416,Sheri Sam,1611661328,Seattle Storm,1,18,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,38,1,0,20040601,LAS,SEA,2004-05
+Shot Chart Detail,1020400028,31,100416,Sheri Sam,1611661328,Seattle Storm,1,16,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,121,155,1,0,20040601,LAS,SEA,2004-05
+Shot Chart Detail,1020400028,44,100416,Sheri Sam,1611661328,Seattle Storm,1,15,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040601,LAS,SEA,2004-05
+Shot Chart Detail,1020400028,52,100416,Sheri Sam,1611661328,Seattle Storm,1,14,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-72,169,1,1,20040601,LAS,SEA,2004-05
+Shot Chart Detail,1020400028,66,100416,Sheri Sam,1611661328,Seattle Storm,1,12,30,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,82,89,1,1,20040601,LAS,SEA,2004-05
+Shot Chart Detail,1020400028,216,100416,Sheri Sam,1611661328,Seattle Storm,1,2,33,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-28,66,1,1,20040601,LAS,SEA,2004-05
+Shot Chart Detail,1020400028,235,100416,Sheri Sam,1611661328,Seattle Storm,1,0,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,74,217,1,0,20040601,LAS,SEA,2004-05
+Shot Chart Detail,1020400028,203,100416,Sheri Sam,1611661328,Seattle Storm,1,0,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040601,LAS,SEA,2004-05
+Shot Chart Detail,1020400028,205,100416,Sheri Sam,1611661328,Seattle Storm,1,0,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,13,232,1,0,20040601,LAS,SEA,2004-05
+Shot Chart Detail,1020400028,283,100416,Sheri Sam,1611661328,Seattle Storm,2,13,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,217,68,1,0,20040601,LAS,SEA,2004-05
+Shot Chart Detail,1020400028,301,100416,Sheri Sam,1611661328,Seattle Storm,2,12,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,169,8,1,0,20040601,LAS,SEA,2004-05
+Shot Chart Detail,1020400028,408,100416,Sheri Sam,1611661328,Seattle Storm,2,5,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040601,LAS,SEA,2004-05
+Shot Chart Detail,1020400028,411,100416,Sheri Sam,1611661328,Seattle Storm,2,4,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-87,179,1,1,20040601,LAS,SEA,2004-05
+Shot Chart Detail,1020400034,14,100416,Sheri Sam,1611661328,Seattle Storm,1,17,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,126,33,1,0,20040603,SEA,PHO,2004-05
+Shot Chart Detail,1020400034,67,100416,Sheri Sam,1611661328,Seattle Storm,1,11,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,112,79,1,0,20040603,SEA,PHO,2004-05
+Shot Chart Detail,1020400034,210,100416,Sheri Sam,1611661328,Seattle Storm,1,1,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,98,58,1,0,20040603,SEA,PHO,2004-05
+Shot Chart Detail,1020400034,238,100416,Sheri Sam,1611661328,Seattle Storm,2,14,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040603,SEA,PHO,2004-05
+Shot Chart Detail,1020400040,24,100416,Sheri Sam,1611661328,Seattle Storm,1,17,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-33,5,1,1,20040605,SAC,SEA,2004-05
+Shot Chart Detail,1020400040,37,100416,Sheri Sam,1611661328,Seattle Storm,1,15,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,121,141,1,1,20040605,SAC,SEA,2004-05
+Shot Chart Detail,1020400040,41,100416,Sheri Sam,1611661328,Seattle Storm,1,14,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-189,-3,1,1,20040605,SAC,SEA,2004-05
+Shot Chart Detail,1020400040,68,100416,Sheri Sam,1611661328,Seattle Storm,1,11,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040605,SAC,SEA,2004-05
+Shot Chart Detail,1020400040,73,100416,Sheri Sam,1611661328,Seattle Storm,1,10,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,149,151,1,1,20040605,SAC,SEA,2004-05
+Shot Chart Detail,1020400040,141,100416,Sheri Sam,1611661328,Seattle Storm,1,4,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-172,138,1,0,20040605,SAC,SEA,2004-05
+Shot Chart Detail,1020400040,269,100416,Sheri Sam,1611661328,Seattle Storm,2,10,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040605,SAC,SEA,2004-05
+Shot Chart Detail,1020400040,272,100416,Sheri Sam,1611661328,Seattle Storm,2,10,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,177,114,1,0,20040605,SAC,SEA,2004-05
+Shot Chart Detail,1020400040,281,100416,Sheri Sam,1611661328,Seattle Storm,2,9,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,89,150,1,0,20040605,SAC,SEA,2004-05
+Shot Chart Detail,1020400040,334,100416,Sheri Sam,1611661328,Seattle Storm,2,3,40,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-10,35,1,0,20040605,SAC,SEA,2004-05
+Shot Chart Detail,1020400049,104,100416,Sheri Sam,1611661328,Seattle Storm,1,7,25,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,57,-16,1,1,20040611,SEA,CON,2004-05
+Shot Chart Detail,1020400049,112,100416,Sheri Sam,1611661328,Seattle Storm,1,6,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,3,189,1,0,20040611,SEA,CON,2004-05
+Shot Chart Detail,1020400049,146,100416,Sheri Sam,1611661328,Seattle Storm,1,2,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,36,28,1,0,20040611,SEA,CON,2004-05
+Shot Chart Detail,1020400049,152,100416,Sheri Sam,1611661328,Seattle Storm,1,2,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,25,1,0,20040611,SEA,CON,2004-05
+Shot Chart Detail,1020400049,235,100416,Sheri Sam,1611661328,Seattle Storm,2,14,50,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,-1,1,1,20040611,SEA,CON,2004-05
+Shot Chart Detail,1020400049,329,100416,Sheri Sam,1611661328,Seattle Storm,2,3,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-95,-6,1,1,20040611,SEA,CON,2004-05
+Shot Chart Detail,1020400057,22,100416,Sheri Sam,1611661328,Seattle Storm,1,17,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-38,215,1,1,20040615,NYL,SEA,2004-05
+Shot Chart Detail,1020400057,32,100416,Sheri Sam,1611661328,Seattle Storm,1,15,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,89,22,1,0,20040615,NYL,SEA,2004-05
+Shot Chart Detail,1020400057,38,100416,Sheri Sam,1611661328,Seattle Storm,1,15,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-189,46,1,0,20040615,NYL,SEA,2004-05
+Shot Chart Detail,1020400057,98,100416,Sheri Sam,1611661328,Seattle Storm,1,8,50,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040615,NYL,SEA,2004-05
+Shot Chart Detail,1020400057,101,100416,Sheri Sam,1611661328,Seattle Storm,1,8,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040615,NYL,SEA,2004-05
+Shot Chart Detail,1020400057,131,100416,Sheri Sam,1611661328,Seattle Storm,1,5,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-171,155,1,0,20040615,NYL,SEA,2004-05
+Shot Chart Detail,1020400057,214,100416,Sheri Sam,1611661328,Seattle Storm,1,1,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040615,NYL,SEA,2004-05
+Shot Chart Detail,1020400057,265,100416,Sheri Sam,1611661328,Seattle Storm,2,12,58,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040615,NYL,SEA,2004-05
+Shot Chart Detail,1020400057,267,100416,Sheri Sam,1611661328,Seattle Storm,2,12,55,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,97,59,1,1,20040615,NYL,SEA,2004-05
+Shot Chart Detail,1020400057,280,100416,Sheri Sam,1611661328,Seattle Storm,2,10,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-123,184,1,0,20040615,NYL,SEA,2004-05
+Shot Chart Detail,1020400057,286,100416,Sheri Sam,1611661328,Seattle Storm,2,9,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040615,NYL,SEA,2004-05
+Shot Chart Detail,1020400062,2,100416,Sheri Sam,1611661328,Seattle Storm,1,19,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-145,-44,1,0,20040618,HOU,SEA,2004-05
+Shot Chart Detail,1020400062,37,100416,Sheri Sam,1611661328,Seattle Storm,1,15,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-195,2,1,1,20040618,HOU,SEA,2004-05
+Shot Chart Detail,1020400062,68,100416,Sheri Sam,1611661328,Seattle Storm,1,11,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,128,-42,1,1,20040618,HOU,SEA,2004-05
+Shot Chart Detail,1020400062,79,100416,Sheri Sam,1611661328,Seattle Storm,1,10,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,199,69,1,1,20040618,HOU,SEA,2004-05
+Shot Chart Detail,1020400062,86,100416,Sheri Sam,1611661328,Seattle Storm,1,10,6,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-156,3,1,0,20040618,HOU,SEA,2004-05
+Shot Chart Detail,1020400062,166,100416,Sheri Sam,1611661328,Seattle Storm,1,1,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-18,148,1,0,20040618,HOU,SEA,2004-05
+Shot Chart Detail,1020400062,180,100416,Sheri Sam,1611661328,Seattle Storm,1,0,23,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,26,1,0,20040618,HOU,SEA,2004-05
+Shot Chart Detail,1020400062,299,100416,Sheri Sam,1611661328,Seattle Storm,2,6,55,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,213,-8,1,0,20040618,HOU,SEA,2004-05
+Shot Chart Detail,1020400062,323,100416,Sheri Sam,1611661328,Seattle Storm,2,5,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,24,209,1,0,20040618,HOU,SEA,2004-05
+Shot Chart Detail,1020400062,355,100416,Sheri Sam,1611661328,Seattle Storm,2,2,12,Missed Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040618,HOU,SEA,2004-05
+Shot Chart Detail,1020400062,363,100416,Sheri Sam,1611661328,Seattle Storm,2,0,45,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,25,1,1,20040618,HOU,SEA,2004-05
+Shot Chart Detail,1020400067,37,100416,Sheri Sam,1611661328,Seattle Storm,1,13,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,154,151,1,0,20040619,SAN,SEA,2004-05
+Shot Chart Detail,1020400067,117,100416,Sheri Sam,1611661328,Seattle Storm,1,4,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-140,153,1,0,20040619,SAN,SEA,2004-05
+Shot Chart Detail,1020400067,131,100416,Sheri Sam,1611661328,Seattle Storm,1,3,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,8,1,0,20040619,SAN,SEA,2004-05
+Shot Chart Detail,1020400067,239,100416,Sheri Sam,1611661328,Seattle Storm,2,10,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,5,1,1,20040619,SAN,SEA,2004-05
+Shot Chart Detail,1020400067,248,100416,Sheri Sam,1611661328,Seattle Storm,2,9,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,12,1,0,20040619,SAN,SEA,2004-05
+Shot Chart Detail,1020400067,250,100416,Sheri Sam,1611661328,Seattle Storm,2,9,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-52,69,1,1,20040619,SAN,SEA,2004-05
+Shot Chart Detail,1020400074,3,100416,Sheri Sam,1611661328,Seattle Storm,1,19,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,56,31,1,1,20040622,SEA,HOU,2004-05
+Shot Chart Detail,1020400074,9,100416,Sheri Sam,1611661328,Seattle Storm,1,18,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,49,133,1,0,20040622,SEA,HOU,2004-05
+Shot Chart Detail,1020400074,36,100416,Sheri Sam,1611661328,Seattle Storm,1,14,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,69,168,1,0,20040622,SEA,HOU,2004-05
+Shot Chart Detail,1020400074,72,100416,Sheri Sam,1611661328,Seattle Storm,1,9,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,5,1,1,20040622,SEA,HOU,2004-05
+Shot Chart Detail,1020400074,74,100416,Sheri Sam,1611661328,Seattle Storm,1,9,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-108,191,1,0,20040622,SEA,HOU,2004-05
+Shot Chart Detail,1020400074,147,100416,Sheri Sam,1611661328,Seattle Storm,1,1,44,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,2,1,0,20040622,SEA,HOU,2004-05
+Shot Chart Detail,1020400074,177,100416,Sheri Sam,1611661328,Seattle Storm,1,1,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040622,SEA,HOU,2004-05
+Shot Chart Detail,1020400074,271,100416,Sheri Sam,1611661328,Seattle Storm,2,7,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040622,SEA,HOU,2004-05
+Shot Chart Detail,1020400083,7,100416,Sheri Sam,1611661328,Seattle Storm,1,19,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,131,137,1,0,20040626,SEA,NYL,2004-05
+Shot Chart Detail,1020400083,59,100416,Sheri Sam,1611661328,Seattle Storm,1,13,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040626,SEA,NYL,2004-05
+Shot Chart Detail,1020400083,100,100416,Sheri Sam,1611661328,Seattle Storm,1,9,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,0,1,0,20040626,SEA,NYL,2004-05
+Shot Chart Detail,1020400083,310,100416,Sheri Sam,1611661328,Seattle Storm,2,5,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,154,49,1,0,20040626,SEA,NYL,2004-05
+Shot Chart Detail,1020400083,357,100416,Sheri Sam,1611661328,Seattle Storm,2,1,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,143,89,1,0,20040626,SEA,NYL,2004-05
+Shot Chart Detail,1020400096,20,100416,Sheri Sam,1611661328,Seattle Storm,1,17,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-103,112,1,0,20040701,SEA,SAN,2004-05
+Shot Chart Detail,1020400096,42,100416,Sheri Sam,1611661328,Seattle Storm,1,14,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040701,SEA,SAN,2004-05
+Shot Chart Detail,1020400096,41,100416,Sheri Sam,1611661328,Seattle Storm,1,14,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040701,SEA,SAN,2004-05
+Shot Chart Detail,1020400096,45,100416,Sheri Sam,1611661328,Seattle Storm,1,13,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,94,204,1,1,20040701,SEA,SAN,2004-05
+Shot Chart Detail,1020400096,95,100416,Sheri Sam,1611661328,Seattle Storm,1,9,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-169,-8,1,1,20040701,SEA,SAN,2004-05
+Shot Chart Detail,1020400096,99,100416,Sheri Sam,1611661328,Seattle Storm,1,8,42,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,67,122,1,1,20040701,SEA,SAN,2004-05
+Shot Chart Detail,1020400096,189,100416,Sheri Sam,1611661328,Seattle Storm,1,1,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040701,SEA,SAN,2004-05
+Shot Chart Detail,1020400096,234,100416,Sheri Sam,1611661328,Seattle Storm,1,0,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-184,-28,1,0,20040701,SEA,SAN,2004-05
+Shot Chart Detail,1020400096,196,100416,Sheri Sam,1611661328,Seattle Storm,1,0,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,57,17,1,0,20040701,SEA,SAN,2004-05
+Shot Chart Detail,1020400096,261,100416,Sheri Sam,1611661328,Seattle Storm,2,12,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-80,77,1,0,20040701,SEA,SAN,2004-05
+Shot Chart Detail,1020400096,297,100416,Sheri Sam,1611661328,Seattle Storm,2,8,17,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040701,SEA,SAN,2004-05
+Shot Chart Detail,1020400101,28,100416,Sheri Sam,1611661328,Seattle Storm,1,16,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-102,138,1,0,20040703,SEA,SAC,2004-05
+Shot Chart Detail,1020400101,36,100416,Sheri Sam,1611661328,Seattle Storm,1,14,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040703,SEA,SAC,2004-05
+Shot Chart Detail,1020400101,60,100416,Sheri Sam,1611661328,Seattle Storm,1,13,1,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,30,1,1,20040703,SEA,SAC,2004-05
+Shot Chart Detail,1020400101,93,100416,Sheri Sam,1611661328,Seattle Storm,1,10,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040703,SEA,SAC,2004-05
+Shot Chart Detail,1020400101,164,100416,Sheri Sam,1611661328,Seattle Storm,1,2,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040703,SEA,SAC,2004-05
+Shot Chart Detail,1020400101,180,100416,Sheri Sam,1611661328,Seattle Storm,1,1,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,164,-3,1,1,20040703,SEA,SAC,2004-05
+Shot Chart Detail,1020400101,247,100416,Sheri Sam,1611661328,Seattle Storm,2,14,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040703,SEA,SAC,2004-05
+Shot Chart Detail,1020400101,261,100416,Sheri Sam,1611661328,Seattle Storm,2,13,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-151,164,1,0,20040703,SEA,SAC,2004-05
+Shot Chart Detail,1020400101,288,100416,Sheri Sam,1611661328,Seattle Storm,2,10,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040703,SEA,SAC,2004-05
+Shot Chart Detail,1020400101,294,100416,Sheri Sam,1611661328,Seattle Storm,2,10,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040703,SEA,SAC,2004-05
+Shot Chart Detail,1020400105,8,100416,Sheri Sam,1611661328,Seattle Storm,1,18,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-159,-9,1,0,20040707,WAS,SEA,2004-05
+Shot Chart Detail,1020400105,34,100416,Sheri Sam,1611661328,Seattle Storm,1,15,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-169,-26,1,1,20040707,WAS,SEA,2004-05
+Shot Chart Detail,1020400105,47,100416,Sheri Sam,1611661328,Seattle Storm,1,13,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,6,66,1,0,20040707,WAS,SEA,2004-05
+Shot Chart Detail,1020400105,157,100416,Sheri Sam,1611661328,Seattle Storm,1,2,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,103,-14,1,0,20040707,WAS,SEA,2004-05
+Shot Chart Detail,1020400105,203,100416,Sheri Sam,1611661328,Seattle Storm,1,1,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-136,87,1,0,20040707,WAS,SEA,2004-05
+Shot Chart Detail,1020400105,240,100416,Sheri Sam,1611661328,Seattle Storm,2,13,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,13,1,1,20040707,WAS,SEA,2004-05
+Shot Chart Detail,1020400105,262,100416,Sheri Sam,1611661328,Seattle Storm,2,11,14,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,67,8,1,1,20040707,WAS,SEA,2004-05
+Shot Chart Detail,1020400105,277,100416,Sheri Sam,1611661328,Seattle Storm,2,9,11,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-215,-23,1,1,20040707,WAS,SEA,2004-05
+Shot Chart Detail,1020400105,285,100416,Sheri Sam,1611661328,Seattle Storm,2,8,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,-19,1,1,20040707,WAS,SEA,2004-05
+Shot Chart Detail,1020400105,287,100416,Sheri Sam,1611661328,Seattle Storm,2,7,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,74,81,1,0,20040707,WAS,SEA,2004-05
+Shot Chart Detail,1020400105,297,100416,Sheri Sam,1611661328,Seattle Storm,2,6,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,187,115,1,1,20040707,WAS,SEA,2004-05
+Shot Chart Detail,1020400105,369,100416,Sheri Sam,1611661328,Seattle Storm,2,0,16,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,-24,1,0,20040707,WAS,SEA,2004-05
+Shot Chart Detail,1020400105,375,100416,Sheri Sam,1611661328,Seattle Storm,2,0,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-3,1,1,20040707,WAS,SEA,2004-05
+Shot Chart Detail,1020400107,30,100416,Sheri Sam,1611661328,Seattle Storm,1,16,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,12,1,0,20040708,CHA,SEA,2004-05
+Shot Chart Detail,1020400107,50,100416,Sheri Sam,1611661328,Seattle Storm,1,13,41,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-77,40,1,1,20040708,CHA,SEA,2004-05
+Shot Chart Detail,1020400107,61,100416,Sheri Sam,1611661328,Seattle Storm,1,11,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-141,61,1,0,20040708,CHA,SEA,2004-05
+Shot Chart Detail,1020400113,9,100416,Sheri Sam,1611661328,Seattle Storm,1,18,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,141,117,1,0,20040710,DET,SEA,2004-05
+Shot Chart Detail,1020400113,29,100416,Sheri Sam,1611661328,Seattle Storm,1,16,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,174,94,1,1,20040710,DET,SEA,2004-05
+Shot Chart Detail,1020400113,35,100416,Sheri Sam,1611661328,Seattle Storm,1,15,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,8,1,0,20040710,DET,SEA,2004-05
+Shot Chart Detail,1020400113,37,100416,Sheri Sam,1611661328,Seattle Storm,1,15,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,171,5,1,0,20040710,DET,SEA,2004-05
+Shot Chart Detail,1020400113,43,100416,Sheri Sam,1611661328,Seattle Storm,1,15,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,12,1,0,20040710,DET,SEA,2004-05
+Shot Chart Detail,1020400113,136,100416,Sheri Sam,1611661328,Seattle Storm,1,7,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,146,51,1,0,20040710,DET,SEA,2004-05
+Shot Chart Detail,1020400113,189,100416,Sheri Sam,1611661328,Seattle Storm,1,2,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040710,DET,SEA,2004-05
+Shot Chart Detail,1020400113,242,100416,Sheri Sam,1611661328,Seattle Storm,1,1,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040710,DET,SEA,2004-05
+Shot Chart Detail,1020400113,270,100416,Sheri Sam,1611661328,Seattle Storm,2,14,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-161,10,1,1,20040710,DET,SEA,2004-05
+Shot Chart Detail,1020400113,273,100416,Sheri Sam,1611661328,Seattle Storm,2,13,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,20,-189,87,1,0,20040710,DET,SEA,2004-05
+Shot Chart Detail,1020400120,16,100416,Sheri Sam,1611661328,Seattle Storm,1,17,32,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-75,28,1,0,20040712,SEA,SAN,2004-05
+Shot Chart Detail,1020400120,28,100416,Sheri Sam,1611661328,Seattle Storm,1,15,56,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040712,SEA,SAN,2004-05
+Shot Chart Detail,1020400120,98,100416,Sheri Sam,1611661328,Seattle Storm,1,7,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040712,SEA,SAN,2004-05
+Shot Chart Detail,1020400120,190,100416,Sheri Sam,1611661328,Seattle Storm,1,2,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040712,SEA,SAN,2004-05
+Shot Chart Detail,1020400120,216,100416,Sheri Sam,1611661328,Seattle Storm,2,16,24,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040712,SEA,SAN,2004-05
+Shot Chart Detail,1020400120,273,100416,Sheri Sam,1611661328,Seattle Storm,2,10,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,100,169,1,1,20040712,SEA,SAN,2004-05
+Shot Chart Detail,1020400120,339,100416,Sheri Sam,1611661328,Seattle Storm,2,2,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-136,-14,1,1,20040712,SEA,SAN,2004-05
+Shot Chart Detail,1020400120,362,100416,Sheri Sam,1611661328,Seattle Storm,2,0,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040712,SEA,SAN,2004-05
+Shot Chart Detail,1020400124,43,100416,Sheri Sam,1611661328,Seattle Storm,1,14,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,3,1,1,20040715,SAC,SEA,2004-05
+Shot Chart Detail,1020400124,192,100416,Sheri Sam,1611661328,Seattle Storm,1,3,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,207,56,1,1,20040715,SAC,SEA,2004-05
+Shot Chart Detail,1020400124,224,100416,Sheri Sam,1611661328,Seattle Storm,2,16,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,11,58,1,0,20040715,SAC,SEA,2004-05
+Shot Chart Detail,1020400124,241,100416,Sheri Sam,1611661328,Seattle Storm,2,14,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,0,1,0,20040715,SAC,SEA,2004-05
+Shot Chart Detail,1020400124,259,100416,Sheri Sam,1611661328,Seattle Storm,2,12,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,189,79,1,0,20040715,SAC,SEA,2004-05
+Shot Chart Detail,1020400124,265,100416,Sheri Sam,1611661328,Seattle Storm,2,11,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-2,150,1,0,20040715,SAC,SEA,2004-05
+Shot Chart Detail,1020400124,335,100416,Sheri Sam,1611661328,Seattle Storm,2,4,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040715,SAC,SEA,2004-05
+Shot Chart Detail,1020400130,54,100416,Sheri Sam,1611661328,Seattle Storm,1,14,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040717,SEA,WAS,2004-05
+Shot Chart Detail,1020400130,56,100416,Sheri Sam,1611661328,Seattle Storm,1,14,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040717,SEA,WAS,2004-05
+Shot Chart Detail,1020400130,116,100416,Sheri Sam,1611661328,Seattle Storm,1,6,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040717,SEA,WAS,2004-05
+Shot Chart Detail,1020400130,273,100416,Sheri Sam,1611661328,Seattle Storm,2,9,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,20,202,46,1,0,20040717,SEA,WAS,2004-05
+Shot Chart Detail,1020400130,276,100416,Sheri Sam,1611661328,Seattle Storm,2,8,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-57,8,1,1,20040717,SEA,WAS,2004-05
+Shot Chart Detail,1020400130,373,100416,Sheri Sam,1611661328,Seattle Storm,3,2,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,23,199,120,1,0,20040717,SEA,WAS,2004-05
+Shot Chart Detail,1020400141,12,100416,Sheri Sam,1611661328,Seattle Storm,1,18,37,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-48,18,1,1,20040722,SEA,IND,2004-05
+Shot Chart Detail,1020400141,18,100416,Sheri Sam,1611661328,Seattle Storm,1,17,23,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,57,123,1,1,20040722,SEA,IND,2004-05
+Shot Chart Detail,1020400141,56,100416,Sheri Sam,1611661328,Seattle Storm,1,12,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,182,123,1,0,20040722,SEA,IND,2004-05
+Shot Chart Detail,1020400141,184,100416,Sheri Sam,1611661328,Seattle Storm,1,3,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-103,13,1,0,20040722,SEA,IND,2004-05
+Shot Chart Detail,1020400141,206,100416,Sheri Sam,1611661328,Seattle Storm,1,0,20,Made Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,5,36,1,1,20040722,SEA,IND,2004-05
+Shot Chart Detail,1020400141,214,100416,Sheri Sam,1611661328,Seattle Storm,2,15,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-95,23,1,0,20040722,SEA,IND,2004-05
+Shot Chart Detail,1020400141,293,100416,Sheri Sam,1611661328,Seattle Storm,2,7,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040722,SEA,IND,2004-05
+Shot Chart Detail,1020400141,295,100416,Sheri Sam,1611661328,Seattle Storm,2,7,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-126,61,1,0,20040722,SEA,IND,2004-05
+Shot Chart Detail,1020400141,307,100416,Sheri Sam,1611661328,Seattle Storm,2,6,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,125,186,1,0,20040722,SEA,IND,2004-05
+Shot Chart Detail,1020400141,310,100416,Sheri Sam,1611661328,Seattle Storm,2,5,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-6,181,1,0,20040722,SEA,IND,2004-05
+Shot Chart Detail,1020400151,8,100416,Sheri Sam,1611661328,Seattle Storm,1,18,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040724,SEA,HOU,2004-05
+Shot Chart Detail,1020400151,10,100416,Sheri Sam,1611661328,Seattle Storm,1,17,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040724,SEA,HOU,2004-05
+Shot Chart Detail,1020400151,68,100416,Sheri Sam,1611661328,Seattle Storm,1,10,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,202,91,1,1,20040724,SEA,HOU,2004-05
+Shot Chart Detail,1020400151,75,100416,Sheri Sam,1611661328,Seattle Storm,1,10,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,87,7,1,0,20040724,SEA,HOU,2004-05
+Shot Chart Detail,1020400151,197,100416,Sheri Sam,1611661328,Seattle Storm,1,0,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,43,86,1,0,20040724,SEA,HOU,2004-05
+Shot Chart Detail,1020400151,202,100416,Sheri Sam,1611661328,Seattle Storm,2,16,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040724,SEA,HOU,2004-05
+Shot Chart Detail,1020400151,224,100416,Sheri Sam,1611661328,Seattle Storm,2,12,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,0,1,0,20040724,SEA,HOU,2004-05
+Shot Chart Detail,1020400151,238,100416,Sheri Sam,1611661328,Seattle Storm,2,11,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040724,SEA,HOU,2004-05
+Shot Chart Detail,1020400151,240,100416,Sheri Sam,1611661328,Seattle Storm,2,11,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,90,148,1,1,20040724,SEA,HOU,2004-05
+Shot Chart Detail,1020400153,5,100416,Sheri Sam,1611661328,Seattle Storm,1,19,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-151,97,1,1,20040727,HOU,SEA,2004-05
+Shot Chart Detail,1020400153,20,100416,Sheri Sam,1611661328,Seattle Storm,1,17,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-187,7,1,1,20040727,HOU,SEA,2004-05
+Shot Chart Detail,1020400153,47,100416,Sheri Sam,1611661328,Seattle Storm,1,13,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040727,HOU,SEA,2004-05
+Shot Chart Detail,1020400153,134,100416,Sheri Sam,1611661328,Seattle Storm,1,5,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-141,163,1,0,20040727,HOU,SEA,2004-05
+Shot Chart Detail,1020400153,160,100416,Sheri Sam,1611661328,Seattle Storm,1,1,46,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,47,61,1,0,20040727,HOU,SEA,2004-05
+Shot Chart Detail,1020400160,82,100416,Sheri Sam,1611661328,Seattle Storm,1,11,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040730,MIN,SEA,2004-05
+Shot Chart Detail,1020400160,201,100416,Sheri Sam,1611661328,Seattle Storm,1,2,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,108,137,1,1,20040730,MIN,SEA,2004-05
+Shot Chart Detail,1020400160,177,100416,Sheri Sam,1611661328,Seattle Storm,1,2,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-161,89,1,1,20040730,MIN,SEA,2004-05
+Shot Chart Detail,1020400160,222,100416,Sheri Sam,1611661328,Seattle Storm,1,0,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040730,MIN,SEA,2004-05
+Shot Chart Detail,1020400160,347,100416,Sheri Sam,1611661328,Seattle Storm,2,4,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040730,MIN,SEA,2004-05
+Shot Chart Detail,1020400160,384,100416,Sheri Sam,1611661328,Seattle Storm,2,1,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040730,MIN,SEA,2004-05
+Shot Chart Detail,1020400168,15,100416,Sheri Sam,1611661328,Seattle Storm,1,17,20,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-43,30,1,1,20040801,SEA,CHA,2004-05
+Shot Chart Detail,1020400168,20,100416,Sheri Sam,1611661328,Seattle Storm,1,16,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,10,1,0,20040801,SEA,CHA,2004-05
+Shot Chart Detail,1020400168,68,100416,Sheri Sam,1611661328,Seattle Storm,1,11,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,95,194,1,0,20040801,SEA,CHA,2004-05
+Shot Chart Detail,1020400168,71,100416,Sheri Sam,1611661328,Seattle Storm,1,10,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,131,10,1,1,20040801,SEA,CHA,2004-05
+Shot Chart Detail,1020400168,149,100416,Sheri Sam,1611661328,Seattle Storm,1,3,9,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,46,38,1,1,20040801,SEA,CHA,2004-05
+Shot Chart Detail,1020400168,227,100416,Sheri Sam,1611661328,Seattle Storm,2,16,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,13,1,0,20040801,SEA,CHA,2004-05
+Shot Chart Detail,1020400168,266,100416,Sheri Sam,1611661328,Seattle Storm,2,12,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-136,-6,1,0,20040801,SEA,CHA,2004-05
+Shot Chart Detail,1020400173,12,100416,Sheri Sam,1611661328,Seattle Storm,1,18,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,158,25,1,0,20040901,SEA,SAC,2004-05
+Shot Chart Detail,1020400173,114,100416,Sheri Sam,1611661328,Seattle Storm,1,7,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-126,191,1,0,20040901,SEA,SAC,2004-05
+Shot Chart Detail,1020400173,117,100416,Sheri Sam,1611661328,Seattle Storm,1,7,21,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,0,1,0,20040901,SEA,SAC,2004-05
+Shot Chart Detail,1020400173,119,100416,Sheri Sam,1611661328,Seattle Storm,1,7,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,133,-5,1,0,20040901,SEA,SAC,2004-05
+Shot Chart Detail,1020400173,221,100416,Sheri Sam,1611661328,Seattle Storm,1,1,2,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,90,20,1,1,20040901,SEA,SAC,2004-05
+Shot Chart Detail,1020400173,240,100416,Sheri Sam,1611661328,Seattle Storm,2,15,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,28,1,0,20040901,SEA,SAC,2004-05
+Shot Chart Detail,1020400173,244,100416,Sheri Sam,1611661328,Seattle Storm,2,14,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040901,SEA,SAC,2004-05
+Shot Chart Detail,1020400173,260,100416,Sheri Sam,1611661328,Seattle Storm,2,12,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-186,102,1,0,20040901,SEA,SAC,2004-05
+Shot Chart Detail,1020400173,305,100416,Sheri Sam,1611661328,Seattle Storm,2,8,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-161,-3,1,0,20040901,SEA,SAC,2004-05
+Shot Chart Detail,1020400173,315,100416,Sheri Sam,1611661328,Seattle Storm,2,7,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-140,68,1,0,20040901,SEA,SAC,2004-05
+Shot Chart Detail,1020400173,323,100416,Sheri Sam,1611661328,Seattle Storm,2,5,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040901,SEA,SAC,2004-05
+Shot Chart Detail,1020400180,122,100416,Sheri Sam,1611661328,Seattle Storm,1,9,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040903,LAS,SEA,2004-05
+Shot Chart Detail,1020400180,260,100416,Sheri Sam,1611661328,Seattle Storm,2,14,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-110,17,1,0,20040903,LAS,SEA,2004-05
+Shot Chart Detail,1020400180,270,100416,Sheri Sam,1611661328,Seattle Storm,2,12,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,194,-1,1,0,20040903,LAS,SEA,2004-05
+Shot Chart Detail,1020400180,304,100416,Sheri Sam,1611661328,Seattle Storm,2,7,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-79,3,1,0,20040903,LAS,SEA,2004-05
+Shot Chart Detail,1020400180,306,100416,Sheri Sam,1611661328,Seattle Storm,2,7,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,8,1,0,20040903,LAS,SEA,2004-05
+Shot Chart Detail,1020400180,363,100416,Sheri Sam,1611661328,Seattle Storm,2,1,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-149,110,1,0,20040903,LAS,SEA,2004-05
+Shot Chart Detail,1020400184,121,100416,Sheri Sam,1611661328,Seattle Storm,1,6,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-143,102,1,0,20040904,PHO,SEA,2004-05
+Shot Chart Detail,1020400184,188,100416,Sheri Sam,1611661328,Seattle Storm,1,2,56,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,0,1,0,20040904,PHO,SEA,2004-05
+Shot Chart Detail,1020400184,191,100416,Sheri Sam,1611661328,Seattle Storm,1,2,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040904,PHO,SEA,2004-05
+Shot Chart Detail,1020400184,156,100416,Sheri Sam,1611661328,Seattle Storm,1,2,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-146,104,1,0,20040904,PHO,SEA,2004-05
+Shot Chart Detail,1020400184,219,100416,Sheri Sam,1611661328,Seattle Storm,2,16,10,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,56,86,1,0,20040904,PHO,SEA,2004-05
+Shot Chart Detail,1020400184,334,100416,Sheri Sam,1611661328,Seattle Storm,2,4,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-133,79,1,0,20040904,PHO,SEA,2004-05
+Shot Chart Detail,1020400184,398,100416,Sheri Sam,1611661328,Seattle Storm,2,0,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040904,PHO,SEA,2004-05
+Shot Chart Detail,1020400188,3,100416,Sheri Sam,1611661328,Seattle Storm,1,19,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040908,SEA,DET,2004-05
+Shot Chart Detail,1020400188,135,100416,Sheri Sam,1611661328,Seattle Storm,1,8,55,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-82,10,1,1,20040908,SEA,DET,2004-05
+Shot Chart Detail,1020400188,163,100416,Sheri Sam,1611661328,Seattle Storm,1,7,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-56,45,1,1,20040908,SEA,DET,2004-05
+Shot Chart Detail,1020400188,185,100416,Sheri Sam,1611661328,Seattle Storm,1,5,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,57,169,1,1,20040908,SEA,DET,2004-05
+Shot Chart Detail,1020400188,188,100416,Sheri Sam,1611661328,Seattle Storm,1,4,41,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040908,SEA,DET,2004-05
+Shot Chart Detail,1020400188,204,100416,Sheri Sam,1611661328,Seattle Storm,1,3,12,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,8,86,1,1,20040908,SEA,DET,2004-05
+Shot Chart Detail,1020400188,353,100416,Sheri Sam,1611661328,Seattle Storm,2,9,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-94,43,1,0,20040908,SEA,DET,2004-05
+Shot Chart Detail,1020400188,358,100416,Sheri Sam,1611661328,Seattle Storm,2,8,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,71,23,1,0,20040908,SEA,DET,2004-05
+Shot Chart Detail,1020400188,393,100416,Sheri Sam,1611661328,Seattle Storm,2,5,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040908,SEA,DET,2004-05
+Shot Chart Detail,1020400188,396,100416,Sheri Sam,1611661328,Seattle Storm,2,4,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-92,92,1,0,20040908,SEA,DET,2004-05
+Shot Chart Detail,1020400195,59,100416,Sheri Sam,1611661328,Seattle Storm,1,12,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-182,123,1,0,20040910,MIN,SEA,2004-05
+Shot Chart Detail,1020400195,163,100416,Sheri Sam,1611661328,Seattle Storm,1,2,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,151,132,1,0,20040910,MIN,SEA,2004-05
+Shot Chart Detail,1020400195,171,100416,Sheri Sam,1611661328,Seattle Storm,1,2,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040910,MIN,SEA,2004-05
+Shot Chart Detail,1020400195,217,100416,Sheri Sam,1611661328,Seattle Storm,1,0,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,23,1,1,20040910,MIN,SEA,2004-05
+Shot Chart Detail,1020400195,231,100416,Sheri Sam,1611661328,Seattle Storm,2,15,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040910,MIN,SEA,2004-05
+Shot Chart Detail,1020400195,363,100416,Sheri Sam,1611661328,Seattle Storm,2,2,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040910,MIN,SEA,2004-05
+Shot Chart Detail,1020400199,2,100416,Sheri Sam,1611661328,Seattle Storm,1,19,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,-8,1,1,20040912,CON,SEA,2004-05
+Shot Chart Detail,1020400199,4,100416,Sheri Sam,1611661328,Seattle Storm,1,19,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,0,1,0,20040912,CON,SEA,2004-05
+Shot Chart Detail,1020400199,128,100416,Sheri Sam,1611661328,Seattle Storm,1,6,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,5,1,0,20040912,CON,SEA,2004-05
+Shot Chart Detail,1020400199,210,100416,Sheri Sam,1611661328,Seattle Storm,1,1,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,-8,1,0,20040912,CON,SEA,2004-05
+Shot Chart Detail,1020400199,179,100416,Sheri Sam,1611661328,Seattle Storm,1,1,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-52,146,1,0,20040912,CON,SEA,2004-05
+Shot Chart Detail,1020400199,188,100416,Sheri Sam,1611661328,Seattle Storm,1,0,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,3,1,1,20040912,CON,SEA,2004-05
+Shot Chart Detail,1020400199,251,100416,Sheri Sam,1611661328,Seattle Storm,2,14,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,26,74,1,0,20040912,CON,SEA,2004-05
+Shot Chart Detail,1020400199,333,100416,Sheri Sam,1611661328,Seattle Storm,2,4,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-2,171,1,0,20040912,CON,SEA,2004-05
+Shot Chart Detail,1020400199,348,100416,Sheri Sam,1611661328,Seattle Storm,2,3,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-123,-5,1,1,20040912,CON,SEA,2004-05
+Shot Chart Detail,1020400202,19,100416,Sheri Sam,1611661328,Seattle Storm,1,16,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,164,69,1,1,20040913,IND,SEA,2004-05
+Shot Chart Detail,1020400202,44,100416,Sheri Sam,1611661328,Seattle Storm,1,12,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,153,71,1,0,20040913,IND,SEA,2004-05
+Shot Chart Detail,1020400202,114,100416,Sheri Sam,1611661328,Seattle Storm,1,5,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,182,109,1,0,20040913,IND,SEA,2004-05
+Shot Chart Detail,1020400202,119,100416,Sheri Sam,1611661328,Seattle Storm,1,4,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-5,1,0,20040913,IND,SEA,2004-05
+Shot Chart Detail,1020400202,255,100416,Sheri Sam,1611661328,Seattle Storm,2,11,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,172,-26,1,1,20040913,IND,SEA,2004-05
+Shot Chart Detail,1020400202,269,100416,Sheri Sam,1611661328,Seattle Storm,2,11,15,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,-9,1,1,20040913,IND,SEA,2004-05
+Shot Chart Detail,1020400202,272,100416,Sheri Sam,1611661328,Seattle Storm,2,10,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,15,1,0,20040913,IND,SEA,2004-05
+Shot Chart Detail,1020400202,335,100416,Sheri Sam,1611661328,Seattle Storm,2,3,56,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-33,-5,1,1,20040913,IND,SEA,2004-05
+Shot Chart Detail,1020400202,346,100416,Sheri Sam,1611661328,Seattle Storm,2,2,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-97,72,1,0,20040913,IND,SEA,2004-05
+Shot Chart Detail,1020400208,16,100416,Sheri Sam,1611661328,Seattle Storm,1,17,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,10,1,0,20040915,SEA,PHO,2004-05
+Shot Chart Detail,1020400208,40,100416,Sheri Sam,1611661328,Seattle Storm,1,14,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-103,-21,1,0,20040915,SEA,PHO,2004-05
+Shot Chart Detail,1020400208,154,100416,Sheri Sam,1611661328,Seattle Storm,1,4,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,49,166,1,0,20040915,SEA,PHO,2004-05
+Shot Chart Detail,1020400208,160,100416,Sheri Sam,1611661328,Seattle Storm,1,3,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,44,15,1,0,20040915,SEA,PHO,2004-05
+Shot Chart Detail,1020400208,221,100416,Sheri Sam,1611661328,Seattle Storm,1,1,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-75,140,1,0,20040915,SEA,PHO,2004-05
+Shot Chart Detail,1020400208,287,100416,Sheri Sam,1611661328,Seattle Storm,2,9,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040915,SEA,PHO,2004-05
+Shot Chart Detail,1020400208,367,100416,Sheri Sam,1611661328,Seattle Storm,2,3,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040915,SEA,PHO,2004-05
+Shot Chart Detail,1020400216,4,100416,Sheri Sam,1611661328,Seattle Storm,1,19,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,3,187,1,0,20040918,SEA,LAS,2004-05
+Shot Chart Detail,1020400216,9,100416,Sheri Sam,1611661328,Seattle Storm,1,19,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040918,SEA,LAS,2004-05
+Shot Chart Detail,1020400216,20,100416,Sheri Sam,1611661328,Seattle Storm,1,17,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,171,86,1,0,20040918,SEA,LAS,2004-05
+Shot Chart Detail,1020400216,41,100416,Sheri Sam,1611661328,Seattle Storm,1,15,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040918,SEA,LAS,2004-05
+Shot Chart Detail,1020400216,89,100416,Sheri Sam,1611661328,Seattle Storm,1,10,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040918,SEA,LAS,2004-05
+Shot Chart Detail,1020400216,114,100416,Sheri Sam,1611661328,Seattle Storm,1,8,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040918,SEA,LAS,2004-05
+Shot Chart Detail,1020400216,132,100416,Sheri Sam,1611661328,Seattle Storm,1,6,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-192,36,1,0,20040918,SEA,LAS,2004-05
+Shot Chart Detail,1020400216,177,100416,Sheri Sam,1611661328,Seattle Storm,1,1,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040918,SEA,LAS,2004-05
+Shot Chart Detail,1020400216,202,100416,Sheri Sam,1611661328,Seattle Storm,1,0,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,69,164,1,1,20040918,SEA,LAS,2004-05
+Shot Chart Detail,1020400216,249,100416,Sheri Sam,1611661328,Seattle Storm,2,15,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,207,72,1,0,20040918,SEA,LAS,2004-05
+Shot Chart Detail,1020400216,272,100416,Sheri Sam,1611661328,Seattle Storm,2,13,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040918,SEA,LAS,2004-05
+Shot Chart Detail,1020400216,346,100416,Sheri Sam,1611661328,Seattle Storm,2,7,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040918,SEA,LAS,2004-05
+Shot Chart Detail,1020400216,365,100416,Sheri Sam,1611661328,Seattle Storm,2,5,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040918,SEA,LAS,2004-05
+Shot Chart Detail,1020400216,377,100416,Sheri Sam,1611661328,Seattle Storm,2,3,51,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,-11,1,0,20040918,SEA,LAS,2004-05

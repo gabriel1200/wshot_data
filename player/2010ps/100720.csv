@@ -1,0 +1,84 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1041000121,21,100720,Sue Bird,1611661328,Seattle Storm,1,7,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-98,82,1,0,20100825,SEA,LAS,2010-11
+Shot Chart Detail,1041000121,51,100720,Sue Bird,1611661328,Seattle Storm,1,4,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,54,134,1,1,20100825,SEA,LAS,2010-11
+Shot Chart Detail,1041000121,60,100720,Sue Bird,1611661328,Seattle Storm,1,3,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-97,47,1,1,20100825,SEA,LAS,2010-11
+Shot Chart Detail,1041000121,165,100720,Sue Bird,1611661328,Seattle Storm,2,2,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,23,-196,127,1,0,20100825,SEA,LAS,2010-11
+Shot Chart Detail,1041000121,175,100720,Sue Bird,1611661328,Seattle Storm,2,1,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,163,162,1,1,20100825,SEA,LAS,2010-11
+Shot Chart Detail,1041000121,260,100720,Sue Bird,1611661328,Seattle Storm,3,4,19,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,59,6,1,1,20100825,SEA,LAS,2010-11
+Shot Chart Detail,1041000121,271,100720,Sue Bird,1611661328,Seattle Storm,3,2,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,75,154,1,0,20100825,SEA,LAS,2010-11
+Shot Chart Detail,1041000121,290,100720,Sue Bird,1611661328,Seattle Storm,3,0,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-109,1,1,0,20100825,SEA,LAS,2010-11
+Shot Chart Detail,1041000121,368,100720,Sue Bird,1611661328,Seattle Storm,4,0,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,45,4,1,0,20100825,SEA,LAS,2010-11
+Shot Chart Detail,1041000122,79,100720,Sue Bird,1611661328,Seattle Storm,1,0,32,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-21,91,1,0,20100828,LAS,SEA,2010-11
+Shot Chart Detail,1041000122,125,100720,Sue Bird,1611661328,Seattle Storm,2,5,51,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-11,72,1,0,20100828,LAS,SEA,2010-11
+Shot Chart Detail,1041000122,182,100720,Sue Bird,1611661328,Seattle Storm,3,9,5,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-119,113,1,1,20100828,LAS,SEA,2010-11
+Shot Chart Detail,1041000122,238,100720,Sue Bird,1611661328,Seattle Storm,3,3,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-139,178,1,1,20100828,LAS,SEA,2010-11
+Shot Chart Detail,1041000122,281,100720,Sue Bird,1611661328,Seattle Storm,4,9,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,103,28,1,0,20100828,LAS,SEA,2010-11
+Shot Chart Detail,1041000122,306,100720,Sue Bird,1611661328,Seattle Storm,4,7,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100828,LAS,SEA,2010-11
+Shot Chart Detail,1041000122,318,100720,Sue Bird,1611661328,Seattle Storm,4,7,3,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,69,160,1,1,20100828,LAS,SEA,2010-11
+Shot Chart Detail,1041000122,337,100720,Sue Bird,1611661328,Seattle Storm,4,4,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-103,205,1,0,20100828,LAS,SEA,2010-11
+Shot Chart Detail,1041000122,357,100720,Sue Bird,1611661328,Seattle Storm,4,2,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-120,190,1,1,20100828,LAS,SEA,2010-11
+Shot Chart Detail,1041000122,359,100720,Sue Bird,1611661328,Seattle Storm,4,1,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-116,228,1,1,20100828,LAS,SEA,2010-11
+Shot Chart Detail,1041000211,40,100720,Sue Bird,1611661328,Seattle Storm,1,5,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-37,172,1,1,20100902,SEA,PHO,2010-11
+Shot Chart Detail,1041000211,55,100720,Sue Bird,1611661328,Seattle Storm,1,4,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,58,181,1,0,20100902,SEA,PHO,2010-11
+Shot Chart Detail,1041000211,81,100720,Sue Bird,1611661328,Seattle Storm,1,2,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,88,189,1,0,20100902,SEA,PHO,2010-11
+Shot Chart Detail,1041000211,195,100720,Sue Bird,1611661328,Seattle Storm,2,2,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-152,142,1,1,20100902,SEA,PHO,2010-11
+Shot Chart Detail,1041000211,223,100720,Sue Bird,1611661328,Seattle Storm,2,1,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-130,102,1,0,20100902,SEA,PHO,2010-11
+Shot Chart Detail,1041000211,293,100720,Sue Bird,1611661328,Seattle Storm,3,5,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,110,192,1,0,20100902,SEA,PHO,2010-11
+Shot Chart Detail,1041000211,342,100720,Sue Bird,1611661328,Seattle Storm,3,0,42,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,2,91,1,1,20100902,SEA,PHO,2010-11
+Shot Chart Detail,1041000211,387,100720,Sue Bird,1611661328,Seattle Storm,4,7,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-125,184,1,0,20100902,SEA,PHO,2010-11
+Shot Chart Detail,1041000211,432,100720,Sue Bird,1611661328,Seattle Storm,4,3,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-134,80,1,0,20100902,SEA,PHO,2010-11
+Shot Chart Detail,1041000211,456,100720,Sue Bird,1611661328,Seattle Storm,4,2,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-90,134,1,0,20100902,SEA,PHO,2010-11
+Shot Chart Detail,1041000212,27,100720,Sue Bird,1611661328,Seattle Storm,1,6,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,99,200,1,0,20100905,PHO,SEA,2010-11
+Shot Chart Detail,1041000212,31,100720,Sue Bird,1611661328,Seattle Storm,1,5,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-183,123,1,1,20100905,PHO,SEA,2010-11
+Shot Chart Detail,1041000212,34,100720,Sue Bird,1611661328,Seattle Storm,1,5,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-117,88,1,0,20100905,PHO,SEA,2010-11
+Shot Chart Detail,1041000212,64,100720,Sue Bird,1611661328,Seattle Storm,1,2,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-196,108,1,0,20100905,PHO,SEA,2010-11
+Shot Chart Detail,1041000212,85,100720,Sue Bird,1611661328,Seattle Storm,1,0,39,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,22,1,0,20100905,PHO,SEA,2010-11
+Shot Chart Detail,1041000212,156,100720,Sue Bird,1611661328,Seattle Storm,2,5,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,24,143,1,0,20100905,PHO,SEA,2010-11
+Shot Chart Detail,1041000212,177,100720,Sue Bird,1611661328,Seattle Storm,2,2,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,147,167,1,0,20100905,PHO,SEA,2010-11
+Shot Chart Detail,1041000212,232,100720,Sue Bird,1611661328,Seattle Storm,3,9,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-56,142,1,1,20100905,PHO,SEA,2010-11
+Shot Chart Detail,1041000212,265,100720,Sue Bird,1611661328,Seattle Storm,3,5,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,154,146,1,0,20100905,PHO,SEA,2010-11
+Shot Chart Detail,1041000212,289,100720,Sue Bird,1611661328,Seattle Storm,3,2,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-180,143,1,1,20100905,PHO,SEA,2010-11
+Shot Chart Detail,1041000212,393,100720,Sue Bird,1611661328,Seattle Storm,4,5,19,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,28,116,1,1,20100905,PHO,SEA,2010-11
+Shot Chart Detail,1041000212,403,100720,Sue Bird,1611661328,Seattle Storm,4,3,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-152,159,1,0,20100905,PHO,SEA,2010-11
+Shot Chart Detail,1041000212,438,100720,Sue Bird,1611661328,Seattle Storm,4,0,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,182,116,1,0,20100905,PHO,SEA,2010-11
+Shot Chart Detail,1041000212,451,100720,Sue Bird,1611661328,Seattle Storm,4,0,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,195,142,1,1,20100905,PHO,SEA,2010-11
+Shot Chart Detail,1041000301,44,100720,Sue Bird,1611661328,Seattle Storm,1,5,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-48,113,1,1,20100912,SEA,ATL,2010-11
+Shot Chart Detail,1041000301,54,100720,Sue Bird,1611661328,Seattle Storm,1,4,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-79,208,1,1,20100912,SEA,ATL,2010-11
+Shot Chart Detail,1041000301,77,100720,Sue Bird,1611661328,Seattle Storm,1,1,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-114,50,1,0,20100912,SEA,ATL,2010-11
+Shot Chart Detail,1041000301,98,100720,Sue Bird,1611661328,Seattle Storm,1,0,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100912,SEA,ATL,2010-11
+Shot Chart Detail,1041000301,101,100720,Sue Bird,1611661328,Seattle Storm,1,0,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,21,189,1,0,20100912,SEA,ATL,2010-11
+Shot Chart Detail,1041000301,116,100720,Sue Bird,1611661328,Seattle Storm,2,8,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-136,3,1,0,20100912,SEA,ATL,2010-11
+Shot Chart Detail,1041000301,150,100720,Sue Bird,1611661328,Seattle Storm,2,6,22,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,2,115,1,0,20100912,SEA,ATL,2010-11
+Shot Chart Detail,1041000301,241,100720,Sue Bird,1611661328,Seattle Storm,3,8,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-13,224,1,0,20100912,SEA,ATL,2010-11
+Shot Chart Detail,1041000301,244,100720,Sue Bird,1611661328,Seattle Storm,3,8,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-155,173,1,0,20100912,SEA,ATL,2010-11
+Shot Chart Detail,1041000301,253,100720,Sue Bird,1611661328,Seattle Storm,3,7,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-38,86,1,0,20100912,SEA,ATL,2010-11
+Shot Chart Detail,1041000301,315,100720,Sue Bird,1611661328,Seattle Storm,3,0,11,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,9,1,1,20100912,SEA,ATL,2010-11
+Shot Chart Detail,1041000301,350,100720,Sue Bird,1611661328,Seattle Storm,4,7,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100912,SEA,ATL,2010-11
+Shot Chart Detail,1041000301,371,100720,Sue Bird,1611661328,Seattle Storm,4,4,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-60,104,1,0,20100912,SEA,ATL,2010-11
+Shot Chart Detail,1041000301,391,100720,Sue Bird,1611661328,Seattle Storm,4,3,22,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,70,61,1,1,20100912,SEA,ATL,2010-11
+Shot Chart Detail,1041000301,419,100720,Sue Bird,1611661328,Seattle Storm,4,0,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,0,194,1,0,20100912,SEA,ATL,2010-11
+Shot Chart Detail,1041000301,426,100720,Sue Bird,1611661328,Seattle Storm,4,0,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-54,172,1,1,20100912,SEA,ATL,2010-11
+Shot Chart Detail,1041000302,99,100720,Sue Bird,1611661328,Seattle Storm,1,3,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-209,64,1,0,20100914,SEA,ATL,2010-11
+Shot Chart Detail,1041000302,131,100720,Sue Bird,1611661328,Seattle Storm,1,2,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-60,205,1,0,20100914,SEA,ATL,2010-11
+Shot Chart Detail,1041000302,149,100720,Sue Bird,1611661328,Seattle Storm,1,0,35,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,67,113,1,1,20100914,SEA,ATL,2010-11
+Shot Chart Detail,1041000302,251,100720,Sue Bird,1611661328,Seattle Storm,2,1,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-131,167,1,0,20100914,SEA,ATL,2010-11
+Shot Chart Detail,1041000302,257,100720,Sue Bird,1611661328,Seattle Storm,2,1,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-51,178,1,0,20100914,SEA,ATL,2010-11
+Shot Chart Detail,1041000302,260,100720,Sue Bird,1611661328,Seattle Storm,2,0,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,146,172,1,0,20100914,SEA,ATL,2010-11
+Shot Chart Detail,1041000302,354,100720,Sue Bird,1611661328,Seattle Storm,3,2,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100914,SEA,ATL,2010-11
+Shot Chart Detail,1041000302,364,100720,Sue Bird,1611661328,Seattle Storm,3,1,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100914,SEA,ATL,2010-11
+Shot Chart Detail,1041000302,451,100720,Sue Bird,1611661328,Seattle Storm,4,3,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,1,137,1,0,20100914,SEA,ATL,2010-11
+Shot Chart Detail,1041000302,472,100720,Sue Bird,1611661328,Seattle Storm,4,1,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100914,SEA,ATL,2010-11
+Shot Chart Detail,1041000303,8,100720,Sue Bird,1611661328,Seattle Storm,1,8,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,0,149,1,1,20100916,ATL,SEA,2010-11
+Shot Chart Detail,1041000303,13,100720,Sue Bird,1611661328,Seattle Storm,1,8,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-168,132,1,0,20100916,ATL,SEA,2010-11
+Shot Chart Detail,1041000303,35,100720,Sue Bird,1611661328,Seattle Storm,1,6,35,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-70,145,1,0,20100916,ATL,SEA,2010-11
+Shot Chart Detail,1041000303,61,100720,Sue Bird,1611661328,Seattle Storm,1,3,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,95,190,1,1,20100916,ATL,SEA,2010-11
+Shot Chart Detail,1041000303,125,100720,Sue Bird,1611661328,Seattle Storm,2,8,39,Missed Shot,Driving Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,36,1,0,20100916,ATL,SEA,2010-11
+Shot Chart Detail,1041000303,146,100720,Sue Bird,1611661328,Seattle Storm,2,5,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,196,102,1,0,20100916,ATL,SEA,2010-11
+Shot Chart Detail,1041000303,194,100720,Sue Bird,1611661328,Seattle Storm,2,2,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-19,227,1,0,20100916,ATL,SEA,2010-11
+Shot Chart Detail,1041000303,200,100720,Sue Bird,1611661328,Seattle Storm,2,1,11,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,-2,1,1,20100916,ATL,SEA,2010-11
+Shot Chart Detail,1041000303,246,100720,Sue Bird,1611661328,Seattle Storm,3,8,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-30,167,1,0,20100916,ATL,SEA,2010-11
+Shot Chart Detail,1041000303,277,100720,Sue Bird,1611661328,Seattle Storm,3,6,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-217,33,1,0,20100916,ATL,SEA,2010-11
+Shot Chart Detail,1041000303,309,100720,Sue Bird,1611661328,Seattle Storm,3,3,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-139,82,1,0,20100916,ATL,SEA,2010-11
+Shot Chart Detail,1041000303,335,100720,Sue Bird,1611661328,Seattle Storm,3,1,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),24+ ft.,22,220,53,1,1,20100916,ATL,SEA,2010-11
+Shot Chart Detail,1041000303,491,100720,Sue Bird,1611661328,Seattle Storm,4,1,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,88,123,1,1,20100916,ATL,SEA,2010-11
+Shot Chart Detail,1041000303,513,100720,Sue Bird,1611661328,Seattle Storm,4,0,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-105,129,1,0,20100916,ATL,SEA,2010-11

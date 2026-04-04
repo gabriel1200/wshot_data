@@ -1,0 +1,8 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1041300121,229,201049,Noelle Quinn,1611661328,Seattle Storm,3,9,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),24+ ft.,23,222,72,1,0,20130920,MIN,SEA,2013-14
+Shot Chart Detail,1041300121,246,201049,Noelle Quinn,1611661328,Seattle Storm,3,7,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,39,1,1,20130920,MIN,SEA,2013-14
+Shot Chart Detail,1041300121,287,201049,Noelle Quinn,1611661328,Seattle Storm,3,2,39,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,25,1,0,20130920,MIN,SEA,2013-14
+Shot Chart Detail,1041300122,68,201049,Noelle Quinn,1611661328,Seattle Storm,1,2,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-131,250,1,0,20130922,SEA,MIN,2013-14
+Shot Chart Detail,1041300122,136,201049,Noelle Quinn,1611661328,Seattle Storm,2,7,17,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,1,74,1,1,20130922,SEA,MIN,2013-14
+Shot Chart Detail,1041300122,377,201049,Noelle Quinn,1611661328,Seattle Storm,4,1,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-194,142,1,1,20130922,SEA,MIN,2013-14
+Shot Chart Detail,1041300122,397,201049,Noelle Quinn,1611661328,Seattle Storm,4,0,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,9,1,0,20130922,SEA,MIN,2013-14

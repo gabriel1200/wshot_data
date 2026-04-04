@@ -1,0 +1,27 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1041500111,39,200665,Cappie Pondexter,1611661329,Chicago Sky,1,5,22,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-5,33,1,0,20150917,CHI,IND,2015-16
+Shot Chart Detail,1041500111,125,200665,Cappie Pondexter,1611661329,Chicago Sky,2,8,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,114,165,1,0,20150917,CHI,IND,2015-16
+Shot Chart Detail,1041500111,136,200665,Cappie Pondexter,1611661329,Chicago Sky,2,6,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-26,162,1,0,20150917,CHI,IND,2015-16
+Shot Chart Detail,1041500111,155,200665,Cappie Pondexter,1611661329,Chicago Sky,2,5,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,165,-2,1,0,20150917,CHI,IND,2015-16
+Shot Chart Detail,1041500111,275,200665,Cappie Pondexter,1611661329,Chicago Sky,3,4,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,95,48,1,0,20150917,CHI,IND,2015-16
+Shot Chart Detail,1041500111,304,200665,Cappie Pondexter,1611661329,Chicago Sky,3,1,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,118,127,1,0,20150917,CHI,IND,2015-16
+Shot Chart Detail,1041500111,371,200665,Cappie Pondexter,1611661329,Chicago Sky,4,5,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,16,1,0,20150917,CHI,IND,2015-16
+Shot Chart Detail,1041500112,109,200665,Cappie Pondexter,1611661329,Chicago Sky,1,1,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,7,1,0,20150919,IND,CHI,2015-16
+Shot Chart Detail,1041500112,185,200665,Cappie Pondexter,1611661329,Chicago Sky,2,5,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,78,201,1,0,20150919,IND,CHI,2015-16
+Shot Chart Detail,1041500112,191,200665,Cappie Pondexter,1611661329,Chicago Sky,2,4,48,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,89,167,1,1,20150919,IND,CHI,2015-16
+Shot Chart Detail,1041500112,211,200665,Cappie Pondexter,1611661329,Chicago Sky,2,3,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,0,1,0,20150919,IND,CHI,2015-16
+Shot Chart Detail,1041500112,350,200665,Cappie Pondexter,1611661329,Chicago Sky,4,9,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,-13,1,0,20150919,IND,CHI,2015-16
+Shot Chart Detail,1041500112,361,200665,Cappie Pondexter,1611661329,Chicago Sky,4,9,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,-5,1,1,20150919,IND,CHI,2015-16
+Shot Chart Detail,1041500112,373,200665,Cappie Pondexter,1611661329,Chicago Sky,4,7,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,34,153,1,1,20150919,IND,CHI,2015-16
+Shot Chart Detail,1041500112,377,200665,Cappie Pondexter,1611661329,Chicago Sky,4,7,34,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,2,203,1,1,20150919,IND,CHI,2015-16
+Shot Chart Detail,1041500112,399,200665,Cappie Pondexter,1611661329,Chicago Sky,4,5,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-157,17,1,0,20150919,IND,CHI,2015-16
+Shot Chart Detail,1041500112,409,200665,Cappie Pondexter,1611661329,Chicago Sky,4,3,53,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,7,1,0,20150919,IND,CHI,2015-16
+Shot Chart Detail,1041500112,411,200665,Cappie Pondexter,1611661329,Chicago Sky,4,3,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-196,0,1,0,20150919,IND,CHI,2015-16
+Shot Chart Detail,1041500113,2,200665,Cappie Pondexter,1611661329,Chicago Sky,1,9,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,0,195,1,1,20150921,CHI,IND,2015-16
+Shot Chart Detail,1041500113,120,200665,Cappie Pondexter,1611661329,Chicago Sky,2,5,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,7,1,1,20150921,CHI,IND,2015-16
+Shot Chart Detail,1041500113,133,200665,Cappie Pondexter,1611661329,Chicago Sky,2,5,7,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,7,1,1,20150921,CHI,IND,2015-16
+Shot Chart Detail,1041500113,179,200665,Cappie Pondexter,1611661329,Chicago Sky,3,9,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-49,36,1,0,20150921,CHI,IND,2015-16
+Shot Chart Detail,1041500113,185,200665,Cappie Pondexter,1611661329,Chicago Sky,3,8,52,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,9,1,0,20150921,CHI,IND,2015-16
+Shot Chart Detail,1041500113,306,200665,Cappie Pondexter,1611661329,Chicago Sky,4,6,34,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,7,1,0,20150921,CHI,IND,2015-16
+Shot Chart Detail,1041500113,312,200665,Cappie Pondexter,1611661329,Chicago Sky,4,5,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,97,236,1,0,20150921,CHI,IND,2015-16
+Shot Chart Detail,1041500113,348,200665,Cappie Pondexter,1611661329,Chicago Sky,4,1,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,11,1,1,20150921,CHI,IND,2015-16

@@ -1,0 +1,5 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1041600201,98,204327,Brittany Boyd-Jones,1611661313,New York Liberty,1,0,1,Missed Shot,Running Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,55,32,556,1,0,20160924,NYL,PHO,2016-17
+Shot Chart Detail,1041600201,117,204327,Brittany Boyd-Jones,1611661313,New York Liberty,2,8,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,19,1,0,20160924,NYL,PHO,2016-17
+Shot Chart Detail,1041600201,323,204327,Brittany Boyd-Jones,1611661313,New York Liberty,3,0,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,28,1,0,20160924,NYL,PHO,2016-17
+Shot Chart Detail,1041600201,346,204327,Brittany Boyd-Jones,1611661313,New York Liberty,4,8,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,20,1,1,20160924,NYL,PHO,2016-17

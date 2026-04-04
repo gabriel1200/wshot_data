@@ -1,0 +1,345 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020100003,21,100247,Sandy Brondello,1611661326,Miami Sol,1,16,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,157,-2,1,0,20010531,MIA,NYL,2001-02
+Shot Chart Detail,1020100003,56,100247,Sandy Brondello,1611661326,Miami Sol,1,11,18,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-75,34,1,1,20010531,MIA,NYL,2001-02
+Shot Chart Detail,1020100003,64,100247,Sandy Brondello,1611661326,Miami Sol,1,10,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,142,63,1,1,20010531,MIA,NYL,2001-02
+Shot Chart Detail,1020100003,68,100247,Sandy Brondello,1611661326,Miami Sol,1,10,14,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-111,85,1,0,20010531,MIA,NYL,2001-02
+Shot Chart Detail,1020100003,72,100247,Sandy Brondello,1611661326,Miami Sol,1,9,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010531,MIA,NYL,2001-02
+Shot Chart Detail,1020100003,133,100247,Sandy Brondello,1611661326,Miami Sol,1,3,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,15,1,1,20010531,MIA,NYL,2001-02
+Shot Chart Detail,1020100003,141,100247,Sandy Brondello,1611661326,Miami Sol,1,2,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,13,1,1,20010531,MIA,NYL,2001-02
+Shot Chart Detail,1020100003,144,100247,Sandy Brondello,1611661326,Miami Sol,1,1,54,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,16,51,1,0,20010531,MIA,NYL,2001-02
+Shot Chart Detail,1020100003,180,100247,Sandy Brondello,1611661326,Miami Sol,1,1,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-138,7,1,0,20010531,MIA,NYL,2001-02
+Shot Chart Detail,1020100003,201,100247,Sandy Brondello,1611661326,Miami Sol,2,15,33,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,91,129,1,1,20010531,MIA,NYL,2001-02
+Shot Chart Detail,1020100003,247,100247,Sandy Brondello,1611661326,Miami Sol,2,9,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-54,213,1,1,20010531,MIA,NYL,2001-02
+Shot Chart Detail,1020100003,265,100247,Sandy Brondello,1611661326,Miami Sol,2,7,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,100,125,1,1,20010531,MIA,NYL,2001-02
+Shot Chart Detail,1020100003,278,100247,Sandy Brondello,1611661326,Miami Sol,2,5,59,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-4,57,1,1,20010531,MIA,NYL,2001-02
+Shot Chart Detail,1020100003,292,100247,Sandy Brondello,1611661326,Miami Sol,2,4,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-90,125,1,0,20010531,MIA,NYL,2001-02
+Shot Chart Detail,1020100003,329,100247,Sandy Brondello,1611661326,Miami Sol,2,2,2,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010531,MIA,NYL,2001-02
+Shot Chart Detail,1020100019,36,100247,Sandy Brondello,1611661326,Miami Sol,1,14,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,13,1,0,20010605,MIA,IND,2001-02
+Shot Chart Detail,1020100019,179,100247,Sandy Brondello,1611661326,Miami Sol,1,3,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,85,129,1,0,20010605,MIA,IND,2001-02
+Shot Chart Detail,1020100019,149,100247,Sandy Brondello,1611661326,Miami Sol,1,2,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,19,1,1,20010605,MIA,IND,2001-02
+Shot Chart Detail,1020100019,151,100247,Sandy Brondello,1611661326,Miami Sol,1,2,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,37,179,1,1,20010605,MIA,IND,2001-02
+Shot Chart Detail,1020100019,189,100247,Sandy Brondello,1611661326,Miami Sol,1,1,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,108,173,1,1,20010605,MIA,IND,2001-02
+Shot Chart Detail,1020100019,191,100247,Sandy Brondello,1611661326,Miami Sol,1,1,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,16,179,1,1,20010605,MIA,IND,2001-02
+Shot Chart Detail,1020100019,203,100247,Sandy Brondello,1611661326,Miami Sol,2,15,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-147,169,1,0,20010605,MIA,IND,2001-02
+Shot Chart Detail,1020100019,277,100247,Sandy Brondello,1611661326,Miami Sol,2,8,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-96,169,1,0,20010605,MIA,IND,2001-02
+Shot Chart Detail,1020100019,297,100247,Sandy Brondello,1611661326,Miami Sol,2,6,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-96,125,1,0,20010605,MIA,IND,2001-02
+Shot Chart Detail,1020100019,324,100247,Sandy Brondello,1611661326,Miami Sol,2,2,28,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,7,108,1,0,20010605,MIA,IND,2001-02
+Shot Chart Detail,1020100027,6,100247,Sandy Brondello,1611661326,Miami Sol,1,19,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-204,129,1,1,20010607,SEA,MIA,2001-02
+Shot Chart Detail,1020100027,8,100247,Sandy Brondello,1611661326,Miami Sol,1,18,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,-13,1,1,20010607,SEA,MIA,2001-02
+Shot Chart Detail,1020100027,10,100247,Sandy Brondello,1611661326,Miami Sol,1,18,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,3,55,1,1,20010607,SEA,MIA,2001-02
+Shot Chart Detail,1020100027,32,100247,Sandy Brondello,1611661326,Miami Sol,1,15,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,15,1,0,20010607,SEA,MIA,2001-02
+Shot Chart Detail,1020100027,96,100247,Sandy Brondello,1611661326,Miami Sol,1,9,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-109,85,1,0,20010607,SEA,MIA,2001-02
+Shot Chart Detail,1020100027,103,100247,Sandy Brondello,1611661326,Miami Sol,1,8,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,91,42,1,1,20010607,SEA,MIA,2001-02
+Shot Chart Detail,1020100027,156,100247,Sandy Brondello,1611661326,Miami Sol,1,4,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,-6,1,0,20010607,SEA,MIA,2001-02
+Shot Chart Detail,1020100027,173,100247,Sandy Brondello,1611661326,Miami Sol,1,2,15,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,4,1,1,20010607,SEA,MIA,2001-02
+Shot Chart Detail,1020100027,199,100247,Sandy Brondello,1611661326,Miami Sol,1,2,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,9,1,1,20010607,SEA,MIA,2001-02
+Shot Chart Detail,1020100027,201,100247,Sandy Brondello,1611661326,Miami Sol,1,1,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-124,118,1,0,20010607,SEA,MIA,2001-02
+Shot Chart Detail,1020100027,191,100247,Sandy Brondello,1611661326,Miami Sol,1,0,0,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-46,9,1,1,20010607,SEA,MIA,2001-02
+Shot Chart Detail,1020100027,224,100247,Sandy Brondello,1611661326,Miami Sol,2,15,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,15,1,0,20010607,SEA,MIA,2001-02
+Shot Chart Detail,1020100034,10,100247,Sandy Brondello,1611661326,Miami Sol,1,18,40,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-136,59,1,0,20010609,SAC,MIA,2001-02
+Shot Chart Detail,1020100034,19,100247,Sandy Brondello,1611661326,Miami Sol,1,17,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,77,101,1,0,20010609,SAC,MIA,2001-02
+Shot Chart Detail,1020100034,40,100247,Sandy Brondello,1611661326,Miami Sol,1,15,11,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-16,135,1,1,20010609,SAC,MIA,2001-02
+Shot Chart Detail,1020100034,50,100247,Sandy Brondello,1611661326,Miami Sol,1,14,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-25,163,1,1,20010609,SAC,MIA,2001-02
+Shot Chart Detail,1020100034,208,100247,Sandy Brondello,1611661326,Miami Sol,1,2,21,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010609,SAC,MIA,2001-02
+Shot Chart Detail,1020100034,212,100247,Sandy Brondello,1611661326,Miami Sol,1,1,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,129,175,1,0,20010609,SAC,MIA,2001-02
+Shot Chart Detail,1020100034,220,100247,Sandy Brondello,1611661326,Miami Sol,1,1,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,7,1,1,20010609,SAC,MIA,2001-02
+Shot Chart Detail,1020100034,228,100247,Sandy Brondello,1611661326,Miami Sol,2,16,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,123,91,1,0,20010609,SAC,MIA,2001-02
+Shot Chart Detail,1020100034,245,100247,Sandy Brondello,1611661326,Miami Sol,2,14,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,7,51,1,1,20010609,SAC,MIA,2001-02
+Shot Chart Detail,1020100034,317,100247,Sandy Brondello,1611661326,Miami Sol,2,7,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-143,72,1,0,20010609,SAC,MIA,2001-02
+Shot Chart Detail,1020100034,324,100247,Sandy Brondello,1611661326,Miami Sol,2,6,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,41,34,1,0,20010609,SAC,MIA,2001-02
+Shot Chart Detail,1020100034,375,100247,Sandy Brondello,1611661326,Miami Sol,2,2,9,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-216,-4,1,0,20010609,SAC,MIA,2001-02
+Shot Chart Detail,1020100039,46,100247,Sandy Brondello,1611661326,Miami Sol,1,12,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,7,1,1,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100039,52,100247,Sandy Brondello,1611661326,Miami Sol,1,11,41,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,37,80,1,1,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100039,54,100247,Sandy Brondello,1611661326,Miami Sol,1,10,58,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-27,80,1,0,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100039,126,100247,Sandy Brondello,1611661326,Miami Sol,1,4,5,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-18,108,1,0,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100039,130,100247,Sandy Brondello,1611661326,Miami Sol,1,3,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-90,148,1,0,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100039,169,100247,Sandy Brondello,1611661326,Miami Sol,1,2,52,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,28,85,1,1,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100039,188,100247,Sandy Brondello,1611661326,Miami Sol,1,0,33,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,1,63,1,1,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100039,162,100247,Sandy Brondello,1611661326,Miami Sol,1,0,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-117,152,1,1,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100039,223,100247,Sandy Brondello,1611661326,Miami Sol,2,13,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,-19,1,1,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100039,232,100247,Sandy Brondello,1611661326,Miami Sol,2,12,5,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,43,129,1,1,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100039,242,100247,Sandy Brondello,1611661326,Miami Sol,2,10,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,77,141,1,0,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100039,244,100247,Sandy Brondello,1611661326,Miami Sol,2,10,23,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,64,30,1,0,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100039,285,100247,Sandy Brondello,1611661326,Miami Sol,2,6,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,-8,1,1,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100039,309,100247,Sandy Brondello,1611661326,Miami Sol,2,3,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,22,169,1,0,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100039,345,100247,Sandy Brondello,1611661326,Miami Sol,2,0,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-132,135,1,1,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100039,365,100247,Sandy Brondello,1611661326,Miami Sol,3,3,26,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-75,30,1,1,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100039,370,100247,Sandy Brondello,1611661326,Miami Sol,3,2,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-162,0,1,0,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100039,391,100247,Sandy Brondello,1611661326,Miami Sol,3,0,14,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,64,63,1,0,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100052,4,100247,Sandy Brondello,1611661326,Miami Sol,1,19,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,3,118,1,0,20010616,CLE,MIA,2001-02
+Shot Chart Detail,1020100052,27,100247,Sandy Brondello,1611661326,Miami Sol,1,16,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-124,57,1,1,20010616,CLE,MIA,2001-02
+Shot Chart Detail,1020100052,37,100247,Sandy Brondello,1611661326,Miami Sol,1,15,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,-17,1,1,20010616,CLE,MIA,2001-02
+Shot Chart Detail,1020100052,61,100247,Sandy Brondello,1611661326,Miami Sol,1,12,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,169,-13,1,0,20010616,CLE,MIA,2001-02
+Shot Chart Detail,1020100052,64,100247,Sandy Brondello,1611661326,Miami Sol,1,12,37,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,32,97,1,0,20010616,CLE,MIA,2001-02
+Shot Chart Detail,1020100052,243,100247,Sandy Brondello,1611661326,Miami Sol,1,1,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-197,97,1,1,20010616,CLE,MIA,2001-02
+Shot Chart Detail,1020100052,255,100247,Sandy Brondello,1611661326,Miami Sol,2,16,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,134,76,1,0,20010616,CLE,MIA,2001-02
+Shot Chart Detail,1020100052,267,100247,Sandy Brondello,1611661326,Miami Sol,2,14,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,142,-17,1,0,20010616,CLE,MIA,2001-02
+Shot Chart Detail,1020100052,284,100247,Sandy Brondello,1611661326,Miami Sol,2,12,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,-23,1,1,20010616,CLE,MIA,2001-02
+Shot Chart Detail,1020100052,286,100247,Sandy Brondello,1611661326,Miami Sol,2,11,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-16,129,1,0,20010616,CLE,MIA,2001-02
+Shot Chart Detail,1020100052,334,100247,Sandy Brondello,1611661326,Miami Sol,2,7,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-153,148,1,1,20010616,CLE,MIA,2001-02
+Shot Chart Detail,1020100052,343,100247,Sandy Brondello,1611661326,Miami Sol,2,5,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-138,152,1,1,20010616,CLE,MIA,2001-02
+Shot Chart Detail,1020100052,348,100247,Sandy Brondello,1611661326,Miami Sol,2,4,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,85,152,1,0,20010616,CLE,MIA,2001-02
+Shot Chart Detail,1020100058,13,100247,Sandy Brondello,1611661326,Miami Sol,1,17,45,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-90,30,1,0,20010617,MIA,NYL,2001-02
+Shot Chart Detail,1020100058,35,100247,Sandy Brondello,1611661326,Miami Sol,1,15,6,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-27,68,1,0,20010617,MIA,NYL,2001-02
+Shot Chart Detail,1020100058,45,100247,Sandy Brondello,1611661326,Miami Sol,1,14,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-153,91,1,0,20010617,MIA,NYL,2001-02
+Shot Chart Detail,1020100058,115,100247,Sandy Brondello,1611661326,Miami Sol,1,6,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,77,141,1,0,20010617,MIA,NYL,2001-02
+Shot Chart Detail,1020100058,148,100247,Sandy Brondello,1611661326,Miami Sol,1,4,8,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,0,1,0,20010617,MIA,NYL,2001-02
+Shot Chart Detail,1020100058,194,100247,Sandy Brondello,1611661326,Miami Sol,1,3,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,61,134,1,0,20010617,MIA,NYL,2001-02
+Shot Chart Detail,1020100058,205,100247,Sandy Brondello,1611661326,Miami Sol,1,1,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,13,1,1,20010617,MIA,NYL,2001-02
+Shot Chart Detail,1020100058,215,100247,Sandy Brondello,1611661326,Miami Sol,1,0,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-117,129,1,0,20010617,MIA,NYL,2001-02
+Shot Chart Detail,1020100058,236,100247,Sandy Brondello,1611661326,Miami Sol,2,14,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-168,169,1,0,20010617,MIA,NYL,2001-02
+Shot Chart Detail,1020100058,263,100247,Sandy Brondello,1611661326,Miami Sol,2,11,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,7,1,0,20010617,MIA,NYL,2001-02
+Shot Chart Detail,1020100058,325,100247,Sandy Brondello,1611661326,Miami Sol,2,6,40,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-111,30,1,0,20010617,MIA,NYL,2001-02
+Shot Chart Detail,1020100058,384,100247,Sandy Brondello,1611661326,Miami Sol,2,1,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-12,213,1,0,20010617,MIA,NYL,2001-02
+Shot Chart Detail,1020100058,421,100247,Sandy Brondello,1611661326,Miami Sol,2,0,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,108,192,1,0,20010617,MIA,NYL,2001-02
+Shot Chart Detail,1020100068,8,100247,Sandy Brondello,1611661326,Miami Sol,1,18,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-12,144,1,1,20010621,WAS,MIA,2001-02
+Shot Chart Detail,1020100068,13,100247,Sandy Brondello,1611661326,Miami Sol,1,17,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-155,7,1,0,20010621,WAS,MIA,2001-02
+Shot Chart Detail,1020100068,15,100247,Sandy Brondello,1611661326,Miami Sol,1,17,17,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,-36,1,1,20010621,WAS,MIA,2001-02
+Shot Chart Detail,1020100068,17,100247,Sandy Brondello,1611661326,Miami Sol,1,17,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-176,133,1,1,20010621,WAS,MIA,2001-02
+Shot Chart Detail,1020100068,47,100247,Sandy Brondello,1611661326,Miami Sol,1,13,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,167,34,1,1,20010621,WAS,MIA,2001-02
+Shot Chart Detail,1020100068,54,100247,Sandy Brondello,1611661326,Miami Sol,1,12,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,30,215,1,0,20010621,WAS,MIA,2001-02
+Shot Chart Detail,1020100068,64,100247,Sandy Brondello,1611661326,Miami Sol,1,12,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-119,-13,1,0,20010621,WAS,MIA,2001-02
+Shot Chart Detail,1020100068,157,100247,Sandy Brondello,1611661326,Miami Sol,1,1,53,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-119,-19,1,1,20010621,WAS,MIA,2001-02
+Shot Chart Detail,1020100068,162,100247,Sandy Brondello,1611661326,Miami Sol,1,1,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-42,13,1,0,20010621,WAS,MIA,2001-02
+Shot Chart Detail,1020100068,214,100247,Sandy Brondello,1611661326,Miami Sol,2,14,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-162,51,1,0,20010621,WAS,MIA,2001-02
+Shot Chart Detail,1020100068,218,100247,Sandy Brondello,1611661326,Miami Sol,2,13,44,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-84,-13,1,1,20010621,WAS,MIA,2001-02
+Shot Chart Detail,1020100068,250,100247,Sandy Brondello,1611661326,Miami Sol,2,10,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-84,23,1,0,20010621,WAS,MIA,2001-02
+Shot Chart Detail,1020100068,293,100247,Sandy Brondello,1611661326,Miami Sol,2,5,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,7,160,1,0,20010621,WAS,MIA,2001-02
+Shot Chart Detail,1020100068,319,100247,Sandy Brondello,1611661326,Miami Sol,2,2,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-92,150,1,1,20010621,WAS,MIA,2001-02
+Shot Chart Detail,1020100073,15,100247,Sandy Brondello,1611661326,Miami Sol,1,18,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-202,99,1,0,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,24,100247,Sandy Brondello,1611661326,Miami Sol,1,17,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,58,100247,Sandy Brondello,1611661326,Miami Sol,1,13,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-88,85,1,0,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,172,100247,Sandy Brondello,1611661326,Miami Sol,1,2,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-96,85,1,0,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,188,100247,Sandy Brondello,1611661326,Miami Sol,1,1,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-25,146,1,0,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,216,100247,Sandy Brondello,1611661326,Miami Sol,1,1,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-155,4,1,1,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,220,100247,Sandy Brondello,1611661326,Miami Sol,1,0,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,17,1,1,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,241,100247,Sandy Brondello,1611661326,Miami Sol,2,14,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-119,21,1,0,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,262,100247,Sandy Brondello,1611661326,Miami Sol,2,13,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,47,61,1,0,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,284,100247,Sandy Brondello,1611661326,Miami Sol,2,11,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,62,38,1,0,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,335,100247,Sandy Brondello,1611661326,Miami Sol,2,6,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,0,112,1,1,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,343,100247,Sandy Brondello,1611661326,Miami Sol,2,5,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,98,207,1,1,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,349,100247,Sandy Brondello,1611661326,Miami Sol,2,4,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,98,228,1,0,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,383,100247,Sandy Brondello,1611661326,Miami Sol,2,1,17,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-65,38,1,1,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,387,100247,Sandy Brondello,1611661326,Miami Sol,2,0,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-98,278,1,0,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,400,100247,Sandy Brondello,1611661326,Miami Sol,2,0,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,83,228,1,0,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100082,17,100247,Sandy Brondello,1611661326,Miami Sol,1,17,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,28,209,1,0,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100082,144,100247,Sandy Brondello,1611661326,Miami Sol,1,5,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,85,129,1,0,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100082,169,100247,Sandy Brondello,1611661326,Miami Sol,1,3,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-132,135,1,0,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100082,218,100247,Sandy Brondello,1611661326,Miami Sol,1,2,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-33,141,1,0,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100082,225,100247,Sandy Brondello,1611661326,Miami Sol,1,2,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,0,1,0,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100082,233,100247,Sandy Brondello,1611661326,Miami Sol,1,1,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-162,0,1,0,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100082,235,100247,Sandy Brondello,1611661326,Miami Sol,1,1,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-132,141,1,0,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100082,302,100247,Sandy Brondello,1611661326,Miami Sol,2,9,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-84,135,1,0,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100082,334,100247,Sandy Brondello,1611661326,Miami Sol,2,6,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-168,135,1,0,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100082,342,100247,Sandy Brondello,1611661326,Miami Sol,2,5,35,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-63,0,1,0,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100090,15,100247,Sandy Brondello,1611661326,Miami Sol,1,17,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,142,141,1,0,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,47,100247,Sandy Brondello,1611661326,Miami Sol,1,13,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-27,173,1,0,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,67,100247,Sandy Brondello,1611661326,Miami Sol,1,11,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-183,114,1,1,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,76,100247,Sandy Brondello,1611661326,Miami Sol,1,10,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-132,125,1,1,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,84,100247,Sandy Brondello,1611661326,Miami Sol,1,9,53,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-90,47,1,0,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,140,100247,Sandy Brondello,1611661326,Miami Sol,1,4,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,136,173,1,0,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,156,100247,Sandy Brondello,1611661326,Miami Sol,1,3,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,19,1,0,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,166,100247,Sandy Brondello,1611661326,Miami Sol,1,2,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-168,80,1,0,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,222,100247,Sandy Brondello,1611661326,Miami Sol,1,0,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,121,97,1,0,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,232,100247,Sandy Brondello,1611661326,Miami Sol,2,16,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-96,68,1,1,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,255,100247,Sandy Brondello,1611661326,Miami Sol,2,13,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-189,-2,1,0,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,269,100247,Sandy Brondello,1611661326,Miami Sol,2,12,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-189,7,1,0,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,417,100247,Sandy Brondello,1611661326,Miami Sol,3,2,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-153,91,1,0,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,426,100247,Sandy Brondello,1611661326,Miami Sol,3,1,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,1,129,1,0,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,428,100247,Sandy Brondello,1611661326,Miami Sol,3,1,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-4,129,1,0,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100095,8,100247,Sandy Brondello,1611661326,Miami Sol,1,17,56,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,43,135,1,0,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100095,15,100247,Sandy Brondello,1611661326,Miami Sol,1,16,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,7,1,0,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100095,113,100247,Sandy Brondello,1611661326,Miami Sol,1,6,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-42,173,1,1,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100095,115,100247,Sandy Brondello,1611661326,Miami Sol,1,5,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,1,173,1,1,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100095,134,100247,Sandy Brondello,1611661326,Miami Sol,1,2,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-33,141,1,1,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100095,139,100247,Sandy Brondello,1611661326,Miami Sol,1,2,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-138,179,1,0,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100095,184,100247,Sandy Brondello,1611661326,Miami Sol,1,2,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,136,34,1,0,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100095,151,100247,Sandy Brondello,1611661326,Miami Sol,1,1,11,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-69,63,1,1,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100095,219,100247,Sandy Brondello,1611661326,Miami Sol,2,14,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-138,40,1,1,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100095,221,100247,Sandy Brondello,1611661326,Miami Sol,2,14,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-117,-13,1,0,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100095,224,100247,Sandy Brondello,1611661326,Miami Sol,2,13,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-176,148,1,0,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100095,319,100247,Sandy Brondello,1611661326,Miami Sol,2,3,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-63,141,1,0,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100095,329,100247,Sandy Brondello,1611661326,Miami Sol,2,2,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-4,129,1,1,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100095,337,100247,Sandy Brondello,1611661326,Miami Sol,2,2,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-42,219,1,0,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100095,390,100247,Sandy Brondello,1611661326,Miami Sol,3,2,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-69,163,1,0,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100095,406,100247,Sandy Brondello,1611661326,Miami Sol,3,0,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-90,148,1,0,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100105,4,100247,Sandy Brondello,1611661326,Miami Sol,1,19,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,-6,1,0,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100105,22,100247,Sandy Brondello,1611661326,Miami Sol,1,16,33,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-98,148,1,1,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100105,25,100247,Sandy Brondello,1611661326,Miami Sol,1,16,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100105,38,100247,Sandy Brondello,1611661326,Miami Sol,1,14,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-105,91,1,0,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100105,53,100247,Sandy Brondello,1611661326,Miami Sol,1,13,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-162,148,1,1,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100105,67,100247,Sandy Brondello,1611661326,Miami Sol,1,11,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,-17,1,0,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100105,71,100247,Sandy Brondello,1611661326,Miami Sol,1,11,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,85,200,1,1,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100105,77,100247,Sandy Brondello,1611661326,Miami Sol,1,10,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,-17,1,0,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100105,158,100247,Sandy Brondello,1611661326,Miami Sol,1,2,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,144,80,1,0,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100105,179,100247,Sandy Brondello,1611661326,Miami Sol,1,1,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-105,19,1,0,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100105,222,100247,Sandy Brondello,1611661326,Miami Sol,1,0,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,73,135,1,0,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100105,186,100247,Sandy Brondello,1611661326,Miami Sol,1,0,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,30,213,1,0,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100108,15,100247,Sandy Brondello,1611661326,Miami Sol,1,18,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-122,163,1,1,20010702,UTA,MIA,2001-02
+Shot Chart Detail,1020100108,19,100247,Sandy Brondello,1611661326,Miami Sol,1,17,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-130,125,1,0,20010702,UTA,MIA,2001-02
+Shot Chart Detail,1020100108,29,100247,Sandy Brondello,1611661326,Miami Sol,1,16,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-101,158,1,1,20010702,UTA,MIA,2001-02
+Shot Chart Detail,1020100108,36,100247,Sandy Brondello,1611661326,Miami Sol,1,16,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-107,131,1,0,20010702,UTA,MIA,2001-02
+Shot Chart Detail,1020100108,38,100247,Sandy Brondello,1611661326,Miami Sol,1,16,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010702,UTA,MIA,2001-02
+Shot Chart Detail,1020100108,60,100247,Sandy Brondello,1611661326,Miami Sol,1,12,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,157,70,1,0,20010702,UTA,MIA,2001-02
+Shot Chart Detail,1020100108,145,100247,Sandy Brondello,1611661326,Miami Sol,1,4,5,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-44,47,1,0,20010702,UTA,MIA,2001-02
+Shot Chart Detail,1020100108,203,100247,Sandy Brondello,1611661326,Miami Sol,2,16,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,0,213,1,0,20010702,UTA,MIA,2001-02
+Shot Chart Detail,1020100108,219,100247,Sandy Brondello,1611661326,Miami Sol,2,14,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-187,-11,1,1,20010702,UTA,MIA,2001-02
+Shot Chart Detail,1020100108,229,100247,Sandy Brondello,1611661326,Miami Sol,2,12,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-101,-11,1,0,20010702,UTA,MIA,2001-02
+Shot Chart Detail,1020100113,5,100247,Sandy Brondello,1611661326,Miami Sol,1,19,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,-29,1,1,20010704,PHO,MIA,2001-02
+Shot Chart Detail,1020100113,11,100247,Sandy Brondello,1611661326,Miami Sol,1,18,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,45,133,1,0,20010704,PHO,MIA,2001-02
+Shot Chart Detail,1020100113,15,100247,Sandy Brondello,1611661326,Miami Sol,1,17,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-157,0,1,1,20010704,PHO,MIA,2001-02
+Shot Chart Detail,1020100113,19,100247,Sandy Brondello,1611661326,Miami Sol,1,17,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,0,1,1,20010704,PHO,MIA,2001-02
+Shot Chart Detail,1020100113,21,100247,Sandy Brondello,1611661326,Miami Sol,1,16,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-27,144,1,0,20010704,PHO,MIA,2001-02
+Shot Chart Detail,1020100113,37,100247,Sandy Brondello,1611661326,Miami Sol,1,14,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-136,-13,1,0,20010704,PHO,MIA,2001-02
+Shot Chart Detail,1020100113,42,100247,Sandy Brondello,1611661326,Miami Sol,1,13,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,9,1,0,20010704,PHO,MIA,2001-02
+Shot Chart Detail,1020100113,203,100247,Sandy Brondello,1611661326,Miami Sol,2,14,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,-6,1,0,20010704,PHO,MIA,2001-02
+Shot Chart Detail,1020100113,242,100247,Sandy Brondello,1611661326,Miami Sol,2,9,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,45,55,1,0,20010704,PHO,MIA,2001-02
+Shot Chart Detail,1020100123,20,100247,Sandy Brondello,1611661326,Miami Sol,1,17,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-63,148,1,0,20010707,MIA,SAC,2001-02
+Shot Chart Detail,1020100123,76,100247,Sandy Brondello,1611661326,Miami Sol,1,10,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,7,203,1,0,20010707,MIA,SAC,2001-02
+Shot Chart Detail,1020100123,118,100247,Sandy Brondello,1611661326,Miami Sol,1,5,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,64,129,1,1,20010707,MIA,SAC,2001-02
+Shot Chart Detail,1020100123,185,100247,Sandy Brondello,1611661326,Miami Sol,1,2,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,19,115,163,1,0,20010707,MIA,SAC,2001-02
+Shot Chart Detail,1020100123,192,100247,Sandy Brondello,1611661326,Miami Sol,1,1,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,-2,1,0,20010707,MIA,SAC,2001-02
+Shot Chart Detail,1020100123,151,100247,Sandy Brondello,1611661326,Miami Sol,1,1,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-162,152,1,0,20010707,MIA,SAC,2001-02
+Shot Chart Detail,1020100123,229,100247,Sandy Brondello,1611661326,Miami Sol,2,15,21,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,22,57,1,1,20010707,MIA,SAC,2001-02
+Shot Chart Detail,1020100123,237,100247,Sandy Brondello,1611661326,Miami Sol,2,13,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-138,4,1,1,20010707,MIA,SAC,2001-02
+Shot Chart Detail,1020100131,13,100247,Sandy Brondello,1611661326,Miami Sol,1,17,46,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-12,120,1,0,20010710,ORL,MIA,2001-02
+Shot Chart Detail,1020100131,22,100247,Sandy Brondello,1611661326,Miami Sol,1,17,2,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,142,-19,1,1,20010710,ORL,MIA,2001-02
+Shot Chart Detail,1020100131,62,100247,Sandy Brondello,1611661326,Miami Sol,1,12,38,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-212,-25,1,0,20010710,ORL,MIA,2001-02
+Shot Chart Detail,1020100131,143,100247,Sandy Brondello,1611661326,Miami Sol,1,5,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,53,1,0,20010710,ORL,MIA,2001-02
+Shot Chart Detail,1020100131,150,100247,Sandy Brondello,1611661326,Miami Sol,1,4,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,7,1,1,20010710,ORL,MIA,2001-02
+Shot Chart Detail,1020100131,162,100247,Sandy Brondello,1611661326,Miami Sol,1,3,56,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,75,118,1,1,20010710,ORL,MIA,2001-02
+Shot Chart Detail,1020100131,384,100247,Sandy Brondello,1611661326,Miami Sol,2,1,26,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,68,13,1,0,20010710,ORL,MIA,2001-02
+Shot Chart Detail,1020100131,394,100247,Sandy Brondello,1611661326,Miami Sol,2,0,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-65,28,1,0,20010710,ORL,MIA,2001-02
+Shot Chart Detail,1020100131,443,100247,Sandy Brondello,1611661326,Miami Sol,3,0,1,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,-25,1,1,20010710,ORL,MIA,2001-02
+Shot Chart Detail,1020100144,11,100247,Sandy Brondello,1611661326,Miami Sol,1,17,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-147,49,1,1,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,39,100247,Sandy Brondello,1611661326,Miami Sol,1,14,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,19,1,0,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,104,100247,Sandy Brondello,1611661326,Miami Sol,1,7,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,26,1,1,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,114,100247,Sandy Brondello,1611661326,Miami Sol,1,6,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,150,42,1,1,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,125,100247,Sandy Brondello,1611661326,Miami Sol,1,4,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-147,36,1,0,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,130,100247,Sandy Brondello,1611661326,Miami Sol,1,4,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-117,211,1,0,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,174,100247,Sandy Brondello,1611661326,Miami Sol,1,1,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-42,110,1,0,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,156,100247,Sandy Brondello,1611661326,Miami Sol,1,1,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,108,36,1,0,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,183,100247,Sandy Brondello,1611661326,Miami Sol,2,16,20,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-27,116,1,1,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,195,100247,Sandy Brondello,1611661326,Miami Sol,2,14,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,91,15,1,0,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,205,100247,Sandy Brondello,1611661326,Miami Sol,2,13,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,108,15,1,0,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,209,100247,Sandy Brondello,1611661326,Miami Sol,2,13,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,150,70,1,1,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,232,100247,Sandy Brondello,1611661326,Miami Sol,2,10,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-138,42,1,1,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,247,100247,Sandy Brondello,1611661326,Miami Sol,2,8,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,150,87,1,0,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100150,18,100247,Sandy Brondello,1611661326,Miami Sol,1,18,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,-8,1,0,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100150,21,100247,Sandy Brondello,1611661326,Miami Sol,1,17,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-12,169,1,0,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100150,56,100247,Sandy Brondello,1611661326,Miami Sol,1,12,23,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100150,116,100247,Sandy Brondello,1611661326,Miami Sol,1,5,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,-2,1,1,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100150,140,100247,Sandy Brondello,1611661326,Miami Sol,1,2,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-147,91,1,0,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100150,145,100247,Sandy Brondello,1611661326,Miami Sol,1,2,7,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-33,101,1,1,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100150,186,100247,Sandy Brondello,1611661326,Miami Sol,1,2,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-12,158,1,1,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100150,152,100247,Sandy Brondello,1611661326,Miami Sol,1,0,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-96,7,1,0,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100150,196,100247,Sandy Brondello,1611661326,Miami Sol,1,0,30,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100150,172,100247,Sandy Brondello,1611661326,Miami Sol,1,0,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-138,129,1,1,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100150,203,100247,Sandy Brondello,1611661326,Miami Sol,2,16,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,115,114,1,0,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100150,270,100247,Sandy Brondello,1611661326,Miami Sol,2,7,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,115,135,1,1,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100154,32,100247,Sandy Brondello,1611661326,Miami Sol,1,14,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-153,152,1,1,20010718,MIA,CHA,2001-02
+Shot Chart Detail,1020100154,37,100247,Sandy Brondello,1611661326,Miami Sol,1,13,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-153,108,1,1,20010718,MIA,CHA,2001-02
+Shot Chart Detail,1020100154,57,100247,Sandy Brondello,1611661326,Miami Sol,1,11,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-153,192,1,0,20010718,MIA,CHA,2001-02
+Shot Chart Detail,1020100154,61,100247,Sandy Brondello,1611661326,Miami Sol,1,10,48,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-27,101,1,0,20010718,MIA,CHA,2001-02
+Shot Chart Detail,1020100154,95,100247,Sandy Brondello,1611661326,Miami Sol,1,7,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,-18,203,1,0,20010718,MIA,CHA,2001-02
+Shot Chart Detail,1020100154,110,100247,Sandy Brondello,1611661326,Miami Sol,1,4,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,-18,203,1,1,20010718,MIA,CHA,2001-02
+Shot Chart Detail,1020100154,112,100247,Sandy Brondello,1611661326,Miami Sol,1,4,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010718,MIA,CHA,2001-02
+Shot Chart Detail,1020100154,179,100247,Sandy Brondello,1611661326,Miami Sol,1,0,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-168,97,1,1,20010718,MIA,CHA,2001-02
+Shot Chart Detail,1020100154,210,100247,Sandy Brondello,1611661326,Miami Sol,2,13,46,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-96,13,1,1,20010718,MIA,CHA,2001-02
+Shot Chart Detail,1020100154,231,100247,Sandy Brondello,1611661326,Miami Sol,2,11,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-111,186,1,1,20010718,MIA,CHA,2001-02
+Shot Chart Detail,1020100154,247,100247,Sandy Brondello,1611661326,Miami Sol,2,9,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,77,141,1,1,20010718,MIA,CHA,2001-02
+Shot Chart Detail,1020100154,261,100247,Sandy Brondello,1611661326,Miami Sol,2,8,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-4,219,1,1,20010718,MIA,CHA,2001-02
+Shot Chart Detail,1020100154,281,100247,Sandy Brondello,1611661326,Miami Sol,2,6,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-4,141,1,0,20010718,MIA,CHA,2001-02
+Shot Chart Detail,1020100162,5,100247,Sandy Brondello,1611661326,Miami Sol,1,19,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,-8,1,0,20010720,MIA,HOU,2001-02
+Shot Chart Detail,1020100162,9,100247,Sandy Brondello,1611661326,Miami Sol,1,18,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-189,141,1,1,20010720,MIA,HOU,2001-02
+Shot Chart Detail,1020100162,51,100247,Sandy Brondello,1611661326,Miami Sol,1,12,49,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-75,19,1,1,20010720,MIA,HOU,2001-02
+Shot Chart Detail,1020100162,326,100247,Sandy Brondello,1611661326,Miami Sol,1,6,14,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,61,58,1,0,20010720,MIA,HOU,2001-02
+Shot Chart Detail,1020100162,358,100247,Sandy Brondello,1611661326,Miami Sol,1,2,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,11,185,1,1,20010720,MIA,HOU,2001-02
+Shot Chart Detail,1020100162,98,100247,Sandy Brondello,1611661326,Miami Sol,1,2,7,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,18,-189,-13,1,1,20010720,MIA,HOU,2001-02
+Shot Chart Detail,1020100162,145,100247,Sandy Brondello,1611661326,Miami Sol,2,13,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-176,68,1,1,20010720,MIA,HOU,2001-02
+Shot Chart Detail,1020100162,159,100247,Sandy Brondello,1611661326,Miami Sol,2,11,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,7,163,1,0,20010720,MIA,HOU,2001-02
+Shot Chart Detail,1020100162,254,100247,Sandy Brondello,1611661326,Miami Sol,2,4,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-63,47,1,0,20010720,MIA,HOU,2001-02
+Shot Chart Detail,1020100162,262,100247,Sandy Brondello,1611661326,Miami Sol,2,3,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,129,173,1,0,20010720,MIA,HOU,2001-02
+Shot Chart Detail,1020100162,280,100247,Sandy Brondello,1611661326,Miami Sol,2,3,8,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-69,13,1,0,20010720,MIA,HOU,2001-02
+Shot Chart Detail,1020100162,312,100247,Sandy Brondello,1611661326,Miami Sol,2,1,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-189,-2,1,1,20010720,MIA,HOU,2001-02
+Shot Chart Detail,1020100170,19,100247,Sandy Brondello,1611661326,Miami Sol,1,15,54,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-214,13,1,0,20010722,NYL,MIA,2001-02
+Shot Chart Detail,1020100170,95,100247,Sandy Brondello,1611661326,Miami Sol,1,6,11,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-1,106,1,1,20010722,NYL,MIA,2001-02
+Shot Chart Detail,1020100170,215,100247,Sandy Brondello,1611661326,Miami Sol,2,12,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-111,129,1,1,20010722,NYL,MIA,2001-02
+Shot Chart Detail,1020100170,229,100247,Sandy Brondello,1611661326,Miami Sol,2,10,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-206,42,1,1,20010722,NYL,MIA,2001-02
+Shot Chart Detail,1020100170,236,100247,Sandy Brondello,1611661326,Miami Sol,2,9,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-206,101,1,0,20010722,NYL,MIA,2001-02
+Shot Chart Detail,1020100170,260,100247,Sandy Brondello,1611661326,Miami Sol,2,6,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,3,141,1,0,20010722,NYL,MIA,2001-02
+Shot Chart Detail,1020100170,292,100247,Sandy Brondello,1611661326,Miami Sol,2,2,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-119,101,1,0,20010722,NYL,MIA,2001-02
+Shot Chart Detail,1020100179,8,100247,Sandy Brondello,1611661326,Miami Sol,1,18,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-103,181,1,0,20010725,CLE,MIA,2001-02
+Shot Chart Detail,1020100179,178,100247,Sandy Brondello,1611661326,Miami Sol,1,3,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-103,181,1,0,20010725,CLE,MIA,2001-02
+Shot Chart Detail,1020100179,144,100247,Sandy Brondello,1611661326,Miami Sol,1,2,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-117,-13,1,1,20010725,CLE,MIA,2001-02
+Shot Chart Detail,1020100179,182,100247,Sandy Brondello,1611661326,Miami Sol,1,2,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-138,-29,1,0,20010725,CLE,MIA,2001-02
+Shot Chart Detail,1020100179,191,100247,Sandy Brondello,1611661326,Miami Sol,1,0,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,13,1,1,20010725,CLE,MIA,2001-02
+Shot Chart Detail,1020100179,195,100247,Sandy Brondello,1611661326,Miami Sol,2,16,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,13,1,0,20010725,CLE,MIA,2001-02
+Shot Chart Detail,1020100179,214,100247,Sandy Brondello,1611661326,Miami Sol,2,14,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,-8,1,1,20010725,CLE,MIA,2001-02
+Shot Chart Detail,1020100179,221,100247,Sandy Brondello,1611661326,Miami Sol,2,12,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,-2,1,0,20010725,CLE,MIA,2001-02
+Shot Chart Detail,1020100179,287,100247,Sandy Brondello,1611661326,Miami Sol,2,5,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-37,23,1,0,20010725,CLE,MIA,2001-02
+Shot Chart Detail,1020100179,293,100247,Sandy Brondello,1611661326,Miami Sol,2,4,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-132,55,1,1,20010725,CLE,MIA,2001-02
+Shot Chart Detail,1020100179,352,100247,Sandy Brondello,1611661326,Miami Sol,3,4,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-82,13,1,0,20010725,CLE,MIA,2001-02
+Shot Chart Detail,1020100179,372,100247,Sandy Brondello,1611661326,Miami Sol,3,1,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-73,13,1,0,20010725,CLE,MIA,2001-02
+Shot Chart Detail,1020100184,16,100247,Sandy Brondello,1611661326,Miami Sol,1,18,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,73,169,1,0,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,57,100247,Sandy Brondello,1611661326,Miami Sol,1,14,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,43,148,1,0,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,79,100247,Sandy Brondello,1611661326,Miami Sol,1,11,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-168,91,1,1,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,90,100247,Sandy Brondello,1611661326,Miami Sol,1,10,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-147,114,1,0,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,94,100247,Sandy Brondello,1611661326,Miami Sol,1,10,22,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-18,85,1,0,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,150,100247,Sandy Brondello,1611661326,Miami Sol,1,4,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-117,101,1,0,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,205,100247,Sandy Brondello,1611661326,Miami Sol,1,2,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,7,1,1,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,222,100247,Sandy Brondello,1611661326,Miami Sol,1,0,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,77,141,1,0,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,240,100247,Sandy Brondello,1611661326,Miami Sol,2,15,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-124,68,1,1,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,244,100247,Sandy Brondello,1611661326,Miami Sol,2,15,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,250,100247,Sandy Brondello,1611661326,Miami Sol,2,13,36,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-216,0,1,1,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,267,100247,Sandy Brondello,1611661326,Miami Sol,2,12,2,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-69,57,1,0,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,317,100247,Sandy Brondello,1611661326,Miami Sol,2,7,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-42,125,1,0,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,326,100247,Sandy Brondello,1611661326,Miami Sol,2,7,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,49,141,1,1,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,339,100247,Sandy Brondello,1611661326,Miami Sol,2,5,17,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-216,-8,1,1,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,360,100247,Sandy Brondello,1611661326,Miami Sol,2,2,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,1,186,1,1,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,400,100247,Sandy Brondello,1611661326,Miami Sol,3,3,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-147,158,1,0,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,402,100247,Sandy Brondello,1611661326,Miami Sol,3,2,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100190,5,100247,Sandy Brondello,1611661326,Miami Sol,1,19,25,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-65,-8,1,1,20010728,IND,MIA,2001-02
+Shot Chart Detail,1020100190,9,100247,Sandy Brondello,1611661326,Miami Sol,1,18,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,83,169,1,1,20010728,IND,MIA,2001-02
+Shot Chart Detail,1020100190,11,100247,Sandy Brondello,1611661326,Miami Sol,1,18,31,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,212,-4,1,1,20010728,IND,MIA,2001-02
+Shot Chart Detail,1020100190,18,100247,Sandy Brondello,1611661326,Miami Sol,1,17,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-115,173,1,1,20010728,IND,MIA,2001-02
+Shot Chart Detail,1020100190,43,100247,Sandy Brondello,1611661326,Miami Sol,1,13,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-193,-15,1,0,20010728,IND,MIA,2001-02
+Shot Chart Detail,1020100190,100,100247,Sandy Brondello,1611661326,Miami Sol,1,7,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,110,173,1,0,20010728,IND,MIA,2001-02
+Shot Chart Detail,1020100190,115,100247,Sandy Brondello,1611661326,Miami Sol,1,5,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-23,38,1,0,20010728,IND,MIA,2001-02
+Shot Chart Detail,1020100190,118,100247,Sandy Brondello,1611661326,Miami Sol,1,5,22,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-86,-15,1,1,20010728,IND,MIA,2001-02
+Shot Chart Detail,1020100190,122,100247,Sandy Brondello,1611661326,Miami Sol,1,4,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,110,190,1,1,20010728,IND,MIA,2001-02
+Shot Chart Detail,1020100228,2,100247,Sandy Brondello,1611661326,Miami Sol,1,19,31,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,28,110,1,1,20010808,WAS,MIA,2001-02
+Shot Chart Detail,1020100228,25,100247,Sandy Brondello,1611661326,Miami Sol,1,16,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,186,125,1,0,20010808,WAS,MIA,2001-02
+Shot Chart Detail,1020100228,65,100247,Sandy Brondello,1611661326,Miami Sol,1,12,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-202,91,1,0,20010808,WAS,MIA,2001-02
+Shot Chart Detail,1020100228,89,100247,Sandy Brondello,1611661326,Miami Sol,1,9,14,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-101,4,1,1,20010808,WAS,MIA,2001-02
+Shot Chart Detail,1020100228,98,100247,Sandy Brondello,1611661326,Miami Sol,1,8,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-130,82,1,0,20010808,WAS,MIA,2001-02
+Shot Chart Detail,1020100228,100,100247,Sandy Brondello,1611661326,Miami Sol,1,8,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,49,1,0,20010808,WAS,MIA,2001-02
+Shot Chart Detail,1020100228,199,100247,Sandy Brondello,1611661326,Miami Sol,1,1,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,98,104,1,0,20010808,WAS,MIA,2001-02
+Shot Chart Detail,1020100228,240,100247,Sandy Brondello,1611661326,Miami Sol,2,11,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-6,169,1,0,20010808,WAS,MIA,2001-02
+Shot Chart Detail,1020100234,129,100247,Sandy Brondello,1611661326,Miami Sol,1,3,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,191,-13,1,0,20010810,MIA,IND,2001-02
+Shot Chart Detail,1020100234,168,100247,Sandy Brondello,1611661326,Miami Sol,1,2,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-18,219,1,0,20010810,MIA,IND,2001-02
+Shot Chart Detail,1020100234,194,100247,Sandy Brondello,1611661326,Miami Sol,2,15,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-124,125,1,0,20010810,MIA,IND,2001-02
+Shot Chart Detail,1020100234,258,100247,Sandy Brondello,1611661326,Miami Sol,2,7,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-132,74,1,1,20010810,MIA,IND,2001-02
+Shot Chart Detail,1020100234,260,100247,Sandy Brondello,1611661326,Miami Sol,2,6,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-27,186,1,0,20010810,MIA,IND,2001-02
+Shot Chart Detail,1020100234,265,100247,Sandy Brondello,1611661326,Miami Sol,2,5,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-189,-8,1,1,20010810,MIA,IND,2001-02
+Shot Chart Detail,1020100234,299,100247,Sandy Brondello,1611661326,Miami Sol,2,0,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-162,80,1,1,20010810,MIA,IND,2001-02
+Shot Chart Detail,1020100240,6,100247,Sandy Brondello,1611661326,Miami Sol,1,18,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-96,106,1,0,20010811,ORL,MIA,2001-02
+Shot Chart Detail,1020100240,15,100247,Sandy Brondello,1611661326,Miami Sol,1,17,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-132,99,1,0,20010811,ORL,MIA,2001-02
+Shot Chart Detail,1020100240,136,100247,Sandy Brondello,1611661326,Miami Sol,1,2,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,129,26,1,1,20010811,ORL,MIA,2001-02
+Shot Chart Detail,1020100240,190,100247,Sandy Brondello,1611661326,Miami Sol,2,16,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,121,59,1,0,20010811,ORL,MIA,2001-02
+Shot Chart Detail,1020100240,311,100247,Sandy Brondello,1611661326,Miami Sol,2,3,9,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,15,1,1,20010811,ORL,MIA,2001-02
+Shot Chart Detail,1020100252,24,100247,Sandy Brondello,1611661326,Miami Sol,1,16,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,23,-216,91,1,0,20010814,MIA,CHA,2001-02
+Shot Chart Detail,1020100252,26,100247,Sandy Brondello,1611661326,Miami Sol,1,16,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-204,85,1,0,20010814,MIA,CHA,2001-02
+Shot Chart Detail,1020100252,29,100247,Sandy Brondello,1611661326,Miami Sol,1,16,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,7,1,0,20010814,MIA,CHA,2001-02
+Shot Chart Detail,1020100252,48,100247,Sandy Brondello,1611661326,Miami Sol,1,13,46,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-132,0,1,0,20010814,MIA,CHA,2001-02
+Shot Chart Detail,1020100252,106,100247,Sandy Brondello,1611661326,Miami Sol,1,6,44,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-90,23,1,0,20010814,MIA,CHA,2001-02
+Shot Chart Detail,1020100252,168,100247,Sandy Brondello,1611661326,Miami Sol,1,2,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-138,7,1,0,20010814,MIA,CHA,2001-02
+Shot Chart Detail,1020100252,160,100247,Sandy Brondello,1611661326,Miami Sol,1,0,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-189,-13,1,0,20010814,MIA,CHA,2001-02
+Shot Chart Detail,1020100252,212,100247,Sandy Brondello,1611661326,Miami Sol,2,13,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-132,0,1,0,20010814,MIA,CHA,2001-02
+Shot Chart Detail,1020100252,259,100247,Sandy Brondello,1611661326,Miami Sol,2,9,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,-12,203,1,1,20010814,MIA,CHA,2001-02
+Shot Chart Detail,1020100252,265,100247,Sandy Brondello,1611661326,Miami Sol,2,8,24,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-84,0,1,1,20010814,MIA,CHA,2001-02
+Shot Chart Detail,1020100252,267,100247,Sandy Brondello,1611661326,Miami Sol,2,7,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-138,0,1,1,20010814,MIA,CHA,2001-02
+Shot Chart Detail,1020100252,279,100247,Sandy Brondello,1611661326,Miami Sol,2,6,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,34,1,0,20010814,MIA,CHA,2001-02
+Shot Chart Detail,1020100252,290,100247,Sandy Brondello,1611661326,Miami Sol,2,4,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,7,1,0,20010814,MIA,CHA,2001-02
+Shot Chart Detail,1020100252,313,100247,Sandy Brondello,1611661326,Miami Sol,2,1,3,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,129,85,1,1,20010814,MIA,CHA,2001-02
+Shot Chart Detail,1020100252,319,100247,Sandy Brondello,1611661326,Miami Sol,2,0,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,142,30,1,1,20010814,MIA,CHA,2001-02

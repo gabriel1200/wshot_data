@@ -1,0 +1,90 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020900030,325,201062,Shay Murphy,1611661325,Indiana Fever,4,9,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090619,DET,IND,2009-10
+Shot Chart Detail,1020900030,355,201062,Shay Murphy,1611661325,Indiana Fever,4,7,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,23,-196,123,1,0,20090619,DET,IND,2009-10
+Shot Chart Detail,1020900030,357,201062,Shay Murphy,1611661325,Indiana Fever,4,6,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-97,201,1,1,20090619,DET,IND,2009-10
+Shot Chart Detail,1020900048,386,201062,Shay Murphy,1611661325,Indiana Fever,4,0,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-5,1,0,20090627,IND,NYL,2009-10
+Shot Chart Detail,1020900057,426,201062,Shay Murphy,1611661325,Indiana Fever,4,0,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,-13,1,0,20090702,IND,CON,2009-10
+Shot Chart Detail,1020900073,119,201062,Shay Murphy,1611661325,Indiana Fever,2,8,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090710,CHI,IND,2009-10
+Shot Chart Detail,1020900073,134,201062,Shay Murphy,1611661325,Indiana Fever,2,7,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-161,22,1,1,20090710,CHI,IND,2009-10
+Shot Chart Detail,1020900073,141,201062,Shay Murphy,1611661325,Indiana Fever,2,6,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,15,1,1,20090710,CHI,IND,2009-10
+Shot Chart Detail,1020900073,154,201062,Shay Murphy,1611661325,Indiana Fever,2,5,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,24,-232,74,1,1,20090710,CHI,IND,2009-10
+Shot Chart Detail,1020900073,191,201062,Shay Murphy,1611661325,Indiana Fever,2,2,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090710,CHI,IND,2009-10
+Shot Chart Detail,1020900073,319,201062,Shay Murphy,1611661325,Indiana Fever,4,7,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-108,116,1,0,20090710,CHI,IND,2009-10
+Shot Chart Detail,1020900073,322,201062,Shay Murphy,1611661325,Indiana Fever,4,6,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,23,-229,36,1,0,20090710,CHI,IND,2009-10
+Shot Chart Detail,1020900073,342,201062,Shay Murphy,1611661325,Indiana Fever,4,4,10,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090710,CHI,IND,2009-10
+Shot Chart Detail,1020900073,353,201062,Shay Murphy,1611661325,Indiana Fever,4,3,22,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,26,1,0,20090710,CHI,IND,2009-10
+Shot Chart Detail,1020900073,368,201062,Shay Murphy,1611661325,Indiana Fever,4,1,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,118,77,1,1,20090710,CHI,IND,2009-10
+Shot Chart Detail,1020900073,382,201062,Shay Murphy,1611661325,Indiana Fever,4,0,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,163,165,1,0,20090710,CHI,IND,2009-10
+Shot Chart Detail,1020900073,384,201062,Shay Murphy,1611661325,Indiana Fever,4,0,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090710,CHI,IND,2009-10
+Shot Chart Detail,1020900086,137,201062,Shay Murphy,1611661325,Indiana Fever,2,7,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-131,200,1,0,20090717,IND,ATL,2009-10
+Shot Chart Detail,1020900086,305,201062,Shay Murphy,1611661325,Indiana Fever,3,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,4,157,1,0,20090717,IND,ATL,2009-10
+Shot Chart Detail,1020900086,310,201062,Shay Murphy,1611661325,Indiana Fever,4,9,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,3,1,0,20090717,IND,ATL,2009-10
+Shot Chart Detail,1020900092,95,201062,Shay Murphy,1611661325,Indiana Fever,2,9,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,7,1,0,20090719,CON,IND,2009-10
+Shot Chart Detail,1020900092,104,201062,Shay Murphy,1611661325,Indiana Fever,2,8,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,19,1,0,20090719,CON,IND,2009-10
+Shot Chart Detail,1020900103,188,201062,Shay Murphy,1611661325,Indiana Fever,2,0,15,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,12,1,0,20090723,SAN,IND,2009-10
+Shot Chart Detail,1020900103,306,201062,Shay Murphy,1611661325,Indiana Fever,3,0,37,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,215,-6,1,0,20090723,SAN,IND,2009-10
+Shot Chart Detail,1020900103,339,201062,Shay Murphy,1611661325,Indiana Fever,4,7,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,-11,1,0,20090723,SAN,IND,2009-10
+Shot Chart Detail,1020900103,352,201062,Shay Murphy,1611661325,Indiana Fever,4,6,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,9,1,0,20090723,SAN,IND,2009-10
+Shot Chart Detail,1020900103,354,201062,Shay Murphy,1611661325,Indiana Fever,4,6,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,160,153,1,1,20090723,SAN,IND,2009-10
+Shot Chart Detail,1020900103,363,201062,Shay Murphy,1611661325,Indiana Fever,4,5,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-81,9,1,0,20090723,SAN,IND,2009-10
+Shot Chart Detail,1020900103,374,201062,Shay Murphy,1611661325,Indiana Fever,4,4,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,17,1,0,20090723,SAN,IND,2009-10
+Shot Chart Detail,1020900103,424,201062,Shay Murphy,1611661325,Indiana Fever,4,1,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-157,151,1,1,20090723,SAN,IND,2009-10
+Shot Chart Detail,1020900114,115,201062,Shay Murphy,1611661325,Indiana Fever,2,8,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,81,153,1,0,20090730,IND,CON,2009-10
+Shot Chart Detail,1020900128,156,201062,Shay Murphy,1611661325,Indiana Fever,2,5,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,177,127,1,0,20090805,IND,CHI,2009-10
+Shot Chart Detail,1020900128,168,201062,Shay Murphy,1611661325,Indiana Fever,2,4,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,136,82,1,1,20090805,IND,CHI,2009-10
+Shot Chart Detail,1020900128,171,201062,Shay Murphy,1611661325,Indiana Fever,2,3,57,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,212,-13,1,0,20090805,IND,CHI,2009-10
+Shot Chart Detail,1020900128,173,201062,Shay Murphy,1611661325,Indiana Fever,2,3,53,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,1,20090805,IND,CHI,2009-10
+Shot Chart Detail,1020900128,204,201062,Shay Murphy,1611661325,Indiana Fever,2,1,1,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,45,1,1,20090805,IND,CHI,2009-10
+Shot Chart Detail,1020900128,277,201062,Shay Murphy,1611661325,Indiana Fever,3,1,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,-33,1,0,20090805,IND,CHI,2009-10
+Shot Chart Detail,1020900128,280,201062,Shay Murphy,1611661325,Indiana Fever,3,1,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,-3,1,0,20090805,IND,CHI,2009-10
+Shot Chart Detail,1020900128,357,201062,Shay Murphy,1611661325,Indiana Fever,4,5,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,212,61,1,1,20090805,IND,CHI,2009-10
+Shot Chart Detail,1020900128,370,201062,Shay Murphy,1611661325,Indiana Fever,4,3,22,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,6,1,1,20090805,IND,CHI,2009-10
+Shot Chart Detail,1020900136,96,201062,Shay Murphy,1611661325,Indiana Fever,2,8,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,92,148,1,0,20090808,PHO,IND,2009-10
+Shot Chart Detail,1020900136,278,201062,Shay Murphy,1611661325,Indiana Fever,3,3,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,207,77,1,1,20090808,PHO,IND,2009-10
+Shot Chart Detail,1020900140,316,201062,Shay Murphy,1611661325,Indiana Fever,4,9,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090810,LAS,IND,2009-10
+Shot Chart Detail,1020900140,327,201062,Shay Murphy,1611661325,Indiana Fever,4,9,1,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,6,1,0,20090810,LAS,IND,2009-10
+Shot Chart Detail,1020900140,329,201062,Shay Murphy,1611661325,Indiana Fever,4,9,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090810,LAS,IND,2009-10
+Shot Chart Detail,1020900140,422,201062,Shay Murphy,1611661325,Indiana Fever,4,0,46,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-218,-10,1,0,20090810,LAS,IND,2009-10
+Shot Chart Detail,1020900140,429,201062,Shay Murphy,1611661325,Indiana Fever,4,0,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090810,LAS,IND,2009-10
+Shot Chart Detail,1020900140,437,201062,Shay Murphy,1611661325,Indiana Fever,4,0,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090810,LAS,IND,2009-10
+Shot Chart Detail,1020900146,81,201062,Shay Murphy,1611661325,Indiana Fever,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,60,-105,597,1,0,20090813,MIN,IND,2009-10
+Shot Chart Detail,1020900146,89,201062,Shay Murphy,1611661325,Indiana Fever,2,9,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-130,77,1,0,20090813,MIN,IND,2009-10
+Shot Chart Detail,1020900152,317,201062,Shay Murphy,1611661325,Indiana Fever,3,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,119,198,1,1,20090815,IND,DET,2009-10
+Shot Chart Detail,1020900152,341,201062,Shay Murphy,1611661325,Indiana Fever,4,8,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,-24,1,0,20090815,IND,DET,2009-10
+Shot Chart Detail,1020900152,345,201062,Shay Murphy,1611661325,Indiana Fever,4,7,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-190,-25,1,0,20090815,IND,DET,2009-10
+Shot Chart Detail,1020900152,419,201062,Shay Murphy,1611661325,Indiana Fever,4,0,26,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,34,1,1,20090815,IND,DET,2009-10
+Shot Chart Detail,1020900162,89,201062,Shay Murphy,1611661325,Indiana Fever,1,0,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,56,26,1,1,20090820,SAC,IND,2009-10
+Shot Chart Detail,1020900162,104,201062,Shay Murphy,1611661325,Indiana Fever,2,9,34,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090820,SAC,IND,2009-10
+Shot Chart Detail,1020900177,114,201062,Shay Murphy,1611661325,Indiana Fever,2,9,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,141,159,1,0,20090827,IND,SAN,2009-10
+Shot Chart Detail,1020900177,126,201062,Shay Murphy,1611661325,Indiana Fever,2,8,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,-16,1,0,20090827,IND,SAN,2009-10
+Shot Chart Detail,1020900177,257,201062,Shay Murphy,1611661325,Indiana Fever,3,2,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,0,1,0,20090827,IND,SAN,2009-10
+Shot Chart Detail,1020900177,267,201062,Shay Murphy,1611661325,Indiana Fever,3,1,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,-16,1,1,20090827,IND,SAN,2009-10
+Shot Chart Detail,1020900177,283,201062,Shay Murphy,1611661325,Indiana Fever,3,0,1,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,3,1,0,20090827,IND,SAN,2009-10
+Shot Chart Detail,1020900184,132,201062,Shay Murphy,1611661325,Indiana Fever,2,8,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,23,-198,126,1,1,20090829,IND,SAC,2009-10
+Shot Chart Detail,1020900184,340,201062,Shay Murphy,1611661325,Indiana Fever,3,2,1,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,20,207,-5,1,0,20090829,IND,SAC,2009-10
+Shot Chart Detail,1020900195,85,201062,Shay Murphy,1611661325,Indiana Fever,1,1,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,-6,1,0,20090902,IND,PHO,2009-10
+Shot Chart Detail,1020900195,96,201062,Shay Murphy,1611661325,Indiana Fever,1,0,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,84,3,1,0,20090902,IND,PHO,2009-10
+Shot Chart Detail,1020900195,328,201062,Shay Murphy,1611661325,Indiana Fever,3,0,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,-11,1,1,20090902,IND,PHO,2009-10
+Shot Chart Detail,1020900195,347,201062,Shay Murphy,1611661325,Indiana Fever,4,9,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,214,63,1,0,20090902,IND,PHO,2009-10
+Shot Chart Detail,1020900195,470,201062,Shay Murphy,1611661325,Indiana Fever,4,0,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-150,88,1,1,20090902,IND,PHO,2009-10
+Shot Chart Detail,1020900198,365,201062,Shay Murphy,1611661325,Indiana Fever,4,8,25,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,4,1,1,20090904,DET,IND,2009-10
+Shot Chart Detail,1020900210,334,201062,Shay Murphy,1611661325,Indiana Fever,4,9,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),24+ ft.,23,228,34,1,1,20090910,CHI,IND,2009-10
+Shot Chart Detail,1020900210,338,201062,Shay Murphy,1611661325,Indiana Fever,4,9,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090910,CHI,IND,2009-10
+Shot Chart Detail,1020900210,360,201062,Shay Murphy,1611661325,Indiana Fever,4,7,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090910,CHI,IND,2009-10
+Shot Chart Detail,1020900210,452,201062,Shay Murphy,1611661325,Indiana Fever,4,0,40,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,-13,1,1,20090910,CHI,IND,2009-10
+Shot Chart Detail,1020900210,465,201062,Shay Murphy,1611661325,Indiana Fever,4,0,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090910,CHI,IND,2009-10
+Shot Chart Detail,1020900219,77,201062,Shay Murphy,1611661325,Indiana Fever,1,2,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,26,203,1,0,20090913,CON,IND,2009-10
+Shot Chart Detail,1020900219,87,201062,Shay Murphy,1611661325,Indiana Fever,1,1,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,42,-3,1,0,20090913,CON,IND,2009-10
+Shot Chart Detail,1020900219,108,201062,Shay Murphy,1611661325,Indiana Fever,2,9,45,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,-14,1,0,20090913,CON,IND,2009-10
+Shot Chart Detail,1020900219,113,201062,Shay Murphy,1611661325,Indiana Fever,2,9,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,3,1,1,20090913,CON,IND,2009-10
+Shot Chart Detail,1020900219,188,201062,Shay Murphy,1611661325,Indiana Fever,2,3,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,-5,1,1,20090913,CON,IND,2009-10
+Shot Chart Detail,1020900219,211,201062,Shay Murphy,1611661325,Indiana Fever,2,1,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-60,205,1,0,20090913,CON,IND,2009-10
+Shot Chart Detail,1020900219,252,201062,Shay Murphy,1611661325,Indiana Fever,3,8,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,6,1,0,20090913,CON,IND,2009-10
+Shot Chart Detail,1020900219,254,201062,Shay Murphy,1611661325,Indiana Fever,3,8,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090913,CON,IND,2009-10
+Shot Chart Detail,1020900219,321,201062,Shay Murphy,1611661325,Indiana Fever,3,5,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,182,124,1,0,20090913,CON,IND,2009-10
+Shot Chart Detail,1020900219,332,201062,Shay Murphy,1611661325,Indiana Fever,3,4,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,0,1,1,20090913,CON,IND,2009-10
+Shot Chart Detail,1020900219,338,201062,Shay Murphy,1611661325,Indiana Fever,3,3,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,181,127,1,0,20090913,CON,IND,2009-10
+Shot Chart Detail,1020900219,341,201062,Shay Murphy,1611661325,Indiana Fever,3,2,38,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,19,1,0,20090913,CON,IND,2009-10
+Shot Chart Detail,1020900219,372,201062,Shay Murphy,1611661325,Indiana Fever,3,0,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,0,1,0,20090913,CON,IND,2009-10
+Shot Chart Detail,1020900219,432,201062,Shay Murphy,1611661325,Indiana Fever,4,4,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,3,1,1,20090913,CON,IND,2009-10
+Shot Chart Detail,1020900219,467,201062,Shay Murphy,1611661325,Indiana Fever,4,0,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,7,1,0,20090913,CON,IND,2009-10

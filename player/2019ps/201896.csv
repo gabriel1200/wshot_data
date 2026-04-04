@@ -1,0 +1,8 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1041900101,14,201896,Briann January,1611661317,Phoenix Mercury,1,8,50,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,186,8,1,0,20190911,CHI,PHO,2019-20
+Shot Chart Detail,1041900101,40,201896,Briann January,1611661317,Phoenix Mercury,1,6,3,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-29,1,0,20190911,CHI,PHO,2019-20
+Shot Chart Detail,1041900101,189,201896,Briann January,1611661317,Phoenix Mercury,2,5,47,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,124,22,1,1,20190911,CHI,PHO,2019-20
+Shot Chart Detail,1041900101,206,201896,Briann January,1611661317,Phoenix Mercury,2,4,22,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-96,174,1,1,20190911,CHI,PHO,2019-20
+Shot Chart Detail,1041900101,298,201896,Briann January,1611661317,Phoenix Mercury,3,7,33,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,22,1,0,20190911,CHI,PHO,2019-20
+Shot Chart Detail,1041900101,508,201896,Briann January,1611661317,Phoenix Mercury,4,4,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,22,184,1,1,20190911,CHI,PHO,2019-20
+Shot Chart Detail,1041900101,538,201896,Briann January,1611661317,Phoenix Mercury,4,3,2,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,10,1,0,20190911,CHI,PHO,2019-20

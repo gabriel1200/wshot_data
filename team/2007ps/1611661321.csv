@@ -1,0 +1,776 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1040700101,3,100404,Katie Smith,1611661321,Detroit Shock,1,9,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,8,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,7,101026,Katie Mattera,1611661321,Detroit Shock,1,9,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,23,100404,Katie Smith,1611661321,Detroit Shock,1,7,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-115,187,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,26,100639,Deanna Nolan,1611661321,Detroit Shock,1,6,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-123,58,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,31,100639,Deanna Nolan,1611661321,Detroit Shock,1,6,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,23,213,99,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,33,101026,Katie Mattera,1611661321,Detroit Shock,1,6,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,36,101026,Katie Mattera,1611661321,Detroit Shock,1,5,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-44,3,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,51,101025,Kara Braxton,1611661321,Detroit Shock,1,4,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-154,-6,1,1,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,53,100639,Deanna Nolan,1611661321,Detroit Shock,1,4,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-156,3,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,60,100888,Plenette Pierson,1611661321,Detroit Shock,1,3,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,3,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,64,100888,Plenette Pierson,1611661321,Detroit Shock,1,2,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,67,100639,Deanna Nolan,1611661321,Detroit Shock,1,1,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,49,1,1,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,70,101025,Kara Braxton,1611661321,Detroit Shock,1,1,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,92,100404,Katie Smith,1611661321,Detroit Shock,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,40,-205,347,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,99,100410,Shannon Johnson,1611661321,Detroit Shock,2,9,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,105,100404,Katie Smith,1611661321,Detroit Shock,2,8,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-61,84,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,112,100410,Shannon Johnson,1611661321,Detroit Shock,2,7,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,119,100410,Shannon Johnson,1611661321,Detroit Shock,2,7,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,90,201,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,127,100888,Plenette Pierson,1611661321,Detroit Shock,2,6,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,118,10,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,131,100639,Deanna Nolan,1611661321,Detroit Shock,2,6,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-115,181,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,139,101025,Kara Braxton,1611661321,Detroit Shock,2,5,39,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,25,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,143,100639,Deanna Nolan,1611661321,Detroit Shock,2,5,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-148,10,1,1,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,146,100721,Swin Cash,1611661321,Detroit Shock,2,4,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,17,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,149,100410,Shannon Johnson,1611661321,Detroit Shock,2,4,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,151,101025,Kara Braxton,1611661321,Detroit Shock,2,3,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,22,1,1,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,161,100639,Deanna Nolan,1611661321,Detroit Shock,2,3,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-138,35,1,1,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,168,100721,Swin Cash,1611661321,Detroit Shock,2,2,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,-5,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,170,100888,Plenette Pierson,1611661321,Detroit Shock,2,2,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),24+ ft.,23,225,53,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,172,100721,Swin Cash,1611661321,Detroit Shock,2,2,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,177,100410,Shannon Johnson,1611661321,Detroit Shock,2,1,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,89,207,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,183,100639,Deanna Nolan,1611661321,Detroit Shock,2,0,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-66,76,1,1,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,186,100639,Deanna Nolan,1611661321,Detroit Shock,2,0,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,110,99,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,204,100639,Deanna Nolan,1611661321,Detroit Shock,3,9,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-49,169,1,1,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,208,100639,Deanna Nolan,1611661321,Detroit Shock,3,9,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,43,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,210,100721,Swin Cash,1611661321,Detroit Shock,3,9,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,212,100639,Deanna Nolan,1611661321,Detroit Shock,3,8,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-5,120,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,225,100721,Swin Cash,1611661321,Detroit Shock,3,7,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,113,120,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,228,100843,Cheryl Ford,1611661321,Detroit Shock,3,6,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-5,146,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,230,101026,Katie Mattera,1611661321,Detroit Shock,3,6,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,233,100639,Deanna Nolan,1611661321,Detroit Shock,3,6,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,3,66,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,242,100410,Shannon Johnson,1611661321,Detroit Shock,3,5,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,33,82,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,250,100404,Katie Smith,1611661321,Detroit Shock,3,4,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-138,153,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,259,100888,Plenette Pierson,1611661321,Detroit Shock,3,3,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,263,100404,Katie Smith,1611661321,Detroit Shock,3,3,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,23,-197,127,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,273,100639,Deanna Nolan,1611661321,Detroit Shock,3,2,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,281,100639,Deanna Nolan,1611661321,Detroit Shock,3,2,18,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-117,-3,1,1,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,284,100410,Shannon Johnson,1611661321,Detroit Shock,3,1,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,286,101025,Kara Braxton,1611661321,Detroit Shock,3,1,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,290,201056,Ivory Latta,1611661321,Detroit Shock,3,0,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,164,138,1,1,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,298,100639,Deanna Nolan,1611661321,Detroit Shock,3,0,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,304,100639,Deanna Nolan,1611661321,Detroit Shock,4,9,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-97,49,1,1,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,306,101026,Katie Mattera,1611661321,Detroit Shock,4,9,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-138,0,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,310,100410,Shannon Johnson,1611661321,Detroit Shock,4,8,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,102,141,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,320,100639,Deanna Nolan,1611661321,Detroit Shock,4,7,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,172,63,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,322,100721,Swin Cash,1611661321,Detroit Shock,4,7,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,326,100721,Swin Cash,1611661321,Detroit Shock,4,6,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,123,191,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,333,101025,Kara Braxton,1611661321,Detroit Shock,4,5,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-79,7,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,337,100404,Katie Smith,1611661321,Detroit Shock,4,5,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-80,95,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,354,201056,Ivory Latta,1611661321,Detroit Shock,4,3,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,22,-220,33,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,357,101025,Kara Braxton,1611661321,Detroit Shock,4,2,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,376,201056,Ivory Latta,1611661321,Detroit Shock,4,1,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-222,102,1,1,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,379,201056,Ivory Latta,1611661321,Detroit Shock,4,1,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-195,138,1,1,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,385,201056,Ivory Latta,1611661321,Detroit Shock,4,0,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-186,99,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700102,2,100843,Cheryl Ford,1611661321,Detroit Shock,1,9,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,108,0,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,5,100721,Swin Cash,1611661321,Detroit Shock,1,9,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,8,100639,Deanna Nolan,1611661321,Detroit Shock,1,8,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-118,59,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,13,100404,Katie Smith,1611661321,Detroit Shock,1,8,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-215,43,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,19,100404,Katie Smith,1611661321,Detroit Shock,1,7,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,87,209,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,23,100843,Cheryl Ford,1611661321,Detroit Shock,1,6,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,33,100721,Swin Cash,1611661321,Detroit Shock,1,6,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,38,100639,Deanna Nolan,1611661321,Detroit Shock,1,5,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,-6,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,41,100843,Cheryl Ford,1611661321,Detroit Shock,1,4,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,43,100721,Swin Cash,1611661321,Detroit Shock,1,4,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,45,100888,Plenette Pierson,1611661321,Detroit Shock,1,4,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,55,100404,Katie Smith,1611661321,Detroit Shock,1,3,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,123,89,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,60,100888,Plenette Pierson,1611661321,Detroit Shock,1,2,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,53,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,62,100404,Katie Smith,1611661321,Detroit Shock,1,2,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-145,104,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,67,100410,Shannon Johnson,1611661321,Detroit Shock,1,1,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,158,168,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,72,100404,Katie Smith,1611661321,Detroit Shock,1,1,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-89,146,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,74,100404,Katie Smith,1611661321,Detroit Shock,1,1,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,82,100410,Shannon Johnson,1611661321,Detroit Shock,1,0,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,89,100410,Shannon Johnson,1611661321,Detroit Shock,1,0,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,96,100721,Swin Cash,1611661321,Detroit Shock,2,9,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,100,82,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,100,101025,Kara Braxton,1611661321,Detroit Shock,2,8,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-105,5,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,112,100639,Deanna Nolan,1611661321,Detroit Shock,2,7,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,116,100843,Cheryl Ford,1611661321,Detroit Shock,2,7,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,118,100843,Cheryl Ford,1611661321,Detroit Shock,2,7,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,82,3,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,122,100639,Deanna Nolan,1611661321,Detroit Shock,2,6,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-117,40,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,124,100888,Plenette Pierson,1611661321,Detroit Shock,2,6,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,126,100888,Plenette Pierson,1611661321,Detroit Shock,2,6,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,129,100410,Shannon Johnson,1611661321,Detroit Shock,2,6,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-205,91,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,142,100721,Swin Cash,1611661321,Detroit Shock,2,5,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-8,58,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,146,100843,Cheryl Ford,1611661321,Detroit Shock,2,5,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-133,72,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,158,100639,Deanna Nolan,1611661321,Detroit Shock,2,4,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-125,56,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,161,100888,Plenette Pierson,1611661321,Detroit Shock,2,3,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,31,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,172,100843,Cheryl Ford,1611661321,Detroit Shock,2,3,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,175,100404,Katie Smith,1611661321,Detroit Shock,2,2,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-80,224,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,190,101025,Kara Braxton,1611661321,Detroit Shock,2,1,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,202,100721,Swin Cash,1611661321,Detroit Shock,2,0,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,207,100410,Shannon Johnson,1611661321,Detroit Shock,2,0,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,220,100639,Deanna Nolan,1611661321,Detroit Shock,3,9,10,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-43,76,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,223,100843,Cheryl Ford,1611661321,Detroit Shock,3,8,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,103,109,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,227,100639,Deanna Nolan,1611661321,Detroit Shock,3,8,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,117,79,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,230,100639,Deanna Nolan,1611661321,Detroit Shock,3,7,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,125,53,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,235,100721,Swin Cash,1611661321,Detroit Shock,3,7,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,125,18,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,239,101026,Katie Mattera,1611661321,Detroit Shock,3,6,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,250,101025,Kara Braxton,1611661321,Detroit Shock,3,5,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,253,100639,Deanna Nolan,1611661321,Detroit Shock,3,4,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,59,72,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,257,100888,Plenette Pierson,1611661321,Detroit Shock,3,4,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,259,100639,Deanna Nolan,1611661321,Detroit Shock,3,3,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-79,163,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,264,100404,Katie Smith,1611661321,Detroit Shock,3,3,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-115,196,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,270,100404,Katie Smith,1611661321,Detroit Shock,3,2,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,280,100404,Katie Smith,1611661321,Detroit Shock,3,1,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-172,158,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,282,100721,Swin Cash,1611661321,Detroit Shock,3,1,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,285,100404,Katie Smith,1611661321,Detroit Shock,3,1,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,75,197,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,291,100888,Plenette Pierson,1611661321,Detroit Shock,3,0,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,52,153,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,298,100639,Deanna Nolan,1611661321,Detroit Shock,4,9,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,59,140,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,303,100721,Swin Cash,1611661321,Detroit Shock,4,8,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,309,100639,Deanna Nolan,1611661321,Detroit Shock,4,8,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,52,56,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,311,100639,Deanna Nolan,1611661321,Detroit Shock,4,8,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,314,100888,Plenette Pierson,1611661321,Detroit Shock,4,7,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,329,100404,Katie Smith,1611661321,Detroit Shock,4,5,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,-51,225,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,333,100888,Plenette Pierson,1611661321,Detroit Shock,4,5,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,337,100639,Deanna Nolan,1611661321,Detroit Shock,4,5,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,-6,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,341,100721,Swin Cash,1611661321,Detroit Shock,4,4,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,349,100639,Deanna Nolan,1611661321,Detroit Shock,4,4,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,169,26,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,355,100843,Cheryl Ford,1611661321,Detroit Shock,4,3,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,358,100721,Swin Cash,1611661321,Detroit Shock,4,3,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,23,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,364,100639,Deanna Nolan,1611661321,Detroit Shock,4,2,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,-1,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,367,100888,Plenette Pierson,1611661321,Detroit Shock,4,2,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,105,18,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,369,100721,Swin Cash,1611661321,Detroit Shock,4,2,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,376,100639,Deanna Nolan,1611661321,Detroit Shock,4,1,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-34,146,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,378,100404,Katie Smith,1611661321,Detroit Shock,4,1,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,23,194,128,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,381,100639,Deanna Nolan,1611661321,Detroit Shock,4,0,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-117,72,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,384,100843,Cheryl Ford,1611661321,Detroit Shock,4,0,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700103,4,100843,Cheryl Ford,1611661321,Detroit Shock,1,9,15,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,103,3,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,7,101026,Katie Mattera,1611661321,Detroit Shock,1,8,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-87,22,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,10,100639,Deanna Nolan,1611661321,Detroit Shock,1,8,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,40,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,21,100404,Katie Smith,1611661321,Detroit Shock,1,6,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,25,100843,Cheryl Ford,1611661321,Detroit Shock,1,6,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,30,100721,Swin Cash,1611661321,Detroit Shock,1,5,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,41,101025,Kara Braxton,1611661321,Detroit Shock,1,4,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,43,101025,Kara Braxton,1611661321,Detroit Shock,1,4,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,48,100843,Cheryl Ford,1611661321,Detroit Shock,1,3,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-135,7,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,53,100404,Katie Smith,1611661321,Detroit Shock,1,3,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,-9,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,56,100639,Deanna Nolan,1611661321,Detroit Shock,1,2,47,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,82,77,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,63,100404,Katie Smith,1611661321,Detroit Shock,1,2,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-138,36,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,65,100639,Deanna Nolan,1611661321,Detroit Shock,1,2,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,-5,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,70,100404,Katie Smith,1611661321,Detroit Shock,1,1,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,-1,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,81,100721,Swin Cash,1611661321,Detroit Shock,1,0,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-80,46,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,84,100410,Shannon Johnson,1611661321,Detroit Shock,1,0,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-90,105,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,94,100410,Shannon Johnson,1611661321,Detroit Shock,2,9,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-159,28,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,98,100639,Deanna Nolan,1611661321,Detroit Shock,2,8,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,22,-220,58,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,102,100404,Katie Smith,1611661321,Detroit Shock,2,8,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-164,164,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,104,100639,Deanna Nolan,1611661321,Detroit Shock,2,8,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,77,125,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,114,100843,Cheryl Ford,1611661321,Detroit Shock,2,7,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,116,100888,Plenette Pierson,1611661321,Detroit Shock,2,6,48,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,123,101025,Kara Braxton,1611661321,Detroit Shock,2,5,33,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-136,0,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,132,100639,Deanna Nolan,1611661321,Detroit Shock,2,4,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-117,26,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,134,201056,Ivory Latta,1611661321,Detroit Shock,2,4,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-205,71,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,138,100843,Cheryl Ford,1611661321,Detroit Shock,2,3,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,142,100639,Deanna Nolan,1611661321,Detroit Shock,2,3,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-71,128,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,145,100404,Katie Smith,1611661321,Detroit Shock,2,2,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-126,49,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,150,100639,Deanna Nolan,1611661321,Detroit Shock,2,2,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-113,26,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,160,100404,Katie Smith,1611661321,Detroit Shock,2,0,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,67,210,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,165,100639,Deanna Nolan,1611661321,Detroit Shock,2,0,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-209,59,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,177,100639,Deanna Nolan,1611661321,Detroit Shock,3,9,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,-13,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,179,100639,Deanna Nolan,1611661321,Detroit Shock,3,8,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,41,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,181,100843,Cheryl Ford,1611661321,Detroit Shock,3,8,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,185,100639,Deanna Nolan,1611661321,Detroit Shock,3,7,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,192,100888,Plenette Pierson,1611661321,Detroit Shock,3,7,13,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,79,13,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,196,100888,Plenette Pierson,1611661321,Detroit Shock,3,6,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,201,100888,Plenette Pierson,1611661321,Detroit Shock,3,6,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,-3,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,210,100414,Elaine Powell,1611661321,Detroit Shock,3,5,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,15,82,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,215,100721,Swin Cash,1611661321,Detroit Shock,3,5,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,36,148,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,217,100639,Deanna Nolan,1611661321,Detroit Shock,3,4,55,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,14,-75,127,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,225,100404,Katie Smith,1611661321,Detroit Shock,3,3,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-94,130,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,229,100639,Deanna Nolan,1611661321,Detroit Shock,3,3,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,140,58,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,233,100639,Deanna Nolan,1611661321,Detroit Shock,3,3,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,209,45,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,238,100639,Deanna Nolan,1611661321,Detroit Shock,3,2,41,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,3,81,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,242,100404,Katie Smith,1611661321,Detroit Shock,3,2,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-131,197,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,245,100639,Deanna Nolan,1611661321,Detroit Shock,3,1,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,212,49,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,248,100843,Cheryl Ford,1611661321,Detroit Shock,3,1,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,254,101025,Kara Braxton,1611661321,Detroit Shock,3,0,28,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,23,38,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,271,100639,Deanna Nolan,1611661321,Detroit Shock,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,202,66,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,276,100639,Deanna Nolan,1611661321,Detroit Shock,4,9,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,31,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,279,100639,Deanna Nolan,1611661321,Detroit Shock,4,9,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-107,109,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,292,100639,Deanna Nolan,1611661321,Detroit Shock,4,7,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,149,43,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,294,100721,Swin Cash,1611661321,Detroit Shock,4,7,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,302,100639,Deanna Nolan,1611661321,Detroit Shock,4,6,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,49,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,307,100888,Plenette Pierson,1611661321,Detroit Shock,4,6,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,21,130,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,319,100404,Katie Smith,1611661321,Detroit Shock,4,4,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,25,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,322,100404,Katie Smith,1611661321,Detroit Shock,4,4,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-110,197,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,333,100843,Cheryl Ford,1611661321,Detroit Shock,4,3,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,335,100721,Swin Cash,1611661321,Detroit Shock,4,3,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,337,100639,Deanna Nolan,1611661321,Detroit Shock,4,3,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,342,100404,Katie Smith,1611661321,Detroit Shock,4,2,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,212,61,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,347,100843,Cheryl Ford,1611661321,Detroit Shock,4,1,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,361,100404,Katie Smith,1611661321,Detroit Shock,4,0,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-171,74,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,371,100639,Deanna Nolan,1611661321,Detroit Shock,4,0,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,-13,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,380,100721,Swin Cash,1611661321,Detroit Shock,5,4,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,94,130,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,382,100404,Katie Smith,1611661321,Detroit Shock,5,4,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-105,217,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,384,100404,Katie Smith,1611661321,Detroit Shock,5,4,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,140,196,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,387,100639,Deanna Nolan,1611661321,Detroit Shock,5,3,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-148,174,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,389,100843,Cheryl Ford,1611661321,Detroit Shock,5,3,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,400,100721,Swin Cash,1611661321,Detroit Shock,5,2,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-90,146,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,407,100404,Katie Smith,1611661321,Detroit Shock,5,1,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,210,38,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,410,100639,Deanna Nolan,1611661321,Detroit Shock,5,1,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-133,45,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,412,100721,Swin Cash,1611661321,Detroit Shock,5,0,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,10,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,414,100404,Katie Smith,1611661321,Detroit Shock,5,0,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,207,36,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,416,100721,Swin Cash,1611661321,Detroit Shock,5,0,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700201,4,100639,Deanna Nolan,1611661321,Detroit Shock,1,9,30,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,22,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,7,100721,Swin Cash,1611661321,Detroit Shock,1,9,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,-34,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,11,100843,Cheryl Ford,1611661321,Detroit Shock,1,8,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,48,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,15,100721,Swin Cash,1611661321,Detroit Shock,1,8,10,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-43,-3,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,25,100843,Cheryl Ford,1611661321,Detroit Shock,1,7,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-23,146,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,35,100639,Deanna Nolan,1611661321,Detroit Shock,1,6,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-154,-28,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,45,100721,Swin Cash,1611661321,Detroit Shock,1,5,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,-26,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,50,100888,Plenette Pierson,1611661321,Detroit Shock,1,4,29,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,-13,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,59,100404,Katie Smith,1611661321,Detroit Shock,1,3,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,149,30,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,65,100888,Plenette Pierson,1611661321,Detroit Shock,1,2,36,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,3,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,72,100639,Deanna Nolan,1611661321,Detroit Shock,1,2,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-158,58,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,74,100888,Plenette Pierson,1611661321,Detroit Shock,1,1,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,15,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,77,100639,Deanna Nolan,1611661321,Detroit Shock,1,1,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,67,-8,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,82,100639,Deanna Nolan,1611661321,Detroit Shock,1,1,5,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-13,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,87,100404,Katie Smith,1611661321,Detroit Shock,1,0,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,140,178,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,90,100639,Deanna Nolan,1611661321,Detroit Shock,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,0,156,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,92,100888,Plenette Pierson,1611661321,Detroit Shock,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,77,69,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,102,100404,Katie Smith,1611661321,Detroit Shock,2,9,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,128,74,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,106,100888,Plenette Pierson,1611661321,Detroit Shock,2,9,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,-9,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,112,100639,Deanna Nolan,1611661321,Detroit Shock,2,8,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-136,0,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,114,100639,Deanna Nolan,1611661321,Detroit Shock,2,8,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,-21,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,116,100843,Cheryl Ford,1611661321,Detroit Shock,2,8,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,-1,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,119,100404,Katie Smith,1611661321,Detroit Shock,2,7,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,59,112,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,132,100888,Plenette Pierson,1611661321,Detroit Shock,2,6,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,112,25,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,135,100639,Deanna Nolan,1611661321,Detroit Shock,2,6,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,156,183,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,144,100404,Katie Smith,1611661321,Detroit Shock,2,5,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-143,-14,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,146,100639,Deanna Nolan,1611661321,Detroit Shock,2,5,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-125,81,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,157,100721,Swin Cash,1611661321,Detroit Shock,2,4,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,112,91,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,160,100639,Deanna Nolan,1611661321,Detroit Shock,2,3,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,46,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,162,101026,Katie Mattera,1611661321,Detroit Shock,2,3,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,0,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,178,100888,Plenette Pierson,1611661321,Detroit Shock,2,2,0,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,218,-24,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,186,100888,Plenette Pierson,1611661321,Detroit Shock,2,0,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,-18,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,198,100639,Deanna Nolan,1611661321,Detroit Shock,2,0,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,107,99,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,200,100888,Plenette Pierson,1611661321,Detroit Shock,2,0,4,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,31,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,202,100843,Cheryl Ford,1611661321,Detroit Shock,2,0,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,0,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,208,100888,Plenette Pierson,1611661321,Detroit Shock,3,9,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,38,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,216,100721,Swin Cash,1611661321,Detroit Shock,3,9,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,-11,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,218,100888,Plenette Pierson,1611661321,Detroit Shock,3,9,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,5,26,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,237,100843,Cheryl Ford,1611661321,Detroit Shock,3,8,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,-16,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,240,100414,Elaine Powell,1611661321,Detroit Shock,3,7,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-148,-39,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,244,100888,Plenette Pierson,1611661321,Detroit Shock,3,7,21,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,-18,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,261,100888,Plenette Pierson,1611661321,Detroit Shock,3,6,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,5,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,263,100888,Plenette Pierson,1611661321,Detroit Shock,3,6,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,-11,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,266,100888,Plenette Pierson,1611661321,Detroit Shock,3,5,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-107,112,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,272,101025,Kara Braxton,1611661321,Detroit Shock,3,5,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,66,18,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,274,101025,Kara Braxton,1611661321,Detroit Shock,3,5,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,-19,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,281,101025,Kara Braxton,1611661321,Detroit Shock,3,4,25,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,30,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,284,100639,Deanna Nolan,1611661321,Detroit Shock,3,3,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-39,-18,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,289,100639,Deanna Nolan,1611661321,Detroit Shock,3,3,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,149,61,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,294,100888,Plenette Pierson,1611661321,Detroit Shock,3,3,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-168,-36,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,297,100888,Plenette Pierson,1611661321,Detroit Shock,3,2,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,113,71,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,300,100843,Cheryl Ford,1611661321,Detroit Shock,3,2,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,110,66,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,313,100843,Cheryl Ford,1611661321,Detroit Shock,3,1,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,-1,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,315,100843,Cheryl Ford,1611661321,Detroit Shock,3,0,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,2,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,320,100404,Katie Smith,1611661321,Detroit Shock,3,0,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,179,168,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,329,100843,Cheryl Ford,1611661321,Detroit Shock,4,9,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,-21,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,331,100888,Plenette Pierson,1611661321,Detroit Shock,4,8,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,74,132,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,341,100888,Plenette Pierson,1611661321,Detroit Shock,4,8,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,14,-77,118,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,351,100639,Deanna Nolan,1611661321,Detroit Shock,4,6,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,-19,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,362,100639,Deanna Nolan,1611661321,Detroit Shock,4,5,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-112,92,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,371,100639,Deanna Nolan,1611661321,Detroit Shock,4,5,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-215,33,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,379,100888,Plenette Pierson,1611661321,Detroit Shock,4,3,58,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,-1,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,388,100404,Katie Smith,1611661321,Detroit Shock,4,3,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-168,166,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,392,100888,Plenette Pierson,1611661321,Detroit Shock,4,2,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,112,128,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,394,100639,Deanna Nolan,1611661321,Detroit Shock,4,2,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-5,146,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,407,100404,Katie Smith,1611661321,Detroit Shock,4,0,54,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,-8,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,418,201056,Ivory Latta,1611661321,Detroit Shock,4,0,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-148,-42,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,420,100740,Ayana Walker,1611661321,Detroit Shock,4,0,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,3,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700202,7,101026,Katie Mattera,1611661321,Detroit Shock,1,9,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-26,57,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,40,100721,Swin Cash,1611661321,Detroit Shock,1,9,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-34,86,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,17,101026,Katie Mattera,1611661321,Detroit Shock,1,9,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,97,12,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,29,100639,Deanna Nolan,1611661321,Detroit Shock,1,7,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-138,51,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,33,100843,Cheryl Ford,1611661321,Detroit Shock,1,7,25,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,3,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,35,101026,Katie Mattera,1611661321,Detroit Shock,1,7,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,52,100721,Swin Cash,1611661321,Detroit Shock,1,6,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-39,171,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,57,100404,Katie Smith,1611661321,Detroit Shock,1,5,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-194,117,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,59,100404,Katie Smith,1611661321,Detroit Shock,1,4,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,57,206,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,67,100721,Swin Cash,1611661321,Detroit Shock,1,3,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-181,17,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,71,100639,Deanna Nolan,1611661321,Detroit Shock,1,3,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,22,-222,41,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,73,100888,Plenette Pierson,1611661321,Detroit Shock,1,3,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,75,100888,Plenette Pierson,1611661321,Detroit Shock,1,2,33,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-69,137,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,78,101025,Kara Braxton,1611661321,Detroit Shock,1,2,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,83,100404,Katie Smith,1611661321,Detroit Shock,1,1,9,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,-13,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,91,100404,Katie Smith,1611661321,Detroit Shock,1,0,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,38,174,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,96,100639,Deanna Nolan,1611661321,Detroit Shock,2,9,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-122,61,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,113,100721,Swin Cash,1611661321,Detroit Shock,2,8,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,117,100404,Katie Smith,1611661321,Detroit Shock,2,7,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,130,100639,Deanna Nolan,1611661321,Detroit Shock,2,6,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-212,40,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,133,100404,Katie Smith,1611661321,Detroit Shock,2,6,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,135,100404,Katie Smith,1611661321,Detroit Shock,2,5,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-189,130,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,139,100639,Deanna Nolan,1611661321,Detroit Shock,2,5,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,23,-220,71,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,141,101025,Kara Braxton,1611661321,Detroit Shock,2,5,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,0,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,144,101025,Kara Braxton,1611661321,Detroit Shock,2,4,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,151,100888,Plenette Pierson,1611661321,Detroit Shock,2,3,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-136,35,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,153,100639,Deanna Nolan,1611661321,Detroit Shock,2,3,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,8,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,158,100404,Katie Smith,1611661321,Detroit Shock,2,2,24,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,31,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,162,101025,Kara Braxton,1611661321,Detroit Shock,2,1,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,165,100639,Deanna Nolan,1611661321,Detroit Shock,2,1,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,183,100404,Katie Smith,1611661321,Detroit Shock,3,9,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,59,220,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,188,100639,Deanna Nolan,1611661321,Detroit Shock,3,9,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,-6,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,190,100888,Plenette Pierson,1611661321,Detroit Shock,3,8,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,192,100721,Swin Cash,1611661321,Detroit Shock,3,8,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,196,100843,Cheryl Ford,1611661321,Detroit Shock,3,7,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,146,66,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,198,100721,Swin Cash,1611661321,Detroit Shock,3,7,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,205,100721,Swin Cash,1611661321,Detroit Shock,3,7,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,110,112,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,207,100888,Plenette Pierson,1611661321,Detroit Shock,3,6,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,212,100639,Deanna Nolan,1611661321,Detroit Shock,3,5,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,212,38,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,217,101025,Kara Braxton,1611661321,Detroit Shock,3,5,4,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,0,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,226,100843,Cheryl Ford,1611661321,Detroit Shock,3,4,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,229,100639,Deanna Nolan,1611661321,Detroit Shock,3,4,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,0,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,232,100721,Swin Cash,1611661321,Detroit Shock,3,4,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,75,92,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,241,100721,Swin Cash,1611661321,Detroit Shock,3,3,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,244,100639,Deanna Nolan,1611661321,Detroit Shock,3,3,8,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,210,26,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,261,100639,Deanna Nolan,1611661321,Detroit Shock,3,2,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-85,141,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,263,100639,Deanna Nolan,1611661321,Detroit Shock,3,2,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,-11,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,269,100404,Katie Smith,1611661321,Detroit Shock,3,1,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,24,161,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,272,100888,Plenette Pierson,1611661321,Detroit Shock,3,0,49,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,144,15,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,284,100414,Elaine Powell,1611661321,Detroit Shock,3,0,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,33,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,295,100888,Plenette Pierson,1611661321,Detroit Shock,4,9,32,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,21,46,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,299,100639,Deanna Nolan,1611661321,Detroit Shock,4,9,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,12,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,305,100639,Deanna Nolan,1611661321,Detroit Shock,4,8,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,317,100888,Plenette Pierson,1611661321,Detroit Shock,4,7,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,319,100888,Plenette Pierson,1611661321,Detroit Shock,4,7,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,10,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,331,100639,Deanna Nolan,1611661321,Detroit Shock,4,6,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,0,164,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,336,100404,Katie Smith,1611661321,Detroit Shock,4,6,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,169,94,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,339,100639,Deanna Nolan,1611661321,Detroit Shock,4,5,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-136,31,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,346,100404,Katie Smith,1611661321,Detroit Shock,4,4,51,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,352,100639,Deanna Nolan,1611661321,Detroit Shock,4,4,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-100,58,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,354,100404,Katie Smith,1611661321,Detroit Shock,4,3,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,140,114,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,357,100404,Katie Smith,1611661321,Detroit Shock,4,3,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,179,3,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,390,201056,Ivory Latta,1611661321,Detroit Shock,4,0,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,8,82,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700203,8,100721,Swin Cash,1611661321,Detroit Shock,1,9,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,-3,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,16,100639,Deanna Nolan,1611661321,Detroit Shock,1,7,59,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-210,-3,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,19,100843,Cheryl Ford,1611661321,Detroit Shock,1,7,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,21,69,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,28,100639,Deanna Nolan,1611661321,Detroit Shock,1,6,13,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,23,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,40,100404,Katie Smith,1611661321,Detroit Shock,1,5,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,-59,224,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,44,100639,Deanna Nolan,1611661321,Detroit Shock,1,4,47,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,212,13,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,53,100414,Elaine Powell,1611661321,Detroit Shock,1,3,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-177,-14,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,57,100414,Elaine Powell,1611661321,Detroit Shock,1,3,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-85,10,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,59,101025,Kara Braxton,1611661321,Detroit Shock,1,3,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,62,100404,Katie Smith,1611661321,Detroit Shock,1,2,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,52,141,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,70,100639,Deanna Nolan,1611661321,Detroit Shock,1,2,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,57,220,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,82,100410,Shannon Johnson,1611661321,Detroit Shock,1,1,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-6,173,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,86,101025,Kara Braxton,1611661321,Detroit Shock,1,0,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,15,-80,135,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,93,100639,Deanna Nolan,1611661321,Detroit Shock,1,0,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-126,15,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,99,100639,Deanna Nolan,1611661321,Detroit Shock,2,9,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,39,179,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,103,100639,Deanna Nolan,1611661321,Detroit Shock,2,9,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-161,28,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,111,100404,Katie Smith,1611661321,Detroit Shock,2,8,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-148,20,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,115,100639,Deanna Nolan,1611661321,Detroit Shock,2,8,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-46,114,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,128,100639,Deanna Nolan,1611661321,Detroit Shock,2,7,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,130,101026,Katie Mattera,1611661321,Detroit Shock,2,6,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,136,100639,Deanna Nolan,1611661321,Detroit Shock,2,6,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,54,143,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,138,101026,Katie Mattera,1611661321,Detroit Shock,2,6,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,147,100639,Deanna Nolan,1611661321,Detroit Shock,2,5,40,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-214,18,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,152,100843,Cheryl Ford,1611661321,Detroit Shock,2,5,4,Missed Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-89,12,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,161,100404,Katie Smith,1611661321,Detroit Shock,2,4,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,108,123,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,163,100639,Deanna Nolan,1611661321,Detroit Shock,2,4,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-200,82,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,166,100721,Swin Cash,1611661321,Detroit Shock,2,3,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,-19,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,173,100639,Deanna Nolan,1611661321,Detroit Shock,2,2,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,82,141,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,175,100843,Cheryl Ford,1611661321,Detroit Shock,2,2,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,177,100639,Deanna Nolan,1611661321,Detroit Shock,2,2,29,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,17,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,191,100721,Swin Cash,1611661321,Detroit Shock,2,1,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,193,100888,Plenette Pierson,1611661321,Detroit Shock,2,1,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,144,0,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,201,100639,Deanna Nolan,1611661321,Detroit Shock,2,0,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,206,100888,Plenette Pierson,1611661321,Detroit Shock,2,0,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,212,100888,Plenette Pierson,1611661321,Detroit Shock,3,9,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,224,100404,Katie Smith,1611661321,Detroit Shock,3,8,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,149,56,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,226,100888,Plenette Pierson,1611661321,Detroit Shock,3,8,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,233,100721,Swin Cash,1611661321,Detroit Shock,3,8,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,246,100639,Deanna Nolan,1611661321,Detroit Shock,3,6,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,213,46,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,250,100404,Katie Smith,1611661321,Detroit Shock,3,5,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-123,184,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,257,100888,Plenette Pierson,1611661321,Detroit Shock,3,5,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,263,100888,Plenette Pierson,1611661321,Detroit Shock,3,5,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,31,174,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,272,100639,Deanna Nolan,1611661321,Detroit Shock,3,4,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,36,173,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,276,100404,Katie Smith,1611661321,Detroit Shock,3,3,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-128,197,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,287,100843,Cheryl Ford,1611661321,Detroit Shock,3,3,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,79,2,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,289,101026,Katie Mattera,1611661321,Detroit Shock,3,3,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,291,100843,Cheryl Ford,1611661321,Detroit Shock,3,3,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,293,100639,Deanna Nolan,1611661321,Detroit Shock,3,2,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,297,100843,Cheryl Ford,1611661321,Detroit Shock,3,2,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,295,100843,Cheryl Ford,1611661321,Detroit Shock,3,2,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,302,100404,Katie Smith,1611661321,Detroit Shock,3,2,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-113,87,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,307,100639,Deanna Nolan,1611661321,Detroit Shock,3,1,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-3,102,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,311,100404,Katie Smith,1611661321,Detroit Shock,3,1,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-197,140,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,315,100404,Katie Smith,1611661321,Detroit Shock,3,0,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,322,101026,Katie Mattera,1611661321,Detroit Shock,3,0,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,327,100639,Deanna Nolan,1611661321,Detroit Shock,3,0,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-59,91,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,336,101026,Katie Mattera,1611661321,Detroit Shock,4,9,14,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-11,69,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,338,100721,Swin Cash,1611661321,Detroit Shock,4,8,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,156,33,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,340,100721,Swin Cash,1611661321,Detroit Shock,4,8,12,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-21,63,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,342,100404,Katie Smith,1611661321,Detroit Shock,4,7,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,350,100404,Katie Smith,1611661321,Detroit Shock,4,7,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-112,196,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,354,100404,Katie Smith,1611661321,Detroit Shock,4,6,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,205,74,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,357,100888,Plenette Pierson,1611661321,Detroit Shock,4,6,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,120,25,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,363,100843,Cheryl Ford,1611661321,Detroit Shock,4,5,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,0,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,374,100639,Deanna Nolan,1611661321,Detroit Shock,4,4,40,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-220,-6,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,377,101026,Katie Mattera,1611661321,Detroit Shock,4,3,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,387,100721,Swin Cash,1611661321,Detroit Shock,4,2,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-48,150,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,389,100721,Swin Cash,1611661321,Detroit Shock,4,2,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-6,155,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,403,101025,Kara Braxton,1611661321,Detroit Shock,4,1,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,408,100410,Shannon Johnson,1611661321,Detroit Shock,4,1,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-118,143,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,411,101025,Kara Braxton,1611661321,Detroit Shock,4,0,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,31,224,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,414,201056,Ivory Latta,1611661321,Detroit Shock,4,0,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,75,224,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,418,100410,Shannon Johnson,1611661321,Detroit Shock,4,0,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700301,3,100721,Swin Cash,1611661321,Detroit Shock,1,9,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,9,100721,Swin Cash,1611661321,Detroit Shock,1,9,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-10,87,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,14,100404,Katie Smith,1611661321,Detroit Shock,1,8,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-169,0,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,17,100639,Deanna Nolan,1611661321,Detroit Shock,1,8,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-156,15,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,24,101026,Katie Mattera,1611661321,Detroit Shock,1,7,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,27,100410,Shannon Johnson,1611661321,Detroit Shock,1,7,13,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,218,0,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,38,100404,Katie Smith,1611661321,Detroit Shock,1,6,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,62,210,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,43,100721,Swin Cash,1611661321,Detroit Shock,1,6,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-105,72,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,46,100404,Katie Smith,1611661321,Detroit Shock,1,5,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-186,130,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,66,201056,Ivory Latta,1611661321,Detroit Shock,1,4,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-8,222,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,68,100888,Plenette Pierson,1611661321,Detroit Shock,1,3,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,76,100404,Katie Smith,1611661321,Detroit Shock,1,2,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-131,53,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,81,100404,Katie Smith,1611661321,Detroit Shock,1,2,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-66,220,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,85,100639,Deanna Nolan,1611661321,Detroit Shock,1,1,50,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-218,-8,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,88,100721,Swin Cash,1611661321,Detroit Shock,1,1,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,93,100888,Plenette Pierson,1611661321,Detroit Shock,1,0,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,95,100888,Plenette Pierson,1611661321,Detroit Shock,1,0,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,99,201056,Ivory Latta,1611661321,Detroit Shock,1,0,21,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,2,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,114,100410,Shannon Johnson,1611661321,Detroit Shock,2,9,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,35,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,116,100888,Plenette Pierson,1611661321,Detroit Shock,2,8,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,118,100410,Shannon Johnson,1611661321,Detroit Shock,2,8,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,23,-214,97,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,128,100721,Swin Cash,1611661321,Detroit Shock,2,7,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,134,100888,Plenette Pierson,1611661321,Detroit Shock,2,7,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,66,117,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,136,100721,Swin Cash,1611661321,Detroit Shock,2,7,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-146,40,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,154,100404,Katie Smith,1611661321,Detroit Shock,2,5,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-209,53,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,170,101026,Katie Mattera,1611661321,Detroit Shock,2,4,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-31,63,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,179,101025,Kara Braxton,1611661321,Detroit Shock,2,3,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,182,100404,Katie Smith,1611661321,Detroit Shock,2,3,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,5,169,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,184,101025,Kara Braxton,1611661321,Detroit Shock,2,3,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,210,101025,Kara Braxton,1611661321,Detroit Shock,2,1,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,213,101025,Kara Braxton,1611661321,Detroit Shock,2,1,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,215,101026,Katie Mattera,1611661321,Detroit Shock,2,1,22,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,6,109,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,217,101025,Kara Braxton,1611661321,Detroit Shock,2,1,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,223,100721,Swin Cash,1611661321,Detroit Shock,2,0,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,35,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,225,101026,Katie Mattera,1611661321,Detroit Shock,2,0,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,131,20,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,228,101026,Katie Mattera,1611661321,Detroit Shock,2,0,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,237,100721,Swin Cash,1611661321,Detroit Shock,3,9,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,2,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,241,100721,Swin Cash,1611661321,Detroit Shock,3,8,49,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,79,137,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,243,100410,Shannon Johnson,1611661321,Detroit Shock,3,8,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,250,100410,Shannon Johnson,1611661321,Detroit Shock,3,7,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-115,199,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,253,101026,Katie Mattera,1611661321,Detroit Shock,3,7,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,255,100404,Katie Smith,1611661321,Detroit Shock,3,6,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,-3,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,259,100888,Plenette Pierson,1611661321,Detroit Shock,3,6,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,263,100639,Deanna Nolan,1611661321,Detroit Shock,3,6,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,128,104,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,269,100639,Deanna Nolan,1611661321,Detroit Shock,3,6,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,271,100404,Katie Smith,1611661321,Detroit Shock,3,5,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,154,164,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,275,100888,Plenette Pierson,1611661321,Detroit Shock,3,5,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,281,101025,Kara Braxton,1611661321,Detroit Shock,3,4,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,105,36,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,291,100639,Deanna Nolan,1611661321,Detroit Shock,3,4,23,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-13,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,293,101025,Kara Braxton,1611661321,Detroit Shock,3,4,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,296,100639,Deanna Nolan,1611661321,Detroit Shock,3,3,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,-8,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,298,100888,Plenette Pierson,1611661321,Detroit Shock,3,3,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-126,12,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,319,100404,Katie Smith,1611661321,Detroit Shock,3,2,4,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,3,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,336,100721,Swin Cash,1611661321,Detroit Shock,3,0,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-20,82,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,350,101025,Kara Braxton,1611661321,Detroit Shock,4,9,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,352,101025,Kara Braxton,1611661321,Detroit Shock,4,9,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,364,101026,Katie Mattera,1611661321,Detroit Shock,4,8,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,366,100404,Katie Smith,1611661321,Detroit Shock,4,7,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-75,202,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,368,100888,Plenette Pierson,1611661321,Detroit Shock,4,7,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,372,100639,Deanna Nolan,1611661321,Detroit Shock,4,7,20,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,22,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,381,100888,Plenette Pierson,1611661321,Detroit Shock,4,6,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,386,101025,Kara Braxton,1611661321,Detroit Shock,4,6,3,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-15,72,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,390,100888,Plenette Pierson,1611661321,Detroit Shock,4,5,42,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,52,84,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,393,100888,Plenette Pierson,1611661321,Detroit Shock,4,5,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-123,69,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,395,100404,Katie Smith,1611661321,Detroit Shock,4,4,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,207,59,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,404,101025,Kara Braxton,1611661321,Detroit Shock,4,4,10,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-31,77,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,410,101025,Kara Braxton,1611661321,Detroit Shock,4,3,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,412,101025,Kara Braxton,1611661321,Detroit Shock,4,3,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,423,100639,Deanna Nolan,1611661321,Detroit Shock,4,3,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,62,135,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,428,100888,Plenette Pierson,1611661321,Detroit Shock,4,2,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,451,100404,Katie Smith,1611661321,Detroit Shock,4,1,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,36,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700302,7,100404,Katie Smith,1611661321,Detroit Shock,1,9,33,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,20,209,-5,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,15,101026,Katie Mattera,1611661321,Detroit Shock,1,9,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,17,100639,Deanna Nolan,1611661321,Detroit Shock,1,8,44,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,20,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,21,100721,Swin Cash,1611661321,Detroit Shock,1,8,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-141,81,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,23,100843,Cheryl Ford,1611661321,Detroit Shock,1,8,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-90,-11,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,27,100404,Katie Smith,1611661321,Detroit Shock,1,7,47,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-215,17,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,29,100721,Swin Cash,1611661321,Detroit Shock,1,7,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-158,51,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,38,100843,Cheryl Ford,1611661321,Detroit Shock,1,6,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,33,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,47,101025,Kara Braxton,1611661321,Detroit Shock,1,5,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,112,7,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,53,101025,Kara Braxton,1611661321,Detroit Shock,1,4,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,55,101025,Kara Braxton,1611661321,Detroit Shock,1,4,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,57,100888,Plenette Pierson,1611661321,Detroit Shock,1,4,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,10,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,59,101025,Kara Braxton,1611661321,Detroit Shock,1,4,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,64,100404,Katie Smith,1611661321,Detroit Shock,1,4,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-46,220,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,68,101025,Kara Braxton,1611661321,Detroit Shock,1,3,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-118,40,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,75,100721,Swin Cash,1611661321,Detroit Shock,1,3,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,28,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,78,100721,Swin Cash,1611661321,Detroit Shock,1,2,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-186,0,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,84,100639,Deanna Nolan,1611661321,Detroit Shock,1,2,42,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-218,-8,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,87,101026,Katie Mattera,1611661321,Detroit Shock,1,2,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,91,100410,Shannon Johnson,1611661321,Detroit Shock,1,1,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-102,54,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,93,100888,Plenette Pierson,1611661321,Detroit Shock,1,1,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,20,130,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,98,101026,Katie Mattera,1611661321,Detroit Shock,1,1,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-85,54,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,108,100639,Deanna Nolan,1611661321,Detroit Shock,1,0,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,110,100404,Katie Smith,1611661321,Detroit Shock,1,0,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-46,219,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,121,100639,Deanna Nolan,1611661321,Detroit Shock,2,9,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,95,12,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,125,100843,Cheryl Ford,1611661321,Detroit Shock,2,9,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,130,100721,Swin Cash,1611661321,Detroit Shock,2,8,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-128,41,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,132,100843,Cheryl Ford,1611661321,Detroit Shock,2,8,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,137,100410,Shannon Johnson,1611661321,Detroit Shock,2,7,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-133,186,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,145,100404,Katie Smith,1611661321,Detroit Shock,2,6,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,23,-217,91,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,149,100721,Swin Cash,1611661321,Detroit Shock,2,6,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,141,66,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,153,100404,Katie Smith,1611661321,Detroit Shock,2,5,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,69,207,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,157,100843,Cheryl Ford,1611661321,Detroit Shock,2,5,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,166,100888,Plenette Pierson,1611661321,Detroit Shock,2,4,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,23,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,168,100888,Plenette Pierson,1611661321,Detroit Shock,2,4,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,171,100639,Deanna Nolan,1611661321,Detroit Shock,2,3,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-149,20,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,189,100888,Plenette Pierson,1611661321,Detroit Shock,2,2,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-54,114,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,196,101025,Kara Braxton,1611661321,Detroit Shock,2,1,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,202,100721,Swin Cash,1611661321,Detroit Shock,2,1,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-135,-5,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,204,100639,Deanna Nolan,1611661321,Detroit Shock,2,1,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,26,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,210,101025,Kara Braxton,1611661321,Detroit Shock,2,0,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-123,71,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,213,100721,Swin Cash,1611661321,Detroit Shock,2,0,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,216,100639,Deanna Nolan,1611661321,Detroit Shock,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,59,-200,556,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,223,100721,Swin Cash,1611661321,Detroit Shock,3,9,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-85,156,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,228,100404,Katie Smith,1611661321,Detroit Shock,3,8,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,7,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,233,100888,Plenette Pierson,1611661321,Detroit Shock,3,7,53,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,237,100639,Deanna Nolan,1611661321,Detroit Shock,3,7,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,62,110,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,242,100639,Deanna Nolan,1611661321,Detroit Shock,3,7,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-85,66,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,250,101026,Katie Mattera,1611661321,Detroit Shock,3,6,33,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-66,77,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,252,100843,Cheryl Ford,1611661321,Detroit Shock,3,6,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,72,225,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,258,101026,Katie Mattera,1611661321,Detroit Shock,3,5,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,269,100410,Shannon Johnson,1611661321,Detroit Shock,3,4,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,61,132,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,272,100639,Deanna Nolan,1611661321,Detroit Shock,3,4,28,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-9,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,282,100639,Deanna Nolan,1611661321,Detroit Shock,3,3,28,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,-14,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,284,100639,Deanna Nolan,1611661321,Detroit Shock,3,3,22,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,41,71,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,286,101025,Kara Braxton,1611661321,Detroit Shock,3,3,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,292,101025,Kara Braxton,1611661321,Detroit Shock,3,3,0,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,44,53,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,295,100639,Deanna Nolan,1611661321,Detroit Shock,3,2,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,23,-207,107,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,297,101025,Kara Braxton,1611661321,Detroit Shock,3,2,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,303,101026,Katie Mattera,1611661321,Detroit Shock,3,2,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,306,201056,Ivory Latta,1611661321,Detroit Shock,3,2,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),24+ ft.,22,223,36,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,313,101025,Kara Braxton,1611661321,Detroit Shock,3,1,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,315,100410,Shannon Johnson,1611661321,Detroit Shock,3,1,27,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,220,-8,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,319,201056,Ivory Latta,1611661321,Detroit Shock,3,1,22,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,54,12,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,327,100639,Deanna Nolan,1611661321,Detroit Shock,3,0,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,128,36,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,332,100639,Deanna Nolan,1611661321,Detroit Shock,3,0,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,10,97,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,335,201056,Ivory Latta,1611661321,Detroit Shock,3,0,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,217,41,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,337,100639,Deanna Nolan,1611661321,Detroit Shock,3,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-122,128,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,341,100888,Plenette Pierson,1611661321,Detroit Shock,4,9,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,344,100888,Plenette Pierson,1611661321,Detroit Shock,4,9,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,347,100888,Plenette Pierson,1611661321,Detroit Shock,4,8,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-85,141,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,353,100888,Plenette Pierson,1611661321,Detroit Shock,4,7,41,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,22,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,363,100639,Deanna Nolan,1611661321,Detroit Shock,4,6,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,-71,222,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,368,100639,Deanna Nolan,1611661321,Detroit Shock,4,5,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-34,160,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,370,101025,Kara Braxton,1611661321,Detroit Shock,4,5,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,77,20,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,387,100888,Plenette Pierson,1611661321,Detroit Shock,4,5,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-75,36,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,390,101025,Kara Braxton,1611661321,Detroit Shock,4,4,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,397,101025,Kara Braxton,1611661321,Detroit Shock,4,3,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,51,84,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,410,100740,Ayana Walker,1611661321,Detroit Shock,4,2,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,419,100740,Ayana Walker,1611661321,Detroit Shock,4,2,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,427,201056,Ivory Latta,1611661321,Detroit Shock,4,1,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,148,160,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,441,100410,Shannon Johnson,1611661321,Detroit Shock,4,0,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-164,146,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700303,4,100639,Deanna Nolan,1611661321,Detroit Shock,1,9,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-103,133,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,9,100414,Elaine Powell,1611661321,Detroit Shock,1,9,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,23,61,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,12,100404,Katie Smith,1611661321,Detroit Shock,1,8,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,33,77,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,13,100721,Swin Cash,1611661321,Detroit Shock,1,8,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,17,100721,Swin Cash,1611661321,Detroit Shock,1,8,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-118,97,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,19,100404,Katie Smith,1611661321,Detroit Shock,1,7,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-100,61,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,23,100639,Deanna Nolan,1611661321,Detroit Shock,1,7,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,80,202,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,27,100888,Plenette Pierson,1611661321,Detroit Shock,1,6,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-66,132,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,30,100639,Deanna Nolan,1611661321,Detroit Shock,1,6,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-212,33,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,33,100414,Elaine Powell,1611661321,Detroit Shock,1,6,7,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-34,82,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,38,100888,Plenette Pierson,1611661321,Detroit Shock,1,5,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-59,54,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,44,100843,Cheryl Ford,1611661321,Detroit Shock,1,5,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,48,100404,Katie Smith,1611661321,Detroit Shock,1,5,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-181,140,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,50,100843,Cheryl Ford,1611661321,Detroit Shock,1,4,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,51,100843,Cheryl Ford,1611661321,Detroit Shock,1,4,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,54,100404,Katie Smith,1611661321,Detroit Shock,1,4,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,66,100404,Katie Smith,1611661321,Detroit Shock,1,3,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,0,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,68,100888,Plenette Pierson,1611661321,Detroit Shock,1,3,15,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,31,84,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,72,100410,Shannon Johnson,1611661321,Detroit Shock,1,2,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,95,191,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,79,100404,Katie Smith,1611661321,Detroit Shock,1,2,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-177,115,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,81,101026,Katie Mattera,1611661321,Detroit Shock,1,2,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,94,101026,Katie Mattera,1611661321,Detroit Shock,1,1,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,77,59,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,102,100639,Deanna Nolan,1611661321,Detroit Shock,1,0,47,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-61,97,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,106,100404,Katie Smith,1611661321,Detroit Shock,1,0,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-90,155,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,114,100410,Shannon Johnson,1611661321,Detroit Shock,2,9,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-16,222,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,120,100410,Shannon Johnson,1611661321,Detroit Shock,2,8,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,-3,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,124,100410,Shannon Johnson,1611661321,Detroit Shock,2,8,32,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,0,99,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,127,100639,Deanna Nolan,1611661321,Detroit Shock,2,8,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-154,5,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,140,100639,Deanna Nolan,1611661321,Detroit Shock,2,7,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-92,92,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,147,100843,Cheryl Ford,1611661321,Detroit Shock,2,6,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,79,41,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,151,100721,Swin Cash,1611661321,Detroit Shock,2,6,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,3,171,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,155,100843,Cheryl Ford,1611661321,Detroit Shock,2,5,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,166,101026,Katie Mattera,1611661321,Detroit Shock,2,4,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,170,101026,Katie Mattera,1611661321,Detroit Shock,2,4,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,173,101026,Katie Mattera,1611661321,Detroit Shock,2,3,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,15,69,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,176,101026,Katie Mattera,1611661321,Detroit Shock,2,3,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,2,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,186,100721,Swin Cash,1611661321,Detroit Shock,2,2,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,118,112,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,189,100721,Swin Cash,1611661321,Detroit Shock,2,2,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-84,114,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,202,100721,Swin Cash,1611661321,Detroit Shock,2,1,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,33,79,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,205,100404,Katie Smith,1611661321,Detroit Shock,2,0,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-199,102,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,209,100410,Shannon Johnson,1611661321,Detroit Shock,2,0,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-102,104,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,213,100410,Shannon Johnson,1611661321,Detroit Shock,2,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,20,215,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,218,100404,Katie Smith,1611661321,Detroit Shock,3,9,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,189,105,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,222,100639,Deanna Nolan,1611661321,Detroit Shock,3,9,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-82,63,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,231,100639,Deanna Nolan,1611661321,Detroit Shock,3,8,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,235,100414,Elaine Powell,1611661321,Detroit Shock,3,8,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,29,145,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,237,100639,Deanna Nolan,1611661321,Detroit Shock,3,8,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,23,-200,114,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,240,100888,Plenette Pierson,1611661321,Detroit Shock,3,7,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-54,110,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,243,100639,Deanna Nolan,1611661321,Detroit Shock,3,7,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-38,150,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,249,100721,Swin Cash,1611661321,Detroit Shock,3,6,52,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-16,99,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,257,100410,Shannon Johnson,1611661321,Detroit Shock,3,5,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-210,43,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,261,100721,Swin Cash,1611661321,Detroit Shock,3,5,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,20,49,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,269,100410,Shannon Johnson,1611661321,Detroit Shock,3,4,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,103,199,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,280,100404,Katie Smith,1611661321,Detroit Shock,3,4,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,181,143,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,291,100410,Shannon Johnson,1611661321,Detroit Shock,3,2,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,23,-223,81,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,296,100404,Katie Smith,1611661321,Detroit Shock,3,2,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-214,72,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,303,100404,Katie Smith,1611661321,Detroit Shock,3,1,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,199,99,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,307,100404,Katie Smith,1611661321,Detroit Shock,3,1,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,36,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,309,100888,Plenette Pierson,1611661321,Detroit Shock,3,0,32,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,11,74,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,311,100639,Deanna Nolan,1611661321,Detroit Shock,3,0,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-105,82,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,316,100404,Katie Smith,1611661321,Detroit Shock,4,9,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-187,132,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,318,101025,Kara Braxton,1611661321,Detroit Shock,4,9,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,321,201056,Ivory Latta,1611661321,Detroit Shock,4,8,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,330,100639,Deanna Nolan,1611661321,Detroit Shock,4,7,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,5,155,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,339,100888,Plenette Pierson,1611661321,Detroit Shock,4,7,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,344,101025,Kara Braxton,1611661321,Detroit Shock,4,6,58,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-33,84,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,353,100410,Shannon Johnson,1611661321,Detroit Shock,4,6,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-51,163,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,354,100888,Plenette Pierson,1611661321,Detroit Shock,4,6,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,367,100639,Deanna Nolan,1611661321,Detroit Shock,4,5,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,171,72,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,371,100843,Cheryl Ford,1611661321,Detroit Shock,4,4,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,59,30,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,373,100888,Plenette Pierson,1611661321,Detroit Shock,4,4,53,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-66,35,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,392,100888,Plenette Pierson,1611661321,Detroit Shock,4,3,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,8,146,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,399,100888,Plenette Pierson,1611661321,Detroit Shock,4,2,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,75,68,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,401,100888,Plenette Pierson,1611661321,Detroit Shock,4,2,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,407,100639,Deanna Nolan,1611661321,Detroit Shock,4,1,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,207,63,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,411,100404,Katie Smith,1611661321,Detroit Shock,4,1,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-75,2,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,419,100843,Cheryl Ford,1611661321,Detroit Shock,4,0,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-31,41,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,425,100888,Plenette Pierson,1611661321,Detroit Shock,4,0,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-99,23,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700304,2,100721,Swin Cash,1611661321,Detroit Shock,1,9,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,8,100404,Katie Smith,1611661321,Detroit Shock,1,8,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-122,146,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,16,100404,Katie Smith,1611661321,Detroit Shock,1,7,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-118,82,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,20,100721,Swin Cash,1611661321,Detroit Shock,1,7,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,82,86,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,31,100843,Cheryl Ford,1611661321,Detroit Shock,1,5,59,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-15,36,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,44,100639,Deanna Nolan,1611661321,Detroit Shock,1,4,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-80,141,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,48,101025,Kara Braxton,1611661321,Detroit Shock,1,4,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-51,51,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,59,100721,Swin Cash,1611661321,Detroit Shock,1,3,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,62,100410,Shannon Johnson,1611661321,Detroit Shock,1,3,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-94,94,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,66,101025,Kara Braxton,1611661321,Detroit Shock,1,2,34,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,121,54,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,68,101025,Kara Braxton,1611661321,Detroit Shock,1,2,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,87,100639,Deanna Nolan,1611661321,Detroit Shock,1,1,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,49,209,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,107,100404,Katie Smith,1611661321,Detroit Shock,2,9,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-3,212,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,110,100639,Deanna Nolan,1611661321,Detroit Shock,2,9,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-143,51,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,113,100888,Plenette Pierson,1611661321,Detroit Shock,2,8,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,57,51,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,119,100721,Swin Cash,1611661321,Detroit Shock,2,8,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,26,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,128,100639,Deanna Nolan,1611661321,Detroit Shock,2,7,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-149,31,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,132,100843,Cheryl Ford,1611661321,Detroit Shock,2,7,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,139,100888,Plenette Pierson,1611661321,Detroit Shock,2,6,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,112,87,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,144,100843,Cheryl Ford,1611661321,Detroit Shock,2,6,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,146,100843,Cheryl Ford,1611661321,Detroit Shock,2,6,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,157,100639,Deanna Nolan,1611661321,Detroit Shock,2,5,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,159,100888,Plenette Pierson,1611661321,Detroit Shock,2,4,43,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,71,41,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,162,100404,Katie Smith,1611661321,Detroit Shock,2,4,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,192,112,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,176,100843,Cheryl Ford,1611661321,Detroit Shock,2,3,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,178,100888,Plenette Pierson,1611661321,Detroit Shock,2,2,59,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,47,35,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,183,100410,Shannon Johnson,1611661321,Detroit Shock,2,2,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,23,-191,132,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,191,100639,Deanna Nolan,1611661321,Detroit Shock,2,1,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-97,125,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,194,100410,Shannon Johnson,1611661321,Detroit Shock,2,1,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-69,74,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,197,100843,Cheryl Ford,1611661321,Detroit Shock,2,0,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,199,100888,Plenette Pierson,1611661321,Detroit Shock,2,0,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-97,143,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,215,100721,Swin Cash,1611661321,Detroit Shock,3,9,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,217,100843,Cheryl Ford,1611661321,Detroit Shock,3,9,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,220,100404,Katie Smith,1611661321,Detroit Shock,3,9,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,85,206,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,224,100410,Shannon Johnson,1611661321,Detroit Shock,3,8,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-218,48,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,229,100843,Cheryl Ford,1611661321,Detroit Shock,3,7,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,235,100404,Katie Smith,1611661321,Detroit Shock,3,7,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,153,160,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,238,100639,Deanna Nolan,1611661321,Detroit Shock,3,7,3,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,17,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,240,100410,Shannon Johnson,1611661321,Detroit Shock,3,6,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-204,61,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,249,100404,Katie Smith,1611661321,Detroit Shock,3,5,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,108,76,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,252,101025,Kara Braxton,1611661321,Detroit Shock,3,5,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-16,49,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,254,101025,Kara Braxton,1611661321,Detroit Shock,3,5,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,281,100639,Deanna Nolan,1611661321,Detroit Shock,3,3,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-85,115,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,283,100888,Plenette Pierson,1611661321,Detroit Shock,3,2,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,297,101025,Kara Braxton,1611661321,Detroit Shock,3,2,3,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-102,-3,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,299,100404,Katie Smith,1611661321,Detroit Shock,3,1,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,74,202,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,306,100404,Katie Smith,1611661321,Detroit Shock,3,0,18,Missed Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-92,56,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,313,100639,Deanna Nolan,1611661321,Detroit Shock,3,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-89,87,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,317,101025,Kara Braxton,1611661321,Detroit Shock,4,9,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,325,100404,Katie Smith,1611661321,Detroit Shock,4,8,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,169,128,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,329,100888,Plenette Pierson,1611661321,Detroit Shock,4,7,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,339,100888,Plenette Pierson,1611661321,Detroit Shock,4,6,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,343,100888,Plenette Pierson,1611661321,Detroit Shock,4,5,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,346,100404,Katie Smith,1611661321,Detroit Shock,4,4,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,22,-220,31,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,349,100843,Cheryl Ford,1611661321,Detroit Shock,4,4,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,354,100639,Deanna Nolan,1611661321,Detroit Shock,4,3,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,52,202,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,371,100888,Plenette Pierson,1611661321,Detroit Shock,4,2,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-75,141,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,373,100410,Shannon Johnson,1611661321,Detroit Shock,4,1,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-179,118,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,389,100639,Deanna Nolan,1611661321,Detroit Shock,4,0,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-113,97,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,393,100410,Shannon Johnson,1611661321,Detroit Shock,4,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,156,36,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700305,10,100721,Swin Cash,1611661321,Detroit Shock,1,8,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,135,41,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,13,101026,Katie Mattera,1611661321,Detroit Shock,1,8,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-99,12,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,20,100414,Elaine Powell,1611661321,Detroit Shock,1,6,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,148,46,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,22,100888,Plenette Pierson,1611661321,Detroit Shock,1,6,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-97,25,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,27,100888,Plenette Pierson,1611661321,Detroit Shock,1,6,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,0,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,30,100410,Shannon Johnson,1611661321,Detroit Shock,1,6,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,22,-222,36,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,37,100639,Deanna Nolan,1611661321,Detroit Shock,1,5,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-145,46,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,41,100639,Deanna Nolan,1611661321,Detroit Shock,1,4,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,-3,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,55,100404,Katie Smith,1611661321,Detroit Shock,1,3,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-207,51,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,57,100888,Plenette Pierson,1611661321,Detroit Shock,1,3,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-11,66,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,60,100404,Katie Smith,1611661321,Detroit Shock,1,2,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,210,63,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,73,100410,Shannon Johnson,1611661321,Detroit Shock,1,1,30,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,-9,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,75,100639,Deanna Nolan,1611661321,Detroit Shock,1,1,22,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,-3,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,83,100404,Katie Smith,1611661321,Detroit Shock,1,0,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-118,81,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,85,100721,Swin Cash,1611661321,Detroit Shock,1,0,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-15,151,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,88,100404,Katie Smith,1611661321,Detroit Shock,1,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,90,209,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,101,101025,Kara Braxton,1611661321,Detroit Shock,2,9,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-82,69,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,107,100639,Deanna Nolan,1611661321,Detroit Shock,2,8,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,133,71,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,110,100888,Plenette Pierson,1611661321,Detroit Shock,2,8,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,43,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,117,100639,Deanna Nolan,1611661321,Detroit Shock,2,7,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,115,197,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,134,201056,Ivory Latta,1611661321,Detroit Shock,2,6,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-205,99,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,136,100888,Plenette Pierson,1611661321,Detroit Shock,2,6,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,138,201056,Ivory Latta,1611661321,Detroit Shock,2,5,46,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-215,10,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,148,100639,Deanna Nolan,1611661321,Detroit Shock,2,4,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,51,151,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,154,100843,Cheryl Ford,1611661321,Detroit Shock,2,4,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,163,100404,Katie Smith,1611661321,Detroit Shock,2,3,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-13,38,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,178,100888,Plenette Pierson,1611661321,Detroit Shock,2,2,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,190,100721,Swin Cash,1611661321,Detroit Shock,2,1,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-154,0,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,193,100410,Shannon Johnson,1611661321,Detroit Shock,2,1,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-49,215,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,195,100843,Cheryl Ford,1611661321,Detroit Shock,2,0,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,197,100721,Swin Cash,1611661321,Detroit Shock,2,0,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,210,100404,Katie Smith,1611661321,Detroit Shock,2,0,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,48,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,225,100639,Deanna Nolan,1611661321,Detroit Shock,3,8,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,149,56,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,227,100721,Swin Cash,1611661321,Detroit Shock,3,8,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,158,-9,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,233,100639,Deanna Nolan,1611661321,Detroit Shock,3,7,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-107,26,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,246,100410,Shannon Johnson,1611661321,Detroit Shock,3,6,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-39,225,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,251,100410,Shannon Johnson,1611661321,Detroit Shock,3,5,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,-8,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,255,100410,Shannon Johnson,1611661321,Detroit Shock,3,5,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,169,-9,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,259,100404,Katie Smith,1611661321,Detroit Shock,3,4,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,213,28,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,268,100639,Deanna Nolan,1611661321,Detroit Shock,3,4,20,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-5,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,270,100721,Swin Cash,1611661321,Detroit Shock,3,4,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,281,100639,Deanna Nolan,1611661321,Detroit Shock,3,3,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-3,217,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,287,100404,Katie Smith,1611661321,Detroit Shock,3,2,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,47,89,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,290,100639,Deanna Nolan,1611661321,Detroit Shock,3,2,33,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,13,74,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,301,101026,Katie Mattera,1611661321,Detroit Shock,3,1,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,310,100404,Katie Smith,1611661321,Detroit Shock,3,1,6,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,220,18,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,315,101026,Katie Mattera,1611661321,Detroit Shock,3,0,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,320,100410,Shannon Johnson,1611661321,Detroit Shock,3,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-85,224,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,325,100721,Swin Cash,1611661321,Detroit Shock,4,9,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,331,100639,Deanna Nolan,1611661321,Detroit Shock,4,8,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-148,0,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,333,100639,Deanna Nolan,1611661321,Detroit Shock,4,8,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-145,181,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,339,101026,Katie Mattera,1611661321,Detroit Shock,4,8,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,342,100639,Deanna Nolan,1611661321,Detroit Shock,4,7,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,3,125,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,347,100410,Shannon Johnson,1611661321,Detroit Shock,4,6,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-138,194,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,352,100404,Katie Smith,1611661321,Detroit Shock,4,6,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,172,143,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,359,101025,Kara Braxton,1611661321,Detroit Shock,4,5,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,362,100404,Katie Smith,1611661321,Detroit Shock,4,5,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,128,25,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,368,100639,Deanna Nolan,1611661321,Detroit Shock,4,4,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-125,87,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,370,100639,Deanna Nolan,1611661321,Detroit Shock,4,4,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,23,94,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,378,100639,Deanna Nolan,1611661321,Detroit Shock,4,4,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,380,100404,Katie Smith,1611661321,Detroit Shock,4,3,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-107,189,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,394,100639,Deanna Nolan,1611661321,Detroit Shock,4,2,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-84,209,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,398,100404,Katie Smith,1611661321,Detroit Shock,4,1,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-126,183,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,402,100404,Katie Smith,1611661321,Detroit Shock,4,1,19,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,8,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,411,201056,Ivory Latta,1611661321,Detroit Shock,4,1,11,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,20,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,413,101026,Katie Mattera,1611661321,Detroit Shock,4,1,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,415,100721,Swin Cash,1611661321,Detroit Shock,4,0,55,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,26,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,417,101026,Katie Mattera,1611661321,Detroit Shock,4,0,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,420,100721,Swin Cash,1611661321,Detroit Shock,4,0,18,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,218,-1,1,0,20070916,DET,PHO,2007-08

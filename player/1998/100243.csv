@@ -1,0 +1,136 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1029800003,124,100243,Olympia Scott,1611661319,Utah Starzz,1,9,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-44,72,1,0,19980611,UTA,LAS,1998-99
+Shot Chart Detail,1029800003,253,100243,Olympia Scott,1611661319,Utah Starzz,1,0,19,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,21,1,0,19980611,UTA,LAS,1998-99
+Shot Chart Detail,1029800003,256,100243,Olympia Scott,1611661319,Utah Starzz,1,0,11,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,0,100,1,1,19980611,UTA,LAS,1998-99
+Shot Chart Detail,1029800003,287,100243,Olympia Scott,1611661319,Utah Starzz,2,13,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980611,UTA,LAS,1998-99
+Shot Chart Detail,1029800003,303,100243,Olympia Scott,1611661319,Utah Starzz,2,12,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980611,UTA,LAS,1998-99
+Shot Chart Detail,1029800007,129,100243,Olympia Scott,1611661319,Utah Starzz,1,9,10,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-38,3,1,0,19980613,UTA,WAS,1998-99
+Shot Chart Detail,1029800007,141,100243,Olympia Scott,1611661319,Utah Starzz,1,7,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980613,UTA,WAS,1998-99
+Shot Chart Detail,1029800007,177,100243,Olympia Scott,1611661319,Utah Starzz,1,4,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980613,UTA,WAS,1998-99
+Shot Chart Detail,1029800011,329,100243,Olympia Scott,1611661319,Utah Starzz,2,6,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,55,98,1,0,19980615,UTA,NYL,1998-99
+Shot Chart Detail,1029800011,342,100243,Olympia Scott,1611661319,Utah Starzz,2,4,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980615,UTA,NYL,1998-99
+Shot Chart Detail,1029800011,359,100243,Olympia Scott,1611661319,Utah Starzz,2,3,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980615,UTA,NYL,1998-99
+Shot Chart Detail,1029800017,81,100243,Olympia Scott,1611661319,Utah Starzz,1,12,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,-5,1,0,19980619,WAS,UTA,1998-99
+Shot Chart Detail,1029800017,94,100243,Olympia Scott,1611661319,Utah Starzz,1,11,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-10,-18,1,1,19980619,WAS,UTA,1998-99
+Shot Chart Detail,1029800017,169,100243,Olympia Scott,1611661319,Utah Starzz,1,4,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-3,1,1,19980619,WAS,UTA,1998-99
+Shot Chart Detail,1029800017,174,100243,Olympia Scott,1611661319,Utah Starzz,1,4,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,1,1,1,19980619,WAS,UTA,1998-99
+Shot Chart Detail,1029800017,197,100243,Olympia Scott,1611661319,Utah Starzz,1,2,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,40,117,1,0,19980619,WAS,UTA,1998-99
+Shot Chart Detail,1029800017,211,100243,Olympia Scott,1611661319,Utah Starzz,1,0,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,3,1,1,19980619,WAS,UTA,1998-99
+Shot Chart Detail,1029800017,326,100243,Olympia Scott,1611661319,Utah Starzz,2,9,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,-1,1,1,19980619,WAS,UTA,1998-99
+Shot Chart Detail,1029800017,378,100243,Olympia Scott,1611661319,Utah Starzz,2,3,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,1,19980619,WAS,UTA,1998-99
+Shot Chart Detail,1029800017,388,100243,Olympia Scott,1611661319,Utah Starzz,2,2,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,19980619,WAS,UTA,1998-99
+Shot Chart Detail,1029800017,394,100243,Olympia Scott,1611661319,Utah Starzz,2,1,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,-3,1,0,19980619,WAS,UTA,1998-99
+Shot Chart Detail,1029800017,399,100243,Olympia Scott,1611661319,Utah Starzz,2,0,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,46,212,1,0,19980619,WAS,UTA,1998-99
+Shot Chart Detail,1029800021,74,100243,Olympia Scott,1611661319,Utah Starzz,1,10,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980621,NYL,UTA,1998-99
+Shot Chart Detail,1029800021,85,100243,Olympia Scott,1611661319,Utah Starzz,1,8,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980621,NYL,UTA,1998-99
+Shot Chart Detail,1029800025,217,100243,Olympia Scott,1611661319,Utah Starzz,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,98,196,1,0,19980622,CLE,UTA,1998-99
+Shot Chart Detail,1029800025,420,100243,Olympia Scott,1611661319,Utah Starzz,2,2,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,10,1,1,19980622,CLE,UTA,1998-99
+Shot Chart Detail,1029800033,356,100243,Olympia Scott,1611661319,Utah Starzz,2,5,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980626,PHO,UTA,1998-99
+Shot Chart Detail,1029800033,400,100243,Olympia Scott,1611661319,Utah Starzz,2,1,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980626,PHO,UTA,1998-99
+Shot Chart Detail,1029800033,422,100243,Olympia Scott,1611661319,Utah Starzz,2,0,14,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,63,102,1,1,19980626,PHO,UTA,1998-99
+Shot Chart Detail,1029800033,424,100243,Olympia Scott,1611661319,Utah Starzz,2,0,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980626,PHO,UTA,1998-99
+Shot Chart Detail,1029800041,122,100243,Olympia Scott,1611661319,Utah Starzz,1,5,32,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,18,1,0,19980630,UTA,HOU,1998-99
+Shot Chart Detail,1029800046,137,100243,Olympia Scott,1611661319,Utah Starzz,1,5,16,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-46,31,1,1,19980702,LAS,UTA,1998-99
+Shot Chart Detail,1029800046,268,100243,Olympia Scott,1611661319,Utah Starzz,2,12,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-21,57,1,1,19980702,LAS,UTA,1998-99
+Shot Chart Detail,1029800046,284,100243,Olympia Scott,1611661319,Utah Starzz,2,10,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980702,LAS,UTA,1998-99
+Shot Chart Detail,1029800046,332,100243,Olympia Scott,1611661319,Utah Starzz,2,6,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980702,LAS,UTA,1998-99
+Shot Chart Detail,1029800046,349,100243,Olympia Scott,1611661319,Utah Starzz,2,5,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980702,LAS,UTA,1998-99
+Shot Chart Detail,1029800051,81,100243,Olympia Scott,1611661319,Utah Starzz,1,9,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,55,23,1,0,19980705,SAC,UTA,1998-99
+Shot Chart Detail,1029800051,294,100243,Olympia Scott,1611661319,Utah Starzz,2,6,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980705,SAC,UTA,1998-99
+Shot Chart Detail,1029800051,302,100243,Olympia Scott,1611661319,Utah Starzz,2,5,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980705,SAC,UTA,1998-99
+Shot Chart Detail,1029800051,304,100243,Olympia Scott,1611661319,Utah Starzz,2,5,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980705,SAC,UTA,1998-99
+Shot Chart Detail,1029800051,356,100243,Olympia Scott,1611661319,Utah Starzz,2,1,17,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-79,1,1,1,19980705,SAC,UTA,1998-99
+Shot Chart Detail,1029800051,360,100243,Olympia Scott,1611661319,Utah Starzz,2,0,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-76,18,1,0,19980705,SAC,UTA,1998-99
+Shot Chart Detail,1029800054,57,100243,Olympia Scott,1611661319,Utah Starzz,1,12,10,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,0,136,1,0,19980706,UTA,SAC,1998-99
+Shot Chart Detail,1029800054,247,100243,Olympia Scott,1611661319,Utah Starzz,2,14,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-96,51,1,0,19980706,UTA,SAC,1998-99
+Shot Chart Detail,1029800054,278,100243,Olympia Scott,1611661319,Utah Starzz,2,10,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980706,UTA,SAC,1998-99
+Shot Chart Detail,1029800054,283,100243,Olympia Scott,1611661319,Utah Starzz,2,9,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980706,UTA,SAC,1998-99
+Shot Chart Detail,1029800059,258,100243,Olympia Scott,1611661319,Utah Starzz,2,13,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,0,158,1,0,19980708,UTA,CHA,1998-99
+Shot Chart Detail,1029800059,279,100243,Olympia Scott,1611661319,Utah Starzz,2,11,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980708,UTA,CHA,1998-99
+Shot Chart Detail,1029800059,295,100243,Olympia Scott,1611661319,Utah Starzz,2,9,19,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,53,48,1,1,19980708,UTA,CHA,1998-99
+Shot Chart Detail,1029800065,93,100243,Olympia Scott,1611661319,Utah Starzz,1,8,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,57,5,1,0,19980711,HOU,UTA,1998-99
+Shot Chart Detail,1029800065,125,100243,Olympia Scott,1611661319,Utah Starzz,1,5,16,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,55,-1,1,1,19980711,HOU,UTA,1998-99
+Shot Chart Detail,1029800065,270,100243,Olympia Scott,1611661319,Utah Starzz,2,10,52,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980711,HOU,UTA,1998-99
+Shot Chart Detail,1029800065,293,100243,Olympia Scott,1611661319,Utah Starzz,2,7,40,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,29,1,1,19980711,HOU,UTA,1998-99
+Shot Chart Detail,1029800065,299,100243,Olympia Scott,1611661319,Utah Starzz,2,6,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,16,1,0,19980711,HOU,UTA,1998-99
+Shot Chart Detail,1029800069,77,100243,Olympia Scott,1611661319,Utah Starzz,1,10,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980713,UTA,DET,1998-99
+Shot Chart Detail,1029800069,89,100243,Olympia Scott,1611661319,Utah Starzz,1,8,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-10,61,1,0,19980713,UTA,DET,1998-99
+Shot Chart Detail,1029800077,245,100243,Olympia Scott,1611661319,Utah Starzz,2,15,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980717,DET,UTA,1998-99
+Shot Chart Detail,1029800082,136,100243,Olympia Scott,1611661319,Utah Starzz,1,4,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,3,1,0,19980719,WAS,UTA,1998-99
+Shot Chart Detail,1029800082,144,100243,Olympia Scott,1611661319,Utah Starzz,1,4,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,-8,1,1,19980719,WAS,UTA,1998-99
+Shot Chart Detail,1029800082,388,100243,Olympia Scott,1611661319,Utah Starzz,2,6,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980719,WAS,UTA,1998-99
+Shot Chart Detail,1029800082,390,100243,Olympia Scott,1611661319,Utah Starzz,2,5,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,89,38,1,1,19980719,WAS,UTA,1998-99
+Shot Chart Detail,1029800088,310,100243,Olympia Scott,1611661319,Utah Starzz,2,8,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980722,CHA,UTA,1998-99
+Shot Chart Detail,1029800088,316,100243,Olympia Scott,1611661319,Utah Starzz,2,6,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,53,0,1,0,19980722,CHA,UTA,1998-99
+Shot Chart Detail,1029800093,90,100243,Olympia Scott,1611661319,Utah Starzz,1,8,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-1,1,1,19980725,CLE,UTA,1998-99
+Shot Chart Detail,1029800093,108,100243,Olympia Scott,1611661319,Utah Starzz,1,6,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-81,36,1,0,19980725,CLE,UTA,1998-99
+Shot Chart Detail,1029800093,114,100243,Olympia Scott,1611661319,Utah Starzz,1,6,1,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,21,1,0,19980725,CLE,UTA,1998-99
+Shot Chart Detail,1029800093,128,100243,Olympia Scott,1611661319,Utah Starzz,1,4,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,93,40,1,0,19980725,CLE,UTA,1998-99
+Shot Chart Detail,1029800093,240,100243,Olympia Scott,1611661319,Utah Starzz,2,11,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,25,36,1,0,19980725,CLE,UTA,1998-99
+Shot Chart Detail,1029800093,260,100243,Olympia Scott,1611661319,Utah Starzz,2,10,9,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,23,1,1,19980725,CLE,UTA,1998-99
+Shot Chart Detail,1029800099,86,100243,Olympia Scott,1611661319,Utah Starzz,1,9,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,33,29,1,0,19980727,UTA,PHO,1998-99
+Shot Chart Detail,1029800099,169,100243,Olympia Scott,1611661319,Utah Starzz,1,0,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,38,42,1,1,19980727,UTA,PHO,1998-99
+Shot Chart Detail,1029800099,248,100243,Olympia Scott,1611661319,Utah Starzz,2,13,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980727,UTA,PHO,1998-99
+Shot Chart Detail,1029800099,308,100243,Olympia Scott,1611661319,Utah Starzz,2,9,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,38,143,1,0,19980727,UTA,PHO,1998-99
+Shot Chart Detail,1029800099,372,100243,Olympia Scott,1611661319,Utah Starzz,2,4,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980727,UTA,PHO,1998-99
+Shot Chart Detail,1029800104,104,100243,Olympia Scott,1611661319,Utah Starzz,1,7,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-87,42,1,0,19980730,HOU,UTA,1998-99
+Shot Chart Detail,1029800104,339,100243,Olympia Scott,1611661319,Utah Starzz,2,4,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,10,1,0,19980730,HOU,UTA,1998-99
+Shot Chart Detail,1029800104,341,100243,Olympia Scott,1611661319,Utah Starzz,2,4,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980730,HOU,UTA,1998-99
+Shot Chart Detail,1029800109,95,100243,Olympia Scott,1611661319,Utah Starzz,1,10,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,0,169,1,1,19980801,UTA,LAS,1998-99
+Shot Chart Detail,1029800109,114,100243,Olympia Scott,1611661319,Utah Starzz,1,7,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,74,51,1,0,19980801,UTA,LAS,1998-99
+Shot Chart Detail,1029800109,302,100243,Olympia Scott,1611661319,Utah Starzz,2,11,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,8,117,1,0,19980801,UTA,LAS,1998-99
+Shot Chart Detail,1029800109,348,100243,Olympia Scott,1611661319,Utah Starzz,2,5,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-23,57,1,0,19980801,UTA,LAS,1998-99
+Shot Chart Detail,1029800109,349,100243,Olympia Scott,1611661319,Utah Starzz,2,5,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980801,UTA,LAS,1998-99
+Shot Chart Detail,1029800109,365,100243,Olympia Scott,1611661319,Utah Starzz,2,4,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980801,UTA,LAS,1998-99
+Shot Chart Detail,1029800109,402,100243,Olympia Scott,1611661319,Utah Starzz,2,1,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-8,119,1,0,19980801,UTA,LAS,1998-99
+Shot Chart Detail,1029800109,409,100243,Olympia Scott,1611661319,Utah Starzz,2,0,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,3,205,1,0,19980801,UTA,LAS,1998-99
+Shot Chart Detail,1029800114,230,100243,Olympia Scott,1611661319,Utah Starzz,2,9,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,117,89,1,0,19980804,UTA,HOU,1998-99
+Shot Chart Detail,1029800114,255,100243,Olympia Scott,1611661319,Utah Starzz,2,7,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980804,UTA,HOU,1998-99
+Shot Chart Detail,1029800114,330,100243,Olympia Scott,1611661319,Utah Starzz,2,0,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-115,175,1,0,19980804,UTA,HOU,1998-99
+Shot Chart Detail,1029800120,72,100243,Olympia Scott,1611661319,Utah Starzz,1,12,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980806,UTA,CLE,1998-99
+Shot Chart Detail,1029800120,137,100243,Olympia Scott,1611661319,Utah Starzz,1,6,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980806,UTA,CLE,1998-99
+Shot Chart Detail,1029800120,225,100243,Olympia Scott,1611661319,Utah Starzz,2,15,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,-18,1,0,19980806,UTA,CLE,1998-99
+Shot Chart Detail,1029800120,239,100243,Olympia Scott,1611661319,Utah Starzz,2,14,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980806,UTA,CLE,1998-99
+Shot Chart Detail,1029800125,87,100243,Olympia Scott,1611661319,Utah Starzz,1,10,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,59,16,1,1,19980808,PHO,UTA,1998-99
+Shot Chart Detail,1029800125,130,100243,Olympia Scott,1611661319,Utah Starzz,1,7,46,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-48,18,1,1,19980808,PHO,UTA,1998-99
+Shot Chart Detail,1029800125,157,100243,Olympia Scott,1611661319,Utah Starzz,1,6,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,85,36,1,0,19980808,PHO,UTA,1998-99
+Shot Chart Detail,1029800125,168,100243,Olympia Scott,1611661319,Utah Starzz,1,4,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980808,PHO,UTA,1998-99
+Shot Chart Detail,1029800125,215,100243,Olympia Scott,1611661319,Utah Starzz,1,1,9,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,14,1,0,19980808,PHO,UTA,1998-99
+Shot Chart Detail,1029800125,280,100243,Olympia Scott,1611661319,Utah Starzz,2,14,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980808,PHO,UTA,1998-99
+Shot Chart Detail,1029800125,284,100243,Olympia Scott,1611661319,Utah Starzz,2,13,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-111,181,1,1,19980808,PHO,UTA,1998-99
+Shot Chart Detail,1029800125,312,100243,Olympia Scott,1611661319,Utah Starzz,2,10,2,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-23,31,1,0,19980808,PHO,UTA,1998-99
+Shot Chart Detail,1029800129,87,100243,Olympia Scott,1611661319,Utah Starzz,1,10,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,87,169,1,1,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,124,100243,Olympia Scott,1611661319,Utah Starzz,1,6,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,1,160,1,0,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,172,100243,Olympia Scott,1611661319,Utah Starzz,1,2,34,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,76,42,1,1,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,273,100243,Olympia Scott,1611661319,Utah Starzz,2,14,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-36,66,1,0,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,296,100243,Olympia Scott,1611661319,Utah Starzz,2,12,39,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,12,1,0,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,318,100243,Olympia Scott,1611661319,Utah Starzz,2,11,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-40,119,1,1,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,328,100243,Olympia Scott,1611661319,Utah Starzz,2,9,50,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,20,31,1,0,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,330,100243,Olympia Scott,1611661319,Utah Starzz,2,9,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,78,117,1,1,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800134,149,100243,Olympia Scott,1611661319,Utah Starzz,1,3,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,113,70,1,0,19980812,UTA,SAC,1998-99
+Shot Chart Detail,1029800134,159,100243,Olympia Scott,1611661319,Utah Starzz,1,3,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,18,1,1,19980812,UTA,SAC,1998-99
+Shot Chart Detail,1029800134,162,100243,Olympia Scott,1611661319,Utah Starzz,1,3,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980812,UTA,SAC,1998-99
+Shot Chart Detail,1029800134,186,100243,Olympia Scott,1611661319,Utah Starzz,1,0,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980812,UTA,SAC,1998-99
+Shot Chart Detail,1029800134,396,100243,Olympia Scott,1611661319,Utah Starzz,2,1,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980812,UTA,SAC,1998-99
+Shot Chart Detail,1029800134,398,100243,Olympia Scott,1611661319,Utah Starzz,2,1,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980812,UTA,SAC,1998-99
+Shot Chart Detail,1029800134,422,100243,Olympia Scott,1611661319,Utah Starzz,2,0,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,138,70,1,0,19980812,UTA,SAC,1998-99
+Shot Chart Detail,1029800138,16,100243,Olympia Scott,1611661319,Utah Starzz,1,18,56,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,35,81,1,0,19980814,LAS,UTA,1998-99
+Shot Chart Detail,1029800138,51,100243,Olympia Scott,1611661319,Utah Starzz,1,15,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,121,63,1,0,19980814,LAS,UTA,1998-99
+Shot Chart Detail,1029800138,136,100243,Olympia Scott,1611661319,Utah Starzz,1,8,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-111,33,1,0,19980814,LAS,UTA,1998-99
+Shot Chart Detail,1029800138,151,100243,Olympia Scott,1611661319,Utah Starzz,1,7,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-51,46,1,0,19980814,LAS,UTA,1998-99
+Shot Chart Detail,1029800138,154,100243,Olympia Scott,1611661319,Utah Starzz,1,6,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,46,44,1,0,19980814,LAS,UTA,1998-99
+Shot Chart Detail,1029800138,165,100243,Olympia Scott,1611661319,Utah Starzz,1,6,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,98,3,1,0,19980814,LAS,UTA,1998-99
+Shot Chart Detail,1029800138,278,100243,Olympia Scott,1611661319,Utah Starzz,2,14,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980814,LAS,UTA,1998-99
+Shot Chart Detail,1029800138,413,100243,Olympia Scott,1611661319,Utah Starzz,2,1,52,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-66,36,1,1,19980814,LAS,UTA,1998-99
+Shot Chart Detail,1029800141,313,100243,Olympia Scott,1611661319,Utah Starzz,2,8,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,76,27,1,0,19980815,SAC,UTA,1998-99
+Shot Chart Detail,1029800141,391,100243,Olympia Scott,1611661319,Utah Starzz,2,0,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,85,44,1,0,19980815,SAC,UTA,1998-99
+Shot Chart Detail,1029800146,104,100243,Olympia Scott,1611661319,Utah Starzz,1,8,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980817,UTA,PHO,1998-99
+Shot Chart Detail,1029800146,124,100243,Olympia Scott,1611661319,Utah Starzz,1,7,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980817,UTA,PHO,1998-99
+Shot Chart Detail,1029800146,128,100243,Olympia Scott,1611661319,Utah Starzz,1,7,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,44,55,1,1,19980817,UTA,PHO,1998-99
+Shot Chart Detail,1029800146,224,100243,Olympia Scott,1611661319,Utah Starzz,1,1,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980817,UTA,PHO,1998-99
+Shot Chart Detail,1029800146,239,100243,Olympia Scott,1611661319,Utah Starzz,2,16,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980817,UTA,PHO,1998-99
+Shot Chart Detail,1029800146,256,100243,Olympia Scott,1611661319,Utah Starzz,2,14,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980817,UTA,PHO,1998-99
+Shot Chart Detail,1029800146,263,100243,Olympia Scott,1611661319,Utah Starzz,2,13,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-3,96,1,0,19980817,UTA,PHO,1998-99
+Shot Chart Detail,1029800146,272,100243,Olympia Scott,1611661319,Utah Starzz,2,13,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980817,UTA,PHO,1998-99
+Shot Chart Detail,1029800146,279,100243,Olympia Scott,1611661319,Utah Starzz,2,12,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,27,78,1,0,19980817,UTA,PHO,1998-99
+Shot Chart Detail,1029800146,377,100243,Olympia Scott,1611661319,Utah Starzz,2,3,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980817,UTA,PHO,1998-99

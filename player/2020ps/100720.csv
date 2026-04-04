@@ -1,0 +1,52 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1042000311,22,100720,Sue Bird,1611661328,Seattle Storm,1,8,10,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,-17,1,1,20200922,SEA,MIN,2020-21
+Shot Chart Detail,1042000311,222,100720,Sue Bird,1611661328,Seattle Storm,2,3,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-159,205,1,0,20200922,SEA,MIN,2020-21
+Shot Chart Detail,1042000311,253,100720,Sue Bird,1611661328,Seattle Storm,2,0,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,41,43,1,1,20200922,SEA,MIN,2020-21
+Shot Chart Detail,1042000311,261,100720,Sue Bird,1611661328,Seattle Storm,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,47,196,437,1,0,20200922,SEA,MIN,2020-21
+Shot Chart Detail,1042000311,294,100720,Sue Bird,1611661328,Seattle Storm,3,6,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-82,237,1,0,20200922,SEA,MIN,2020-21
+Shot Chart Detail,1042000311,298,100720,Sue Bird,1611661328,Seattle Storm,3,6,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-111,243,1,0,20200922,SEA,MIN,2020-21
+Shot Chart Detail,1042000311,321,100720,Sue Bird,1611661328,Seattle Storm,3,5,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-134,233,1,0,20200922,SEA,MIN,2020-21
+Shot Chart Detail,1042000311,438,100720,Sue Bird,1611661328,Seattle Storm,4,6,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,25,259,1,1,20200922,SEA,MIN,2020-21
+Shot Chart Detail,1042000311,483,100720,Sue Bird,1611661328,Seattle Storm,4,2,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,100,234,1,1,20200922,SEA,MIN,2020-21
+Shot Chart Detail,1042000311,486,100720,Sue Bird,1611661328,Seattle Storm,4,2,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-219,101,1,0,20200922,SEA,MIN,2020-21
+Shot Chart Detail,1042000312,22,100720,Sue Bird,1611661328,Seattle Storm,1,8,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-143,194,1,1,20200924,SEA,MIN,2020-21
+Shot Chart Detail,1042000312,70,100720,Sue Bird,1611661328,Seattle Storm,1,3,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-4,243,1,0,20200924,SEA,MIN,2020-21
+Shot Chart Detail,1042000312,203,100720,Sue Bird,1611661328,Seattle Storm,2,5,33,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,11,167,1,0,20200924,SEA,MIN,2020-21
+Shot Chart Detail,1042000312,281,100720,Sue Bird,1611661328,Seattle Storm,3,8,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-148,213,1,0,20200924,SEA,MIN,2020-21
+Shot Chart Detail,1042000312,292,100720,Sue Bird,1611661328,Seattle Storm,3,7,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,92,153,1,1,20200924,SEA,MIN,2020-21
+Shot Chart Detail,1042000312,316,100720,Sue Bird,1611661328,Seattle Storm,3,5,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-146,229,1,0,20200924,SEA,MIN,2020-21
+Shot Chart Detail,1042000312,330,100720,Sue Bird,1611661328,Seattle Storm,3,4,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-154,210,1,0,20200924,SEA,MIN,2020-21
+Shot Chart Detail,1042000312,466,100720,Sue Bird,1611661328,Seattle Storm,4,3,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-86,250,1,0,20200924,SEA,MIN,2020-21
+Shot Chart Detail,1042000313,11,100720,Sue Bird,1611661328,Seattle Storm,1,9,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-188,158,1,0,20200927,MIN,SEA,2020-21
+Shot Chart Detail,1042000313,20,100720,Sue Bird,1611661328,Seattle Storm,1,8,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,23,-228,50,1,1,20200927,MIN,SEA,2020-21
+Shot Chart Detail,1042000313,48,100720,Sue Bird,1611661328,Seattle Storm,1,6,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-100,227,1,0,20200927,MIN,SEA,2020-21
+Shot Chart Detail,1042000313,78,100720,Sue Bird,1611661328,Seattle Storm,1,3,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,6,252,1,0,20200927,MIN,SEA,2020-21
+Shot Chart Detail,1042000313,82,100720,Sue Bird,1611661328,Seattle Storm,1,3,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-136,45,1,0,20200927,MIN,SEA,2020-21
+Shot Chart Detail,1042000313,86,100720,Sue Bird,1611661328,Seattle Storm,1,2,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,23,-224,54,1,1,20200927,MIN,SEA,2020-21
+Shot Chart Detail,1042000313,176,100720,Sue Bird,1611661328,Seattle Storm,2,6,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,164,160,1,0,20200927,MIN,SEA,2020-21
+Shot Chart Detail,1042000313,276,100720,Sue Bird,1611661328,Seattle Storm,2,0,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,-72,224,1,1,20200927,MIN,SEA,2020-21
+Shot Chart Detail,1042000313,321,100720,Sue Bird,1611661328,Seattle Storm,3,7,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,195,172,1,0,20200927,MIN,SEA,2020-21
+Shot Chart Detail,1042000313,346,100720,Sue Bird,1611661328,Seattle Storm,3,5,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-204,105,1,0,20200927,MIN,SEA,2020-21
+Shot Chart Detail,1042000313,349,100720,Sue Bird,1611661328,Seattle Storm,3,4,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,86,199,1,0,20200927,MIN,SEA,2020-21
+Shot Chart Detail,1042000313,496,100720,Sue Bird,1611661328,Seattle Storm,4,5,24,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,11,51,1,1,20200927,MIN,SEA,2020-21
+Shot Chart Detail,1042000313,517,100720,Sue Bird,1611661328,Seattle Storm,4,3,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-129,20,1,1,20200927,MIN,SEA,2020-21
+Shot Chart Detail,1042000401,41,100720,Sue Bird,1611661328,Seattle Storm,1,6,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,39,249,1,0,20201002,LVA,SEA,2020-21
+Shot Chart Detail,1042000401,156,100720,Sue Bird,1611661328,Seattle Storm,2,9,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,90,189,1,0,20201002,LVA,SEA,2020-21
+Shot Chart Detail,1042000401,186,100720,Sue Bird,1611661328,Seattle Storm,2,7,31,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,5,1,1,20201002,LVA,SEA,2020-21
+Shot Chart Detail,1042000401,399,100720,Sue Bird,1611661328,Seattle Storm,3,2,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-23,246,1,0,20201002,LVA,SEA,2020-21
+Shot Chart Detail,1042000401,482,100720,Sue Bird,1611661328,Seattle Storm,4,6,13,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,-4,238,1,0,20201002,LVA,SEA,2020-21
+Shot Chart Detail,1042000402,7,100720,Sue Bird,1611661328,Seattle Storm,1,9,45,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,70,171,1,1,20201004,LVA,SEA,2020-21
+Shot Chart Detail,1042000402,42,100720,Sue Bird,1611661328,Seattle Storm,1,6,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-183,146,1,1,20201004,LVA,SEA,2020-21
+Shot Chart Detail,1042000402,219,100720,Sue Bird,1611661328,Seattle Storm,2,3,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,111,226,1,0,20201004,LVA,SEA,2020-21
+Shot Chart Detail,1042000402,259,100720,Sue Bird,1611661328,Seattle Storm,2,1,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,23,-193,130,1,0,20201004,LVA,SEA,2020-21
+Shot Chart Detail,1042000402,263,100720,Sue Bird,1611661328,Seattle Storm,2,1,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-121,206,1,0,20201004,LVA,SEA,2020-21
+Shot Chart Detail,1042000402,322,100720,Sue Bird,1611661328,Seattle Storm,3,6,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,5,34,1,1,20201004,LVA,SEA,2020-21
+Shot Chart Detail,1042000402,327,100720,Sue Bird,1611661328,Seattle Storm,3,6,19,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-81,228,1,1,20201004,LVA,SEA,2020-21
+Shot Chart Detail,1042000402,480,100720,Sue Bird,1611661328,Seattle Storm,4,4,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,23,-229,39,1,1,20201004,LVA,SEA,2020-21
+Shot Chart Detail,1042000402,498,100720,Sue Bird,1611661328,Seattle Storm,4,2,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),24+ ft.,23,222,61,1,1,20201004,LVA,SEA,2020-21
+Shot Chart Detail,1042000403,13,100720,Sue Bird,1611661328,Seattle Storm,1,9,20,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-110,206,1,0,20201006,SEA,LVA,2020-21
+Shot Chart Detail,1042000403,177,100720,Sue Bird,1611661328,Seattle Storm,2,7,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-144,210,1,0,20201006,SEA,LVA,2020-21
+Shot Chart Detail,1042000403,212,100720,Sue Bird,1611661328,Seattle Storm,2,4,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-78,170,1,0,20201006,SEA,LVA,2020-21
+Shot Chart Detail,1042000403,221,100720,Sue Bird,1611661328,Seattle Storm,2,3,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-86,139,1,1,20201006,SEA,LVA,2020-21
+Shot Chart Detail,1042000403,250,100720,Sue Bird,1611661328,Seattle Storm,2,1,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-14,268,1,0,20201006,SEA,LVA,2020-21
+Shot Chart Detail,1042000403,292,100720,Sue Bird,1611661328,Seattle Storm,3,8,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-86,233,1,1,20201006,SEA,LVA,2020-21

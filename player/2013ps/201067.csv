@@ -1,0 +1,20 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1041300121,14,201067,Camille Smith,1611661328,Seattle Storm,1,8,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,1,1,0,20130920,MIN,SEA,2013-14
+Shot Chart Detail,1041300121,37,201067,Camille Smith,1611661328,Seattle Storm,1,5,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-142,179,1,1,20130920,MIN,SEA,2013-14
+Shot Chart Detail,1041300121,66,201067,Camille Smith,1611661328,Seattle Storm,1,2,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,6,1,1,20130920,MIN,SEA,2013-14
+Shot Chart Detail,1041300121,101,201067,Camille Smith,1611661328,Seattle Storm,2,9,33,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,20,26,1,0,20130920,MIN,SEA,2013-14
+Shot Chart Detail,1041300121,150,201067,Camille Smith,1611661328,Seattle Storm,2,5,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,12,1,0,20130920,MIN,SEA,2013-14
+Shot Chart Detail,1041300121,145,201067,Camille Smith,1611661328,Seattle Storm,2,5,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,111,175,1,0,20130920,MIN,SEA,2013-14
+Shot Chart Detail,1041300121,266,201067,Camille Smith,1611661328,Seattle Storm,3,5,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,12,1,0,20130920,MIN,SEA,2013-14
+Shot Chart Detail,1041300121,293,201067,Camille Smith,1611661328,Seattle Storm,3,1,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,92,213,1,0,20130920,MIN,SEA,2013-14
+Shot Chart Detail,1041300121,300,201067,Camille Smith,1611661328,Seattle Storm,3,0,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,17,1,0,20130920,MIN,SEA,2013-14
+Shot Chart Detail,1041300121,303,201067,Camille Smith,1611661328,Seattle Storm,3,0,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,3,1,1,20130920,MIN,SEA,2013-14
+Shot Chart Detail,1041300122,31,201067,Camille Smith,1611661328,Seattle Storm,1,6,41,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-4,55,1,1,20130922,SEA,MIN,2013-14
+Shot Chart Detail,1041300122,82,201067,Camille Smith,1611661328,Seattle Storm,1,1,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-2,1,0,20130922,SEA,MIN,2013-14
+Shot Chart Detail,1041300122,101,201067,Camille Smith,1611661328,Seattle Storm,1,0,10,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,0,1,1,20130922,SEA,MIN,2013-14
+Shot Chart Detail,1041300122,103,201067,Camille Smith,1611661328,Seattle Storm,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,38,0,389,1,0,20130922,SEA,MIN,2013-14
+Shot Chart Detail,1041300122,125,201067,Camille Smith,1611661328,Seattle Storm,2,8,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,47,78,1,0,20130922,SEA,MIN,2013-14
+Shot Chart Detail,1041300122,140,201067,Camille Smith,1611661328,Seattle Storm,2,6,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-79,224,1,0,20130922,SEA,MIN,2013-14
+Shot Chart Detail,1041300122,223,201067,Camille Smith,1611661328,Seattle Storm,3,6,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,-6,1,1,20130922,SEA,MIN,2013-14
+Shot Chart Detail,1041300122,262,201067,Camille Smith,1611661328,Seattle Storm,3,3,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,62,41,1,0,20130922,SEA,MIN,2013-14
+Shot Chart Detail,1041300122,357,201067,Camille Smith,1611661328,Seattle Storm,4,4,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,4,1,1,20130922,SEA,MIN,2013-14

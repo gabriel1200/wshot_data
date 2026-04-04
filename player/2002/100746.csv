@@ -1,0 +1,11 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020200045,136,100746,Linda Frohlich,1611661313,New York Liberty,1,4,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,4,1,0,20020611,UTA,NYL,2002-03
+Shot Chart Detail,1020200062,161,100746,Linda Frohlich,1611661313,New York Liberty,1,1,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,20,-195,57,1,0,20020618,NYL,ORL,2002-03
+Shot Chart Detail,1020200086,100,100746,Linda Frohlich,1611661313,New York Liberty,1,7,24,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,1,99,1,0,20020625,NYL,IND,2002-03
+Shot Chart Detail,1020200086,104,100746,Linda Frohlich,1611661313,New York Liberty,1,6,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,43,200,1,0,20020625,NYL,IND,2002-03
+Shot Chart Detail,1020200086,114,100746,Linda Frohlich,1611661313,New York Liberty,1,6,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020625,NYL,IND,2002-03
+Shot Chart Detail,1020200086,272,100746,Linda Frohlich,1611661313,New York Liberty,2,7,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-75,194,1,0,20020625,NYL,IND,2002-03
+Shot Chart Detail,1020200098,58,100746,Linda Frohlich,1611661313,New York Liberty,1,10,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,-4,200,1,0,20020628,NYL,CLE,2002-03
+Shot Chart Detail,1020200138,151,100746,Linda Frohlich,1611661313,New York Liberty,1,2,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,155,7,1,0,20020710,DET,NYL,2002-03
+Shot Chart Detail,1020200174,349,100746,Linda Frohlich,1611661313,New York Liberty,2,2,24,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-4,78,1,1,20020722,NYL,CLE,2002-03
+Shot Chart Detail,1020200251,368,100746,Linda Frohlich,1611661313,New York Liberty,2,1,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020813,ORL,NYL,2002-03

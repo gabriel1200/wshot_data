@@ -1,0 +1,56 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020000023,87,100451,Jamie Cassidy,1611661326,Miami Sol,1,10,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-1,1,1,20000605,IND,MIA,2000-01
+Shot Chart Detail,1020000023,94,100451,Jamie Cassidy,1611661326,Miami Sol,1,9,12,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-3,31,1,1,20000605,IND,MIA,2000-01
+Shot Chart Detail,1020000023,109,100451,Jamie Cassidy,1611661326,Miami Sol,1,7,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-162,-1,1,0,20000605,IND,MIA,2000-01
+Shot Chart Detail,1020000023,114,100451,Jamie Cassidy,1611661326,Miami Sol,1,7,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,-8,1,1,20000605,IND,MIA,2000-01
+Shot Chart Detail,1020000023,123,100451,Jamie Cassidy,1611661326,Miami Sol,1,5,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-134,68,1,0,20000605,IND,MIA,2000-01
+Shot Chart Detail,1020000023,220,100451,Jamie Cassidy,1611661326,Miami Sol,2,15,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,-46,199,1,0,20000605,IND,MIA,2000-01
+Shot Chart Detail,1020000023,360,100451,Jamie Cassidy,1611661326,Miami Sol,2,5,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-162,141,1,1,20000605,IND,MIA,2000-01
+Shot Chart Detail,1020000023,362,100451,Jamie Cassidy,1611661326,Miami Sol,2,4,30,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-212,-1,1,0,20000605,IND,MIA,2000-01
+Shot Chart Detail,1020000023,399,100451,Jamie Cassidy,1611661326,Miami Sol,2,1,30,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,31,89,1,1,20000605,IND,MIA,2000-01
+Shot Chart Detail,1020000033,81,100451,Jamie Cassidy,1611661326,Miami Sol,1,9,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-3,145,1,0,20000608,MIA,WAS,2000-01
+Shot Chart Detail,1020000033,114,100451,Jamie Cassidy,1611661326,Miami Sol,1,6,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000608,MIA,WAS,2000-01
+Shot Chart Detail,1020000033,133,100451,Jamie Cassidy,1611661326,Miami Sol,1,4,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000608,MIA,WAS,2000-01
+Shot Chart Detail,1020000033,179,100451,Jamie Cassidy,1611661326,Miami Sol,1,0,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,1,141,1,0,20000608,MIA,WAS,2000-01
+Shot Chart Detail,1020000033,282,100451,Jamie Cassidy,1611661326,Miami Sol,2,7,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-158,162,1,0,20000608,MIA,WAS,2000-01
+Shot Chart Detail,1020000033,372,100451,Jamie Cassidy,1611661326,Miami Sol,2,0,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000608,MIA,WAS,2000-01
+Shot Chart Detail,1020000039,147,100451,Jamie Cassidy,1611661326,Miami Sol,1,2,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000610,MIA,MIN,2000-01
+Shot Chart Detail,1020000049,104,100451,Jamie Cassidy,1611661326,Miami Sol,1,9,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-55,25,1,0,20000613,MIA,DET,2000-01
+Shot Chart Detail,1020000056,120,100451,Jamie Cassidy,1611661326,Miami Sol,1,5,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000615,HOU,MIA,2000-01
+Shot Chart Detail,1020000056,129,100451,Jamie Cassidy,1611661326,Miami Sol,1,4,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,1,218,1,0,20000615,HOU,MIA,2000-01
+Shot Chart Detail,1020000056,283,100451,Jamie Cassidy,1611661326,Miami Sol,2,9,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-42,10,1,0,20000615,HOU,MIA,2000-01
+Shot Chart Detail,1020000056,319,100451,Jamie Cassidy,1611661326,Miami Sol,2,6,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-36,46,1,0,20000615,HOU,MIA,2000-01
+Shot Chart Detail,1020000056,353,100451,Jamie Cassidy,1611661326,Miami Sol,2,3,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-21,126,1,1,20000615,HOU,MIA,2000-01
+Shot Chart Detail,1020000061,96,100451,Jamie Cassidy,1611661326,Miami Sol,1,6,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,10,119,1,0,20000617,MIA,CLE,2000-01
+Shot Chart Detail,1020000061,111,100451,Jamie Cassidy,1611661326,Miami Sol,1,4,17,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000617,MIA,CLE,2000-01
+Shot Chart Detail,1020000066,84,100451,Jamie Cassidy,1611661326,Miami Sol,1,9,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,10,1,0,20000618,NYL,MIA,2000-01
+Shot Chart Detail,1020000089,338,100451,Jamie Cassidy,1611661326,Miami Sol,2,6,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,10,53,1,1,20000624,MIA,PHO,2000-01
+Shot Chart Detail,1020000089,366,100451,Jamie Cassidy,1611661326,Miami Sol,2,3,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,10,96,1,0,20000624,MIA,PHO,2000-01
+Shot Chart Detail,1020000089,393,100451,Jamie Cassidy,1611661326,Miami Sol,2,0,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,-1,1,0,20000624,MIA,PHO,2000-01
+Shot Chart Detail,1020000157,341,100451,Jamie Cassidy,1611661326,Miami Sol,2,2,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000713,MIA,WAS,2000-01
+Shot Chart Detail,1020000157,361,100451,Jamie Cassidy,1611661326,Miami Sol,2,1,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,106,96,1,0,20000713,MIA,WAS,2000-01
+Shot Chart Detail,1020000157,365,100451,Jamie Cassidy,1611661326,Miami Sol,2,0,24,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,57,1,0,20000713,MIA,WAS,2000-01
+Shot Chart Detail,1020000157,367,100451,Jamie Cassidy,1611661326,Miami Sol,2,0,20,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000713,MIA,WAS,2000-01
+Shot Chart Detail,1020000160,311,100451,Jamie Cassidy,1611661326,Miami Sol,2,6,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,53,48,1,0,20000714,DET,MIA,2000-01
+Shot Chart Detail,1020000183,307,100451,Jamie Cassidy,1611661326,Miami Sol,2,7,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-139,-14,1,1,20000722,CLE,MIA,2000-01
+Shot Chart Detail,1020000183,345,100451,Jamie Cassidy,1611661326,Miami Sol,2,2,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-1,40,1,1,20000722,CLE,MIA,2000-01
+Shot Chart Detail,1020000183,358,100451,Jamie Cassidy,1611661326,Miami Sol,2,1,5,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,27,18,1,0,20000722,CLE,MIA,2000-01
+Shot Chart Detail,1020000197,155,100451,Jamie Cassidy,1611661326,Miami Sol,1,4,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-70,51,1,0,20000726,DET,MIA,2000-01
+Shot Chart Detail,1020000197,232,100451,Jamie Cassidy,1611661326,Miami Sol,1,0,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,-8,1,0,20000726,DET,MIA,2000-01
+Shot Chart Detail,1020000197,366,100451,Jamie Cassidy,1611661326,Miami Sol,2,7,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000726,DET,MIA,2000-01
+Shot Chart Detail,1020000197,394,100451,Jamie Cassidy,1611661326,Miami Sol,2,5,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000726,DET,MIA,2000-01
+Shot Chart Detail,1020000205,302,100451,Jamie Cassidy,1611661326,Miami Sol,2,10,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-1,227,1,1,20000728,MIN,MIA,2000-01
+Shot Chart Detail,1020000205,398,100451,Jamie Cassidy,1611661326,Miami Sol,2,1,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-8,76,1,1,20000728,MIN,MIA,2000-01
+Shot Chart Detail,1020000205,405,100451,Jamie Cassidy,1611661326,Miami Sol,2,1,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,169,5,1,0,20000728,MIN,MIA,2000-01
+Shot Chart Detail,1020000215,85,100451,Jamie Cassidy,1611661326,Miami Sol,1,7,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,169,40,1,1,20000730,SEA,MIA,2000-01
+Shot Chart Detail,1020000215,108,100451,Jamie Cassidy,1611661326,Miami Sol,1,5,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,108,-3,1,1,20000730,SEA,MIA,2000-01
+Shot Chart Detail,1020000215,111,100451,Jamie Cassidy,1611661326,Miami Sol,1,4,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,1,1,0,20000730,SEA,MIA,2000-01
+Shot Chart Detail,1020000215,241,100451,Jamie Cassidy,1611661326,Miami Sol,2,8,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,-51,227,1,1,20000730,SEA,MIA,2000-01
+Shot Chart Detail,1020000225,147,100451,Jamie Cassidy,1611661326,Miami Sol,1,1,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,70,18,1,0,20000802,SAC,MIA,2000-01
+Shot Chart Detail,1020000225,194,100451,Jamie Cassidy,1611661326,Miami Sol,1,0,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,12,1,1,20000802,SAC,MIA,2000-01
+Shot Chart Detail,1020000225,208,100451,Jamie Cassidy,1611661326,Miami Sol,2,15,17,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,27,29,1,0,20000802,SAC,MIA,2000-01
+Shot Chart Detail,1020000225,210,100451,Jamie Cassidy,1611661326,Miami Sol,2,15,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,12,1,0,20000802,SAC,MIA,2000-01
+Shot Chart Detail,1020000225,295,100451,Jamie Cassidy,1611661326,Miami Sol,2,6,12,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,27,100,1,1,20000802,SAC,MIA,2000-01
+Shot Chart Detail,1020000225,349,100451,Jamie Cassidy,1611661326,Miami Sol,2,2,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,20,-175,106,1,1,20000802,SAC,MIA,2000-01
+Shot Chart Detail,1020000250,251,100451,Jamie Cassidy,1611661326,Miami Sol,2,7,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,156,8,1,0,20000809,MIA,ORL,2000-01
+Shot Chart Detail,1020000250,258,100451,Jamie Cassidy,1611661326,Miami Sol,2,6,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-3,106,1,0,20000809,MIA,ORL,2000-01

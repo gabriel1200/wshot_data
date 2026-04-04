@@ -1,0 +1,61 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1041300111,69,203410,Alex Bentley,1611661330,Atlanta Dream,1,2,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,4,1,0,20130919,ATL,WAS,2013-14
+Shot Chart Detail,1041300111,83,203410,Alex Bentley,1611661330,Atlanta Dream,1,1,28,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,11,1,0,20130919,ATL,WAS,2013-14
+Shot Chart Detail,1041300111,115,203410,Alex Bentley,1611661330,Atlanta Dream,2,9,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-123,140,1,0,20130919,ATL,WAS,2013-14
+Shot Chart Detail,1041300111,343,203410,Alex Bentley,1611661330,Atlanta Dream,4,8,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,32,178,1,0,20130919,ATL,WAS,2013-14
+Shot Chart Detail,1041300111,370,203410,Alex Bentley,1611661330,Atlanta Dream,4,5,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-23,247,1,0,20130919,ATL,WAS,2013-14
+Shot Chart Detail,1041300111,383,203410,Alex Bentley,1611661330,Atlanta Dream,4,4,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-38,225,1,0,20130919,ATL,WAS,2013-14
+Shot Chart Detail,1041300111,406,203410,Alex Bentley,1611661330,Atlanta Dream,4,2,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-71,235,1,0,20130919,ATL,WAS,2013-14
+Shot Chart Detail,1041300111,439,203410,Alex Bentley,1611661330,Atlanta Dream,4,0,2,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,9,1,1,20130919,ATL,WAS,2013-14
+Shot Chart Detail,1041300112,72,203410,Alex Bentley,1611661330,Atlanta Dream,1,1,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-2,1,0,20130921,WAS,ATL,2013-14
+Shot Chart Detail,1041300112,353,203410,Alex Bentley,1611661330,Atlanta Dream,3,0,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,17,1,0,20130921,WAS,ATL,2013-14
+Shot Chart Detail,1041300113,125,203410,Alex Bentley,1611661330,Atlanta Dream,2,9,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-164,176,1,0,20130923,ATL,WAS,2013-14
+Shot Chart Detail,1041300113,290,203410,Alex Bentley,1611661330,Atlanta Dream,3,4,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,95,153,1,1,20130923,ATL,WAS,2013-14
+Shot Chart Detail,1041300113,343,203410,Alex Bentley,1611661330,Atlanta Dream,3,0,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-81,162,1,0,20130923,ATL,WAS,2013-14
+Shot Chart Detail,1041300201,88,203410,Alex Bentley,1611661330,Atlanta Dream,1,0,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-76,231,1,0,20130926,ATL,IND,2013-14
+Shot Chart Detail,1041300201,110,203410,Alex Bentley,1611661330,Atlanta Dream,2,8,21,Made Shot,Driving Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-89,60,1,1,20130926,ATL,IND,2013-14
+Shot Chart Detail,1041300201,169,203410,Alex Bentley,1611661330,Atlanta Dream,2,2,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,23,218,88,1,0,20130926,ATL,IND,2013-14
+Shot Chart Detail,1041300201,286,203410,Alex Bentley,1611661330,Atlanta Dream,3,2,47,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,7,1,0,20130926,ATL,IND,2013-14
+Shot Chart Detail,1041300201,306,203410,Alex Bentley,1611661330,Atlanta Dream,3,0,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,91,164,1,1,20130926,ATL,IND,2013-14
+Shot Chart Detail,1041300201,322,203410,Alex Bentley,1611661330,Atlanta Dream,4,8,46,Missed Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,65,58,1,0,20130926,ATL,IND,2013-14
+Shot Chart Detail,1041300202,68,203410,Alex Bentley,1611661330,Atlanta Dream,1,2,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,-8,1,0,20130929,IND,ATL,2013-14
+Shot Chart Detail,1041300202,89,203410,Alex Bentley,1611661330,Atlanta Dream,1,0,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,21,235,1,0,20130929,IND,ATL,2013-14
+Shot Chart Detail,1041300202,105,203410,Alex Bentley,1611661330,Atlanta Dream,2,9,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,-8,1,0,20130929,IND,ATL,2013-14
+Shot Chart Detail,1041300202,150,203410,Alex Bentley,1611661330,Atlanta Dream,2,5,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,147,91,1,0,20130929,IND,ATL,2013-14
+Shot Chart Detail,1041300202,299,203410,Alex Bentley,1611661330,Atlanta Dream,3,3,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,-27,1,1,20130929,IND,ATL,2013-14
+Shot Chart Detail,1041300202,330,203410,Alex Bentley,1611661330,Atlanta Dream,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,34,-92,334,1,0,20130929,IND,ATL,2013-14
+Shot Chart Detail,1041300202,340,203410,Alex Bentley,1611661330,Atlanta Dream,4,9,28,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,15,1,0,20130929,IND,ATL,2013-14
+Shot Chart Detail,1041300202,375,203410,Alex Bentley,1611661330,Atlanta Dream,4,6,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-4,-24,1,0,20130929,IND,ATL,2013-14
+Shot Chart Detail,1041300301,97,203410,Alex Bentley,1611661330,Atlanta Dream,2,9,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,-16,235,1,0,20131006,MIN,ATL,2013-14
+Shot Chart Detail,1041300301,106,203410,Alex Bentley,1611661330,Atlanta Dream,2,8,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-149,20,1,0,20131006,MIN,ATL,2013-14
+Shot Chart Detail,1041300301,184,203410,Alex Bentley,1611661330,Atlanta Dream,2,0,55,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-79,56,1,1,20131006,MIN,ATL,2013-14
+Shot Chart Detail,1041300301,292,203410,Alex Bentley,1611661330,Atlanta Dream,3,2,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-97,123,1,0,20131006,MIN,ATL,2013-14
+Shot Chart Detail,1041300301,299,203410,Alex Bentley,1611661330,Atlanta Dream,3,1,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,6,1,1,20131006,MIN,ATL,2013-14
+Shot Chart Detail,1041300301,317,203410,Alex Bentley,1611661330,Atlanta Dream,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,60,226,561,1,0,20131006,MIN,ATL,2013-14
+Shot Chart Detail,1041300301,363,203410,Alex Bentley,1611661330,Atlanta Dream,4,4,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,37,227,1,0,20131006,MIN,ATL,2013-14
+Shot Chart Detail,1041300301,383,203410,Alex Bentley,1611661330,Atlanta Dream,4,3,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,23,-198,118,1,0,20131006,MIN,ATL,2013-14
+Shot Chart Detail,1041300301,403,203410,Alex Bentley,1611661330,Atlanta Dream,4,1,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-45,195,1,0,20131006,MIN,ATL,2013-14
+Shot Chart Detail,1041300302,80,203410,Alex Bentley,1611661330,Atlanta Dream,1,1,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-177,-13,1,0,20131008,MIN,ATL,2013-14
+Shot Chart Detail,1041300302,101,203410,Alex Bentley,1611661330,Atlanta Dream,1,0,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,0,198,1,1,20131008,MIN,ATL,2013-14
+Shot Chart Detail,1041300302,120,203410,Alex Bentley,1611661330,Atlanta Dream,2,9,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-163,105,1,1,20131008,MIN,ATL,2013-14
+Shot Chart Detail,1041300302,136,203410,Alex Bentley,1611661330,Atlanta Dream,2,7,15,Missed Shot,Driving Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,17,36,1,0,20131008,MIN,ATL,2013-14
+Shot Chart Detail,1041300302,148,203410,Alex Bentley,1611661330,Atlanta Dream,2,6,12,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,11,1,0,20131008,MIN,ATL,2013-14
+Shot Chart Detail,1041300302,184,203410,Alex Bentley,1611661330,Atlanta Dream,2,4,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,24,184,1,0,20131008,MIN,ATL,2013-14
+Shot Chart Detail,1041300302,187,203410,Alex Bentley,1611661330,Atlanta Dream,2,3,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,23,198,131,1,1,20131008,MIN,ATL,2013-14
+Shot Chart Detail,1041300302,316,203410,Alex Bentley,1611661330,Atlanta Dream,3,2,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,144,176,1,0,20131008,MIN,ATL,2013-14
+Shot Chart Detail,1041300302,330,203410,Alex Bentley,1611661330,Atlanta Dream,3,1,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-59,220,1,0,20131008,MIN,ATL,2013-14
+Shot Chart Detail,1041300302,458,203410,Alex Bentley,1611661330,Atlanta Dream,4,0,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-32,186,1,0,20131008,MIN,ATL,2013-14
+Shot Chart Detail,1041300303,101,203410,Alex Bentley,1611661330,Atlanta Dream,1,0,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-40,271,1,1,20131010,ATL,MIN,2013-14
+Shot Chart Detail,1041300303,121,203410,Alex Bentley,1611661330,Atlanta Dream,2,9,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-51,241,1,1,20131010,ATL,MIN,2013-14
+Shot Chart Detail,1041300303,193,203410,Alex Bentley,1611661330,Atlanta Dream,2,3,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-21,203,1,0,20131010,ATL,MIN,2013-14
+Shot Chart Detail,1041300303,214,203410,Alex Bentley,1611661330,Atlanta Dream,2,1,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,80,227,1,0,20131010,ATL,MIN,2013-14
+Shot Chart Detail,1041300303,224,203410,Alex Bentley,1611661330,Atlanta Dream,2,0,3,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-45,30,1,1,20131010,ATL,MIN,2013-14
+Shot Chart Detail,1041300303,307,203410,Alex Bentley,1611661330,Atlanta Dream,3,3,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-67,153,1,0,20131010,ATL,MIN,2013-14
+Shot Chart Detail,1041300303,346,203410,Alex Bentley,1611661330,Atlanta Dream,3,1,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-116,138,1,0,20131010,ATL,MIN,2013-14
+Shot Chart Detail,1041300303,356,203410,Alex Bentley,1611661330,Atlanta Dream,3,0,18,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-26,22,1,1,20131010,ATL,MIN,2013-14
+Shot Chart Detail,1041300303,367,203410,Alex Bentley,1611661330,Atlanta Dream,4,9,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,81,142,1,0,20131010,ATL,MIN,2013-14
+Shot Chart Detail,1041300303,386,203410,Alex Bentley,1611661330,Atlanta Dream,4,7,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,105,26,1,1,20131010,ATL,MIN,2013-14
+Shot Chart Detail,1041300303,416,203410,Alex Bentley,1611661330,Atlanta Dream,4,4,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,1,1,1,20131010,ATL,MIN,2013-14
+Shot Chart Detail,1041300303,435,203410,Alex Bentley,1611661330,Atlanta Dream,4,2,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,119,209,1,1,20131010,ATL,MIN,2013-14
+Shot Chart Detail,1041300303,443,203410,Alex Bentley,1611661330,Atlanta Dream,4,1,52,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-26,23,1,0,20131010,ATL,MIN,2013-14
+Shot Chart Detail,1041300303,472,203410,Alex Bentley,1611661330,Atlanta Dream,4,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,95,224,1,0,20131010,ATL,MIN,2013-14

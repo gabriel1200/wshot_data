@@ -1,0 +1,48 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020100072,106,100255,Rachael Sporn,1611661321,Detroit Shock,1,8,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,4,1,1,20010622,IND,DET,2001-02
+Shot Chart Detail,1020100072,111,100255,Rachael Sporn,1611661321,Detroit Shock,1,8,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,4,1,1,20010622,IND,DET,2001-02
+Shot Chart Detail,1020100072,152,100255,Rachael Sporn,1611661321,Detroit Shock,1,4,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-4,152,1,0,20010622,IND,DET,2001-02
+Shot Chart Detail,1020100072,208,100255,Rachael Sporn,1611661321,Detroit Shock,1,2,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-138,-4,1,0,20010622,IND,DET,2001-02
+Shot Chart Detail,1020100072,216,100255,Rachael Sporn,1611661321,Detroit Shock,1,0,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,85,11,1,0,20010622,IND,DET,2001-02
+Shot Chart Detail,1020100072,309,100255,Rachael Sporn,1611661321,Detroit Shock,2,8,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-18,38,1,0,20010622,IND,DET,2001-02
+Shot Chart Detail,1020100072,311,100255,Rachael Sporn,1611661321,Detroit Shock,2,8,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,4,1,0,20010622,IND,DET,2001-02
+Shot Chart Detail,1020100072,318,100255,Rachael Sporn,1611661321,Detroit Shock,2,7,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,108,-8,1,1,20010622,IND,DET,2001-02
+Shot Chart Detail,1020100077,45,100255,Rachael Sporn,1611661321,Detroit Shock,1,14,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,13,1,0,20010623,DET,IND,2001-02
+Shot Chart Detail,1020100077,73,100255,Rachael Sporn,1611661321,Detroit Shock,1,12,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-107,19,1,0,20010623,DET,IND,2001-02
+Shot Chart Detail,1020100077,81,100255,Rachael Sporn,1611661321,Detroit Shock,1,11,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010623,DET,IND,2001-02
+Shot Chart Detail,1020100088,118,100255,Rachael Sporn,1611661321,Detroit Shock,1,5,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010627,CHA,DET,2001-02
+Shot Chart Detail,1020100096,105,100255,Rachael Sporn,1611661321,Detroit Shock,1,9,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-65,85,1,1,20010629,DET,PHO,2001-02
+Shot Chart Detail,1020100096,118,100255,Rachael Sporn,1611661321,Detroit Shock,1,7,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010629,DET,PHO,2001-02
+Shot Chart Detail,1020100096,201,100255,Rachael Sporn,1611661321,Detroit Shock,1,2,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010629,DET,PHO,2001-02
+Shot Chart Detail,1020100096,293,100255,Rachael Sporn,1611661321,Detroit Shock,2,11,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010629,DET,PHO,2001-02
+Shot Chart Detail,1020100096,352,100255,Rachael Sporn,1611661321,Detroit Shock,2,6,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,32,68,1,0,20010629,DET,PHO,2001-02
+Shot Chart Detail,1020100106,10,100255,Rachael Sporn,1611661321,Detroit Shock,1,18,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-33,47,1,0,20010702,NYL,DET,2001-02
+Shot Chart Detail,1020100106,97,100255,Rachael Sporn,1611661321,Detroit Shock,1,7,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010702,NYL,DET,2001-02
+Shot Chart Detail,1020100106,179,100255,Rachael Sporn,1611661321,Detroit Shock,1,1,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-48,47,1,0,20010702,NYL,DET,2001-02
+Shot Chart Detail,1020100106,340,100255,Rachael Sporn,1611661321,Detroit Shock,2,2,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,-17,1,0,20010702,NYL,DET,2001-02
+Shot Chart Detail,1020100106,365,100255,Rachael Sporn,1611661321,Detroit Shock,2,0,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,106,23,1,0,20010702,NYL,DET,2001-02
+Shot Chart Detail,1020100117,115,100255,Rachael Sporn,1611661321,Detroit Shock,1,6,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-103,63,1,0,20010706,DET,CHA,2001-02
+Shot Chart Detail,1020100137,133,100255,Rachael Sporn,1611661321,Detroit Shock,1,4,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-77,28,1,1,20010711,WAS,DET,2001-02
+Shot Chart Detail,1020100144,251,100255,Rachael Sporn,1611661321,Detroit Shock,2,7,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-69,66,1,0,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100150,84,100255,Rachael Sporn,1611661321,Detroit Shock,1,8,22,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-12,108,1,0,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100155,383,100255,Rachael Sporn,1611661321,Detroit Shock,2,11,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010718,DET,NYL,2001-02
+Shot Chart Detail,1020100169,289,100255,Rachael Sporn,1611661321,Detroit Shock,2,10,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,0,112,1,0,20010721,SAC,DET,2001-02
+Shot Chart Detail,1020100172,174,100255,Rachael Sporn,1611661321,Detroit Shock,1,0,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-33,133,1,0,20010722,POR,DET,2001-02
+Shot Chart Detail,1020100172,176,100255,Rachael Sporn,1611661321,Detroit Shock,1,0,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010722,POR,DET,2001-02
+Shot Chart Detail,1020100178,220,100255,Rachael Sporn,1611661321,Detroit Shock,2,13,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,9,1,0,20010724,SEA,DET,2001-02
+Shot Chart Detail,1020100183,130,100255,Rachael Sporn,1611661321,Detroit Shock,1,4,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010726,PHO,DET,2001-02
+Shot Chart Detail,1020100183,275,100255,Rachael Sporn,1611661321,Detroit Shock,2,6,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,-4,1,0,20010726,PHO,DET,2001-02
+Shot Chart Detail,1020100189,81,100255,Rachael Sporn,1611661321,Detroit Shock,1,10,2,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010728,DET,CLE,2001-02
+Shot Chart Detail,1020100189,88,100255,Rachael Sporn,1611661321,Detroit Shock,1,8,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,4,1,0,20010728,DET,CLE,2001-02
+Shot Chart Detail,1020100195,285,100255,Rachael Sporn,1611661321,Detroit Shock,2,11,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010729,DET,ORL,2001-02
+Shot Chart Detail,1020100202,114,100255,Rachael Sporn,1611661321,Detroit Shock,1,6,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-82,26,1,0,20010801,NYL,DET,2001-02
+Shot Chart Detail,1020100202,273,100255,Rachael Sporn,1611661321,Detroit Shock,2,8,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-52,-32,1,1,20010801,NYL,DET,2001-02
+Shot Chart Detail,1020100202,292,100255,Rachael Sporn,1611661321,Detroit Shock,2,6,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,129,-8,1,0,20010801,NYL,DET,2001-02
+Shot Chart Detail,1020100215,114,100255,Rachael Sporn,1611661321,Detroit Shock,1,7,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-113,7,1,0,20010804,DET,POR,2001-02
+Shot Chart Detail,1020100235,295,100255,Rachael Sporn,1611661321,Detroit Shock,2,6,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-94,28,1,1,20010810,DET,WAS,2001-02
+Shot Chart Detail,1020100245,109,100255,Rachael Sporn,1611661321,Detroit Shock,1,8,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,32,133,1,0,20010812,IND,DET,2001-02
+Shot Chart Detail,1020100245,234,100255,Rachael Sporn,1611661321,Detroit Shock,2,13,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-94,-29,1,1,20010812,IND,DET,2001-02
+Shot Chart Detail,1020100245,236,100255,Rachael Sporn,1611661321,Detroit Shock,2,13,23,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-37,0,1,1,20010812,IND,DET,2001-02
+Shot Chart Detail,1020100253,122,100255,Rachael Sporn,1611661321,Detroit Shock,1,5,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-105,11,1,1,20010814,DET,CLE,2001-02
+Shot Chart Detail,1020100253,130,100255,Rachael Sporn,1611661321,Detroit Shock,1,4,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-111,34,1,1,20010814,DET,CLE,2001-02
+Shot Chart Detail,1020100253,280,100255,Rachael Sporn,1611661321,Detroit Shock,2,7,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,16,165,1,0,20010814,DET,CLE,2001-02

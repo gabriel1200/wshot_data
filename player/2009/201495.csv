@@ -1,0 +1,11 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020900009,80,201495,Khadijah Whittington,1611661325,Indiana Fever,1,0,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,12,1,0,20090607,IND,MIN,2009-10
+Shot Chart Detail,1020900009,276,201495,Khadijah Whittington,1611661325,Indiana Fever,3,2,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-112,26,1,0,20090607,IND,MIN,2009-10
+Shot Chart Detail,1020900009,289,201495,Khadijah Whittington,1611661325,Indiana Fever,3,2,3,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,9,45,1,1,20090607,IND,MIN,2009-10
+Shot Chart Detail,1020900009,312,201495,Khadijah Whittington,1611661325,Indiana Fever,4,9,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-29,154,1,0,20090607,IND,MIN,2009-10
+Shot Chart Detail,1020900009,319,201495,Khadijah Whittington,1611661325,Indiana Fever,4,8,50,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-79,58,1,1,20090607,IND,MIN,2009-10
+Shot Chart Detail,1020900009,332,201495,Khadijah Whittington,1611661325,Indiana Fever,4,6,49,Made Shot,Turnaround Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-119,48,1,1,20090607,IND,MIN,2009-10
+Shot Chart Detail,1020900009,411,201495,Khadijah Whittington,1611661325,Indiana Fever,4,0,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,9,1,1,20090607,IND,MIN,2009-10
+Shot Chart Detail,1020900012,288,201495,Khadijah Whittington,1611661325,Indiana Fever,3,3,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,125,63,1,0,20090609,IND,SEA,2009-10
+Shot Chart Detail,1020900012,371,201495,Khadijah Whittington,1611661325,Indiana Fever,4,7,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,-2,1,1,20090609,IND,SEA,2009-10
+Shot Chart Detail,1020900012,383,201495,Khadijah Whittington,1611661325,Indiana Fever,4,5,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-139,-13,1,1,20090609,IND,SEA,2009-10

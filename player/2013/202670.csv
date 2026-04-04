@@ -1,0 +1,43 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1021300006,60,202670,Carolyn Swords,1611661329,Chicago Sky,1,3,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-144,36,1,0,20130527,PHO,CHI,2013-14
+Shot Chart Detail,1021300006,118,202670,Carolyn Swords,1611661329,Chicago Sky,2,9,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,165,-16,1,1,20130527,PHO,CHI,2013-14
+Shot Chart Detail,1021300006,124,202670,Carolyn Swords,1611661329,Chicago Sky,2,8,36,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-8,74,1,1,20130527,PHO,CHI,2013-14
+Shot Chart Detail,1021300006,143,202670,Carolyn Swords,1611661329,Chicago Sky,2,6,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,14,1,1,20130527,PHO,CHI,2013-14
+Shot Chart Detail,1021300006,289,202670,Carolyn Swords,1611661329,Chicago Sky,3,2,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,3,1,0,20130527,PHO,CHI,2013-14
+Shot Chart Detail,1021300006,391,202670,Carolyn Swords,1611661329,Chicago Sky,4,4,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,1,20130527,PHO,CHI,2013-14
+Shot Chart Detail,1021300013,88,202670,Carolyn Swords,1611661329,Chicago Sky,1,1,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,14,1,1,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300019,73,202670,Carolyn Swords,1611661329,Chicago Sky,1,1,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,20,1,0,20130607,SAN,CHI,2013-14
+Shot Chart Detail,1021300019,74,202670,Carolyn Swords,1611661329,Chicago Sky,1,1,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,0,1,1,20130607,SAN,CHI,2013-14
+Shot Chart Detail,1021300019,413,202670,Carolyn Swords,1611661329,Chicago Sky,4,0,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,1,1,0,20130607,SAN,CHI,2013-14
+Shot Chart Detail,1021300025,68,202670,Carolyn Swords,1611661329,Chicago Sky,1,2,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,7,1,1,20130609,CHI,SAN,2013-14
+Shot Chart Detail,1021300034,374,202670,Carolyn Swords,1611661329,Chicago Sky,4,9,23,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,1,20130616,ATL,CHI,2013-14
+Shot Chart Detail,1021300034,430,202670,Carolyn Swords,1611661329,Chicago Sky,4,4,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,106,157,1,0,20130616,ATL,CHI,2013-14
+Shot Chart Detail,1021300034,474,202670,Carolyn Swords,1611661329,Chicago Sky,4,1,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-169,1,1,1,20130616,ATL,CHI,2013-14
+Shot Chart Detail,1021300039,119,202670,Carolyn Swords,1611661329,Chicago Sky,2,8,52,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-45,26,1,1,20130620,TUL,CHI,2013-14
+Shot Chart Detail,1021300039,125,202670,Carolyn Swords,1611661329,Chicago Sky,2,8,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,21,22,1,1,20130620,TUL,CHI,2013-14
+Shot Chart Detail,1021300043,104,202670,Carolyn Swords,1611661329,Chicago Sky,1,0,23,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,53,14,1,1,20130622,IND,CHI,2013-14
+Shot Chart Detail,1021300058,105,202670,Carolyn Swords,1611661329,Chicago Sky,1,0,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,1,1,1,20130629,CHI,LAS,2013-14
+Shot Chart Detail,1021300058,218,202670,Carolyn Swords,1611661329,Chicago Sky,2,0,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,6,1,1,20130629,CHI,LAS,2013-14
+Shot Chart Detail,1021300058,220,202670,Carolyn Swords,1611661329,Chicago Sky,2,0,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,9,1,0,20130629,CHI,LAS,2013-14
+Shot Chart Detail,1021300058,433,202670,Carolyn Swords,1611661329,Chicago Sky,4,2,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,17,1,1,20130629,CHI,LAS,2013-14
+Shot Chart Detail,1021300062,31,202670,Carolyn Swords,1611661329,Chicago Sky,1,7,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,12,1,1,20130702,CHI,SEA,2013-14
+Shot Chart Detail,1021300062,45,202670,Carolyn Swords,1611661329,Chicago Sky,1,5,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,23,20,1,0,20130702,CHI,SEA,2013-14
+Shot Chart Detail,1021300062,57,202670,Carolyn Swords,1611661329,Chicago Sky,1,4,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,14,1,1,20130702,CHI,SEA,2013-14
+Shot Chart Detail,1021300062,245,202670,Carolyn Swords,1611661329,Chicago Sky,3,8,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,1,63,1,0,20130702,CHI,SEA,2013-14
+Shot Chart Detail,1021300062,262,202670,Carolyn Swords,1611661329,Chicago Sky,3,7,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-98,44,1,0,20130702,CHI,SEA,2013-14
+Shot Chart Detail,1021300070,53,202670,Carolyn Swords,1611661329,Chicago Sky,1,4,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-10,22,1,1,20130707,NYL,CHI,2013-14
+Shot Chart Detail,1021300070,60,202670,Carolyn Swords,1611661329,Chicago Sky,1,4,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,12,48,1,0,20130707,NYL,CHI,2013-14
+Shot Chart Detail,1021300070,181,202670,Carolyn Swords,1611661329,Chicago Sky,2,4,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,23,1,0,20130707,NYL,CHI,2013-14
+Shot Chart Detail,1021300070,447,202670,Carolyn Swords,1611661329,Chicago Sky,4,3,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,17,1,1,20130707,NYL,CHI,2013-14
+Shot Chart Detail,1021300074,58,202670,Carolyn Swords,1611661329,Chicago Sky,1,4,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,6,1,0,20130710,CHI,WAS,2013-14
+Shot Chart Detail,1021300088,21,202670,Carolyn Swords,1611661329,Chicago Sky,1,7,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,0,1,1,20130718,NYL,CHI,2013-14
+Shot Chart Detail,1021300088,56,202670,Carolyn Swords,1611661329,Chicago Sky,1,4,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-41,52,1,0,20130718,NYL,CHI,2013-14
+Shot Chart Detail,1021300088,59,202670,Carolyn Swords,1611661329,Chicago Sky,1,4,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,14,1,1,20130718,NYL,CHI,2013-14
+Shot Chart Detail,1021300088,112,202670,Carolyn Swords,1611661329,Chicago Sky,2,9,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,121,61,1,0,20130718,NYL,CHI,2013-14
+Shot Chart Detail,1021300088,210,202670,Carolyn Swords,1611661329,Chicago Sky,2,1,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,200,3,1,0,20130718,NYL,CHI,2013-14
+Shot Chart Detail,1021300088,224,202670,Carolyn Swords,1611661329,Chicago Sky,3,9,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,17,1,1,20130718,NYL,CHI,2013-14
+Shot Chart Detail,1021300088,239,202670,Carolyn Swords,1611661329,Chicago Sky,3,7,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,17,1,1,20130718,NYL,CHI,2013-14
+Shot Chart Detail,1021300088,445,202670,Carolyn Swords,1611661329,Chicago Sky,4,2,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,7,1,1,20130718,NYL,CHI,2013-14
+Shot Chart Detail,1021300093,72,202670,Carolyn Swords,1611661329,Chicago Sky,1,3,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,12,1,1,20130720,CHI,NYL,2013-14
+Shot Chart Detail,1021300093,88,202670,Carolyn Swords,1611661329,Chicago Sky,1,2,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,26,1,1,20130720,CHI,NYL,2013-14
+Shot Chart Detail,1021300093,90,202670,Carolyn Swords,1611661329,Chicago Sky,1,1,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-116,110,1,0,20130720,CHI,NYL,2013-14

@@ -1,0 +1,163 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020100003,62,100656,Ruth Riley,1611661326,Miami Sol,1,10,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010531,MIA,NYL,2001-02
+Shot Chart Detail,1020100003,83,100656,Ruth Riley,1611661326,Miami Sol,1,8,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,16,80,1,0,20010531,MIA,NYL,2001-02
+Shot Chart Detail,1020100003,150,100656,Ruth Riley,1611661326,Miami Sol,1,1,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-69,13,1,0,20010531,MIA,NYL,2001-02
+Shot Chart Detail,1020100003,153,100656,Ruth Riley,1611661326,Miami Sol,1,1,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010531,MIA,NYL,2001-02
+Shot Chart Detail,1020100003,241,100656,Ruth Riley,1611661326,Miami Sol,2,10,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,40,1,0,20010531,MIA,NYL,2001-02
+Shot Chart Detail,1020100003,275,100656,Ruth Riley,1611661326,Miami Sol,2,6,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,22,101,1,0,20010531,MIA,NYL,2001-02
+Shot Chart Detail,1020100019,75,100656,Ruth Riley,1611661326,Miami Sol,1,11,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010605,MIA,IND,2001-02
+Shot Chart Detail,1020100019,133,100656,Ruth Riley,1611661326,Miami Sol,1,4,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-84,7,1,1,20010605,MIA,IND,2001-02
+Shot Chart Detail,1020100019,248,100656,Ruth Riley,1611661326,Miami Sol,2,10,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010605,MIA,IND,2001-02
+Shot Chart Detail,1020100019,301,100656,Ruth Riley,1611661326,Miami Sol,2,5,11,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,16,34,1,1,20010605,MIA,IND,2001-02
+Shot Chart Detail,1020100019,319,100656,Ruth Riley,1611661326,Miami Sol,2,3,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010605,MIA,IND,2001-02
+Shot Chart Detail,1020100027,86,100656,Ruth Riley,1611661326,Miami Sol,1,10,26,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,9,1,0,20010607,SEA,MIA,2001-02
+Shot Chart Detail,1020100027,277,100656,Ruth Riley,1611661326,Miami Sol,2,10,14,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,32,38,1,1,20010607,SEA,MIA,2001-02
+Shot Chart Detail,1020100027,300,100656,Ruth Riley,1611661326,Miami Sol,2,6,51,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-1,32,1,1,20010607,SEA,MIA,2001-02
+Shot Chart Detail,1020100027,351,100656,Ruth Riley,1611661326,Miami Sol,2,1,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010607,SEA,MIA,2001-02
+Shot Chart Detail,1020100034,67,100656,Ruth Riley,1611661326,Miami Sol,1,12,15,Made Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010609,SAC,MIA,2001-02
+Shot Chart Detail,1020100034,100,100656,Ruth Riley,1611661326,Miami Sol,1,9,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,32,28,1,0,20010609,SAC,MIA,2001-02
+Shot Chart Detail,1020100034,292,100656,Ruth Riley,1611661326,Miami Sol,2,9,2,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,3,59,1,1,20010609,SAC,MIA,2001-02
+Shot Chart Detail,1020100034,366,100656,Ruth Riley,1611661326,Miami Sol,2,3,24,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-1,59,1,1,20010609,SAC,MIA,2001-02
+Shot Chart Detail,1020100039,118,100656,Ruth Riley,1611661326,Miami Sol,1,4,50,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,43,80,1,0,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100039,239,100656,Ruth Riley,1611661326,Miami Sol,2,11,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,23,1,0,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100039,361,100656,Ruth Riley,1611661326,Miami Sol,3,4,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,19,1,0,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100052,304,100656,Ruth Riley,1611661326,Miami Sol,2,9,50,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,39,4,1,0,20010616,CLE,MIA,2001-02
+Shot Chart Detail,1020100052,375,100656,Ruth Riley,1611661326,Miami Sol,2,2,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,9,1,1,20010616,CLE,MIA,2001-02
+Shot Chart Detail,1020100052,396,100656,Ruth Riley,1611661326,Miami Sol,2,0,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,142,4,1,0,20010616,CLE,MIA,2001-02
+Shot Chart Detail,1020100058,90,100656,Ruth Riley,1611661326,Miami Sol,1,9,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-4,125,1,0,20010617,MIA,NYL,2001-02
+Shot Chart Detail,1020100058,93,100656,Ruth Riley,1611661326,Miami Sol,1,9,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,7,68,1,0,20010617,MIA,NYL,2001-02
+Shot Chart Detail,1020100068,72,100656,Ruth Riley,1611661326,Miami Sol,1,11,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,0,1,0,20010621,WAS,MIA,2001-02
+Shot Chart Detail,1020100068,123,100656,Ruth Riley,1611661326,Miami Sol,1,7,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,-13,1,1,20010621,WAS,MIA,2001-02
+Shot Chart Detail,1020100068,134,100656,Ruth Riley,1611661326,Miami Sol,1,5,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,0,1,1,20010621,WAS,MIA,2001-02
+Shot Chart Detail,1020100068,136,100656,Ruth Riley,1611661326,Miami Sol,1,4,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,108,-29,1,1,20010621,WAS,MIA,2001-02
+Shot Chart Detail,1020100068,263,100656,Ruth Riley,1611661326,Miami Sol,2,8,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,0,1,0,20010621,WAS,MIA,2001-02
+Shot Chart Detail,1020100073,107,100656,Ruth Riley,1611661326,Miami Sol,1,9,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-4,68,1,0,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,136,100656,Ruth Riley,1611661326,Miami Sol,1,6,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,30,68,1,0,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100082,89,100656,Ruth Riley,1611661326,Miami Sol,1,11,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,16,57,1,0,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100082,120,100656,Ruth Riley,1611661326,Miami Sol,1,7,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-54,0,1,1,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100082,141,100656,Ruth Riley,1611661326,Miami Sol,1,5,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,58,13,1,0,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100082,200,100656,Ruth Riley,1611661326,Miami Sol,1,0,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-63,13,1,0,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100082,264,100656,Ruth Riley,1611661326,Miami Sol,2,15,10,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,37,74,1,0,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100082,329,100656,Ruth Riley,1611661326,Miami Sol,2,7,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100082,350,100656,Ruth Riley,1611661326,Miami Sol,2,4,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-54,34,1,0,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100082,378,100656,Ruth Riley,1611661326,Miami Sol,2,2,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,37,118,1,0,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100090,78,100656,Ruth Riley,1611661326,Miami Sol,1,10,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,37,34,1,0,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,97,100656,Ruth Riley,1611661326,Miami Sol,1,8,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-4,85,1,1,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,173,100656,Ruth Riley,1611661326,Miami Sol,1,1,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-54,108,1,0,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100095,68,100656,Ruth Riley,1611661326,Miami Sol,1,10,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-138,80,1,1,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100095,70,100656,Ruth Riley,1611661326,Miami Sol,1,9,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100095,156,100656,Ruth Riley,1611661326,Miami Sol,1,1,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,7,34,1,0,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100095,217,100656,Ruth Riley,1611661326,Miami Sol,2,15,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-33,34,1,1,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100095,245,100656,Ruth Riley,1611661326,Miami Sol,2,11,37,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-27,51,1,0,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100095,262,100656,Ruth Riley,1611661326,Miami Sol,2,8,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-63,23,1,0,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100095,266,100656,Ruth Riley,1611661326,Miami Sol,2,8,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,23,1,0,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100095,278,100656,Ruth Riley,1611661326,Miami Sol,2,7,35,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,34,1,1,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100095,282,100656,Ruth Riley,1611661326,Miami Sol,2,6,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100105,142,100656,Ruth Riley,1611661326,Miami Sol,1,3,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100108,24,100656,Ruth Riley,1611661326,Miami Sol,1,17,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-6,59,1,1,20010702,UTA,MIA,2001-02
+Shot Chart Detail,1020100108,198,100656,Ruth Riley,1611661326,Miami Sol,2,16,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010702,UTA,MIA,2001-02
+Shot Chart Detail,1020100108,208,100656,Ruth Riley,1611661326,Miami Sol,2,15,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-58,9,1,0,20010702,UTA,MIA,2001-02
+Shot Chart Detail,1020100108,270,100656,Ruth Riley,1611661326,Miami Sol,2,7,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,41,87,1,0,20010702,UTA,MIA,2001-02
+Shot Chart Detail,1020100113,47,100656,Ruth Riley,1611661326,Miami Sol,1,13,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010704,PHO,MIA,2001-02
+Shot Chart Detail,1020100113,174,100656,Ruth Riley,1611661326,Miami Sol,1,2,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010704,PHO,MIA,2001-02
+Shot Chart Detail,1020100113,189,100656,Ruth Riley,1611661326,Miami Sol,2,16,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-4,49,1,1,20010704,PHO,MIA,2001-02
+Shot Chart Detail,1020100113,195,100656,Ruth Riley,1611661326,Miami Sol,2,15,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-18,150,1,0,20010704,PHO,MIA,2001-02
+Shot Chart Detail,1020100113,314,100656,Ruth Riley,1611661326,Miami Sol,2,1,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,45,42,1,0,20010704,PHO,MIA,2001-02
+Shot Chart Detail,1020100123,188,100656,Ruth Riley,1611661326,Miami Sol,1,2,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010707,MIA,SAC,2001-02
+Shot Chart Detail,1020100123,243,100656,Ruth Riley,1611661326,Miami Sol,2,11,53,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,1,85,1,1,20010707,MIA,SAC,2001-02
+Shot Chart Detail,1020100123,258,100656,Ruth Riley,1611661326,Miami Sol,2,9,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,70,0,1,0,20010707,MIA,SAC,2001-02
+Shot Chart Detail,1020100123,280,100656,Ruth Riley,1611661326,Miami Sol,2,7,34,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,40,1,1,20010707,MIA,SAC,2001-02
+Shot Chart Detail,1020100131,2,100656,Ruth Riley,1611661326,Miami Sol,1,19,42,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,15,1,0,20010710,ORL,MIA,2001-02
+Shot Chart Detail,1020100131,44,100656,Ruth Riley,1611661326,Miami Sol,1,14,54,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,41,34,1,0,20010710,ORL,MIA,2001-02
+Shot Chart Detail,1020100144,37,100656,Ruth Riley,1611661326,Miami Sol,1,14,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-111,82,1,0,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,50,100656,Ruth Riley,1611661326,Miami Sol,1,13,25,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,77,93,1,1,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,53,100656,Ruth Riley,1611661326,Miami Sol,1,12,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,100,76,1,0,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,177,100656,Ruth Riley,1611661326,Miami Sol,1,1,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,4,1,1,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,234,100656,Ruth Riley,1611661326,Miami Sol,2,9,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,150,26,1,1,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,307,100656,Ruth Riley,1611661326,Miami Sol,2,2,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,108,-6,1,0,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100150,3,100656,Ruth Riley,1611661326,Miami Sol,1,19,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-4,97,1,0,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100150,23,100656,Ruth Riley,1611661326,Miami Sol,1,17,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100150,49,100656,Ruth Riley,1611661326,Miami Sol,1,13,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-18,74,1,0,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100150,76,100656,Ruth Riley,1611661326,Miami Sol,1,10,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100150,192,100656,Ruth Riley,1611661326,Miami Sol,1,0,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100150,213,100656,Ruth Riley,1611661326,Miami Sol,2,14,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100154,26,100656,Ruth Riley,1611661326,Miami Sol,1,15,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-69,148,1,1,20010718,MIA,CHA,2001-02
+Shot Chart Detail,1020100154,97,100656,Ruth Riley,1611661326,Miami Sol,1,6,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-42,63,1,1,20010718,MIA,CHA,2001-02
+Shot Chart Detail,1020100154,197,100656,Ruth Riley,1611661326,Miami Sol,2,15,42,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,51,1,1,20010718,MIA,CHA,2001-02
+Shot Chart Detail,1020100162,2,100656,Ruth Riley,1611661326,Miami Sol,1,19,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,70,47,1,0,20010720,MIA,HOU,2001-02
+Shot Chart Detail,1020100162,7,100656,Ruth Riley,1611661326,Miami Sol,1,18,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010720,MIA,HOU,2001-02
+Shot Chart Detail,1020100162,84,100656,Ruth Riley,1611661326,Miami Sol,1,11,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-117,0,1,1,20010720,MIA,HOU,2001-02
+Shot Chart Detail,1020100162,120,100656,Ruth Riley,1611661326,Miami Sol,2,15,49,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,58,13,1,1,20010720,MIA,HOU,2001-02
+Shot Chart Detail,1020100170,13,100656,Ruth Riley,1611661326,Miami Sol,1,17,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010722,NYL,MIA,2001-02
+Shot Chart Detail,1020100170,16,100656,Ruth Riley,1611661326,Miami Sol,1,16,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-10,101,1,0,20010722,NYL,MIA,2001-02
+Shot Chart Detail,1020100170,36,100656,Ruth Riley,1611661326,Miami Sol,1,12,52,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,26,82,1,1,20010722,NYL,MIA,2001-02
+Shot Chart Detail,1020100170,55,100656,Ruth Riley,1611661326,Miami Sol,1,10,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-82,19,1,1,20010722,NYL,MIA,2001-02
+Shot Chart Detail,1020100170,127,100656,Ruth Riley,1611661326,Miami Sol,1,2,38,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-1,82,1,1,20010722,NYL,MIA,2001-02
+Shot Chart Detail,1020100170,134,100656,Ruth Riley,1611661326,Miami Sol,1,1,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,70,26,1,1,20010722,NYL,MIA,2001-02
+Shot Chart Detail,1020100170,146,100656,Ruth Riley,1611661326,Miami Sol,1,0,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,30,1,0,20010722,NYL,MIA,2001-02
+Shot Chart Detail,1020100170,197,100656,Ruth Riley,1611661326,Miami Sol,2,13,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010722,NYL,MIA,2001-02
+Shot Chart Detail,1020100170,257,100656,Ruth Riley,1611661326,Miami Sol,2,7,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,3,152,1,0,20010722,NYL,MIA,2001-02
+Shot Chart Detail,1020100170,288,100656,Ruth Riley,1611661326,Miami Sol,2,3,19,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,26,59,1,1,20010722,NYL,MIA,2001-02
+Shot Chart Detail,1020100179,32,100656,Ruth Riley,1611661326,Miami Sol,1,14,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,-8,1,0,20010725,CLE,MIA,2001-02
+Shot Chart Detail,1020100179,36,100656,Ruth Riley,1611661326,Miami Sol,1,14,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,106,7,1,0,20010725,CLE,MIA,2001-02
+Shot Chart Detail,1020100179,149,100656,Ruth Riley,1611661326,Miami Sol,1,2,7,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,3,61,1,1,20010725,CLE,MIA,2001-02
+Shot Chart Detail,1020100179,152,100656,Ruth Riley,1611661326,Miami Sol,1,1,28,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,3,34,1,0,20010725,CLE,MIA,2001-02
+Shot Chart Detail,1020100179,209,100656,Ruth Riley,1611661326,Miami Sol,2,15,2,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,13,1,1,20010725,CLE,MIA,2001-02
+Shot Chart Detail,1020100179,230,100656,Ruth Riley,1611661326,Miami Sol,2,11,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-1,55,1,0,20010725,CLE,MIA,2001-02
+Shot Chart Detail,1020100179,358,100656,Ruth Riley,1611661326,Miami Sol,3,3,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,28,1,0,20010725,CLE,MIA,2001-02
+Shot Chart Detail,1020100184,14,100656,Ruth Riley,1611661326,Miami Sol,1,18,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,21,100656,Ruth Riley,1611661326,Miami Sol,1,17,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,164,100656,Ruth Riley,1611661326,Miami Sol,1,2,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,22,34,1,0,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,166,100656,Ruth Riley,1611661326,Miami Sol,1,2,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,208,100656,Ruth Riley,1611661326,Miami Sol,1,1,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,16,148,1,0,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,185,100656,Ruth Riley,1611661326,Miami Sol,1,0,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,77,7,1,0,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,187,100656,Ruth Riley,1611661326,Miami Sol,1,0,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,22,40,1,0,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,224,100656,Ruth Riley,1611661326,Miami Sol,2,16,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,393,100656,Ruth Riley,1611661326,Miami Sol,3,4,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,412,100656,Ruth Riley,1611661326,Miami Sol,3,1,33,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,28,63,1,1,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100190,56,100656,Ruth Riley,1611661326,Miami Sol,1,12,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,-8,1,0,20010728,IND,MIA,2001-02
+Shot Chart Detail,1020100190,226,100656,Ruth Riley,1611661326,Miami Sol,2,13,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-8,1,0,20010728,IND,MIA,2001-02
+Shot Chart Detail,1020100190,232,100656,Ruth Riley,1611661326,Miami Sol,2,13,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,0,1,0,20010728,IND,MIA,2001-02
+Shot Chart Detail,1020100190,244,100656,Ruth Riley,1611661326,Miami Sol,2,11,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,-8,1,1,20010728,IND,MIA,2001-02
+Shot Chart Detail,1020100190,247,100656,Ruth Riley,1611661326,Miami Sol,2,10,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-8,1,1,20010728,IND,MIA,2001-02
+Shot Chart Detail,1020100190,264,100656,Ruth Riley,1611661326,Miami Sol,2,9,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,-15,1,1,20010728,IND,MIA,2001-02
+Shot Chart Detail,1020100190,288,100656,Ruth Riley,1611661326,Miami Sol,2,6,29,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,18,28,1,0,20010728,IND,MIA,2001-02
+Shot Chart Detail,1020100190,302,100656,Ruth Riley,1611661326,Miami Sol,2,3,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-44,4,1,0,20010728,IND,MIA,2001-02
+Shot Chart Detail,1020100201,23,100656,Ruth Riley,1611661326,Miami Sol,1,15,56,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,58,7,1,0,20010731,CHA,MIA,2001-02
+Shot Chart Detail,1020100201,140,100656,Ruth Riley,1611661326,Miami Sol,1,3,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,129,13,1,0,20010731,CHA,MIA,2001-02
+Shot Chart Detail,1020100201,202,100656,Ruth Riley,1611661326,Miami Sol,2,15,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-63,47,1,0,20010731,CHA,MIA,2001-02
+Shot Chart Detail,1020100208,6,100656,Ruth Riley,1611661326,Miami Sol,1,18,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-12,57,1,0,20010803,MIA,PHO,2001-02
+Shot Chart Detail,1020100208,71,100656,Ruth Riley,1611661326,Miami Sol,1,9,57,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,1,80,1,1,20010803,MIA,PHO,2001-02
+Shot Chart Detail,1020100208,78,100656,Ruth Riley,1611661326,Miami Sol,1,8,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,108,97,1,1,20010803,MIA,PHO,2001-02
+Shot Chart Detail,1020100208,147,100656,Ruth Riley,1611661326,Miami Sol,1,2,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-12,68,1,0,20010803,MIA,PHO,2001-02
+Shot Chart Detail,1020100208,182,100656,Ruth Riley,1611661326,Miami Sol,1,2,1,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-27,47,1,1,20010803,MIA,PHO,2001-02
+Shot Chart Detail,1020100208,272,100656,Ruth Riley,1611661326,Miami Sol,2,8,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,1,141,1,0,20010803,MIA,PHO,2001-02
+Shot Chart Detail,1020100208,295,100656,Ruth Riley,1611661326,Miami Sol,2,5,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-117,19,1,0,20010803,MIA,PHO,2001-02
+Shot Chart Detail,1020100208,302,100656,Ruth Riley,1611661326,Miami Sol,2,4,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010803,MIA,PHO,2001-02
+Shot Chart Detail,1020100208,304,100656,Ruth Riley,1611661326,Miami Sol,2,3,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,64,34,1,0,20010803,MIA,PHO,2001-02
+Shot Chart Detail,1020100219,37,100656,Ruth Riley,1611661326,Miami Sol,1,15,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,129,34,1,0,20010805,MIA,WAS,2001-02
+Shot Chart Detail,1020100219,48,100656,Ruth Riley,1611661326,Miami Sol,1,13,43,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,28,57,1,0,20010805,MIA,WAS,2001-02
+Shot Chart Detail,1020100219,145,100656,Ruth Riley,1611661326,Miami Sol,1,2,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010805,MIA,WAS,2001-02
+Shot Chart Detail,1020100228,19,100656,Ruth Riley,1611661326,Miami Sol,1,17,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,5,120,1,0,20010808,WAS,MIA,2001-02
+Shot Chart Detail,1020100228,180,100656,Ruth Riley,1611661326,Miami Sol,1,0,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,14,0,1,1,20010808,WAS,MIA,2001-02
+Shot Chart Detail,1020100228,210,100656,Ruth Riley,1611661326,Miami Sol,2,16,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-44,-4,1,0,20010808,WAS,MIA,2001-02
+Shot Chart Detail,1020100228,308,100656,Ruth Riley,1611661326,Miami Sol,2,3,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,14,-4,1,1,20010808,WAS,MIA,2001-02
+Shot Chart Detail,1020100234,6,100656,Ruth Riley,1611661326,Miami Sol,1,19,5,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-69,7,1,1,20010810,MIA,IND,2001-02
+Shot Chart Detail,1020100234,176,100656,Ruth Riley,1611661326,Miami Sol,1,0,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,58,13,1,1,20010810,MIA,IND,2001-02
+Shot Chart Detail,1020100234,212,100656,Ruth Riley,1611661326,Miami Sol,2,13,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,1,129,1,0,20010810,MIA,IND,2001-02
+Shot Chart Detail,1020100234,249,100656,Ruth Riley,1611661326,Miami Sol,2,8,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-27,57,1,0,20010810,MIA,IND,2001-02
+Shot Chart Detail,1020100234,285,100656,Ruth Riley,1611661326,Miami Sol,2,2,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,85,47,1,1,20010810,MIA,IND,2001-02
+Shot Chart Detail,1020100234,292,100656,Ruth Riley,1611661326,Miami Sol,2,1,23,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,34,1,0,20010810,MIA,IND,2001-02
+Shot Chart Detail,1020100234,297,100656,Ruth Riley,1611661326,Miami Sol,2,1,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010810,MIA,IND,2001-02
+Shot Chart Detail,1020100240,18,100656,Ruth Riley,1611661326,Miami Sol,1,16,31,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,4,1,0,20010811,ORL,MIA,2001-02
+Shot Chart Detail,1020100240,22,100656,Ruth Riley,1611661326,Miami Sol,1,16,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010811,ORL,MIA,2001-02
+Shot Chart Detail,1020100240,71,100656,Ruth Riley,1611661326,Miami Sol,1,10,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-33,30,1,1,20010811,ORL,MIA,2001-02
+Shot Chart Detail,1020100240,82,100656,Ruth Riley,1611661326,Miami Sol,1,9,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010811,ORL,MIA,2001-02
+Shot Chart Detail,1020100240,150,100656,Ruth Riley,1611661326,Miami Sol,1,1,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,-19,1,1,20010811,ORL,MIA,2001-02
+Shot Chart Detail,1020100240,185,100656,Ruth Riley,1611661326,Miami Sol,1,0,28,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-54,11,1,0,20010811,ORL,MIA,2001-02
+Shot Chart Detail,1020100240,160,100656,Ruth Riley,1611661326,Miami Sol,1,0,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010811,ORL,MIA,2001-02
+Shot Chart Detail,1020100240,263,100656,Ruth Riley,1611661326,Miami Sol,2,8,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,108,15,1,0,20010811,ORL,MIA,2001-02
+Shot Chart Detail,1020100252,33,100656,Ruth Riley,1611661326,Miami Sol,1,15,59,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-27,97,1,1,20010814,MIA,CHA,2001-02
+Shot Chart Detail,1020100252,124,100656,Ruth Riley,1611661326,Miami Sol,1,4,12,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,-2,1,0,20010814,MIA,CHA,2001-02
+Shot Chart Detail,1020100252,193,100656,Ruth Riley,1611661326,Miami Sol,2,16,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,64,80,1,1,20010814,MIA,CHA,2001-02
+Shot Chart Detail,1020100252,230,100656,Ruth Riley,1611661326,Miami Sol,2,11,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,37,40,1,0,20010814,MIA,CHA,2001-02

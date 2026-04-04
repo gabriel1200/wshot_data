@@ -1,0 +1,7 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020500121,298,100998,Sui Fei Fei,1611661318,Sacramento Monarchs,2,6,25,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050719,HOU,SAC,2005-06
+Shot Chart Detail,1020500129,113,100998,Sui Fei Fei,1611661318,Sacramento Monarchs,1,7,41,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,20,-207,25,1,1,20050722,SAC,NYL,2005-06
+Shot Chart Detail,1020500129,119,100998,Sui Fei Fei,1611661318,Sacramento Monarchs,1,7,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,57,41,1,0,20050722,SAC,NYL,2005-06
+Shot Chart Detail,1020500129,131,100998,Sui Fei Fei,1611661318,Sacramento Monarchs,1,6,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,-13,1,0,20050722,SAC,NYL,2005-06
+Shot Chart Detail,1020500135,311,100998,Sui Fei Fei,1611661318,Sacramento Monarchs,2,12,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,148,46,1,0,20050724,SAC,DET,2005-06
+Shot Chart Detail,1020500169,197,100998,Sui Fei Fei,1611661318,Sacramento Monarchs,1,0,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,0,91,1,0,20050807,SAC,HOU,2005-06

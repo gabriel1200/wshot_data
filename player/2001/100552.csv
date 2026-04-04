@@ -1,0 +1,87 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020100003,17,100552,Kristen Rasmussen,1611661326,Miami Sol,1,16,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-42,23,1,0,20010531,MIA,NYL,2001-02
+Shot Chart Detail,1020100019,11,100552,Kristen Rasmussen,1611661326,Miami Sol,1,17,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010605,MIA,IND,2001-02
+Shot Chart Detail,1020100019,13,100552,Kristen Rasmussen,1611661326,Miami Sol,1,17,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010605,MIA,IND,2001-02
+Shot Chart Detail,1020100019,200,100552,Kristen Rasmussen,1611661326,Miami Sol,2,15,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,7,74,1,1,20010605,MIA,IND,2001-02
+Shot Chart Detail,1020100058,103,100552,Kristen Rasmussen,1611661326,Miami Sol,1,8,13,Missed Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-18,34,1,0,20010617,MIA,NYL,2001-02
+Shot Chart Detail,1020100058,318,100552,Kristen Rasmussen,1611661326,Miami Sol,2,6,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-42,23,1,0,20010617,MIA,NYL,2001-02
+Shot Chart Detail,1020100068,132,100552,Kristen Rasmussen,1611661326,Miami Sol,1,5,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,1,165,1,0,20010621,WAS,MIA,2001-02
+Shot Chart Detail,1020100073,84,100552,Kristen Rasmussen,1611661326,Miami Sol,1,11,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-31,171,1,1,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,90,100552,Kristen Rasmussen,1611661326,Miami Sol,1,10,42,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,73,28,1,1,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,99,100552,Kristen Rasmussen,1611661326,Miami Sol,1,10,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-46,150,1,0,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,117,100552,Kristen Rasmussen,1611661326,Miami Sol,1,7,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-52,112,1,0,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,201,100552,Kristen Rasmussen,1611661326,Miami Sol,1,0,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,142,2,1,0,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,272,100552,Kristen Rasmussen,1611661326,Miami Sol,2,12,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,20,177,1,1,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,321,100552,Kristen Rasmussen,1611661326,Miami Sol,2,7,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,56,241,1,0,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100082,77,100552,Kristen Rasmussen,1611661326,Miami Sol,1,11,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,7,1,0,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100082,128,100552,Kristen Rasmussen,1611661326,Miami Sol,1,6,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,0,1,0,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100082,296,100552,Kristen Rasmussen,1611661326,Miami Sol,2,10,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,1,179,1,0,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100082,300,100552,Kristen Rasmussen,1611661326,Miami Sol,2,9,46,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100090,235,100552,Kristen Rasmussen,1611661326,Miami Sol,2,15,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-18,179,1,1,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,260,100552,Kristen Rasmussen,1611661326,Miami Sol,2,13,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,276,100552,Kristen Rasmussen,1611661326,Miami Sol,2,11,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-132,30,1,0,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,286,100552,Kristen Rasmussen,1611661326,Miami Sol,2,10,56,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,291,100552,Kristen Rasmussen,1611661326,Miami Sol,2,10,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,13,1,1,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,308,100552,Kristen Rasmussen,1611661326,Miami Sol,2,7,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,312,100552,Kristen Rasmussen,1611661326,Miami Sol,2,6,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,51,1,0,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,350,100552,Kristen Rasmussen,1611661326,Miami Sol,2,3,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-153,173,1,0,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,374,100552,Kristen Rasmussen,1611661326,Miami Sol,2,0,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-69,114,1,1,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,397,100552,Kristen Rasmussen,1611661326,Miami Sol,3,4,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-4,179,1,0,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,444,100552,Kristen Rasmussen,1611661326,Miami Sol,3,0,21,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-12,40,1,0,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100095,118,100552,Kristen Rasmussen,1611661326,Miami Sol,1,4,39,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100105,85,100552,Kristen Rasmussen,1611661326,Miami Sol,1,9,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,26,1,1,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100105,238,100552,Kristen Rasmussen,1611661326,Miami Sol,2,15,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100105,348,100552,Kristen Rasmussen,1611661326,Miami Sol,2,4,14,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-18,87,1,1,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100105,381,100552,Kristen Rasmussen,1611661326,Miami Sol,2,1,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,9,1,0,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100105,388,100552,Kristen Rasmussen,1611661326,Miami Sol,2,0,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,16,26,1,0,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100108,98,100552,Kristen Rasmussen,1611661326,Miami Sol,1,8,19,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010702,UTA,MIA,2001-02
+Shot Chart Detail,1020100108,163,100552,Kristen Rasmussen,1611661326,Miami Sol,1,1,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,157,-11,1,1,20010702,UTA,MIA,2001-02
+Shot Chart Detail,1020100108,166,100552,Kristen Rasmussen,1611661326,Miami Sol,1,1,16,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,5,36,1,0,20010702,UTA,MIA,2001-02
+Shot Chart Detail,1020100108,174,100552,Kristen Rasmussen,1611661326,Miami Sol,1,0,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-86,152,1,1,20010702,UTA,MIA,2001-02
+Shot Chart Detail,1020100108,266,100552,Kristen Rasmussen,1611661326,Miami Sol,2,8,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,150,0,1,1,20010702,UTA,MIA,2001-02
+Shot Chart Detail,1020100108,287,100552,Kristen Rasmussen,1611661326,Miami Sol,2,6,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010702,UTA,MIA,2001-02
+Shot Chart Detail,1020100113,235,100552,Kristen Rasmussen,1611661326,Miami Sol,2,10,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,30,1,1,20010704,PHO,MIA,2001-02
+Shot Chart Detail,1020100123,80,100552,Kristen Rasmussen,1611661326,Miami Sol,1,10,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,70,97,1,0,20010707,MIA,SAC,2001-02
+Shot Chart Detail,1020100123,97,100552,Kristen Rasmussen,1611661326,Miami Sol,1,8,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,-2,1,1,20010707,MIA,SAC,2001-02
+Shot Chart Detail,1020100123,278,100552,Kristen Rasmussen,1611661326,Miami Sol,2,7,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010707,MIA,SAC,2001-02
+Shot Chart Detail,1020100123,301,100552,Kristen Rasmussen,1611661326,Miami Sol,2,5,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,108,85,1,1,20010707,MIA,SAC,2001-02
+Shot Chart Detail,1020100131,323,100552,Kristen Rasmussen,1611661326,Miami Sol,2,7,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010710,ORL,MIA,2001-02
+Shot Chart Detail,1020100131,362,100552,Kristen Rasmussen,1611661326,Miami Sol,2,3,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,155,-32,1,0,20010710,ORL,MIA,2001-02
+Shot Chart Detail,1020100144,111,100552,Kristen Rasmussen,1611661326,Miami Sol,1,6,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-117,36,1,0,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,211,100552,Kristen Rasmussen,1611661326,Miami Sol,2,12,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-124,55,1,1,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,253,100552,Kristen Rasmussen,1611661326,Miami Sol,2,7,8,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-54,19,1,0,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100150,216,100552,Kristen Rasmussen,1611661326,Miami Sol,2,14,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,64,125,1,0,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100150,219,100552,Kristen Rasmussen,1611661326,Miami Sol,2,13,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,22,152,1,0,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100150,222,100552,Kristen Rasmussen,1611661326,Miami Sol,2,13,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100154,286,100552,Kristen Rasmussen,1611661326,Miami Sol,2,6,6,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010718,MIA,CHA,2001-02
+Shot Chart Detail,1020100154,322,100552,Kristen Rasmussen,1611661326,Miami Sol,2,2,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010718,MIA,CHA,2001-02
+Shot Chart Detail,1020100154,335,100552,Kristen Rasmussen,1611661326,Miami Sol,2,1,57,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,58,40,1,0,20010718,MIA,CHA,2001-02
+Shot Chart Detail,1020100162,240,100552,Kristen Rasmussen,1611661326,Miami Sol,1,8,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,18,1,0,20010720,MIA,HOU,2001-02
+Shot Chart Detail,1020100162,298,100552,Kristen Rasmussen,1611661326,Miami Sol,2,2,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010720,MIA,HOU,2001-02
+Shot Chart Detail,1020100162,321,100552,Kristen Rasmussen,1611661326,Miami Sol,2,0,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010720,MIA,HOU,2001-02
+Shot Chart Detail,1020100179,95,100552,Kristen Rasmussen,1611661326,Miami Sol,1,7,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-117,-8,1,1,20010725,CLE,MIA,2001-02
+Shot Chart Detail,1020100179,111,100552,Kristen Rasmussen,1611661326,Miami Sol,1,5,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,23,1,0,20010725,CLE,MIA,2001-02
+Shot Chart Detail,1020100179,264,100552,Kristen Rasmussen,1611661326,Miami Sol,2,8,5,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,17,1,0,20010725,CLE,MIA,2001-02
+Shot Chart Detail,1020100184,125,100552,Kristen Rasmussen,1611661326,Miami Sol,1,7,3,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,43,47,1,0,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100190,75,100552,Kristen Rasmussen,1611661326,Miami Sol,1,10,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-29,173,1,1,20010728,IND,MIA,2001-02
+Shot Chart Detail,1020100190,239,100552,Kristen Rasmussen,1611661326,Miami Sol,2,11,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-8,1,0,20010728,IND,MIA,2001-02
+Shot Chart Detail,1020100190,242,100552,Kristen Rasmussen,1611661326,Miami Sol,2,11,32,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,-8,1,0,20010728,IND,MIA,2001-02
+Shot Chart Detail,1020100190,262,100552,Kristen Rasmussen,1611661326,Miami Sol,2,9,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-65,-8,1,0,20010728,IND,MIA,2001-02
+Shot Chart Detail,1020100201,96,100552,Kristen Rasmussen,1611661326,Miami Sol,1,8,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010731,CHA,MIA,2001-02
+Shot Chart Detail,1020100201,259,100552,Kristen Rasmussen,1611661326,Miami Sol,2,7,22,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010731,CHA,MIA,2001-02
+Shot Chart Detail,1020100201,272,100552,Kristen Rasmussen,1611661326,Miami Sol,2,6,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,73,205,1,1,20010731,CHA,MIA,2001-02
+Shot Chart Detail,1020100201,314,100552,Kristen Rasmussen,1611661326,Miami Sol,2,1,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010731,CHA,MIA,2001-02
+Shot Chart Detail,1020100208,80,100552,Kristen Rasmussen,1611661326,Miami Sol,1,8,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,43,129,1,0,20010803,MIA,PHO,2001-02
+Shot Chart Detail,1020100208,128,100552,Kristen Rasmussen,1611661326,Miami Sol,1,4,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,0,1,1,20010803,MIA,PHO,2001-02
+Shot Chart Detail,1020100208,229,100552,Kristen Rasmussen,1611661326,Miami Sol,2,12,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,108,23,1,0,20010803,MIA,PHO,2001-02
+Shot Chart Detail,1020100208,242,100552,Kristen Rasmussen,1611661326,Miami Sol,2,11,21,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010803,MIA,PHO,2001-02
+Shot Chart Detail,1020100208,262,100552,Kristen Rasmussen,1611661326,Miami Sol,2,9,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010803,MIA,PHO,2001-02
+Shot Chart Detail,1020100219,61,100552,Kristen Rasmussen,1611661326,Miami Sol,1,11,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,136,51,1,0,20010805,MIA,WAS,2001-02
+Shot Chart Detail,1020100219,66,100552,Kristen Rasmussen,1611661326,Miami Sol,1,11,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-162,0,1,0,20010805,MIA,WAS,2001-02
+Shot Chart Detail,1020100219,261,100552,Kristen Rasmussen,1611661326,Miami Sol,2,10,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,7,1,0,20010805,MIA,WAS,2001-02
+Shot Chart Detail,1020100228,85,100552,Kristen Rasmussen,1611661326,Miami Sol,1,9,56,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,41,-11,1,0,20010808,WAS,MIA,2001-02
+Shot Chart Detail,1020100228,114,100552,Kristen Rasmussen,1611661326,Miami Sol,1,6,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,98,-15,1,0,20010808,WAS,MIA,2001-02
+Shot Chart Detail,1020100228,137,100552,Kristen Rasmussen,1611661326,Miami Sol,1,4,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-79,213,1,0,20010808,WAS,MIA,2001-02
+Shot Chart Detail,1020100240,99,100552,Kristen Rasmussen,1611661326,Miami Sol,1,7,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,108,9,1,0,20010811,ORL,MIA,2001-02
+Shot Chart Detail,1020100240,314,100552,Kristen Rasmussen,1611661326,Miami Sol,2,2,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010811,ORL,MIA,2001-02
+Shot Chart Detail,1020100252,271,100552,Kristen Rasmussen,1611661326,Miami Sol,2,6,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-147,34,1,0,20010814,MIA,CHA,2001-02

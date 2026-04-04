@@ -1,0 +1,23 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1021900012,302,1628286,Erica McCall,1611661325,Indiana Fever,2,0,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,98,23,1,1,20190601,IND,NYL,2019-20
+Shot Chart Detail,1021900012,476,1628286,Erica McCall,1611661325,Indiana Fever,3,0,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-115,129,1,0,20190601,IND,NYL,2019-20
+Shot Chart Detail,1021900012,533,1628286,Erica McCall,1611661325,Indiana Fever,4,6,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-109,145,1,0,20190601,IND,NYL,2019-20
+Shot Chart Detail,1021900012,595,1628286,Erica McCall,1611661325,Indiana Fever,4,1,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,4,1,0,20190601,IND,NYL,2019-20
+Shot Chart Detail,1021900029,366,1628286,Erica McCall,1611661325,Indiana Fever,3,3,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-128,141,1,0,20190609,IND,PHO,2019-20
+Shot Chart Detail,1021900029,384,1628286,Erica McCall,1611661325,Indiana Fever,3,0,57,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,24,18,1,0,20190609,IND,PHO,2019-20
+Shot Chart Detail,1021900029,417,1628286,Erica McCall,1611661325,Indiana Fever,4,9,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,111,106,1,0,20190609,IND,PHO,2019-20
+Shot Chart Detail,1021900029,445,1628286,Erica McCall,1611661325,Indiana Fever,4,7,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-161,13,1,0,20190609,IND,PHO,2019-20
+Shot Chart Detail,1021900029,450,1628286,Erica McCall,1611661325,Indiana Fever,4,6,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,22,1,0,20190609,IND,PHO,2019-20
+Shot Chart Detail,1021900046,176,1628286,Erica McCall,1611661325,Indiana Fever,2,6,56,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-69,183,1,0,20190619,ATL,IND,2019-20
+Shot Chart Detail,1021900046,210,1628286,Erica McCall,1611661325,Indiana Fever,2,3,54,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,4,1,1,20190619,ATL,IND,2019-20
+Shot Chart Detail,1021900046,221,1628286,Erica McCall,1611661325,Indiana Fever,2,2,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-120,145,1,0,20190619,ATL,IND,2019-20
+Shot Chart Detail,1021900065,513,1628286,Erica McCall,1611661325,Indiana Fever,4,1,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,2,1,0,20190628,PHO,IND,2019-20
+Shot Chart Detail,1021900090,339,1628286,Erica McCall,1611661325,Indiana Fever,3,6,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,131,17,1,0,20190712,IND,LAS,2019-20
+Shot Chart Detail,1021900090,408,1628286,Erica McCall,1611661325,Indiana Fever,3,3,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-44,152,1,1,20190712,IND,LAS,2019-20
+Shot Chart Detail,1021900139,104,1628286,Erica McCall,1611661325,Indiana Fever,1,1,18,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-9,28,1,0,20190810,IND,ATL,2019-20
+Shot Chart Detail,1021900156,219,1628286,Erica McCall,1611661325,Indiana Fever,2,4,3,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,2,1,0,20190818,WAS,IND,2019-20
+Shot Chart Detail,1021900156,234,1628286,Erica McCall,1611661325,Indiana Fever,2,3,9,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,57,-12,1,0,20190818,WAS,IND,2019-20
+Shot Chart Detail,1021900156,368,1628286,Erica McCall,1611661325,Indiana Fever,3,3,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-88,152,1,0,20190818,WAS,IND,2019-20
+Shot Chart Detail,1021900156,484,1628286,Erica McCall,1611661325,Indiana Fever,4,4,19,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-9,52,1,0,20190818,WAS,IND,2019-20
+Shot Chart Detail,1021900165,419,1628286,Erica McCall,1611661325,Indiana Fever,3,0,46,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,100,64,1,0,20190822,LAS,IND,2019-20
+Shot Chart Detail,1021900165,475,1628286,Erica McCall,1611661325,Indiana Fever,4,6,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,9,33,1,0,20190822,LAS,IND,2019-20

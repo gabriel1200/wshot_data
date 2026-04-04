@@ -1,0 +1,17 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1040200101,29,100243,Olympia Scott,1611661325,Indiana Fever,1,15,5,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,43,-13,1,1,20020816,IND,NYL,2002-03
+Shot Chart Detail,1040200101,88,100243,Olympia Scott,1611661325,Indiana Fever,1,7,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,43,34,1,0,20020816,IND,NYL,2002-03
+Shot Chart Detail,1040200101,99,100243,Olympia Scott,1611661325,Indiana Fever,1,6,22,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,0,1,0,20020816,IND,NYL,2002-03
+Shot Chart Detail,1040200101,213,100243,Olympia Scott,1611661325,Indiana Fever,2,13,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020816,IND,NYL,2002-03
+Shot Chart Detail,1040200101,244,100243,Olympia Scott,1611661325,Indiana Fever,2,9,48,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,30,-13,1,0,20020816,IND,NYL,2002-03
+Shot Chart Detail,1040200101,259,100243,Olympia Scott,1611661325,Indiana Fever,2,8,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,30,-13,1,1,20020816,IND,NYL,2002-03
+Shot Chart Detail,1040200102,6,100243,Olympia Scott,1611661325,Indiana Fever,1,19,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,11,72,1,0,20020818,NYL,IND,2002-03
+Shot Chart Detail,1040200102,60,100243,Olympia Scott,1611661325,Indiana Fever,1,11,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,117,66,1,0,20020818,NYL,IND,2002-03
+Shot Chart Detail,1040200102,165,100243,Olympia Scott,1611661325,Indiana Fever,1,2,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020818,NYL,IND,2002-03
+Shot Chart Detail,1040200102,167,100243,Olympia Scott,1611661325,Indiana Fever,1,2,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020818,NYL,IND,2002-03
+Shot Chart Detail,1040200103,18,100243,Olympia Scott,1611661325,Indiana Fever,1,17,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020820,NYL,IND,2002-03
+Shot Chart Detail,1040200103,77,100243,Olympia Scott,1611661325,Indiana Fever,1,10,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020820,NYL,IND,2002-03
+Shot Chart Detail,1040200103,84,100243,Olympia Scott,1611661325,Indiana Fever,1,9,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020820,NYL,IND,2002-03
+Shot Chart Detail,1040200103,115,100243,Olympia Scott,1611661325,Indiana Fever,1,5,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020820,NYL,IND,2002-03
+Shot Chart Detail,1040200103,246,100243,Olympia Scott,1611661325,Indiana Fever,2,10,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,96,15,1,1,20020820,NYL,IND,2002-03
+Shot Chart Detail,1040200103,285,100243,Olympia Scott,1611661325,Indiana Fever,2,6,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-16,129,1,0,20020820,NYL,IND,2002-03

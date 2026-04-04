@@ -1,0 +1,71 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1029700004,13,100034,Tia Jackson,1611661317,Phoenix Mercury,1,17,52,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,-1,1,1,19970622,PHO,CHA,1997-98
+Shot Chart Detail,1029700004,17,100034,Tia Jackson,1611661317,Phoenix Mercury,1,17,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,86,15,1,0,19970622,PHO,CHA,1997-98
+Shot Chart Detail,1029700014,240,100034,Tia Jackson,1611661317,Phoenix Mercury,2,13,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-101,90,1,0,19970628,CLE,PHO,1997-98
+Shot Chart Detail,1029700014,260,100034,Tia Jackson,1611661317,Phoenix Mercury,2,11,45,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,17,1,0,19970628,CLE,PHO,1997-98
+Shot Chart Detail,1029700015,63,100034,Tia Jackson,1611661317,Phoenix Mercury,1,14,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970629,NYL,PHO,1997-98
+Shot Chart Detail,1029700015,77,100034,Tia Jackson,1611661317,Phoenix Mercury,1,13,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970629,NYL,PHO,1997-98
+Shot Chart Detail,1029700021,86,100034,Tia Jackson,1611661317,Phoenix Mercury,1,11,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970703,UTA,PHO,1997-98
+Shot Chart Detail,1029700021,282,100034,Tia Jackson,1611661317,Phoenix Mercury,2,13,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,19,1,0,19970703,UTA,PHO,1997-98
+Shot Chart Detail,1029700021,292,100034,Tia Jackson,1611661317,Phoenix Mercury,2,12,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970703,UTA,PHO,1997-98
+Shot Chart Detail,1029700030,69,100034,Tia Jackson,1611661317,Phoenix Mercury,1,12,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970709,PHO,HOU,1997-98
+Shot Chart Detail,1029700030,338,100034,Tia Jackson,1611661317,Phoenix Mercury,2,6,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-79,-5,1,0,19970709,PHO,HOU,1997-98
+Shot Chart Detail,1029700037,85,100034,Tia Jackson,1611661317,Phoenix Mercury,1,8,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-94,19,1,0,19970712,UTA,PHO,1997-98
+Shot Chart Detail,1029700043,103,100034,Tia Jackson,1611661317,Phoenix Mercury,1,9,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970716,PHO,SAC,1997-98
+Shot Chart Detail,1029700043,143,100034,Tia Jackson,1611661317,Phoenix Mercury,1,5,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,8,1,0,19970716,PHO,SAC,1997-98
+Shot Chart Detail,1029700043,285,100034,Tia Jackson,1611661317,Phoenix Mercury,2,12,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,127,6,1,0,19970716,PHO,SAC,1997-98
+Shot Chart Detail,1029700051,390,100034,Tia Jackson,1611661317,Phoenix Mercury,2,0,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,-7,1,0,19970721,SAC,PHO,1997-98
+Shot Chart Detail,1029700053,173,100034,Tia Jackson,1611661317,Phoenix Mercury,1,1,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,86,45,1,0,19970722,PHO,HOU,1997-98
+Shot Chart Detail,1029700053,177,100034,Tia Jackson,1611661317,Phoenix Mercury,1,1,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,114,179,1,1,19970722,PHO,HOU,1997-98
+Shot Chart Detail,1029700057,338,100034,Tia Jackson,1611661317,Phoenix Mercury,2,9,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,34,47,1,0,19970725,PHO,LAS,1997-98
+Shot Chart Detail,1029700057,414,100034,Tia Jackson,1611661317,Phoenix Mercury,2,3,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,133,45,1,1,19970725,PHO,LAS,1997-98
+Shot Chart Detail,1029700057,466,100034,Tia Jackson,1611661317,Phoenix Mercury,3,3,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,138,34,1,1,19970725,PHO,LAS,1997-98
+Shot Chart Detail,1029700062,44,100034,Tia Jackson,1611661317,Phoenix Mercury,1,15,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-12,175,1,0,19970728,PHO,CLE,1997-98
+Shot Chart Detail,1029700062,58,100034,Tia Jackson,1611661317,Phoenix Mercury,1,13,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,97,34,1,0,19970728,PHO,CLE,1997-98
+Shot Chart Detail,1029700062,123,100034,Tia Jackson,1611661317,Phoenix Mercury,1,7,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-66,216,1,0,19970728,PHO,CLE,1997-98
+Shot Chart Detail,1029700062,277,100034,Tia Jackson,1611661317,Phoenix Mercury,2,11,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-88,56,1,1,19970728,PHO,CLE,1997-98
+Shot Chart Detail,1029700062,286,100034,Tia Jackson,1611661317,Phoenix Mercury,2,10,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-83,75,1,0,19970728,PHO,CLE,1997-98
+Shot Chart Detail,1029700062,289,100034,Tia Jackson,1611661317,Phoenix Mercury,2,9,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-81,71,1,0,19970728,PHO,CLE,1997-98
+Shot Chart Detail,1029700062,318,100034,Tia Jackson,1611661317,Phoenix Mercury,2,6,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,114,4,1,0,19970728,PHO,CLE,1997-98
+Shot Chart Detail,1029700062,361,100034,Tia Jackson,1611661317,Phoenix Mercury,2,4,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,1,162,1,1,19970728,PHO,CLE,1997-98
+Shot Chart Detail,1029700062,382,100034,Tia Jackson,1611661317,Phoenix Mercury,2,2,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,27,123,1,0,19970728,PHO,CLE,1997-98
+Shot Chart Detail,1029700065,43,100034,Tia Jackson,1611661317,Phoenix Mercury,1,16,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,4,1,1,19970730,CHA,PHO,1997-98
+Shot Chart Detail,1029700065,114,100034,Tia Jackson,1611661317,Phoenix Mercury,1,8,36,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,16,49,1,1,19970730,CHA,PHO,1997-98
+Shot Chart Detail,1029700065,124,100034,Tia Jackson,1611661317,Phoenix Mercury,1,6,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-83,17,1,0,19970730,CHA,PHO,1997-98
+Shot Chart Detail,1029700065,130,100034,Tia Jackson,1611661317,Phoenix Mercury,1,5,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-146,162,1,0,19970730,CHA,PHO,1997-98
+Shot Chart Detail,1029700065,368,100034,Tia Jackson,1611661317,Phoenix Mercury,2,4,56,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970730,CHA,PHO,1997-98
+Shot Chart Detail,1029700067,131,100034,Tia Jackson,1611661317,Phoenix Mercury,1,7,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,120,45,1,0,19970731,CLE,PHO,1997-98
+Shot Chart Detail,1029700067,179,100034,Tia Jackson,1611661317,Phoenix Mercury,1,2,19,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-21,47,1,1,19970731,CLE,PHO,1997-98
+Shot Chart Detail,1029700067,229,100034,Tia Jackson,1611661317,Phoenix Mercury,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-138,186,1,0,19970731,CLE,PHO,1997-98
+Shot Chart Detail,1029700067,233,100034,Tia Jackson,1611661317,Phoenix Mercury,2,16,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,105,28,1,0,19970731,CLE,PHO,1997-98
+Shot Chart Detail,1029700067,235,100034,Tia Jackson,1611661317,Phoenix Mercury,2,15,58,Missed Shot,No Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970731,CLE,PHO,1997-98
+Shot Chart Detail,1029700067,294,100034,Tia Jackson,1611661317,Phoenix Mercury,2,10,48,Made Shot,No Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,209,30,1,1,19970731,CLE,PHO,1997-98
+Shot Chart Detail,1029700067,426,100034,Tia Jackson,1611661317,Phoenix Mercury,2,0,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970731,CLE,PHO,1997-98
+Shot Chart Detail,1029700070,89,100034,Tia Jackson,1611661317,Phoenix Mercury,1,10,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970802,NYL,PHO,1997-98
+Shot Chart Detail,1029700070,260,100034,Tia Jackson,1611661317,Phoenix Mercury,2,16,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,20,185,86,1,1,19970802,NYL,PHO,1997-98
+Shot Chart Detail,1029700074,151,100034,Tia Jackson,1611661317,Phoenix Mercury,1,5,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-8,110,1,0,19970804,PHO,SAC,1997-98
+Shot Chart Detail,1029700074,164,100034,Tia Jackson,1611661317,Phoenix Mercury,1,4,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970804,PHO,SAC,1997-98
+Shot Chart Detail,1029700074,223,100034,Tia Jackson,1611661317,Phoenix Mercury,1,2,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-166,73,1,0,19970804,PHO,SAC,1997-98
+Shot Chart Detail,1029700078,69,100034,Tia Jackson,1611661317,Phoenix Mercury,1,11,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970806,PHO,UTA,1997-98
+Shot Chart Detail,1029700078,192,100034,Tia Jackson,1611661317,Phoenix Mercury,1,0,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,0,203,1,0,19970806,PHO,UTA,1997-98
+Shot Chart Detail,1029700078,280,100034,Tia Jackson,1611661317,Phoenix Mercury,2,11,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970806,PHO,UTA,1997-98
+Shot Chart Detail,1029700081,180,100034,Tia Jackson,1611661317,Phoenix Mercury,1,2,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,151,71,1,0,19970807,HOU,PHO,1997-98
+Shot Chart Detail,1029700081,187,100034,Tia Jackson,1611661317,Phoenix Mercury,1,1,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,43,1,0,19970807,HOU,PHO,1997-98
+Shot Chart Detail,1029700081,201,100034,Tia Jackson,1611661317,Phoenix Mercury,1,0,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,36,1,0,19970807,HOU,PHO,1997-98
+Shot Chart Detail,1029700081,294,100034,Tia Jackson,1611661317,Phoenix Mercury,2,7,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,71,0,1,0,19970807,HOU,PHO,1997-98
+Shot Chart Detail,1029700084,287,100034,Tia Jackson,1611661317,Phoenix Mercury,2,12,7,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970809,CHA,PHO,1997-98
+Shot Chart Detail,1029700084,292,100034,Tia Jackson,1611661317,Phoenix Mercury,2,11,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970809,CHA,PHO,1997-98
+Shot Chart Detail,1029700089,59,100034,Tia Jackson,1611661317,Phoenix Mercury,1,13,23,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-70,82,1,1,19970812,PHO,NYL,1997-98
+Shot Chart Detail,1029700089,303,100034,Tia Jackson,1611661317,Phoenix Mercury,2,12,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,20,-190,84,1,0,19970812,PHO,NYL,1997-98
+Shot Chart Detail,1029700091,319,100034,Tia Jackson,1611661317,Phoenix Mercury,2,6,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,131,23,1,1,19970814,PHO,CLE,1997-98
+Shot Chart Detail,1029700091,345,100034,Tia Jackson,1611661317,Phoenix Mercury,2,3,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970814,PHO,CLE,1997-98
+Shot Chart Detail,1029700091,367,100034,Tia Jackson,1611661317,Phoenix Mercury,2,1,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970814,PHO,CLE,1997-98
+Shot Chart Detail,1029700097,218,100034,Tia Jackson,1611661317,Phoenix Mercury,1,3,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970817,PHO,UTA,1997-98
+Shot Chart Detail,1029700097,253,100034,Tia Jackson,1611661317,Phoenix Mercury,2,15,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,77,71,1,0,19970817,PHO,UTA,1997-98
+Shot Chart Detail,1029700097,437,100034,Tia Jackson,1611661317,Phoenix Mercury,3,2,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970817,PHO,UTA,1997-98
+Shot Chart Detail,1029700099,207,100034,Tia Jackson,1611661317,Phoenix Mercury,1,1,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,34,1,1,19970818,LAS,PHO,1997-98
+Shot Chart Detail,1029700099,332,100034,Tia Jackson,1611661317,Phoenix Mercury,2,6,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,155,10,1,0,19970818,LAS,PHO,1997-98
+Shot Chart Detail,1029700102,79,100034,Tia Jackson,1611661317,Phoenix Mercury,1,10,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,8,151,1,0,19970820,SAC,PHO,1997-98
+Shot Chart Detail,1029700110,146,100034,Tia Jackson,1611661317,Phoenix Mercury,1,6,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-96,125,1,0,19970824,PHO,LAS,1997-98
+Shot Chart Detail,1029700110,160,100034,Tia Jackson,1611661317,Phoenix Mercury,1,4,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970824,PHO,LAS,1997-98
+Shot Chart Detail,1029700110,320,100034,Tia Jackson,1611661317,Phoenix Mercury,2,8,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,47,127,1,0,19970824,PHO,LAS,1997-98

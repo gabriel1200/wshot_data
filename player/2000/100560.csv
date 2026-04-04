@@ -1,0 +1,132 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020000009,7,100560,Shantia Owens,1611661326,Miami Sol,1,18,56,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-76,8,1,1,20000601,MIA,IND,2000-01
+Shot Chart Detail,1020000009,19,100560,Shantia Owens,1611661326,Miami Sol,1,16,32,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-55,106,1,1,20000601,MIA,IND,2000-01
+Shot Chart Detail,1020000009,163,100560,Shantia Owens,1611661326,Miami Sol,1,2,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,-1,1,0,20000601,MIA,IND,2000-01
+Shot Chart Detail,1020000009,312,100560,Shantia Owens,1611661326,Miami Sol,2,6,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000601,MIA,IND,2000-01
+Shot Chart Detail,1020000009,336,100560,Shantia Owens,1611661326,Miami Sol,2,4,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-3,145,1,1,20000601,MIA,IND,2000-01
+Shot Chart Detail,1020000013,5,100560,Shantia Owens,1611661326,Miami Sol,1,19,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000603,CHA,MIA,2000-01
+Shot Chart Detail,1020000013,154,100560,Shantia Owens,1611661326,Miami Sol,1,1,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000603,CHA,MIA,2000-01
+Shot Chart Detail,1020000013,196,100560,Shantia Owens,1611661326,Miami Sol,2,16,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000603,CHA,MIA,2000-01
+Shot Chart Detail,1020000013,234,100560,Shantia Owens,1611661326,Miami Sol,2,13,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000603,CHA,MIA,2000-01
+Shot Chart Detail,1020000013,279,100560,Shantia Owens,1611661326,Miami Sol,2,10,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000603,CHA,MIA,2000-01
+Shot Chart Detail,1020000013,316,100560,Shantia Owens,1611661326,Miami Sol,2,5,46,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000603,CHA,MIA,2000-01
+Shot Chart Detail,1020000023,41,100560,Shantia Owens,1611661326,Miami Sol,1,15,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-46,3,1,0,20000605,IND,MIA,2000-01
+Shot Chart Detail,1020000023,186,100560,Shantia Owens,1611661326,Miami Sol,1,2,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,1,89,1,0,20000605,IND,MIA,2000-01
+Shot Chart Detail,1020000023,196,100560,Shantia Owens,1611661326,Miami Sol,1,1,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,3,1,1,20000605,IND,MIA,2000-01
+Shot Chart Detail,1020000023,206,100560,Shantia Owens,1611661326,Miami Sol,1,0,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,53,31,1,0,20000605,IND,MIA,2000-01
+Shot Chart Detail,1020000023,213,100560,Shantia Owens,1611661326,Miami Sol,2,16,16,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,27,1,1,20000605,IND,MIA,2000-01
+Shot Chart Detail,1020000023,252,100560,Shantia Owens,1611661326,Miami Sol,2,13,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,3,1,0,20000605,IND,MIA,2000-01
+Shot Chart Detail,1020000023,313,100560,Shantia Owens,1611661326,Miami Sol,2,8,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-18,48,1,0,20000605,IND,MIA,2000-01
+Shot Chart Detail,1020000023,342,100560,Shantia Owens,1611661326,Miami Sol,2,6,15,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,10,1,1,20000605,IND,MIA,2000-01
+Shot Chart Detail,1020000033,10,100560,Shantia Owens,1611661326,Miami Sol,1,18,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-85,36,1,1,20000608,MIA,WAS,2000-01
+Shot Chart Detail,1020000033,68,100560,Shantia Owens,1611661326,Miami Sol,1,11,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-3,145,1,1,20000608,MIA,WAS,2000-01
+Shot Chart Detail,1020000033,204,100560,Shantia Owens,1611661326,Miami Sol,1,1,1,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-18,25,1,1,20000608,MIA,WAS,2000-01
+Shot Chart Detail,1020000033,236,100560,Shantia Owens,1611661326,Miami Sol,2,12,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-3,162,1,0,20000608,MIA,WAS,2000-01
+Shot Chart Detail,1020000033,326,100560,Shantia Owens,1611661326,Miami Sol,2,3,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-48,106,1,0,20000608,MIA,WAS,2000-01
+Shot Chart Detail,1020000039,6,100560,Shantia Owens,1611661326,Miami Sol,1,19,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000610,MIA,MIN,2000-01
+Shot Chart Detail,1020000039,58,100560,Shantia Owens,1611661326,Miami Sol,1,12,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,1,96,1,0,20000610,MIA,MIN,2000-01
+Shot Chart Detail,1020000039,184,100560,Shantia Owens,1611661326,Miami Sol,1,2,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,10,91,1,0,20000610,MIA,MIN,2000-01
+Shot Chart Detail,1020000049,59,100560,Shantia Owens,1611661326,Miami Sol,1,13,39,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-33,85,1,0,20000613,MIA,DET,2000-01
+Shot Chart Detail,1020000049,112,100560,Shantia Owens,1611661326,Miami Sol,1,9,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,31,1,0,20000613,MIA,DET,2000-01
+Shot Chart Detail,1020000049,164,100560,Shantia Owens,1611661326,Miami Sol,1,5,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000613,MIA,DET,2000-01
+Shot Chart Detail,1020000049,174,100560,Shantia Owens,1611661326,Miami Sol,1,4,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-40,162,1,0,20000613,MIA,DET,2000-01
+Shot Chart Detail,1020000049,226,100560,Shantia Owens,1611661326,Miami Sol,1,2,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000613,MIA,DET,2000-01
+Shot Chart Detail,1020000049,198,100560,Shantia Owens,1611661326,Miami Sol,1,1,27,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-12,36,1,1,20000613,MIA,DET,2000-01
+Shot Chart Detail,1020000049,250,100560,Shantia Owens,1611661326,Miami Sol,1,0,15,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,16,31,1,1,20000613,MIA,DET,2000-01
+Shot Chart Detail,1020000049,267,100560,Shantia Owens,1611661326,Miami Sol,2,15,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000613,MIA,DET,2000-01
+Shot Chart Detail,1020000056,26,100560,Shantia Owens,1611661326,Miami Sol,1,16,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,29,33,1,0,20000615,HOU,MIA,2000-01
+Shot Chart Detail,1020000056,183,100560,Shantia Owens,1611661326,Miami Sol,1,0,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,35,57,1,1,20000615,HOU,MIA,2000-01
+Shot Chart Detail,1020000056,204,100560,Shantia Owens,1611661326,Miami Sol,2,14,10,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-21,119,1,0,20000615,HOU,MIA,2000-01
+Shot Chart Detail,1020000056,220,100560,Shantia Owens,1611661326,Miami Sol,2,13,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000615,HOU,MIA,2000-01
+Shot Chart Detail,1020000056,255,100560,Shantia Owens,1611661326,Miami Sol,2,11,53,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,27,1,1,20000615,HOU,MIA,2000-01
+Shot Chart Detail,1020000061,7,100560,Shantia Owens,1611661326,Miami Sol,1,18,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,36,1,0,20000617,MIA,CLE,2000-01
+Shot Chart Detail,1020000061,22,100560,Shantia Owens,1611661326,Miami Sol,1,16,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,10,78,1,0,20000617,MIA,CLE,2000-01
+Shot Chart Detail,1020000061,30,100560,Shantia Owens,1611661326,Miami Sol,1,14,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-61,179,1,1,20000617,MIA,CLE,2000-01
+Shot Chart Detail,1020000061,240,100560,Shantia Owens,1611661326,Miami Sol,2,10,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,61,173,1,0,20000617,MIA,CLE,2000-01
+Shot Chart Detail,1020000061,278,100560,Shantia Owens,1611661326,Miami Sol,2,6,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000617,MIA,CLE,2000-01
+Shot Chart Detail,1020000066,8,100560,Shantia Owens,1611661326,Miami Sol,1,18,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,106,-5,1,0,20000618,NYL,MIA,2000-01
+Shot Chart Detail,1020000066,129,100560,Shantia Owens,1611661326,Miami Sol,1,4,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-72,38,1,0,20000618,NYL,MIA,2000-01
+Shot Chart Detail,1020000066,145,100560,Shantia Owens,1611661326,Miami Sol,1,2,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-51,160,1,0,20000618,NYL,MIA,2000-01
+Shot Chart Detail,1020000066,265,100560,Shantia Owens,1611661326,Miami Sol,2,9,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-87,21,1,0,20000618,NYL,MIA,2000-01
+Shot Chart Detail,1020000078,7,100560,Shantia Owens,1611661326,Miami Sol,1,18,55,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-46,-3,1,1,20000621,WAS,MIA,2000-01
+Shot Chart Detail,1020000078,14,100560,Shantia Owens,1611661326,Miami Sol,1,17,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,-3,1,0,20000621,WAS,MIA,2000-01
+Shot Chart Detail,1020000078,45,100560,Shantia Owens,1611661326,Miami Sol,1,14,11,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-61,27,1,1,20000621,WAS,MIA,2000-01
+Shot Chart Detail,1020000078,144,100560,Shantia Owens,1611661326,Miami Sol,1,4,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,117,-21,1,1,20000621,WAS,MIA,2000-01
+Shot Chart Detail,1020000078,295,100560,Shantia Owens,1611661326,Miami Sol,2,6,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-12,40,1,0,20000621,WAS,MIA,2000-01
+Shot Chart Detail,1020000078,323,100560,Shantia Owens,1611661326,Miami Sol,2,3,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,5,1,1,20000621,WAS,MIA,2000-01
+Shot Chart Detail,1020000078,350,100560,Shantia Owens,1611661326,Miami Sol,2,0,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,23,1,1,20000621,WAS,MIA,2000-01
+Shot Chart Detail,1020000084,20,100560,Shantia Owens,1611661326,Miami Sol,1,17,42,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,14,1,0,20000623,MIA,LAS,2000-01
+Shot Chart Detail,1020000084,28,100560,Shantia Owens,1611661326,Miami Sol,1,16,54,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,40,46,1,1,20000623,MIA,LAS,2000-01
+Shot Chart Detail,1020000084,33,100560,Shantia Owens,1611661326,Miami Sol,1,15,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,42,128,1,0,20000623,MIA,LAS,2000-01
+Shot Chart Detail,1020000084,61,100560,Shantia Owens,1611661326,Miami Sol,1,12,59,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000623,MIA,LAS,2000-01
+Shot Chart Detail,1020000084,67,100560,Shantia Owens,1611661326,Miami Sol,1,12,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,1,151,1,0,20000623,MIA,LAS,2000-01
+Shot Chart Detail,1020000084,201,100560,Shantia Owens,1611661326,Miami Sol,1,2,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,25,113,1,0,20000623,MIA,LAS,2000-01
+Shot Chart Detail,1020000084,189,100560,Shantia Owens,1611661326,Miami Sol,1,0,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000623,MIA,LAS,2000-01
+Shot Chart Detail,1020000089,80,100560,Shantia Owens,1611661326,Miami Sol,1,10,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000624,MIA,PHO,2000-01
+Shot Chart Detail,1020000089,213,100560,Shantia Owens,1611661326,Miami Sol,1,2,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,70,8,1,0,20000624,MIA,PHO,2000-01
+Shot Chart Detail,1020000089,257,100560,Shantia Owens,1611661326,Miami Sol,2,14,9,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,55,8,1,1,20000624,MIA,PHO,2000-01
+Shot Chart Detail,1020000089,286,100560,Shantia Owens,1611661326,Miami Sol,2,11,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,46,145,1,0,20000624,MIA,PHO,2000-01
+Shot Chart Detail,1020000102,19,100560,Shantia Owens,1611661326,Miami Sol,1,16,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000628,ORL,MIA,2000-01
+Shot Chart Detail,1020000102,50,100560,Shantia Owens,1611661326,Miami Sol,1,13,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,51,175,1,0,20000628,ORL,MIA,2000-01
+Shot Chart Detail,1020000102,186,100560,Shantia Owens,1611661326,Miami Sol,1,2,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-38,40,1,0,20000628,ORL,MIA,2000-01
+Shot Chart Detail,1020000102,228,100560,Shantia Owens,1611661326,Miami Sol,2,12,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000628,ORL,MIA,2000-01
+Shot Chart Detail,1020000109,155,100560,Shantia Owens,1611661326,Miami Sol,1,4,39,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000630,MIA,ORL,2000-01
+Shot Chart Detail,1020000109,218,100560,Shantia Owens,1611661326,Miami Sol,1,1,57,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,14,1,1,20000630,MIA,ORL,2000-01
+Shot Chart Detail,1020000115,11,100560,Shantia Owens,1611661326,Miami Sol,1,18,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,55,5,1,0,20000701,IND,MIA,2000-01
+Shot Chart Detail,1020000115,199,100560,Shantia Owens,1611661326,Miami Sol,1,1,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,16,158,1,0,20000701,IND,MIA,2000-01
+Shot Chart Detail,1020000115,228,100560,Shantia Owens,1611661326,Miami Sol,2,14,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-55,29,1,1,20000701,IND,MIA,2000-01
+Shot Chart Detail,1020000115,233,100560,Shantia Owens,1611661326,Miami Sol,2,14,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-55,87,1,1,20000701,IND,MIA,2000-01
+Shot Chart Detail,1020000126,23,100560,Shantia Owens,1611661326,Miami Sol,1,19,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000705,CHA,MIA,2000-01
+Shot Chart Detail,1020000126,53,100560,Shantia Owens,1611661326,Miami Sol,1,14,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-91,38,1,0,20000705,CHA,MIA,2000-01
+Shot Chart Detail,1020000126,165,100560,Shantia Owens,1611661326,Miami Sol,1,2,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,48,38,1,0,20000705,CHA,MIA,2000-01
+Shot Chart Detail,1020000126,174,100560,Shantia Owens,1611661326,Miami Sol,1,1,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000705,CHA,MIA,2000-01
+Shot Chart Detail,1020000126,177,100560,Shantia Owens,1611661326,Miami Sol,1,1,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-46,132,1,0,20000705,CHA,MIA,2000-01
+Shot Chart Detail,1020000138,79,100560,Shantia Owens,1611661326,Miami Sol,1,9,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,42,42,1,1,20000708,NYL,MIA,2000-01
+Shot Chart Detail,1020000138,105,100560,Shantia Owens,1611661326,Miami Sol,1,6,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000708,NYL,MIA,2000-01
+Shot Chart Detail,1020000138,123,100560,Shantia Owens,1611661326,Miami Sol,1,4,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,14,1,0,20000708,NYL,MIA,2000-01
+Shot Chart Detail,1020000138,262,100560,Shantia Owens,1611661326,Miami Sol,2,7,47,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-57,10,1,1,20000708,NYL,MIA,2000-01
+Shot Chart Detail,1020000138,303,100560,Shantia Owens,1611661326,Miami Sol,2,3,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000708,NYL,MIA,2000-01
+Shot Chart Detail,1020000147,68,100560,Shantia Owens,1611661326,Miami Sol,1,12,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000710,MIA,SEA,2000-01
+Shot Chart Detail,1020000147,256,100560,Shantia Owens,1611661326,Miami Sol,2,11,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,31,119,1,0,20000710,MIA,SEA,2000-01
+Shot Chart Detail,1020000147,259,100560,Shantia Owens,1611661326,Miami Sol,2,11,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,46,46,1,0,20000710,MIA,SEA,2000-01
+Shot Chart Detail,1020000160,103,100560,Shantia Owens,1611661326,Miami Sol,1,9,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-113,66,1,1,20000714,DET,MIA,2000-01
+Shot Chart Detail,1020000160,114,100560,Shantia Owens,1611661326,Miami Sol,1,8,34,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,6,35,1,0,20000714,DET,MIA,2000-01
+Shot Chart Detail,1020000160,279,100560,Shantia Owens,1611661326,Miami Sol,2,9,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000714,DET,MIA,2000-01
+Shot Chart Detail,1020000160,309,100560,Shantia Owens,1611661326,Miami Sol,2,6,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000714,DET,MIA,2000-01
+Shot Chart Detail,1020000160,331,100560,Shantia Owens,1611661326,Miami Sol,2,3,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,14,1,0,20000714,DET,MIA,2000-01
+Shot Chart Detail,1020000170,65,100560,Shantia Owens,1611661326,Miami Sol,1,11,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,70,141,1,0,20000719,MIA,POR,2000-01
+Shot Chart Detail,1020000170,84,100560,Shantia Owens,1611661326,Miami Sol,1,9,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,119,18,1,1,20000719,MIA,POR,2000-01
+Shot Chart Detail,1020000170,135,100560,Shantia Owens,1611661326,Miami Sol,1,5,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000719,MIA,POR,2000-01
+Shot Chart Detail,1020000179,74,100560,Shantia Owens,1611661326,Miami Sol,1,11,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,16,145,1,0,20000721,MIA,UTA,2000-01
+Shot Chart Detail,1020000179,112,100560,Shantia Owens,1611661326,Miami Sol,1,8,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,25,57,1,0,20000721,MIA,UTA,2000-01
+Shot Chart Detail,1020000179,128,100560,Shantia Owens,1611661326,Miami Sol,1,6,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,25,162,1,0,20000721,MIA,UTA,2000-01
+Shot Chart Detail,1020000183,239,100560,Shantia Owens,1611661326,Miami Sol,2,12,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,93,53,1,0,20000722,CLE,MIA,2000-01
+Shot Chart Detail,1020000183,269,100560,Shantia Owens,1611661326,Miami Sol,2,10,38,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,5,36,1,0,20000722,CLE,MIA,2000-01
+Shot Chart Detail,1020000183,276,100560,Shantia Owens,1611661326,Miami Sol,2,9,53,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-1,36,1,0,20000722,CLE,MIA,2000-01
+Shot Chart Detail,1020000183,298,100560,Shantia Owens,1611661326,Miami Sol,2,7,28,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,18,1,1,20000722,CLE,MIA,2000-01
+Shot Chart Detail,1020000183,317,100560,Shantia Owens,1611661326,Miami Sol,2,5,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-23,29,1,1,20000722,CLE,MIA,2000-01
+Shot Chart Detail,1020000183,327,100560,Shantia Owens,1611661326,Miami Sol,2,4,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-8,149,1,0,20000722,CLE,MIA,2000-01
+Shot Chart Detail,1020000197,283,100560,Shantia Owens,1611661326,Miami Sol,2,15,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,59,63,1,0,20000726,DET,MIA,2000-01
+Shot Chart Detail,1020000197,373,100560,Shantia Owens,1611661326,Miami Sol,2,6,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,68,1,1,0,20000726,DET,MIA,2000-01
+Shot Chart Detail,1020000197,428,100560,Shantia Owens,1611661326,Miami Sol,2,3,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000726,DET,MIA,2000-01
+Shot Chart Detail,1020000205,123,100560,Shantia Owens,1611661326,Miami Sol,1,8,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-16,81,1,0,20000728,MIN,MIA,2000-01
+Shot Chart Detail,1020000205,125,100560,Shantia Owens,1611661326,Miami Sol,1,8,56,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,25,1,0,20000728,MIN,MIA,2000-01
+Shot Chart Detail,1020000205,144,100560,Shantia Owens,1611661326,Miami Sol,1,6,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,63,18,1,0,20000728,MIN,MIA,2000-01
+Shot Chart Detail,1020000205,256,100560,Shantia Owens,1611661326,Miami Sol,2,14,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,18,1,0,20000728,MIN,MIA,2000-01
+Shot Chart Detail,1020000205,278,100560,Shantia Owens,1611661326,Miami Sol,2,11,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,70,23,1,1,20000728,MIN,MIA,2000-01
+Shot Chart Detail,1020000205,312,100560,Shantia Owens,1611661326,Miami Sol,2,8,56,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,57,29,1,0,20000728,MIN,MIA,2000-01
+Shot Chart Detail,1020000205,363,100560,Shantia Owens,1611661326,Miami Sol,2,4,59,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,12,40,1,1,20000728,MIN,MIA,2000-01
+Shot Chart Detail,1020000205,371,100560,Shantia Owens,1611661326,Miami Sol,2,4,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,85,46,1,1,20000728,MIN,MIA,2000-01
+Shot Chart Detail,1020000205,396,100560,Shantia Owens,1611661326,Miami Sol,2,1,56,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-1,81,1,0,20000728,MIN,MIA,2000-01
+Shot Chart Detail,1020000205,409,100560,Shantia Owens,1611661326,Miami Sol,2,0,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-8,173,1,0,20000728,MIN,MIA,2000-01
+Shot Chart Detail,1020000215,209,100560,Shantia Owens,1611661326,Miami Sol,2,11,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,29,1,0,20000730,SEA,MIA,2000-01
+Shot Chart Detail,1020000221,104,100560,Shantia Owens,1611661326,Miami Sol,1,6,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,16,1,1,20000801,POR,MIA,2000-01
+Shot Chart Detail,1020000225,74,100560,Shantia Owens,1611661326,Miami Sol,1,9,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-89,1,1,1,20000802,SAC,MIA,2000-01
+Shot Chart Detail,1020000225,104,100560,Shantia Owens,1611661326,Miami Sol,1,6,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-8,78,1,0,20000802,SAC,MIA,2000-01
+Shot Chart Detail,1020000225,113,100560,Shantia Owens,1611661326,Miami Sol,1,5,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,23,1,0,20000802,SAC,MIA,2000-01
+Shot Chart Detail,1020000225,200,100560,Shantia Owens,1611661326,Miami Sol,2,16,34,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,12,1,1,20000802,SAC,MIA,2000-01
+Shot Chart Detail,1020000225,250,100560,Shantia Owens,1611661326,Miami Sol,2,11,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-38,160,1,0,20000802,SAC,MIA,2000-01
+Shot Chart Detail,1020000225,255,100560,Shantia Owens,1611661326,Miami Sol,2,11,5,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-59,40,1,1,20000802,SAC,MIA,2000-01
+Shot Chart Detail,1020000225,274,100560,Shantia Owens,1611661326,Miami Sol,2,8,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-44,12,1,0,20000802,SAC,MIA,2000-01
+Shot Chart Detail,1020000225,353,100560,Shantia Owens,1611661326,Miami Sol,2,1,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-1,83,1,0,20000802,SAC,MIA,2000-01
+Shot Chart Detail,1020000230,112,100560,Shantia Owens,1611661326,Miami Sol,1,4,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-57,-3,1,0,20000804,MIA,CHA,2000-01

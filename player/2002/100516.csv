@@ -1,0 +1,25 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020200006,106,100516,Amber Hall,1611661327,Portland Fire,1,7,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,54,85,1,0,20020529,POR,NYL,2002-03
+Shot Chart Detail,1020200006,314,100516,Amber Hall,1611661327,Portland Fire,2,6,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020529,POR,NYL,2002-03
+Shot Chart Detail,1020200022,403,100516,Amber Hall,1611661327,Portland Fire,2,5,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020603,LAS,POR,2002-03
+Shot Chart Detail,1020200022,421,100516,Amber Hall,1611661327,Portland Fire,2,2,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-20,85,1,1,20020603,LAS,POR,2002-03
+Shot Chart Detail,1020200022,445,100516,Amber Hall,1611661327,Portland Fire,2,0,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020603,LAS,POR,2002-03
+Shot Chart Detail,1020200060,155,100516,Amber Hall,1611661327,Portland Fire,1,1,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,9,129,1,1,20020615,POR,DET,2002-03
+Shot Chart Detail,1020200067,302,100516,Amber Hall,1611661327,Portland Fire,2,7,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020618,POR,MIN,2002-03
+Shot Chart Detail,1020200067,304,100516,Amber Hall,1611661327,Portland Fire,2,7,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020618,POR,MIN,2002-03
+Shot Chart Detail,1020200067,362,100516,Amber Hall,1611661327,Portland Fire,2,1,39,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020618,POR,MIN,2002-03
+Shot Chart Detail,1020200084,107,100516,Amber Hall,1611661327,Portland Fire,1,7,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020623,POR,HOU,2002-03
+Shot Chart Detail,1020200084,153,100516,Amber Hall,1611661327,Portland Fire,1,0,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,54,112,1,0,20020623,POR,HOU,2002-03
+Shot Chart Detail,1020200084,158,100516,Amber Hall,1611661327,Portland Fire,1,0,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020623,POR,HOU,2002-03
+Shot Chart Detail,1020200084,209,100516,Amber Hall,1611661327,Portland Fire,2,13,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020623,POR,HOU,2002-03
+Shot Chart Detail,1020200089,148,100516,Amber Hall,1611661327,Portland Fire,1,5,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020625,UTA,POR,2002-03
+Shot Chart Detail,1020200089,286,100516,Amber Hall,1611661327,Portland Fire,2,12,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020625,UTA,POR,2002-03
+Shot Chart Detail,1020200089,306,100516,Amber Hall,1611661327,Portland Fire,2,10,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020625,UTA,POR,2002-03
+Shot Chart Detail,1020200089,316,100516,Amber Hall,1611661327,Portland Fire,2,9,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020625,UTA,POR,2002-03
+Shot Chart Detail,1020200094,168,100516,Amber Hall,1611661327,Portland Fire,1,2,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020626,POR,ORL,2002-03
+Shot Chart Detail,1020200130,97,100516,Amber Hall,1611661327,Portland Fire,1,7,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020707,POR,SAC,2002-03
+Shot Chart Detail,1020200166,122,100516,Amber Hall,1611661327,Portland Fire,1,6,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020719,POR,HOU,2002-03
+Shot Chart Detail,1020200193,338,100516,Amber Hall,1611661327,Portland Fire,2,0,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020727,POR,MIA,2002-03
+Shot Chart Detail,1020200201,93,100516,Amber Hall,1611661327,Portland Fire,1,8,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,28,40,1,0,20020730,HOU,POR,2002-03
+Shot Chart Detail,1020200201,293,100516,Amber Hall,1611661327,Portland Fire,2,8,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020730,HOU,POR,2002-03
+Shot Chart Detail,1020200201,371,100516,Amber Hall,1611661327,Portland Fire,2,1,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-29,89,1,1,20020730,HOU,POR,2002-03

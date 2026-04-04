@@ -1,0 +1,30 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1041500112,207,203041,Lynetta Kizer,1611661325,Indiana Fever,2,3,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,-25,1,0,20150919,IND,CHI,2015-16
+Shot Chart Detail,1041500112,209,203041,Lynetta Kizer,1611661325,Indiana Fever,2,3,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-6,1,0,20150919,IND,CHI,2015-16
+Shot Chart Detail,1041500112,227,203041,Lynetta Kizer,1611661325,Indiana Fever,2,2,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-146,99,1,1,20150919,IND,CHI,2015-16
+Shot Chart Detail,1041500112,234,203041,Lynetta Kizer,1611661325,Indiana Fever,2,1,21,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,37,1,1,20150919,IND,CHI,2015-16
+Shot Chart Detail,1041500112,236,203041,Lynetta Kizer,1611661325,Indiana Fever,2,1,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-2,1,0,20150919,IND,CHI,2015-16
+Shot Chart Detail,1041500112,238,203041,Lynetta Kizer,1611661325,Indiana Fever,2,0,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,-17,1,0,20150919,IND,CHI,2015-16
+Shot Chart Detail,1041500112,331,203041,Lynetta Kizer,1611661325,Indiana Fever,3,2,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-5,1,0,20150919,IND,CHI,2015-16
+Shot Chart Detail,1041500112,333,203041,Lynetta Kizer,1611661325,Indiana Fever,3,2,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-5,1,1,20150919,IND,CHI,2015-16
+Shot Chart Detail,1041500112,336,203041,Lynetta Kizer,1611661325,Indiana Fever,3,1,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,17,176,1,1,20150919,IND,CHI,2015-16
+Shot Chart Detail,1041500112,364,203041,Lynetta Kizer,1611661325,Indiana Fever,4,8,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,155,-19,1,1,20150919,IND,CHI,2015-16
+Shot Chart Detail,1041500112,378,203041,Lynetta Kizer,1611661325,Indiana Fever,4,7,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-125,-17,1,1,20150919,IND,CHI,2015-16
+Shot Chart Detail,1041500113,98,203041,Lynetta Kizer,1611661325,Indiana Fever,2,8,41,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,15,26,1,0,20150921,CHI,IND,2015-16
+Shot Chart Detail,1041500113,101,203041,Lynetta Kizer,1611661325,Indiana Fever,2,8,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,11,1,1,20150921,CHI,IND,2015-16
+Shot Chart Detail,1041500202,82,203041,Lynetta Kizer,1611661325,Indiana Fever,1,0,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,-6,1,0,20150927,IND,NYL,2015-16
+Shot Chart Detail,1041500202,277,203041,Lynetta Kizer,1611661325,Indiana Fever,3,1,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,88,149,1,0,20150927,IND,NYL,2015-16
+Shot Chart Detail,1041500202,281,203041,Lynetta Kizer,1611661325,Indiana Fever,3,1,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-5,1,0,20150927,IND,NYL,2015-16
+Shot Chart Detail,1041500203,62,203041,Lynetta Kizer,1611661325,Indiana Fever,1,3,34,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,44,1,1,20150929,NYL,IND,2015-16
+Shot Chart Detail,1041500203,91,203041,Lynetta Kizer,1611661325,Indiana Fever,1,0,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-65,173,1,1,20150929,NYL,IND,2015-16
+Shot Chart Detail,1041500203,254,203041,Lynetta Kizer,1611661325,Indiana Fever,3,4,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-90,60,1,0,20150929,NYL,IND,2015-16
+Shot Chart Detail,1041500301,109,203041,Lynetta Kizer,1611661325,Indiana Fever,2,8,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-16,170,1,0,20151004,MIN,IND,2015-16
+Shot Chart Detail,1041500301,239,203041,Lynetta Kizer,1611661325,Indiana Fever,3,5,27,Missed Shot,Jump Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-8,33,1,0,20151004,MIN,IND,2015-16
+Shot Chart Detail,1041500302,96,203041,Lynetta Kizer,1611661325,Indiana Fever,2,9,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,73,44,1,0,20151006,MIN,IND,2015-16
+Shot Chart Detail,1041500302,103,203041,Lynetta Kizer,1611661325,Indiana Fever,2,8,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,0,1,0,20151006,MIN,IND,2015-16
+Shot Chart Detail,1041500303,94,203041,Lynetta Kizer,1611661325,Indiana Fever,1,0,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,-13,1,1,20151009,IND,MIN,2015-16
+Shot Chart Detail,1041500303,238,203041,Lynetta Kizer,1611661325,Indiana Fever,3,1,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,-2,1,0,20151009,IND,MIN,2015-16
+Shot Chart Detail,1041500304,98,203041,Lynetta Kizer,1611661325,Indiana Fever,2,9,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,0,1,1,20151011,IND,MIN,2015-16
+Shot Chart Detail,1041500304,118,203041,Lynetta Kizer,1611661325,Indiana Fever,2,6,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-5,1,1,20151011,IND,MIN,2015-16
+Shot Chart Detail,1041500304,293,203041,Lynetta Kizer,1611661325,Indiana Fever,4,8,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-13,48,1,0,20151011,IND,MIN,2015-16
+Shot Chart Detail,1041500305,220,203041,Lynetta Kizer,1611661325,Indiana Fever,3,8,19,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,147,77,1,0,20151014,MIN,IND,2015-16

@@ -1,0 +1,9 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1041600111,12,201492,Matee Ajavon,1611661330,Atlanta Dream,1,8,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,53,18,1,0,20160921,ATL,SEA,2016-17
+Shot Chart Detail,1041600111,32,201492,Matee Ajavon,1611661330,Atlanta Dream,1,7,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-101,279,1,0,20160921,ATL,SEA,2016-17
+Shot Chart Detail,1041600111,199,201492,Matee Ajavon,1611661330,Atlanta Dream,2,2,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,1,206,1,1,20160921,ATL,SEA,2016-17
+Shot Chart Detail,1041600111,210,201492,Matee Ajavon,1611661330,Atlanta Dream,2,2,19,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-32,25,1,1,20160921,ATL,SEA,2016-17
+Shot Chart Detail,1041600111,249,201492,Matee Ajavon,1611661330,Atlanta Dream,3,8,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-58,180,1,0,20160921,ATL,SEA,2016-17
+Shot Chart Detail,1041600111,261,201492,Matee Ajavon,1611661330,Atlanta Dream,3,7,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-77,178,1,1,20160921,ATL,SEA,2016-17
+Shot Chart Detail,1041600211,107,201492,Matee Ajavon,1611661330,Atlanta Dream,2,9,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-95,9,1,1,20160925,CHI,ATL,2016-17
+Shot Chart Detail,1041600211,266,201492,Matee Ajavon,1611661330,Atlanta Dream,3,5,56,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,11,1,0,20160925,CHI,ATL,2016-17

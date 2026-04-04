@@ -1,0 +1,17 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1040100007,39,100366,Natalie Williams,1611661319,Utah Starzz,1,15,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-37,23,1,0,20010817,UTA,SAC,2001-02
+Shot Chart Detail,1040100007,125,100366,Natalie Williams,1611661319,Utah Starzz,1,7,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-1,163,1,0,20010817,UTA,SAC,2001-02
+Shot Chart Detail,1040100007,136,100366,Natalie Williams,1611661319,Utah Starzz,1,4,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,19,1,0,20010817,UTA,SAC,2001-02
+Shot Chart Detail,1040100007,197,100366,Natalie Williams,1611661319,Utah Starzz,1,2,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010817,UTA,SAC,2001-02
+Shot Chart Detail,1040100007,201,100366,Natalie Williams,1611661319,Utah Starzz,1,2,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010817,UTA,SAC,2001-02
+Shot Chart Detail,1040100007,169,100366,Natalie Williams,1611661319,Utah Starzz,1,2,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-86,125,1,0,20010817,UTA,SAC,2001-02
+Shot Chart Detail,1040100007,173,100366,Natalie Williams,1611661319,Utah Starzz,1,1,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010817,UTA,SAC,2001-02
+Shot Chart Detail,1040100007,177,100366,Natalie Williams,1611661319,Utah Starzz,1,0,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010817,UTA,SAC,2001-02
+Shot Chart Detail,1040100007,178,100366,Natalie Williams,1611661319,Utah Starzz,1,0,59,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010817,UTA,SAC,2001-02
+Shot Chart Detail,1040100007,249,100366,Natalie Williams,1611661319,Utah Starzz,2,13,50,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010817,UTA,SAC,2001-02
+Shot Chart Detail,1040100007,282,100366,Natalie Williams,1611661319,Utah Starzz,2,10,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-79,57,1,0,20010817,UTA,SAC,2001-02
+Shot Chart Detail,1040100007,355,100366,Natalie Williams,1611661319,Utah Starzz,2,2,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,125,74,1,1,20010817,UTA,SAC,2001-02
+Shot Chart Detail,1040100009,65,100366,Natalie Williams,1611661319,Utah Starzz,1,13,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-12,49,1,0,20010819,SAC,UTA,2001-02
+Shot Chart Detail,1040100009,112,100366,Natalie Williams,1611661319,Utah Starzz,1,6,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,15,1,0,20010819,SAC,UTA,2001-02
+Shot Chart Detail,1040100009,207,100366,Natalie Williams,1611661319,Utah Starzz,1,2,16,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,37,23,1,1,20010819,SAC,UTA,2001-02
+Shot Chart Detail,1040100009,325,100366,Natalie Williams,1611661319,Utah Starzz,2,7,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-56,87,1,1,20010819,SAC,UTA,2001-02

@@ -1,0 +1,20 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1040700101,290,201056,Ivory Latta,1611661321,Detroit Shock,3,0,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,164,138,1,1,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,354,201056,Ivory Latta,1611661321,Detroit Shock,4,3,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,22,-220,33,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,376,201056,Ivory Latta,1611661321,Detroit Shock,4,1,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-222,102,1,1,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,379,201056,Ivory Latta,1611661321,Detroit Shock,4,1,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-195,138,1,1,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,385,201056,Ivory Latta,1611661321,Detroit Shock,4,0,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-186,99,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700103,134,201056,Ivory Latta,1611661321,Detroit Shock,2,4,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-205,71,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700201,418,201056,Ivory Latta,1611661321,Detroit Shock,4,0,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-148,-42,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700202,390,201056,Ivory Latta,1611661321,Detroit Shock,4,0,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,8,82,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700203,414,201056,Ivory Latta,1611661321,Detroit Shock,4,0,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,75,224,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700301,66,201056,Ivory Latta,1611661321,Detroit Shock,1,4,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-8,222,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,99,201056,Ivory Latta,1611661321,Detroit Shock,1,0,21,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,2,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700302,306,201056,Ivory Latta,1611661321,Detroit Shock,3,2,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),24+ ft.,22,223,36,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,319,201056,Ivory Latta,1611661321,Detroit Shock,3,1,22,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,54,12,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,335,201056,Ivory Latta,1611661321,Detroit Shock,3,0,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,217,41,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,427,201056,Ivory Latta,1611661321,Detroit Shock,4,1,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,148,160,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700303,321,201056,Ivory Latta,1611661321,Detroit Shock,4,8,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700305,134,201056,Ivory Latta,1611661321,Detroit Shock,2,6,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-205,99,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,138,201056,Ivory Latta,1611661321,Detroit Shock,2,5,46,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-215,10,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,411,201056,Ivory Latta,1611661321,Detroit Shock,4,1,11,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,20,1,0,20070916,DET,PHO,2007-08

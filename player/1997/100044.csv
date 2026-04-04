@@ -1,0 +1,167 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1029700003,37,100044,Lady Grooms,1611661319,Utah Starzz,1,14,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,-18,1,0,19970621,UTA,SAC,1997-98
+Shot Chart Detail,1029700003,95,100044,Lady Grooms,1611661319,Utah Starzz,1,8,25,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-51,121,1,1,19970621,UTA,SAC,1997-98
+Shot Chart Detail,1029700003,101,100044,Lady Grooms,1611661319,Utah Starzz,1,7,37,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970621,UTA,SAC,1997-98
+Shot Chart Detail,1029700003,142,100044,Lady Grooms,1611661319,Utah Starzz,1,3,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-105,138,1,0,19970621,UTA,SAC,1997-98
+Shot Chart Detail,1029700003,161,100044,Lady Grooms,1611661319,Utah Starzz,1,2,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,131,103,1,0,19970621,UTA,SAC,1997-98
+Shot Chart Detail,1029700003,205,100044,Lady Grooms,1611661319,Utah Starzz,1,1,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970621,UTA,SAC,1997-98
+Shot Chart Detail,1029700003,183,100044,Lady Grooms,1611661319,Utah Starzz,1,0,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-114,136,1,0,19970621,UTA,SAC,1997-98
+Shot Chart Detail,1029700003,244,100044,Lady Grooms,1611661319,Utah Starzz,2,14,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,83,61,1,0,19970621,UTA,SAC,1997-98
+Shot Chart Detail,1029700003,415,100044,Lady Grooms,1611661319,Utah Starzz,2,4,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970621,UTA,SAC,1997-98
+Shot Chart Detail,1029700003,438,100044,Lady Grooms,1611661319,Utah Starzz,2,3,51,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-220,13,1,0,19970621,UTA,SAC,1997-98
+Shot Chart Detail,1029700005,39,100044,Lady Grooms,1611661319,Utah Starzz,1,15,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,103,181,1,0,19970623,UTA,LAS,1997-98
+Shot Chart Detail,1029700005,250,100044,Lady Grooms,1611661319,Utah Starzz,1,1,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-105,129,1,1,19970623,UTA,LAS,1997-98
+Shot Chart Detail,1029700005,271,100044,Lady Grooms,1611661319,Utah Starzz,2,15,57,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970623,UTA,LAS,1997-98
+Shot Chart Detail,1029700005,319,100044,Lady Grooms,1611661319,Utah Starzz,2,11,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,0,1,0,19970623,UTA,LAS,1997-98
+Shot Chart Detail,1029700009,43,100044,Lady Grooms,1611661319,Utah Starzz,1,15,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-77,69,1,0,19970626,CLE,UTA,1997-98
+Shot Chart Detail,1029700009,188,100044,Lady Grooms,1611661319,Utah Starzz,1,3,4,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-16,28,1,0,19970626,CLE,UTA,1997-98
+Shot Chart Detail,1029700009,171,100044,Lady Grooms,1611661319,Utah Starzz,1,2,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-23,43,1,0,19970626,CLE,UTA,1997-98
+Shot Chart Detail,1029700009,210,100044,Lady Grooms,1611661319,Utah Starzz,2,16,13,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,23,1,1,19970626,CLE,UTA,1997-98
+Shot Chart Detail,1029700013,195,100044,Lady Grooms,1611661319,Utah Starzz,1,2,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970628,UTA,HOU,1997-98
+Shot Chart Detail,1029700013,197,100044,Lady Grooms,1611661319,Utah Starzz,1,2,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,86,145,1,1,19970628,UTA,HOU,1997-98
+Shot Chart Detail,1029700013,167,100044,Lady Grooms,1611661319,Utah Starzz,1,0,53,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970628,UTA,HOU,1997-98
+Shot Chart Detail,1029700013,230,100044,Lady Grooms,1611661319,Utah Starzz,2,15,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-107,134,1,0,19970628,UTA,HOU,1997-98
+Shot Chart Detail,1029700013,241,100044,Lady Grooms,1611661319,Utah Starzz,2,15,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970628,UTA,HOU,1997-98
+Shot Chart Detail,1029700013,356,100044,Lady Grooms,1611661319,Utah Starzz,2,3,45,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970628,UTA,HOU,1997-98
+Shot Chart Detail,1029700013,369,100044,Lady Grooms,1611661319,Utah Starzz,2,2,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-101,181,1,0,19970628,UTA,HOU,1997-98
+Shot Chart Detail,1029700018,89,100044,Lady Grooms,1611661319,Utah Starzz,1,9,9,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-44,108,1,1,19970702,SAC,UTA,1997-98
+Shot Chart Detail,1029700018,93,100044,Lady Grooms,1611661319,Utah Starzz,1,8,40,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,10,1,0,19970702,SAC,UTA,1997-98
+Shot Chart Detail,1029700018,102,100044,Lady Grooms,1611661319,Utah Starzz,1,8,4,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970702,SAC,UTA,1997-98
+Shot Chart Detail,1029700018,225,100044,Lady Grooms,1611661319,Utah Starzz,2,14,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-12,181,1,0,19970702,SAC,UTA,1997-98
+Shot Chart Detail,1029700018,228,100044,Lady Grooms,1611661319,Utah Starzz,2,14,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-5,69,1,0,19970702,SAC,UTA,1997-98
+Shot Chart Detail,1029700018,234,100044,Lady Grooms,1611661319,Utah Starzz,2,13,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,116,62,1,0,19970702,SAC,UTA,1997-98
+Shot Chart Detail,1029700018,238,100044,Lady Grooms,1611661319,Utah Starzz,2,13,10,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-53,43,1,0,19970702,SAC,UTA,1997-98
+Shot Chart Detail,1029700018,240,100044,Lady Grooms,1611661319,Utah Starzz,2,13,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970702,SAC,UTA,1997-98
+Shot Chart Detail,1029700018,264,100044,Lady Grooms,1611661319,Utah Starzz,2,10,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970702,SAC,UTA,1997-98
+Shot Chart Detail,1029700021,290,100044,Lady Grooms,1611661319,Utah Starzz,2,12,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,21,1,0,19970703,UTA,PHO,1997-98
+Shot Chart Detail,1029700021,309,100044,Lady Grooms,1611661319,Utah Starzz,2,11,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970703,UTA,PHO,1997-98
+Shot Chart Detail,1029700021,332,100044,Lady Grooms,1611661319,Utah Starzz,2,9,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,-14,205,1,0,19970703,UTA,PHO,1997-98
+Shot Chart Detail,1029700021,395,100044,Lady Grooms,1611661319,Utah Starzz,2,5,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-18,168,1,0,19970703,UTA,PHO,1997-98
+Shot Chart Detail,1029700021,410,100044,Lady Grooms,1611661319,Utah Starzz,2,3,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970703,UTA,PHO,1997-98
+Shot Chart Detail,1029700021,428,100044,Lady Grooms,1611661319,Utah Starzz,2,1,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970703,UTA,PHO,1997-98
+Shot Chart Detail,1029700021,443,100044,Lady Grooms,1611661319,Utah Starzz,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,41,194,366,1,0,19970703,UTA,PHO,1997-98
+Shot Chart Detail,1029700024,135,100044,Lady Grooms,1611661319,Utah Starzz,1,7,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970705,UTA,NYL,1997-98
+Shot Chart Detail,1029700024,195,100044,Lady Grooms,1611661319,Utah Starzz,1,2,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-68,151,1,0,19970705,UTA,NYL,1997-98
+Shot Chart Detail,1029700024,215,100044,Lady Grooms,1611661319,Utah Starzz,1,0,37,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,1,62,1,0,19970705,UTA,NYL,1997-98
+Shot Chart Detail,1029700024,223,100044,Lady Grooms,1611661319,Utah Starzz,1,0,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970705,UTA,NYL,1997-98
+Shot Chart Detail,1029700024,295,100044,Lady Grooms,1611661319,Utah Starzz,2,14,22,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970705,UTA,NYL,1997-98
+Shot Chart Detail,1029700024,321,100044,Lady Grooms,1611661319,Utah Starzz,2,12,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970705,UTA,NYL,1997-98
+Shot Chart Detail,1029700024,364,100044,Lady Grooms,1611661319,Utah Starzz,2,7,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970705,UTA,NYL,1997-98
+Shot Chart Detail,1029700024,378,100044,Lady Grooms,1611661319,Utah Starzz,2,6,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970705,UTA,NYL,1997-98
+Shot Chart Detail,1029700024,389,100044,Lady Grooms,1611661319,Utah Starzz,2,4,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970705,UTA,NYL,1997-98
+Shot Chart Detail,1029700024,399,100044,Lady Grooms,1611661319,Utah Starzz,2,2,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970705,UTA,NYL,1997-98
+Shot Chart Detail,1029700024,402,100044,Lady Grooms,1611661319,Utah Starzz,2,2,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-44,147,1,0,19970705,UTA,NYL,1997-98
+Shot Chart Detail,1029700028,67,100044,Lady Grooms,1611661319,Utah Starzz,1,12,48,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970707,UTA,SAC,1997-98
+Shot Chart Detail,1029700028,93,100044,Lady Grooms,1611661319,Utah Starzz,1,9,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-116,134,1,0,19970707,UTA,SAC,1997-98
+Shot Chart Detail,1029700028,109,100044,Lady Grooms,1611661319,Utah Starzz,1,7,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970707,UTA,SAC,1997-98
+Shot Chart Detail,1029700028,193,100044,Lady Grooms,1611661319,Utah Starzz,1,2,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-131,93,1,0,19970707,UTA,SAC,1997-98
+Shot Chart Detail,1029700028,205,100044,Lady Grooms,1611661319,Utah Starzz,1,0,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970707,UTA,SAC,1997-98
+Shot Chart Detail,1029700028,243,100044,Lady Grooms,1611661319,Utah Starzz,2,14,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-140,112,1,1,19970707,UTA,SAC,1997-98
+Shot Chart Detail,1029700028,326,100044,Lady Grooms,1611661319,Utah Starzz,2,4,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,153,47,1,1,19970707,UTA,SAC,1997-98
+Shot Chart Detail,1029700034,36,100044,Lady Grooms,1611661319,Utah Starzz,1,15,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,101,155,1,0,19970711,LAS,UTA,1997-98
+Shot Chart Detail,1029700034,46,100044,Lady Grooms,1611661319,Utah Starzz,1,15,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,86,123,1,1,19970711,LAS,UTA,1997-98
+Shot Chart Detail,1029700034,56,100044,Lady Grooms,1611661319,Utah Starzz,1,13,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970711,LAS,UTA,1997-98
+Shot Chart Detail,1029700034,201,100044,Lady Grooms,1611661319,Utah Starzz,1,2,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970711,LAS,UTA,1997-98
+Shot Chart Detail,1029700034,203,100044,Lady Grooms,1611661319,Utah Starzz,1,2,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-118,47,1,0,19970711,LAS,UTA,1997-98
+Shot Chart Detail,1029700034,212,100044,Lady Grooms,1611661319,Utah Starzz,1,1,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970711,LAS,UTA,1997-98
+Shot Chart Detail,1029700034,252,100044,Lady Grooms,1611661319,Utah Starzz,2,14,24,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970711,LAS,UTA,1997-98
+Shot Chart Detail,1029700034,261,100044,Lady Grooms,1611661319,Utah Starzz,2,13,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970711,LAS,UTA,1997-98
+Shot Chart Detail,1029700034,274,100044,Lady Grooms,1611661319,Utah Starzz,2,12,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970711,LAS,UTA,1997-98
+Shot Chart Detail,1029700037,22,100044,Lady Grooms,1611661319,Utah Starzz,1,16,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,47,54,1,0,19970712,UTA,PHO,1997-98
+Shot Chart Detail,1029700037,111,100044,Lady Grooms,1611661319,Utah Starzz,1,5,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,125,127,1,0,19970712,UTA,PHO,1997-98
+Shot Chart Detail,1029700037,251,100044,Lady Grooms,1611661319,Utah Starzz,2,10,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970712,UTA,PHO,1997-98
+Shot Chart Detail,1029700040,33,100044,Lady Grooms,1611661319,Utah Starzz,1,15,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970714,HOU,UTA,1997-98
+Shot Chart Detail,1029700040,70,100044,Lady Grooms,1611661319,Utah Starzz,1,12,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970714,HOU,UTA,1997-98
+Shot Chart Detail,1029700040,82,100044,Lady Grooms,1611661319,Utah Starzz,1,11,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970714,HOU,UTA,1997-98
+Shot Chart Detail,1029700040,181,100044,Lady Grooms,1611661319,Utah Starzz,1,0,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970714,HOU,UTA,1997-98
+Shot Chart Detail,1029700040,213,100044,Lady Grooms,1611661319,Utah Starzz,1,0,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970714,HOU,UTA,1997-98
+Shot Chart Detail,1029700040,239,100044,Lady Grooms,1611661319,Utah Starzz,2,13,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970714,HOU,UTA,1997-98
+Shot Chart Detail,1029700040,330,100044,Lady Grooms,1611661319,Utah Starzz,2,5,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970714,HOU,UTA,1997-98
+Shot Chart Detail,1029700044,57,100044,Lady Grooms,1611661319,Utah Starzz,1,12,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,19,190,1,0,19970716,CHA,UTA,1997-98
+Shot Chart Detail,1029700044,69,100044,Lady Grooms,1611661319,Utah Starzz,1,11,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970716,CHA,UTA,1997-98
+Shot Chart Detail,1029700044,75,100044,Lady Grooms,1611661319,Utah Starzz,1,10,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970716,CHA,UTA,1997-98
+Shot Chart Detail,1029700044,126,100044,Lady Grooms,1611661319,Utah Starzz,1,5,21,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970716,CHA,UTA,1997-98
+Shot Chart Detail,1029700044,163,100044,Lady Grooms,1611661319,Utah Starzz,1,1,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-129,-14,1,0,19970716,CHA,UTA,1997-98
+Shot Chart Detail,1029700044,170,100044,Lady Grooms,1611661319,Utah Starzz,1,0,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,107,-7,1,0,19970716,CHA,UTA,1997-98
+Shot Chart Detail,1029700047,215,100044,Lady Grooms,1611661319,Utah Starzz,1,2,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970717,NYL,UTA,1997-98
+Shot Chart Detail,1029700047,169,100044,Lady Grooms,1611661319,Utah Starzz,1,1,23,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970717,NYL,UTA,1997-98
+Shot Chart Detail,1029700047,258,100044,Lady Grooms,1611661319,Utah Starzz,2,15,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970717,NYL,UTA,1997-98
+Shot Chart Detail,1029700047,300,100044,Lady Grooms,1611661319,Utah Starzz,2,10,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,114,168,1,1,19970717,NYL,UTA,1997-98
+Shot Chart Detail,1029700047,312,100044,Lady Grooms,1611661319,Utah Starzz,2,9,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970717,NYL,UTA,1997-98
+Shot Chart Detail,1029700047,342,100044,Lady Grooms,1611661319,Utah Starzz,2,6,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-42,108,1,0,19970717,NYL,UTA,1997-98
+Shot Chart Detail,1029700047,344,100044,Lady Grooms,1611661319,Utah Starzz,2,6,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970717,NYL,UTA,1997-98
+Shot Chart Detail,1029700047,398,100044,Lady Grooms,1611661319,Utah Starzz,2,1,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970717,NYL,UTA,1997-98
+Shot Chart Detail,1029700047,404,100044,Lady Grooms,1611661319,Utah Starzz,2,1,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,19,-164,114,1,0,19970717,NYL,UTA,1997-98
+Shot Chart Detail,1029700050,140,100044,Lady Grooms,1611661319,Utah Starzz,1,3,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-75,134,1,0,19970719,CLE,UTA,1997-98
+Shot Chart Detail,1029700050,180,100044,Lady Grooms,1611661319,Utah Starzz,1,2,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,84,60,1,0,19970719,CLE,UTA,1997-98
+Shot Chart Detail,1029700050,393,100044,Lady Grooms,1611661319,Utah Starzz,1,1,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-8,51,1,0,19970719,CLE,UTA,1997-98
+Shot Chart Detail,1029700050,152,100044,Lady Grooms,1611661319,Utah Starzz,1,1,41,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,19,1,0,19970719,CLE,UTA,1997-98
+Shot Chart Detail,1029700050,163,100044,Lady Grooms,1611661319,Utah Starzz,1,0,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-27,23,1,0,19970719,CLE,UTA,1997-98
+Shot Chart Detail,1029700050,318,100044,Lady Grooms,1611661319,Utah Starzz,2,6,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-92,97,1,0,19970719,CLE,UTA,1997-98
+Shot Chart Detail,1029700050,352,100044,Lady Grooms,1611661319,Utah Starzz,2,3,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-1,112,1,1,19970719,CLE,UTA,1997-98
+Shot Chart Detail,1029700054,33,100044,Lady Grooms,1611661319,Utah Starzz,1,14,31,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-21,54,1,0,19970722,NYL,UTA,1997-98
+Shot Chart Detail,1029700054,69,100044,Lady Grooms,1611661319,Utah Starzz,1,10,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-90,93,1,1,19970722,NYL,UTA,1997-98
+Shot Chart Detail,1029700054,159,100044,Lady Grooms,1611661319,Utah Starzz,1,3,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970722,NYL,UTA,1997-98
+Shot Chart Detail,1029700054,190,100044,Lady Grooms,1611661319,Utah Starzz,2,16,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970722,NYL,UTA,1997-98
+Shot Chart Detail,1029700054,264,100044,Lady Grooms,1611661319,Utah Starzz,2,8,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-105,114,1,0,19970722,NYL,UTA,1997-98
+Shot Chart Detail,1029700059,8,100044,Lady Grooms,1611661319,Utah Starzz,1,19,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970726,UTA,CLE,1997-98
+Shot Chart Detail,1029700059,211,100044,Lady Grooms,1611661319,Utah Starzz,2,16,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-112,82,1,0,19970726,UTA,CLE,1997-98
+Shot Chart Detail,1029700059,271,100044,Lady Grooms,1611661319,Utah Starzz,2,11,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970726,UTA,CLE,1997-98
+Shot Chart Detail,1029700059,406,100044,Lady Grooms,1611661319,Utah Starzz,2,0,0,Missed Shot,No Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-170,142,1,0,19970726,UTA,CLE,1997-98
+Shot Chart Detail,1029700066,92,100044,Lady Grooms,1611661319,Utah Starzz,1,8,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970730,LAS,UTA,1997-98
+Shot Chart Detail,1029700066,195,100044,Lady Grooms,1611661319,Utah Starzz,1,1,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,38,166,1,0,19970730,LAS,UTA,1997-98
+Shot Chart Detail,1029700066,206,100044,Lady Grooms,1611661319,Utah Starzz,1,0,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970730,LAS,UTA,1997-98
+Shot Chart Detail,1029700072,45,100044,Lady Grooms,1611661319,Utah Starzz,1,13,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,1,153,1,0,19970802,UTA,HOU,1997-98
+Shot Chart Detail,1029700072,169,100044,Lady Grooms,1611661319,Utah Starzz,1,3,1,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-60,112,1,0,19970802,UTA,HOU,1997-98
+Shot Chart Detail,1029700072,193,100044,Lady Grooms,1611661319,Utah Starzz,2,16,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970802,UTA,HOU,1997-98
+Shot Chart Detail,1029700072,208,100044,Lady Grooms,1611661319,Utah Starzz,2,13,56,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970802,UTA,HOU,1997-98
+Shot Chart Detail,1029700072,327,100044,Lady Grooms,1611661319,Utah Starzz,2,2,20,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,49,36,1,1,19970802,UTA,HOU,1997-98
+Shot Chart Detail,1029700075,8,100044,Lady Grooms,1611661319,Utah Starzz,1,18,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970804,UTA,CHA,1997-98
+Shot Chart Detail,1029700075,10,100044,Lady Grooms,1611661319,Utah Starzz,1,18,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970804,UTA,CHA,1997-98
+Shot Chart Detail,1029700075,32,100044,Lady Grooms,1611661319,Utah Starzz,1,16,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970804,UTA,CHA,1997-98
+Shot Chart Detail,1029700075,56,100044,Lady Grooms,1611661319,Utah Starzz,1,14,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970804,UTA,CHA,1997-98
+Shot Chart Detail,1029700075,73,100044,Lady Grooms,1611661319,Utah Starzz,1,12,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970804,UTA,CHA,1997-98
+Shot Chart Detail,1029700075,187,100044,Lady Grooms,1611661319,Utah Starzz,1,1,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-103,10,1,0,19970804,UTA,CHA,1997-98
+Shot Chart Detail,1029700075,217,100044,Lady Grooms,1611661319,Utah Starzz,2,15,33,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970804,UTA,CHA,1997-98
+Shot Chart Detail,1029700078,15,100044,Lady Grooms,1611661319,Utah Starzz,1,17,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,27,140,1,0,19970806,PHO,UTA,1997-98
+Shot Chart Detail,1029700078,134,100044,Lady Grooms,1611661319,Utah Starzz,1,6,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-161,65,1,0,19970806,PHO,UTA,1997-98
+Shot Chart Detail,1029700078,149,100044,Lady Grooms,1611661319,Utah Starzz,1,4,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970806,PHO,UTA,1997-98
+Shot Chart Detail,1029700078,227,100044,Lady Grooms,1611661319,Utah Starzz,1,0,1,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,73,36,1,0,19970806,PHO,UTA,1997-98
+Shot Chart Detail,1029700078,236,100044,Lady Grooms,1611661319,Utah Starzz,2,15,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,19,160,1,0,19970806,PHO,UTA,1997-98
+Shot Chart Detail,1029700078,251,100044,Lady Grooms,1611661319,Utah Starzz,2,14,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970806,PHO,UTA,1997-98
+Shot Chart Detail,1029700078,266,100044,Lady Grooms,1611661319,Utah Starzz,2,12,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,45,41,1,0,19970806,PHO,UTA,1997-98
+Shot Chart Detail,1029700082,58,100044,Lady Grooms,1611661319,Utah Starzz,1,14,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970808,SAC,UTA,1997-98
+Shot Chart Detail,1029700082,358,100044,Lady Grooms,1611661319,Utah Starzz,2,4,5,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,53,49,1,1,19970808,SAC,UTA,1997-98
+Shot Chart Detail,1029700082,385,100044,Lady Grooms,1611661319,Utah Starzz,2,1,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970808,SAC,UTA,1997-98
+Shot Chart Detail,1029700087,167,100044,Lady Grooms,1611661319,Utah Starzz,1,3,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970811,UTA,CLE,1997-98
+Shot Chart Detail,1029700087,199,100044,Lady Grooms,1611661319,Utah Starzz,2,15,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970811,UTA,CLE,1997-98
+Shot Chart Detail,1029700087,283,100044,Lady Grooms,1611661319,Utah Starzz,2,6,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970811,UTA,CLE,1997-98
+Shot Chart Detail,1029700088,28,100044,Lady Grooms,1611661319,Utah Starzz,1,16,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-57,73,1,0,19970812,HOU,UTA,1997-98
+Shot Chart Detail,1029700088,59,100044,Lady Grooms,1611661319,Utah Starzz,1,12,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970812,HOU,UTA,1997-98
+Shot Chart Detail,1029700088,91,100044,Lady Grooms,1611661319,Utah Starzz,1,9,51,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970812,HOU,UTA,1997-98
+Shot Chart Detail,1029700088,137,100044,Lady Grooms,1611661319,Utah Starzz,1,4,7,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-68,54,1,1,19970812,HOU,UTA,1997-98
+Shot Chart Detail,1029700088,197,100044,Lady Grooms,1611661319,Utah Starzz,1,1,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970812,HOU,UTA,1997-98
+Shot Chart Detail,1029700088,171,100044,Lady Grooms,1611661319,Utah Starzz,1,0,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-34,67,1,0,19970812,HOU,UTA,1997-98
+Shot Chart Detail,1029700088,173,100044,Lady Grooms,1611661319,Utah Starzz,1,0,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-90,116,1,1,19970812,HOU,UTA,1997-98
+Shot Chart Detail,1029700088,275,100044,Lady Grooms,1611661319,Utah Starzz,2,7,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970812,HOU,UTA,1997-98
+Shot Chart Detail,1029700095,152,100044,Lady Grooms,1611661319,Utah Starzz,1,3,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970816,UTA,LAS,1997-98
+Shot Chart Detail,1029700095,236,100044,Lady Grooms,1611661319,Utah Starzz,2,15,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970816,UTA,LAS,1997-98
+Shot Chart Detail,1029700095,244,100044,Lady Grooms,1611661319,Utah Starzz,2,15,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,71,19,1,0,19970816,UTA,LAS,1997-98
+Shot Chart Detail,1029700095,321,100044,Lady Grooms,1611661319,Utah Starzz,2,7,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970816,UTA,LAS,1997-98
+Shot Chart Detail,1029700097,79,100044,Lady Grooms,1611661319,Utah Starzz,1,11,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-18,58,1,1,19970817,PHO,UTA,1997-98
+Shot Chart Detail,1029700097,181,100044,Lady Grooms,1611661319,Utah Starzz,1,2,1,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970817,PHO,UTA,1997-98
+Shot Chart Detail,1029700097,433,100044,Lady Grooms,1611661319,Utah Starzz,3,2,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970817,PHO,UTA,1997-98
+Shot Chart Detail,1029700100,6,100044,Lady Grooms,1611661319,Utah Starzz,1,19,16,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970819,UTA,NYL,1997-98
+Shot Chart Detail,1029700100,216,100044,Lady Grooms,1611661319,Utah Starzz,1,1,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970819,UTA,NYL,1997-98
+Shot Chart Detail,1029700105,58,100044,Lady Grooms,1611661319,Utah Starzz,1,13,7,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,4,1,0,19970821,UTA,CHA,1997-98
+Shot Chart Detail,1029700105,191,100044,Lady Grooms,1611661319,Utah Starzz,1,1,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970821,UTA,CHA,1997-98
+Shot Chart Detail,1029700111,6,100044,Lady Grooms,1611661319,Utah Starzz,1,18,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970824,CHA,UTA,1997-98
+Shot Chart Detail,1029700111,9,100044,Lady Grooms,1611661319,Utah Starzz,1,18,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970824,CHA,UTA,1997-98
+Shot Chart Detail,1029700111,19,100044,Lady Grooms,1611661319,Utah Starzz,1,16,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,112,184,1,0,19970824,CHA,UTA,1997-98
+Shot Chart Detail,1029700111,280,100044,Lady Grooms,1611661319,Utah Starzz,2,9,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,103,188,1,0,19970824,CHA,UTA,1997-98
+Shot Chart Detail,1029700111,352,100044,Lady Grooms,1611661319,Utah Starzz,2,9,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-98,96,1,0,19970824,CHA,UTA,1997-98
+Shot Chart Detail,1029700111,291,100044,Lady Grooms,1611661319,Utah Starzz,2,7,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,6,88,1,0,19970824,CHA,UTA,1997-98
+Shot Chart Detail,1029700111,301,100044,Lady Grooms,1611661319,Utah Starzz,2,5,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970824,CHA,UTA,1997-98
+Shot Chart Detail,1029700111,310,100044,Lady Grooms,1611661319,Utah Starzz,2,4,32,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970824,CHA,UTA,1997-98
+Shot Chart Detail,1029700111,324,100044,Lady Grooms,1611661319,Utah Starzz,2,3,23,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970824,CHA,UTA,1997-98
+Shot Chart Detail,1029700111,333,100044,Lady Grooms,1611661319,Utah Starzz,2,2,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,81,140,1,0,19970824,CHA,UTA,1997-98

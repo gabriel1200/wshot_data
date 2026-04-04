@@ -1,0 +1,6 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1042500121,218,1628269,Nia Coffey,1611661330,Atlanta Dream,2,5,29,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,1,1,1,20250914,ATL,IND,2025-26
+Shot Chart Detail,1042500121,247,1628269,Nia Coffey,1611661330,Atlanta Dream,2,3,25,Missed Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,6,1,0,20250914,ATL,IND,2025-26
+Shot Chart Detail,1042500121,443,1628269,Nia Coffey,1611661330,Atlanta Dream,3,0,32,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,29,1,0,20250914,ATL,IND,2025-26
+Shot Chart Detail,1042500122,383,1628269,Nia Coffey,1611661330,Atlanta Dream,3,4,31,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,15,1,0,20250916,IND,ATL,2025-26
+Shot Chart Detail,1042500122,391,1628269,Nia Coffey,1611661330,Atlanta Dream,3,3,52,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,22,80,1,0,20250916,IND,ATL,2025-26

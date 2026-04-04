@@ -1,0 +1,13 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1040500121,60,100413,Tari Phillips,1611661316,Houston Comets,1,13,26,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-6,64,1,0,20050830,HOU,SEA,2005-06
+Shot Chart Detail,1040500121,86,100413,Tari Phillips,1611661316,Houston Comets,1,11,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050830,HOU,SEA,2005-06
+Shot Chart Detail,1040500121,90,100413,Tari Phillips,1611661316,Houston Comets,1,10,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,64,1,0,20050830,HOU,SEA,2005-06
+Shot Chart Detail,1040500122,107,100413,Tari Phillips,1611661316,Houston Comets,1,7,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,13,74,1,0,20050901,SEA,HOU,2005-06
+Shot Chart Detail,1040500122,228,100413,Tari Phillips,1611661316,Houston Comets,2,14,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,54,45,1,0,20050901,SEA,HOU,2005-06
+Shot Chart Detail,1040500122,253,100413,Tari Phillips,1611661316,Houston Comets,2,11,49,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,26,1,1,20050901,SEA,HOU,2005-06
+Shot Chart Detail,1040500123,177,100413,Tari Phillips,1611661316,Houston Comets,1,0,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,-3,1,0,20050903,SEA,HOU,2005-06
+Shot Chart Detail,1040500123,285,100413,Tari Phillips,1611661316,Houston Comets,2,8,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050903,SEA,HOU,2005-06
+Shot Chart Detail,1040500211,51,100413,Tari Phillips,1611661316,Houston Comets,1,13,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050908,HOU,SAC,2005-06
+Shot Chart Detail,1040500211,71,100413,Tari Phillips,1611661316,Houston Comets,1,10,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050908,HOU,SAC,2005-06
+Shot Chart Detail,1040500211,173,100413,Tari Phillips,1611661316,Houston Comets,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-69,43,1,0,20050908,HOU,SAC,2005-06
+Shot Chart Detail,1040500212,292,100413,Tari Phillips,1611661316,Houston Comets,2,9,7,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,26,1,1,20050910,SAC,HOU,2005-06

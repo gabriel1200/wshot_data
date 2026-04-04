@@ -1,0 +1,43 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1040700101,7,101026,Katie Mattera,1611661321,Detroit Shock,1,9,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,33,101026,Katie Mattera,1611661321,Detroit Shock,1,6,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,36,101026,Katie Mattera,1611661321,Detroit Shock,1,5,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-44,3,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,230,101026,Katie Mattera,1611661321,Detroit Shock,3,6,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,306,101026,Katie Mattera,1611661321,Detroit Shock,4,9,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-138,0,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700102,239,101026,Katie Mattera,1611661321,Detroit Shock,3,6,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700103,7,101026,Katie Mattera,1611661321,Detroit Shock,1,8,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-87,22,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700201,162,101026,Katie Mattera,1611661321,Detroit Shock,2,3,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,0,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700202,7,101026,Katie Mattera,1611661321,Detroit Shock,1,9,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-26,57,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,17,101026,Katie Mattera,1611661321,Detroit Shock,1,9,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,97,12,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,35,101026,Katie Mattera,1611661321,Detroit Shock,1,7,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700203,130,101026,Katie Mattera,1611661321,Detroit Shock,2,6,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,138,101026,Katie Mattera,1611661321,Detroit Shock,2,6,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,289,101026,Katie Mattera,1611661321,Detroit Shock,3,3,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,322,101026,Katie Mattera,1611661321,Detroit Shock,3,0,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,336,101026,Katie Mattera,1611661321,Detroit Shock,4,9,14,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-11,69,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,377,101026,Katie Mattera,1611661321,Detroit Shock,4,3,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700301,24,101026,Katie Mattera,1611661321,Detroit Shock,1,7,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,170,101026,Katie Mattera,1611661321,Detroit Shock,2,4,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-31,63,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,215,101026,Katie Mattera,1611661321,Detroit Shock,2,1,22,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,6,109,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,225,101026,Katie Mattera,1611661321,Detroit Shock,2,0,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,131,20,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,228,101026,Katie Mattera,1611661321,Detroit Shock,2,0,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,253,101026,Katie Mattera,1611661321,Detroit Shock,3,7,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,364,101026,Katie Mattera,1611661321,Detroit Shock,4,8,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700302,15,101026,Katie Mattera,1611661321,Detroit Shock,1,9,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,87,101026,Katie Mattera,1611661321,Detroit Shock,1,2,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,98,101026,Katie Mattera,1611661321,Detroit Shock,1,1,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-85,54,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,250,101026,Katie Mattera,1611661321,Detroit Shock,3,6,33,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-66,77,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,258,101026,Katie Mattera,1611661321,Detroit Shock,3,5,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,303,101026,Katie Mattera,1611661321,Detroit Shock,3,2,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700303,81,101026,Katie Mattera,1611661321,Detroit Shock,1,2,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,94,101026,Katie Mattera,1611661321,Detroit Shock,1,1,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,77,59,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,166,101026,Katie Mattera,1611661321,Detroit Shock,2,4,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,170,101026,Katie Mattera,1611661321,Detroit Shock,2,4,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,173,101026,Katie Mattera,1611661321,Detroit Shock,2,3,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,15,69,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,176,101026,Katie Mattera,1611661321,Detroit Shock,2,3,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,2,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700305,13,101026,Katie Mattera,1611661321,Detroit Shock,1,8,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-99,12,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,301,101026,Katie Mattera,1611661321,Detroit Shock,3,1,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,315,101026,Katie Mattera,1611661321,Detroit Shock,3,0,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,339,101026,Katie Mattera,1611661321,Detroit Shock,4,8,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,413,101026,Katie Mattera,1611661321,Detroit Shock,4,1,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,417,101026,Katie Mattera,1611661321,Detroit Shock,4,0,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070916,DET,PHO,2007-08

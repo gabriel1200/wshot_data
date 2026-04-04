@@ -1,0 +1,9 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1041900311,201,1628280,Brionna Jones,1611661323,Connecticut Sun,2,3,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,15,1,0,20190917,CON,LAS,2019-20
+Shot Chart Detail,1041900311,348,1628280,Brionna Jones,1611661323,Connecticut Sun,3,3,3,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,14,1,0,20190917,CON,LAS,2019-20
+Shot Chart Detail,1041900312,504,1628280,Brionna Jones,1611661323,Connecticut Sun,4,2,53,Missed Shot,Cutting Layup Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-83,9,1,0,20190919,CON,LAS,2019-20
+Shot Chart Detail,1041900312,509,1628280,Brionna Jones,1611661323,Connecticut Sun,4,2,49,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,12,38,1,1,20190919,CON,LAS,2019-20
+Shot Chart Detail,1041900313,214,1628280,Brionna Jones,1611661323,Connecticut Sun,2,5,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,13,1,1,20190922,LAS,CON,2019-20
+Shot Chart Detail,1041900313,236,1628280,Brionna Jones,1611661323,Connecticut Sun,2,3,7,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,22,1,1,20190922,LAS,CON,2019-20
+Shot Chart Detail,1041900403,139,1628280,Brionna Jones,1611661323,Connecticut Sun,2,9,17,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,12,1,1,20191006,CON,WAS,2019-20
+Shot Chart Detail,1041900404,152,1628280,Brionna Jones,1611661323,Connecticut Sun,2,9,34,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20191008,CON,WAS,2019-20

@@ -1,0 +1,17 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020300016,270,100481,Marla Brumfield,1611661314,Charlotte Sting,2,10,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030531,DET,CHA,2003-04
+Shot Chart Detail,1020300016,275,100481,Marla Brumfield,1611661314,Charlotte Sting,2,10,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-99,89,1,0,20030531,DET,CHA,2003-04
+Shot Chart Detail,1020300050,156,100481,Marla Brumfield,1611661314,Charlotte Sting,1,6,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-84,86,1,0,20030614,SAN,CHA,2003-04
+Shot Chart Detail,1020300050,325,100481,Marla Brumfield,1611661314,Charlotte Sting,2,9,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,30,1,0,20030614,SAN,CHA,2003-04
+Shot Chart Detail,1020300056,261,100481,Marla Brumfield,1611661314,Charlotte Sting,2,11,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,0,169,1,1,20030617,IND,CHA,2003-04
+Shot Chart Detail,1020300062,94,100481,Marla Brumfield,1611661314,Charlotte Sting,1,8,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030620,CHA,MIN,2003-04
+Shot Chart Detail,1020300062,103,100481,Marla Brumfield,1611661314,Charlotte Sting,1,7,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,136,176,1,0,20030620,CHA,MIN,2003-04
+Shot Chart Detail,1020300072,104,100481,Marla Brumfield,1611661314,Charlotte Sting,1,7,11,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030622,NYL,CHA,2003-04
+Shot Chart Detail,1020300072,111,100481,Marla Brumfield,1611661314,Charlotte Sting,1,6,14,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-215,3,1,0,20030622,NYL,CHA,2003-04
+Shot Chart Detail,1020300085,326,100481,Marla Brumfield,1611661314,Charlotte Sting,2,8,58,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-217,10,1,0,20030628,CHA,CON,2003-04
+Shot Chart Detail,1020300092,354,100481,Marla Brumfield,1611661314,Charlotte Sting,2,0,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030630,CHA,SEA,2003-04
+Shot Chart Detail,1020300108,141,100481,Marla Brumfield,1611661314,Charlotte Sting,1,2,39,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,75,3,1,1,20030707,WAS,CHA,2003-04
+Shot Chart Detail,1020300114,84,100481,Marla Brumfield,1611661314,Charlotte Sting,1,9,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,-1,1,1,20030710,CHA,DET,2003-04
+Shot Chart Detail,1020300114,100,100481,Marla Brumfield,1611661314,Charlotte Sting,1,8,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030710,CHA,DET,2003-04
+Shot Chart Detail,1020300146,80,100481,Marla Brumfield,1611661314,Charlotte Sting,1,10,53,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-15,120,1,1,20030724,CHA,DET,2003-04
+Shot Chart Detail,1020300217,359,100481,Marla Brumfield,1611661314,Charlotte Sting,2,1,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,92,53,1,0,20030820,CHA,IND,2003-04

@@ -1,0 +1,137 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1029700003,353,100045,Dena Head,1611661319,Utah Starzz,2,6,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-105,175,1,0,19970621,UTA,SAC,1997-98
+Shot Chart Detail,1029700003,380,100045,Dena Head,1611661319,Utah Starzz,2,5,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,51,203,1,0,19970621,UTA,SAC,1997-98
+Shot Chart Detail,1029700003,397,100045,Dena Head,1611661319,Utah Starzz,2,4,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970621,UTA,SAC,1997-98
+Shot Chart Detail,1029700003,401,100045,Dena Head,1611661319,Utah Starzz,2,4,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,60,88,1,0,19970621,UTA,SAC,1997-98
+Shot Chart Detail,1029700003,451,100045,Dena Head,1611661319,Utah Starzz,2,3,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,19,170,103,1,0,19970621,UTA,SAC,1997-98
+Shot Chart Detail,1029700005,139,100045,Dena Head,1611661319,Utah Starzz,1,6,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970623,UTA,LAS,1997-98
+Shot Chart Detail,1029700005,160,100045,Dena Head,1611661319,Utah Starzz,1,5,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970623,UTA,LAS,1997-98
+Shot Chart Detail,1029700005,184,100045,Dena Head,1611661319,Utah Starzz,1,4,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970623,UTA,LAS,1997-98
+Shot Chart Detail,1029700005,202,100045,Dena Head,1611661319,Utah Starzz,1,2,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,144,158,1,1,19970623,UTA,LAS,1997-98
+Shot Chart Detail,1029700005,393,100045,Dena Head,1611661319,Utah Starzz,2,6,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,114,93,1,0,19970623,UTA,LAS,1997-98
+Shot Chart Detail,1029700005,420,100045,Dena Head,1611661319,Utah Starzz,2,3,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,177,-14,1,1,19970623,UTA,LAS,1997-98
+Shot Chart Detail,1029700009,75,100045,Dena Head,1611661319,Utah Starzz,1,12,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,19,10,1,1,19970626,CLE,UTA,1997-98
+Shot Chart Detail,1029700009,83,100045,Dena Head,1611661319,Utah Starzz,1,11,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,19,1,1,19970626,CLE,UTA,1997-98
+Shot Chart Detail,1029700009,86,100045,Dena Head,1611661319,Utah Starzz,1,10,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,10,1,1,19970626,CLE,UTA,1997-98
+Shot Chart Detail,1029700009,230,100045,Dena Head,1611661319,Utah Starzz,2,13,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,38,110,1,0,19970626,CLE,UTA,1997-98
+Shot Chart Detail,1029700013,46,100045,Dena Head,1611661319,Utah Starzz,1,13,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970628,UTA,HOU,1997-98
+Shot Chart Detail,1029700013,56,100045,Dena Head,1611661319,Utah Starzz,1,11,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970628,UTA,HOU,1997-98
+Shot Chart Detail,1029700013,90,100045,Dena Head,1611661319,Utah Starzz,1,8,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,79,127,1,1,19970628,UTA,HOU,1997-98
+Shot Chart Detail,1029700013,200,100045,Dena Head,1611661319,Utah Starzz,1,2,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970628,UTA,HOU,1997-98
+Shot Chart Detail,1029700013,272,100045,Dena Head,1611661319,Utah Starzz,2,11,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,88,-3,1,0,19970628,UTA,HOU,1997-98
+Shot Chart Detail,1029700018,13,100045,Dena Head,1611661319,Utah Starzz,1,19,0,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970702,SAC,UTA,1997-98
+Shot Chart Detail,1029700018,129,100045,Dena Head,1611661319,Utah Starzz,1,5,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-47,155,1,1,19970702,SAC,UTA,1997-98
+Shot Chart Detail,1029700018,160,100045,Dena Head,1611661319,Utah Starzz,1,2,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-144,108,1,0,19970702,SAC,UTA,1997-98
+Shot Chart Detail,1029700018,378,100045,Dena Head,1611661319,Utah Starzz,3,3,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,-3,1,1,19970702,SAC,UTA,1997-98
+Shot Chart Detail,1029700021,22,100045,Dena Head,1611661319,Utah Starzz,1,16,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,94,116,1,0,19970703,UTA,PHO,1997-98
+Shot Chart Detail,1029700021,131,100045,Dena Head,1611661319,Utah Starzz,1,7,19,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,20,209,-9,1,1,19970703,UTA,PHO,1997-98
+Shot Chart Detail,1029700021,146,100045,Dena Head,1611661319,Utah Starzz,1,4,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970703,UTA,PHO,1997-98
+Shot Chart Detail,1029700021,217,100045,Dena Head,1611661319,Utah Starzz,1,2,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970703,UTA,PHO,1997-98
+Shot Chart Detail,1029700024,2,100045,Dena Head,1611661319,Utah Starzz,1,19,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,3,210,1,0,19970705,UTA,NYL,1997-98
+Shot Chart Detail,1029700024,46,100045,Dena Head,1611661319,Utah Starzz,1,14,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970705,UTA,NYL,1997-98
+Shot Chart Detail,1029700024,53,100045,Dena Head,1611661319,Utah Starzz,1,14,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-157,95,1,0,19970705,UTA,NYL,1997-98
+Shot Chart Detail,1029700024,58,100045,Dena Head,1611661319,Utah Starzz,1,13,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970705,UTA,NYL,1997-98
+Shot Chart Detail,1029700024,250,100045,Dena Head,1611661319,Utah Starzz,1,0,43,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,20,205,-20,1,0,19970705,UTA,NYL,1997-98
+Shot Chart Detail,1029700024,410,100045,Dena Head,1611661319,Utah Starzz,2,1,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-144,106,1,0,19970705,UTA,NYL,1997-98
+Shot Chart Detail,1029700024,426,100045,Dena Head,1611661319,Utah Starzz,2,0,26,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,20,209,-5,1,0,19970705,UTA,NYL,1997-98
+Shot Chart Detail,1029700028,13,100045,Dena Head,1611661319,Utah Starzz,1,18,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970707,UTA,SAC,1997-98
+Shot Chart Detail,1029700028,34,100045,Dena Head,1611661319,Utah Starzz,1,16,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,138,151,1,0,19970707,UTA,SAC,1997-98
+Shot Chart Detail,1029700028,130,100045,Dena Head,1611661319,Utah Starzz,1,5,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-146,160,1,0,19970707,UTA,SAC,1997-98
+Shot Chart Detail,1029700034,78,100045,Dena Head,1611661319,Utah Starzz,1,11,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,20,-196,73,1,0,19970711,LAS,UTA,1997-98
+Shot Chart Detail,1029700034,299,100045,Dena Head,1611661319,Utah Starzz,2,10,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-107,10,1,0,19970711,LAS,UTA,1997-98
+Shot Chart Detail,1029700034,304,100045,Dena Head,1611661319,Utah Starzz,2,9,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970711,LAS,UTA,1997-98
+Shot Chart Detail,1029700034,336,100045,Dena Head,1611661319,Utah Starzz,2,6,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,125,121,1,1,19970711,LAS,UTA,1997-98
+Shot Chart Detail,1029700034,355,100045,Dena Head,1611661319,Utah Starzz,2,5,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970711,LAS,UTA,1997-98
+Shot Chart Detail,1029700037,154,100045,Dena Head,1611661319,Utah Starzz,1,1,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-5,177,1,1,19970712,UTA,PHO,1997-98
+Shot Chart Detail,1029700037,159,100045,Dena Head,1611661319,Utah Starzz,1,0,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-107,147,1,0,19970712,UTA,PHO,1997-98
+Shot Chart Detail,1029700037,283,100045,Dena Head,1611661319,Utah Starzz,2,6,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,8,210,1,0,19970712,UTA,PHO,1997-98
+Shot Chart Detail,1029700040,95,100045,Dena Head,1611661319,Utah Starzz,1,9,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-3,160,1,1,19970714,HOU,UTA,1997-98
+Shot Chart Detail,1029700040,99,100045,Dena Head,1611661319,Utah Starzz,1,8,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970714,HOU,UTA,1997-98
+Shot Chart Detail,1029700040,155,100045,Dena Head,1611661319,Utah Starzz,1,3,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,1,179,1,0,19970714,HOU,UTA,1997-98
+Shot Chart Detail,1029700040,371,100045,Dena Head,1611661319,Utah Starzz,2,2,6,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,20,207,-16,1,0,19970714,HOU,UTA,1997-98
+Shot Chart Detail,1029700040,382,100045,Dena Head,1611661319,Utah Starzz,2,1,44,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,214,-22,1,1,19970714,HOU,UTA,1997-98
+Shot Chart Detail,1029700040,394,100045,Dena Head,1611661319,Utah Starzz,2,1,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-159,93,1,1,19970714,HOU,UTA,1997-98
+Shot Chart Detail,1029700040,404,100045,Dena Head,1611661319,Utah Starzz,2,0,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,90,71,1,0,19970714,HOU,UTA,1997-98
+Shot Chart Detail,1029700044,140,100045,Dena Head,1611661319,Utah Starzz,1,4,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-5,214,1,1,19970716,CHA,UTA,1997-98
+Shot Chart Detail,1029700044,153,100045,Dena Head,1611661319,Utah Starzz,1,2,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970716,CHA,UTA,1997-98
+Shot Chart Detail,1029700044,206,100045,Dena Head,1611661319,Utah Starzz,2,15,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970716,CHA,UTA,1997-98
+Shot Chart Detail,1029700044,232,100045,Dena Head,1611661319,Utah Starzz,2,13,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970716,CHA,UTA,1997-98
+Shot Chart Detail,1029700044,269,100045,Dena Head,1611661319,Utah Starzz,2,9,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970716,CHA,UTA,1997-98
+Shot Chart Detail,1029700047,113,100045,Dena Head,1611661319,Utah Starzz,1,7,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,0,201,1,1,19970717,NYL,UTA,1997-98
+Shot Chart Detail,1029700047,266,100045,Dena Head,1611661319,Utah Starzz,2,14,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,81,184,1,0,19970717,NYL,UTA,1997-98
+Shot Chart Detail,1029700054,96,100045,Dena Head,1611661319,Utah Starzz,1,7,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,131,45,1,1,19970722,NYL,UTA,1997-98
+Shot Chart Detail,1029700054,291,100045,Dena Head,1611661319,Utah Starzz,2,4,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,107,-3,1,1,19970722,NYL,UTA,1997-98
+Shot Chart Detail,1029700054,300,100045,Dena Head,1611661319,Utah Starzz,2,3,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970722,NYL,UTA,1997-98
+Shot Chart Detail,1029700059,69,100045,Dena Head,1611661319,Utah Starzz,1,12,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,6,151,1,1,19970726,UTA,CLE,1997-98
+Shot Chart Detail,1029700059,76,100045,Dena Head,1611661319,Utah Starzz,1,11,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,107,99,1,0,19970726,UTA,CLE,1997-98
+Shot Chart Detail,1029700059,134,100045,Dena Head,1611661319,Utah Starzz,1,5,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,129,153,1,1,19970726,UTA,CLE,1997-98
+Shot Chart Detail,1029700059,178,100045,Dena Head,1611661319,Utah Starzz,1,1,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,166,129,1,0,19970726,UTA,CLE,1997-98
+Shot Chart Detail,1029700059,240,100045,Dena Head,1611661319,Utah Starzz,2,14,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,0,75,1,0,19970726,UTA,CLE,1997-98
+Shot Chart Detail,1029700059,245,100045,Dena Head,1611661319,Utah Starzz,2,14,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-70,-9,1,1,19970726,UTA,CLE,1997-98
+Shot Chart Detail,1029700059,296,100045,Dena Head,1611661319,Utah Starzz,2,9,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970726,UTA,CLE,1997-98
+Shot Chart Detail,1029700059,390,100045,Dena Head,1611661319,Utah Starzz,2,1,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-135,166,1,0,19970726,UTA,CLE,1997-98
+Shot Chart Detail,1029700066,61,100045,Dena Head,1611661319,Utah Starzz,1,12,21,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,18,1,0,19970730,LAS,UTA,1997-98
+Shot Chart Detail,1029700066,73,100045,Dena Head,1611661319,Utah Starzz,1,11,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,8,175,1,0,19970730,LAS,UTA,1997-98
+Shot Chart Detail,1029700066,127,100045,Dena Head,1611661319,Utah Starzz,1,6,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970730,LAS,UTA,1997-98
+Shot Chart Detail,1029700066,151,100045,Dena Head,1611661319,Utah Starzz,1,4,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970730,LAS,UTA,1997-98
+Shot Chart Detail,1029700066,244,100045,Dena Head,1611661319,Utah Starzz,1,1,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,-55,227,1,0,19970730,LAS,UTA,1997-98
+Shot Chart Detail,1029700066,203,100045,Dena Head,1611661319,Utah Starzz,1,0,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-27,162,1,0,19970730,LAS,UTA,1997-98
+Shot Chart Detail,1029700066,299,100045,Dena Head,1611661319,Utah Starzz,2,12,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,20,188,78,1,1,19970730,LAS,UTA,1997-98
+Shot Chart Detail,1029700066,302,100045,Dena Head,1611661319,Utah Starzz,2,12,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970730,LAS,UTA,1997-98
+Shot Chart Detail,1029700072,112,100045,Dena Head,1611661319,Utah Starzz,1,6,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,16,212,1,1,19970802,UTA,HOU,1997-98
+Shot Chart Detail,1029700072,121,100045,Dena Head,1611661319,Utah Starzz,1,5,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-57,207,1,0,19970802,UTA,HOU,1997-98
+Shot Chart Detail,1029700072,131,100045,Dena Head,1611661319,Utah Starzz,1,4,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970802,UTA,HOU,1997-98
+Shot Chart Detail,1029700072,145,100045,Dena Head,1611661319,Utah Starzz,1,2,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,105,108,1,0,19970802,UTA,HOU,1997-98
+Shot Chart Detail,1029700072,162,100045,Dena Head,1611661319,Utah Starzz,1,0,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,103,129,1,0,19970802,UTA,HOU,1997-98
+Shot Chart Detail,1029700072,289,100045,Dena Head,1611661319,Utah Starzz,2,5,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970802,UTA,HOU,1997-98
+Shot Chart Detail,1029700072,290,100045,Dena Head,1611661319,Utah Starzz,2,5,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970802,UTA,HOU,1997-98
+Shot Chart Detail,1029700072,321,100045,Dena Head,1611661319,Utah Starzz,2,2,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970802,UTA,HOU,1997-98
+Shot Chart Detail,1029700075,96,100045,Dena Head,1611661319,Utah Starzz,1,9,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970804,UTA,CHA,1997-98
+Shot Chart Detail,1029700075,103,100045,Dena Head,1611661319,Utah Starzz,1,8,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-16,216,1,0,19970804,UTA,CHA,1997-98
+Shot Chart Detail,1029700075,122,100045,Dena Head,1611661319,Utah Starzz,1,6,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-62,173,1,0,19970804,UTA,CHA,1997-98
+Shot Chart Detail,1029700075,245,100045,Dena Head,1611661319,Utah Starzz,2,11,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-16,155,1,0,19970804,UTA,CHA,1997-98
+Shot Chart Detail,1029700075,291,100045,Dena Head,1611661319,Utah Starzz,2,6,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970804,UTA,CHA,1997-98
+Shot Chart Detail,1029700078,286,100045,Dena Head,1611661319,Utah Starzz,2,10,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,99,-7,1,0,19970806,PHO,UTA,1997-98
+Shot Chart Detail,1029700087,74,100045,Dena Head,1611661319,Utah Starzz,1,9,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,120,127,1,0,19970811,UTA,CLE,1997-98
+Shot Chart Detail,1029700087,110,100045,Dena Head,1611661319,Utah Starzz,1,5,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970811,UTA,CLE,1997-98
+Shot Chart Detail,1029700087,127,100045,Dena Head,1611661319,Utah Starzz,1,3,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,68,164,1,0,19970811,UTA,CLE,1997-98
+Shot Chart Detail,1029700087,156,100045,Dena Head,1611661319,Utah Starzz,1,0,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970811,UTA,CLE,1997-98
+Shot Chart Detail,1029700087,277,100045,Dena Head,1611661319,Utah Starzz,2,6,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,13,1,0,19970811,UTA,CLE,1997-98
+Shot Chart Detail,1029700087,319,100045,Dena Head,1611661319,Utah Starzz,2,1,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970811,UTA,CLE,1997-98
+Shot Chart Detail,1029700087,347,100045,Dena Head,1611661319,Utah Starzz,2,0,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,86,160,1,0,19970811,UTA,CLE,1997-98
+Shot Chart Detail,1029700088,103,100045,Dena Head,1611661319,Utah Starzz,1,8,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,19,90,177,1,0,19970812,HOU,UTA,1997-98
+Shot Chart Detail,1029700088,281,100045,Dena Head,1611661319,Utah Starzz,2,7,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,99,179,1,0,19970812,HOU,UTA,1997-98
+Shot Chart Detail,1029700088,292,100045,Dena Head,1611661319,Utah Starzz,2,6,7,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970812,HOU,UTA,1997-98
+Shot Chart Detail,1029700088,315,100045,Dena Head,1611661319,Utah Starzz,2,4,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970812,HOU,UTA,1997-98
+Shot Chart Detail,1029700088,320,100045,Dena Head,1611661319,Utah Starzz,2,3,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970812,HOU,UTA,1997-98
+Shot Chart Detail,1029700088,328,100045,Dena Head,1611661319,Utah Starzz,2,2,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970812,HOU,UTA,1997-98
+Shot Chart Detail,1029700088,330,100045,Dena Head,1611661319,Utah Starzz,2,2,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970812,HOU,UTA,1997-98
+Shot Chart Detail,1029700095,276,100045,Dena Head,1611661319,Utah Starzz,2,11,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,79,186,1,1,19970816,UTA,LAS,1997-98
+Shot Chart Detail,1029700100,94,100045,Dena Head,1611661319,Utah Starzz,1,8,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970819,UTA,NYL,1997-98
+Shot Chart Detail,1029700100,106,100045,Dena Head,1611661319,Utah Starzz,1,7,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,34,43,1,0,19970819,UTA,NYL,1997-98
+Shot Chart Detail,1029700100,179,100045,Dena Head,1611661319,Utah Starzz,1,1,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,77,151,1,1,19970819,UTA,NYL,1997-98
+Shot Chart Detail,1029700100,184,100045,Dena Head,1611661319,Utah Starzz,1,1,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970819,UTA,NYL,1997-98
+Shot Chart Detail,1029700100,284,100045,Dena Head,1611661319,Utah Starzz,2,10,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,55,153,1,1,19970819,UTA,NYL,1997-98
+Shot Chart Detail,1029700100,287,100045,Dena Head,1611661319,Utah Starzz,2,9,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970819,UTA,NYL,1997-98
+Shot Chart Detail,1029700100,299,100045,Dena Head,1611661319,Utah Starzz,2,8,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,6,1,0,19970819,UTA,NYL,1997-98
+Shot Chart Detail,1029700100,301,100045,Dena Head,1611661319,Utah Starzz,2,8,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970819,UTA,NYL,1997-98
+Shot Chart Detail,1029700100,317,100045,Dena Head,1611661319,Utah Starzz,2,7,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970819,UTA,NYL,1997-98
+Shot Chart Detail,1029700105,76,100045,Dena Head,1611661319,Utah Starzz,1,11,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-3,123,1,0,19970821,UTA,CHA,1997-98
+Shot Chart Detail,1029700105,98,100045,Dena Head,1611661319,Utah Starzz,1,10,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,142,151,1,0,19970821,UTA,CHA,1997-98
+Shot Chart Detail,1029700105,118,100045,Dena Head,1611661319,Utah Starzz,1,8,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970821,UTA,CHA,1997-98
+Shot Chart Detail,1029700105,128,100045,Dena Head,1611661319,Utah Starzz,1,7,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970821,UTA,CHA,1997-98
+Shot Chart Detail,1029700105,131,100045,Dena Head,1611661319,Utah Starzz,1,6,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970821,UTA,CHA,1997-98
+Shot Chart Detail,1029700105,237,100045,Dena Head,1611661319,Utah Starzz,2,13,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970821,UTA,CHA,1997-98
+Shot Chart Detail,1029700105,249,100045,Dena Head,1611661319,Utah Starzz,2,11,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,127,155,1,1,19970821,UTA,CHA,1997-98
+Shot Chart Detail,1029700105,268,100045,Dena Head,1611661319,Utah Starzz,2,9,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,146,149,1,0,19970821,UTA,CHA,1997-98
+Shot Chart Detail,1029700111,52,100045,Dena Head,1611661319,Utah Starzz,1,12,56,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,216,-20,1,0,19970824,CHA,UTA,1997-98
+Shot Chart Detail,1029700111,93,100045,Dena Head,1611661319,Utah Starzz,1,7,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,144,-9,1,0,19970824,CHA,UTA,1997-98
+Shot Chart Detail,1029700111,101,100045,Dena Head,1611661319,Utah Starzz,1,7,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970824,CHA,UTA,1997-98
+Shot Chart Detail,1029700111,104,100045,Dena Head,1611661319,Utah Starzz,1,6,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,51,160,1,0,19970824,CHA,UTA,1997-98
+Shot Chart Detail,1029700111,112,100045,Dena Head,1611661319,Utah Starzz,1,5,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970824,CHA,UTA,1997-98
+Shot Chart Detail,1029700111,140,100045,Dena Head,1611661319,Utah Starzz,1,3,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970824,CHA,UTA,1997-98
+Shot Chart Detail,1029700111,175,100045,Dena Head,1611661319,Utah Starzz,1,2,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,25,166,1,0,19970824,CHA,UTA,1997-98
+Shot Chart Detail,1029700111,194,100045,Dena Head,1611661319,Utah Starzz,2,16,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-3,155,1,1,19970824,CHA,UTA,1997-98
+Shot Chart Detail,1029700111,298,100045,Dena Head,1611661319,Utah Starzz,2,6,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-83,86,1,0,19970824,CHA,UTA,1997-98
+Shot Chart Detail,1029700111,309,100045,Dena Head,1611661319,Utah Starzz,2,4,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,68,54,1,0,19970824,CHA,UTA,1997-98
+Shot Chart Detail,1029700111,323,100045,Dena Head,1611661319,Utah Starzz,2,3,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-90,136,1,0,19970824,CHA,UTA,1997-98

@@ -1,0 +1,7 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1029800076,342,100197,Angela Jackson,1611661322,Washington Mystics,2,4,21,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-18,31,1,0,19980717,CHA,WAS,1998-99
+Shot Chart Detail,1029800076,367,100197,Angela Jackson,1611661322,Washington Mystics,2,2,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-61,21,1,0,19980717,CHA,WAS,1998-99
+Shot Chart Detail,1029800082,129,100197,Angela Jackson,1611661322,Washington Mystics,1,6,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-12,1,1,19980719,WAS,UTA,1998-99
+Shot Chart Detail,1029800085,443,100197,Angela Jackson,1611661322,Washington Mystics,2,0,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-98,111,1,0,19980721,WAS,CHA,1998-99
+Shot Chart Detail,1029800089,144,100197,Angela Jackson,1611661322,Washington Mystics,1,5,23,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-68,59,1,1,19980722,DET,WAS,1998-99
+Shot Chart Detail,1029800089,431,100197,Angela Jackson,1611661322,Washington Mystics,2,0,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980722,DET,WAS,1998-99

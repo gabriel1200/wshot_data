@@ -1,0 +1,344 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020400008,27,100656,Ruth Riley,1611661321,Detroit Shock,1,16,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,0,161,1,0,20040522,SAN,DET,2004-05
+Shot Chart Detail,1020400008,31,100656,Ruth Riley,1611661321,Detroit Shock,1,16,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,0,138,1,0,20040522,SAN,DET,2004-05
+Shot Chart Detail,1020400008,44,100656,Ruth Riley,1611661321,Detroit Shock,1,14,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,3,1,1,20040522,SAN,DET,2004-05
+Shot Chart Detail,1020400008,60,100656,Ruth Riley,1611661321,Detroit Shock,1,12,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,23,1,0,20040522,SAN,DET,2004-05
+Shot Chart Detail,1020400008,112,100656,Ruth Riley,1611661321,Detroit Shock,1,5,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-33,153,1,0,20040522,SAN,DET,2004-05
+Shot Chart Detail,1020400008,172,100656,Ruth Riley,1611661321,Detroit Shock,1,3,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,11,164,1,0,20040522,SAN,DET,2004-05
+Shot Chart Detail,1020400008,137,100656,Ruth Riley,1611661321,Detroit Shock,1,2,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-84,46,1,0,20040522,SAN,DET,2004-05
+Shot Chart Detail,1020400008,139,100656,Ruth Riley,1611661321,Detroit Shock,1,2,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-23,168,1,0,20040522,SAN,DET,2004-05
+Shot Chart Detail,1020400008,248,100656,Ruth Riley,1611661321,Detroit Shock,2,12,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,-5,1,0,20040522,SAN,DET,2004-05
+Shot Chart Detail,1020400008,265,100656,Ruth Riley,1611661321,Detroit Shock,2,10,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,36,155,1,1,20040522,SAN,DET,2004-05
+Shot Chart Detail,1020400008,321,100656,Ruth Riley,1611661321,Detroit Shock,2,3,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,-3,1,1,20040522,SAN,DET,2004-05
+Shot Chart Detail,1020400015,151,100656,Ruth Riley,1611661321,Detroit Shock,1,3,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,8,184,1,0,20040526,NYL,DET,2004-05
+Shot Chart Detail,1020400015,154,100656,Ruth Riley,1611661321,Detroit Shock,1,3,10,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-69,49,1,1,20040526,NYL,DET,2004-05
+Shot Chart Detail,1020400015,190,100656,Ruth Riley,1611661321,Detroit Shock,1,3,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-130,71,1,0,20040526,NYL,DET,2004-05
+Shot Chart Detail,1020400015,165,100656,Ruth Riley,1611661321,Detroit Shock,1,1,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,52,163,1,0,20040526,NYL,DET,2004-05
+Shot Chart Detail,1020400015,211,100656,Ruth Riley,1611661321,Detroit Shock,1,1,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040526,NYL,DET,2004-05
+Shot Chart Detail,1020400015,171,100656,Ruth Riley,1611661321,Detroit Shock,1,0,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-74,130,1,0,20040526,NYL,DET,2004-05
+Shot Chart Detail,1020400015,235,100656,Ruth Riley,1611661321,Detroit Shock,2,15,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-8,140,1,0,20040526,NYL,DET,2004-05
+Shot Chart Detail,1020400015,291,100656,Ruth Riley,1611661321,Detroit Shock,2,10,17,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040526,NYL,DET,2004-05
+Shot Chart Detail,1020400015,296,100656,Ruth Riley,1611661321,Detroit Shock,2,9,33,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-87,72,1,0,20040526,NYL,DET,2004-05
+Shot Chart Detail,1020400022,2,100656,Ruth Riley,1611661321,Detroit Shock,1,19,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-113,25,1,0,20040529,DET,LAS,2004-05
+Shot Chart Detail,1020400022,242,100656,Ruth Riley,1611661321,Detroit Shock,1,0,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040529,DET,LAS,2004-05
+Shot Chart Detail,1020400022,245,100656,Ruth Riley,1611661321,Detroit Shock,2,16,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,36,176,1,0,20040529,DET,LAS,2004-05
+Shot Chart Detail,1020400022,249,100656,Ruth Riley,1611661321,Detroit Shock,2,15,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,15,1,1,20040529,DET,LAS,2004-05
+Shot Chart Detail,1020400022,251,100656,Ruth Riley,1611661321,Detroit Shock,2,15,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040529,DET,LAS,2004-05
+Shot Chart Detail,1020400022,323,100656,Ruth Riley,1611661321,Detroit Shock,2,7,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,98,-1,1,0,20040529,DET,LAS,2004-05
+Shot Chart Detail,1020400022,331,100656,Ruth Riley,1611661321,Detroit Shock,2,6,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,135,38,1,1,20040529,DET,LAS,2004-05
+Shot Chart Detail,1020400022,378,100656,Ruth Riley,1611661321,Detroit Shock,2,0,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,77,84,1,0,20040529,DET,LAS,2004-05
+Shot Chart Detail,1020400029,72,100656,Ruth Riley,1611661321,Detroit Shock,1,12,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-102,43,1,0,20040602,DET,WAS,2004-05
+Shot Chart Detail,1020400029,120,100656,Ruth Riley,1611661321,Detroit Shock,1,6,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-115,30,1,0,20040602,DET,WAS,2004-05
+Shot Chart Detail,1020400029,130,100656,Ruth Riley,1611661321,Detroit Shock,1,5,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-43,151,1,1,20040602,DET,WAS,2004-05
+Shot Chart Detail,1020400029,134,100656,Ruth Riley,1611661321,Detroit Shock,1,5,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-123,45,1,1,20040602,DET,WAS,2004-05
+Shot Chart Detail,1020400029,211,100656,Ruth Riley,1611661321,Detroit Shock,1,2,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040602,DET,WAS,2004-05
+Shot Chart Detail,1020400029,219,100656,Ruth Riley,1611661321,Detroit Shock,1,1,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,148,0,1,0,20040602,DET,WAS,2004-05
+Shot Chart Detail,1020400029,375,100656,Ruth Riley,1611661321,Detroit Shock,2,2,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040602,DET,WAS,2004-05
+Shot Chart Detail,1020400029,380,100656,Ruth Riley,1611661321,Detroit Shock,2,1,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040602,DET,WAS,2004-05
+Shot Chart Detail,1020400029,391,100656,Ruth Riley,1611661321,Detroit Shock,2,0,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,44,138,1,0,20040602,DET,WAS,2004-05
+Shot Chart Detail,1020400041,8,100656,Ruth Riley,1611661321,Detroit Shock,1,18,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-15,161,1,0,20040606,CON,DET,2004-05
+Shot Chart Detail,1020400041,49,100656,Ruth Riley,1611661321,Detroit Shock,1,13,54,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-21,51,1,1,20040606,CON,DET,2004-05
+Shot Chart Detail,1020400041,62,100656,Ruth Riley,1611661321,Detroit Shock,1,12,31,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,64,95,1,1,20040606,CON,DET,2004-05
+Shot Chart Detail,1020400041,65,100656,Ruth Riley,1611661321,Detroit Shock,1,12,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,3,1,0,20040606,CON,DET,2004-05
+Shot Chart Detail,1020400041,80,100656,Ruth Riley,1611661321,Detroit Shock,1,10,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,-8,1,0,20040606,CON,DET,2004-05
+Shot Chart Detail,1020400041,87,100656,Ruth Riley,1611661321,Detroit Shock,1,10,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,10,56,1,0,20040606,CON,DET,2004-05
+Shot Chart Detail,1020400041,215,100656,Ruth Riley,1611661321,Detroit Shock,1,0,55,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,103,-8,1,0,20040606,CON,DET,2004-05
+Shot Chart Detail,1020400041,310,100656,Ruth Riley,1611661321,Detroit Shock,2,7,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,-8,1,0,20040606,CON,DET,2004-05
+Shot Chart Detail,1020400041,369,100656,Ruth Riley,1611661321,Detroit Shock,2,2,4,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-8,45,1,1,20040606,CON,DET,2004-05
+Shot Chart Detail,1020400043,20,100656,Ruth Riley,1611661321,Detroit Shock,1,17,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,24,155,1,0,20040609,IND,DET,2004-05
+Shot Chart Detail,1020400043,43,100656,Ruth Riley,1611661321,Detroit Shock,1,15,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-85,150,1,1,20040609,IND,DET,2004-05
+Shot Chart Detail,1020400043,72,100656,Ruth Riley,1611661321,Detroit Shock,1,10,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-56,109,1,0,20040609,IND,DET,2004-05
+Shot Chart Detail,1020400043,183,100656,Ruth Riley,1611661321,Detroit Shock,1,1,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-13,187,1,1,20040609,IND,DET,2004-05
+Shot Chart Detail,1020400043,192,100656,Ruth Riley,1611661321,Detroit Shock,1,0,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,10,56,1,0,20040609,IND,DET,2004-05
+Shot Chart Detail,1020400043,194,100656,Ruth Riley,1611661321,Detroit Shock,1,0,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,112,0,1,1,20040609,IND,DET,2004-05
+Shot Chart Detail,1020400043,230,100656,Ruth Riley,1611661321,Detroit Shock,1,0,3,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,61,123,1,1,20040609,IND,DET,2004-05
+Shot Chart Detail,1020400043,264,100656,Ruth Riley,1611661321,Detroit Shock,2,12,11,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-107,-13,1,1,20040609,IND,DET,2004-05
+Shot Chart Detail,1020400043,274,100656,Ruth Riley,1611661321,Detroit Shock,2,11,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-57,-18,1,0,20040609,IND,DET,2004-05
+Shot Chart Detail,1020400043,337,100656,Ruth Riley,1611661321,Detroit Shock,2,5,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-57,28,1,0,20040609,IND,DET,2004-05
+Shot Chart Detail,1020400043,355,100656,Ruth Riley,1611661321,Detroit Shock,2,3,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,-23,1,0,20040609,IND,DET,2004-05
+Shot Chart Detail,1020400043,360,100656,Ruth Riley,1611661321,Detroit Shock,2,3,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,-21,1,1,20040609,IND,DET,2004-05
+Shot Chart Detail,1020400046,19,100656,Ruth Riley,1611661321,Detroit Shock,1,16,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-46,33,1,0,20040611,WAS,DET,2004-05
+Shot Chart Detail,1020400046,99,100656,Ruth Riley,1611661321,Detroit Shock,1,8,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-15,45,1,0,20040611,WAS,DET,2004-05
+Shot Chart Detail,1020400046,123,100656,Ruth Riley,1611661321,Detroit Shock,1,6,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-126,-23,1,0,20040611,WAS,DET,2004-05
+Shot Chart Detail,1020400046,128,100656,Ruth Riley,1611661321,Detroit Shock,1,6,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-8,153,1,0,20040611,WAS,DET,2004-05
+Shot Chart Detail,1020400046,303,100656,Ruth Riley,1611661321,Detroit Shock,2,8,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,17,1,0,20040611,WAS,DET,2004-05
+Shot Chart Detail,1020400046,305,100656,Ruth Riley,1611661321,Detroit Shock,2,8,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,8,12,1,0,20040611,WAS,DET,2004-05
+Shot Chart Detail,1020400046,316,100656,Ruth Riley,1611661321,Detroit Shock,2,7,40,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,15,54,1,1,20040611,WAS,DET,2004-05
+Shot Chart Detail,1020400046,320,100656,Ruth Riley,1611661321,Detroit Shock,2,7,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,41,132,1,1,20040611,WAS,DET,2004-05
+Shot Chart Detail,1020400051,27,100656,Ruth Riley,1611661321,Detroit Shock,1,16,29,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-82,109,1,1,20040612,DET,IND,2004-05
+Shot Chart Detail,1020400051,117,100656,Ruth Riley,1611661321,Detroit Shock,1,7,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,136,102,1,1,20040612,DET,IND,2004-05
+Shot Chart Detail,1020400051,155,100656,Ruth Riley,1611661321,Detroit Shock,1,3,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,41,148,1,1,20040612,DET,IND,2004-05
+Shot Chart Detail,1020400051,226,100656,Ruth Riley,1611661321,Detroit Shock,1,3,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-126,20,1,1,20040612,DET,IND,2004-05
+Shot Chart Detail,1020400051,252,100656,Ruth Riley,1611661321,Detroit Shock,1,1,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040612,DET,IND,2004-05
+Shot Chart Detail,1020400051,287,100656,Ruth Riley,1611661321,Detroit Shock,2,15,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-138,31,1,0,20040612,DET,IND,2004-05
+Shot Chart Detail,1020400051,310,100656,Ruth Riley,1611661321,Detroit Shock,2,12,47,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-67,137,1,1,20040612,DET,IND,2004-05
+Shot Chart Detail,1020400051,316,100656,Ruth Riley,1611661321,Detroit Shock,2,11,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,15,-80,138,1,1,20040612,DET,IND,2004-05
+Shot Chart Detail,1020400051,327,100656,Ruth Riley,1611661321,Detroit Shock,2,11,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,25,1,1,20040612,DET,IND,2004-05
+Shot Chart Detail,1020400051,400,100656,Ruth Riley,1611661321,Detroit Shock,2,4,32,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,8,84,1,1,20040612,DET,IND,2004-05
+Shot Chart Detail,1020400051,413,100656,Ruth Riley,1611661321,Detroit Shock,2,3,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-77,141,1,0,20040612,DET,IND,2004-05
+Shot Chart Detail,1020400064,66,100656,Ruth Riley,1611661321,Detroit Shock,1,13,44,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,54,13,1,1,20040619,SAC,DET,2004-05
+Shot Chart Detail,1020400064,234,100656,Ruth Riley,1611661321,Detroit Shock,2,16,35,Made Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,24,31,1,1,20040619,SAC,DET,2004-05
+Shot Chart Detail,1020400064,264,100656,Ruth Riley,1611661321,Detroit Shock,2,13,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-79,31,1,0,20040619,SAC,DET,2004-05
+Shot Chart Detail,1020400064,336,100656,Ruth Riley,1611661321,Detroit Shock,2,6,39,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,43,45,1,1,20040619,SAC,DET,2004-05
+Shot Chart Detail,1020400064,355,100656,Ruth Riley,1611661321,Detroit Shock,2,5,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,47,48,1,1,20040619,SAC,DET,2004-05
+Shot Chart Detail,1020400071,2,100656,Ruth Riley,1611661321,Detroit Shock,1,19,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,0,1,1,20040622,DET,WAS,2004-05
+Shot Chart Detail,1020400071,17,100656,Ruth Riley,1611661321,Detroit Shock,1,17,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-135,35,1,0,20040622,DET,WAS,2004-05
+Shot Chart Detail,1020400071,25,100656,Ruth Riley,1611661321,Detroit Shock,1,16,40,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,95,20,1,1,20040622,DET,WAS,2004-05
+Shot Chart Detail,1020400071,56,100656,Ruth Riley,1611661321,Detroit Shock,1,13,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,57,164,1,1,20040622,DET,WAS,2004-05
+Shot Chart Detail,1020400071,111,100656,Ruth Riley,1611661321,Detroit Shock,1,8,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,31,1,1,20040622,DET,WAS,2004-05
+Shot Chart Detail,1020400071,113,100656,Ruth Riley,1611661321,Detroit Shock,1,7,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-153,59,1,0,20040622,DET,WAS,2004-05
+Shot Chart Detail,1020400071,150,100656,Ruth Riley,1611661321,Detroit Shock,1,4,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,148,41,1,0,20040622,DET,WAS,2004-05
+Shot Chart Detail,1020400071,243,100656,Ruth Riley,1611661321,Detroit Shock,2,15,8,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,14,-72,122,1,1,20040622,DET,WAS,2004-05
+Shot Chart Detail,1020400071,250,100656,Ruth Riley,1611661321,Detroit Shock,2,14,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,43,72,1,0,20040622,DET,WAS,2004-05
+Shot Chart Detail,1020400071,261,100656,Ruth Riley,1611661321,Detroit Shock,2,12,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-113,71,1,1,20040622,DET,WAS,2004-05
+Shot Chart Detail,1020400071,274,100656,Ruth Riley,1611661321,Detroit Shock,2,11,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,97,23,1,1,20040622,DET,WAS,2004-05
+Shot Chart Detail,1020400071,279,100656,Ruth Riley,1611661321,Detroit Shock,2,10,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-74,49,1,0,20040622,DET,WAS,2004-05
+Shot Chart Detail,1020400071,290,100656,Ruth Riley,1611661321,Detroit Shock,2,9,37,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,49,72,1,0,20040622,DET,WAS,2004-05
+Shot Chart Detail,1020400071,325,100656,Ruth Riley,1611661321,Detroit Shock,2,5,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,128,69,1,1,20040622,DET,WAS,2004-05
+Shot Chart Detail,1020400071,363,100656,Ruth Riley,1611661321,Detroit Shock,2,1,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,44,230,1,1,20040622,DET,WAS,2004-05
+Shot Chart Detail,1020400071,388,100656,Ruth Riley,1611661321,Detroit Shock,2,0,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-64,158,1,0,20040622,DET,WAS,2004-05
+Shot Chart Detail,1020400075,22,100656,Ruth Riley,1611661321,Detroit Shock,1,17,21,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,36,43,1,1,20040623,CHA,DET,2004-05
+Shot Chart Detail,1020400075,58,100656,Ruth Riley,1611661321,Detroit Shock,1,13,38,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-43,64,1,0,20040623,CHA,DET,2004-05
+Shot Chart Detail,1020400075,62,100656,Ruth Riley,1611661321,Detroit Shock,1,13,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-23,178,1,1,20040623,CHA,DET,2004-05
+Shot Chart Detail,1020400075,183,100656,Ruth Riley,1611661321,Detroit Shock,1,2,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-105,26,1,1,20040623,CHA,DET,2004-05
+Shot Chart Detail,1020400075,150,100656,Ruth Riley,1611661321,Detroit Shock,1,2,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,3,166,1,1,20040623,CHA,DET,2004-05
+Shot Chart Detail,1020400075,220,100656,Ruth Riley,1611661321,Detroit Shock,2,13,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-5,104,1,0,20040623,CHA,DET,2004-05
+Shot Chart Detail,1020400075,233,100656,Ruth Riley,1611661321,Detroit Shock,2,12,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-41,164,1,0,20040623,CHA,DET,2004-05
+Shot Chart Detail,1020400075,240,100656,Ruth Riley,1611661321,Detroit Shock,2,11,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040623,CHA,DET,2004-05
+Shot Chart Detail,1020400075,246,100656,Ruth Riley,1611661321,Detroit Shock,2,11,22,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-8,71,1,0,20040623,CHA,DET,2004-05
+Shot Chart Detail,1020400075,255,100656,Ruth Riley,1611661321,Detroit Shock,2,10,0,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-34,63,1,0,20040623,CHA,DET,2004-05
+Shot Chart Detail,1020400075,288,100656,Ruth Riley,1611661321,Detroit Shock,2,6,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040623,CHA,DET,2004-05
+Shot Chart Detail,1020400078,21,100656,Ruth Riley,1611661321,Detroit Shock,1,18,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,8,1,0,20040625,CON,DET,2004-05
+Shot Chart Detail,1020400078,53,100656,Ruth Riley,1611661321,Detroit Shock,1,14,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-85,130,1,1,20040625,CON,DET,2004-05
+Shot Chart Detail,1020400078,56,100656,Ruth Riley,1611661321,Detroit Shock,1,14,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,3,128,1,0,20040625,CON,DET,2004-05
+Shot Chart Detail,1020400078,78,100656,Ruth Riley,1611661321,Detroit Shock,1,11,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,59,63,1,0,20040625,CON,DET,2004-05
+Shot Chart Detail,1020400078,129,100656,Ruth Riley,1611661321,Detroit Shock,1,6,25,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,36,1,0,20040625,CON,DET,2004-05
+Shot Chart Detail,1020400078,137,100656,Ruth Riley,1611661321,Detroit Shock,1,5,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,43,1,1,20040625,CON,DET,2004-05
+Shot Chart Detail,1020400078,201,100656,Ruth Riley,1611661321,Detroit Shock,1,3,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-2,133,1,0,20040625,CON,DET,2004-05
+Shot Chart Detail,1020400078,253,100656,Ruth Riley,1611661321,Detroit Shock,2,14,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,5,56,1,0,20040625,CON,DET,2004-05
+Shot Chart Detail,1020400078,267,100656,Ruth Riley,1611661321,Detroit Shock,2,12,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,2,1,0,20040625,CON,DET,2004-05
+Shot Chart Detail,1020400078,344,100656,Ruth Riley,1611661321,Detroit Shock,2,2,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,117,102,1,1,20040625,CON,DET,2004-05
+Shot Chart Detail,1020400078,353,100656,Ruth Riley,1611661321,Detroit Shock,2,0,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-161,-16,1,0,20040625,CON,DET,2004-05
+Shot Chart Detail,1020400078,370,100656,Ruth Riley,1611661321,Detroit Shock,2,0,1,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,22,1,0,20040625,CON,DET,2004-05
+Shot Chart Detail,1020400078,377,100656,Ruth Riley,1611661321,Detroit Shock,3,4,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,6,130,1,0,20040625,CON,DET,2004-05
+Shot Chart Detail,1020400078,391,100656,Ruth Riley,1611661321,Detroit Shock,3,2,35,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,79,20,1,1,20040625,CON,DET,2004-05
+Shot Chart Detail,1020400078,394,100656,Ruth Riley,1611661321,Detroit Shock,3,2,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,-14,1,0,20040625,CON,DET,2004-05
+Shot Chart Detail,1020400078,396,100656,Ruth Riley,1611661321,Detroit Shock,3,2,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,2,1,1,20040625,CON,DET,2004-05
+Shot Chart Detail,1020400078,399,100656,Ruth Riley,1611661321,Detroit Shock,3,1,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,30,1,0,20040625,CON,DET,2004-05
+Shot Chart Detail,1020400078,414,100656,Ruth Riley,1611661321,Detroit Shock,3,0,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040625,CON,DET,2004-05
+Shot Chart Detail,1020400085,37,100656,Ruth Riley,1611661321,Detroit Shock,1,16,3,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,67,68,1,1,20040627,DET,CON,2004-05
+Shot Chart Detail,1020400085,60,100656,Ruth Riley,1611661321,Detroit Shock,1,13,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040627,DET,CON,2004-05
+Shot Chart Detail,1020400085,63,100656,Ruth Riley,1611661321,Detroit Shock,1,12,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-126,72,1,1,20040627,DET,CON,2004-05
+Shot Chart Detail,1020400085,112,100656,Ruth Riley,1611661321,Detroit Shock,1,8,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-79,56,1,0,20040627,DET,CON,2004-05
+Shot Chart Detail,1020400085,150,100656,Ruth Riley,1611661321,Detroit Shock,1,4,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,92,117,1,0,20040627,DET,CON,2004-05
+Shot Chart Detail,1020400085,169,100656,Ruth Riley,1611661321,Detroit Shock,1,2,52,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,23,66,1,1,20040627,DET,CON,2004-05
+Shot Chart Detail,1020400085,200,100656,Ruth Riley,1611661321,Detroit Shock,1,0,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-74,18,1,1,20040627,DET,CON,2004-05
+Shot Chart Detail,1020400085,236,100656,Ruth Riley,1611661321,Detroit Shock,2,16,17,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-72,26,1,0,20040627,DET,CON,2004-05
+Shot Chart Detail,1020400085,292,100656,Ruth Riley,1611661321,Detroit Shock,2,10,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-46,107,1,0,20040627,DET,CON,2004-05
+Shot Chart Detail,1020400085,314,100656,Ruth Riley,1611661321,Detroit Shock,2,8,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040627,DET,CON,2004-05
+Shot Chart Detail,1020400085,335,100656,Ruth Riley,1611661321,Detroit Shock,2,6,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-49,51,1,0,20040627,DET,CON,2004-05
+Shot Chart Detail,1020400085,348,100656,Ruth Riley,1611661321,Detroit Shock,2,4,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,49,61,1,1,20040627,DET,CON,2004-05
+Shot Chart Detail,1020400085,390,100656,Ruth Riley,1611661321,Detroit Shock,2,0,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040627,DET,CON,2004-05
+Shot Chart Detail,1020400088,48,100656,Ruth Riley,1611661321,Detroit Shock,1,14,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,167,5,1,0,20040629,DET,IND,2004-05
+Shot Chart Detail,1020400088,114,100656,Ruth Riley,1611661321,Detroit Shock,1,7,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,144,10,1,1,20040629,DET,IND,2004-05
+Shot Chart Detail,1020400088,161,100656,Ruth Riley,1611661321,Detroit Shock,1,2,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,8,1,0,20040629,DET,IND,2004-05
+Shot Chart Detail,1020400088,231,100656,Ruth Riley,1611661321,Detroit Shock,2,15,52,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-62,117,1,1,20040629,DET,IND,2004-05
+Shot Chart Detail,1020400088,339,100656,Ruth Riley,1611661321,Detroit Shock,2,2,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040629,DET,IND,2004-05
+Shot Chart Detail,1020400099,30,100656,Ruth Riley,1611661321,Detroit Shock,1,16,22,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,87,13,1,1,20040703,MIN,DET,2004-05
+Shot Chart Detail,1020400099,66,100656,Ruth Riley,1611661321,Detroit Shock,1,12,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,18,1,0,20040703,MIN,DET,2004-05
+Shot Chart Detail,1020400099,158,100656,Ruth Riley,1611661321,Detroit Shock,1,2,14,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,15,1,1,20040703,MIN,DET,2004-05
+Shot Chart Detail,1020400099,178,100656,Ruth Riley,1611661321,Detroit Shock,1,0,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-74,64,1,0,20040703,MIN,DET,2004-05
+Shot Chart Detail,1020400099,291,100656,Ruth Riley,1611661321,Detroit Shock,2,8,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-49,74,1,0,20040703,MIN,DET,2004-05
+Shot Chart Detail,1020400099,322,100656,Ruth Riley,1611661321,Detroit Shock,2,5,10,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,0,77,1,0,20040703,MIN,DET,2004-05
+Shot Chart Detail,1020400099,334,100656,Ruth Riley,1611661321,Detroit Shock,2,3,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-16,161,1,1,20040703,MIN,DET,2004-05
+Shot Chart Detail,1020400104,42,100656,Ruth Riley,1611661321,Detroit Shock,1,19,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-35,52,1,0,20040706,DET,HOU,2004-05
+Shot Chart Detail,1020400104,4,100656,Ruth Riley,1611661321,Detroit Shock,1,18,53,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,11,30,1,1,20040706,DET,HOU,2004-05
+Shot Chart Detail,1020400104,12,100656,Ruth Riley,1611661321,Detroit Shock,1,17,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,18,1,1,20040706,DET,HOU,2004-05
+Shot Chart Detail,1020400104,33,100656,Ruth Riley,1611661321,Detroit Shock,1,15,31,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-69,128,1,1,20040706,DET,HOU,2004-05
+Shot Chart Detail,1020400104,35,100656,Ruth Riley,1611661321,Detroit Shock,1,15,18,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,24,26,1,0,20040706,DET,HOU,2004-05
+Shot Chart Detail,1020400104,96,100656,Ruth Riley,1611661321,Detroit Shock,1,14,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-43,109,1,0,20040706,DET,HOU,2004-05
+Shot Chart Detail,1020400104,131,100656,Ruth Riley,1611661321,Detroit Shock,1,9,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,-8,1,0,20040706,DET,HOU,2004-05
+Shot Chart Detail,1020400104,138,100656,Ruth Riley,1611661321,Detroit Shock,1,8,9,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-23,28,1,1,20040706,DET,HOU,2004-05
+Shot Chart Detail,1020400104,164,100656,Ruth Riley,1611661321,Detroit Shock,1,6,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,51,1,0,20040706,DET,HOU,2004-05
+Shot Chart Detail,1020400104,211,100656,Ruth Riley,1611661321,Detroit Shock,1,2,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,46,26,1,0,20040706,DET,HOU,2004-05
+Shot Chart Detail,1020400104,221,100656,Ruth Riley,1611661321,Detroit Shock,1,2,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-49,102,1,1,20040706,DET,HOU,2004-05
+Shot Chart Detail,1020400104,291,100656,Ruth Riley,1611661321,Detroit Shock,1,0,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040706,DET,HOU,2004-05
+Shot Chart Detail,1020400104,293,100656,Ruth Riley,1611661321,Detroit Shock,1,0,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-102,100,1,0,20040706,DET,HOU,2004-05
+Shot Chart Detail,1020400104,300,100656,Ruth Riley,1611661321,Detroit Shock,2,16,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,13,1,0,20040706,DET,HOU,2004-05
+Shot Chart Detail,1020400104,304,100656,Ruth Riley,1611661321,Detroit Shock,2,16,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,47,109,1,0,20040706,DET,HOU,2004-05
+Shot Chart Detail,1020400104,336,100656,Ruth Riley,1611661321,Detroit Shock,2,13,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040706,DET,HOU,2004-05
+Shot Chart Detail,1020400104,402,100656,Ruth Riley,1611661321,Detroit Shock,2,6,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,87,128,1,1,20040706,DET,HOU,2004-05
+Shot Chart Detail,1020400113,65,100656,Ruth Riley,1611661321,Detroit Shock,1,13,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,30,1,0,20040710,DET,SEA,2004-05
+Shot Chart Detail,1020400113,82,100656,Ruth Riley,1611661321,Detroit Shock,1,11,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040710,DET,SEA,2004-05
+Shot Chart Detail,1020400113,235,100656,Ruth Riley,1611661321,Detroit Shock,1,1,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,108,17,1,0,20040710,DET,SEA,2004-05
+Shot Chart Detail,1020400113,211,100656,Ruth Riley,1611661321,Detroit Shock,1,1,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,77,7,1,0,20040710,DET,SEA,2004-05
+Shot Chart Detail,1020400113,245,100656,Ruth Riley,1611661321,Detroit Shock,1,0,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,11,105,1,1,20040710,DET,SEA,2004-05
+Shot Chart Detail,1020400113,271,100656,Ruth Riley,1611661321,Detroit Shock,2,14,17,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,95,66,1,0,20040710,DET,SEA,2004-05
+Shot Chart Detail,1020400113,280,100656,Ruth Riley,1611661321,Detroit Shock,2,13,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,125,28,1,1,20040710,DET,SEA,2004-05
+Shot Chart Detail,1020400113,291,100656,Ruth Riley,1611661321,Detroit Shock,2,12,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,25,1,1,20040710,DET,SEA,2004-05
+Shot Chart Detail,1020400113,339,100656,Ruth Riley,1611661321,Detroit Shock,2,7,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040710,DET,SEA,2004-05
+Shot Chart Detail,1020400119,61,100656,Ruth Riley,1611661321,Detroit Shock,1,14,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040712,DET,SAC,2004-05
+Shot Chart Detail,1020400119,127,100656,Ruth Riley,1611661321,Detroit Shock,1,8,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,0,1,1,20040712,DET,SAC,2004-05
+Shot Chart Detail,1020400119,144,100656,Ruth Riley,1611661321,Detroit Shock,1,6,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-85,25,1,0,20040712,DET,SAC,2004-05
+Shot Chart Detail,1020400119,153,100656,Ruth Riley,1611661321,Detroit Shock,1,5,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,24,46,1,0,20040712,DET,SAC,2004-05
+Shot Chart Detail,1020400119,156,100656,Ruth Riley,1611661321,Detroit Shock,1,5,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,21,77,1,0,20040712,DET,SAC,2004-05
+Shot Chart Detail,1020400119,232,100656,Ruth Riley,1611661321,Detroit Shock,1,3,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-89,-3,1,1,20040712,DET,SAC,2004-05
+Shot Chart Detail,1020400119,260,100656,Ruth Riley,1611661321,Detroit Shock,1,0,15,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-117,64,1,0,20040712,DET,SAC,2004-05
+Shot Chart Detail,1020400119,318,100656,Ruth Riley,1611661321,Detroit Shock,2,11,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040712,DET,SAC,2004-05
+Shot Chart Detail,1020400119,331,100656,Ruth Riley,1611661321,Detroit Shock,2,9,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,7,1,1,20040712,DET,SAC,2004-05
+Shot Chart Detail,1020400119,338,100656,Ruth Riley,1611661321,Detroit Shock,2,8,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,85,141,1,0,20040712,DET,SAC,2004-05
+Shot Chart Detail,1020400126,14,100656,Ruth Riley,1611661321,Detroit Shock,1,18,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-115,76,1,0,20040715,HOU,DET,2004-05
+Shot Chart Detail,1020400126,66,100656,Ruth Riley,1611661321,Detroit Shock,1,12,9,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,28,64,1,1,20040715,HOU,DET,2004-05
+Shot Chart Detail,1020400126,72,100656,Ruth Riley,1611661321,Detroit Shock,1,11,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-99,48,1,0,20040715,HOU,DET,2004-05
+Shot Chart Detail,1020400126,81,100656,Ruth Riley,1611661321,Detroit Shock,1,10,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,92,137,1,1,20040715,HOU,DET,2004-05
+Shot Chart Detail,1020400126,138,100656,Ruth Riley,1611661321,Detroit Shock,1,6,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,72,120,1,0,20040715,HOU,DET,2004-05
+Shot Chart Detail,1020400126,229,100656,Ruth Riley,1611661321,Detroit Shock,2,16,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,95,137,1,0,20040715,HOU,DET,2004-05
+Shot Chart Detail,1020400128,9,100656,Ruth Riley,1611661321,Detroit Shock,1,18,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-28,0,1,0,20040716,IND,DET,2004-05
+Shot Chart Detail,1020400128,39,100656,Ruth Riley,1611661321,Detroit Shock,1,14,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,-24,1,0,20040716,IND,DET,2004-05
+Shot Chart Detail,1020400128,205,100656,Ruth Riley,1611661321,Detroit Shock,1,1,57,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,67,53,1,1,20040716,IND,DET,2004-05
+Shot Chart Detail,1020400128,359,100656,Ruth Riley,1611661321,Detroit Shock,2,1,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,-18,1,1,20040716,IND,DET,2004-05
+Shot Chart Detail,1020400132,43,100656,Ruth Riley,1611661321,Detroit Shock,1,14,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,49,1,0,20040718,DET,SAN,2004-05
+Shot Chart Detail,1020400132,65,100656,Ruth Riley,1611661321,Detroit Shock,1,12,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040718,DET,SAN,2004-05
+Shot Chart Detail,1020400132,115,100656,Ruth Riley,1611661321,Detroit Shock,1,7,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-87,10,1,1,20040718,DET,SAN,2004-05
+Shot Chart Detail,1020400132,122,100656,Ruth Riley,1611661321,Detroit Shock,1,6,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040718,DET,SAN,2004-05
+Shot Chart Detail,1020400132,139,100656,Ruth Riley,1611661321,Detroit Shock,1,5,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040718,DET,SAN,2004-05
+Shot Chart Detail,1020400132,167,100656,Ruth Riley,1611661321,Detroit Shock,1,3,31,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,33,107,1,1,20040718,DET,SAN,2004-05
+Shot Chart Detail,1020400132,224,100656,Ruth Riley,1611661321,Detroit Shock,1,2,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,121,114,1,0,20040718,DET,SAN,2004-05
+Shot Chart Detail,1020400132,179,100656,Ruth Riley,1611661321,Detroit Shock,1,2,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-118,3,1,0,20040718,DET,SAN,2004-05
+Shot Chart Detail,1020400132,199,100656,Ruth Riley,1611661321,Detroit Shock,1,1,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,90,43,1,0,20040718,DET,SAN,2004-05
+Shot Chart Detail,1020400132,241,100656,Ruth Riley,1611661321,Detroit Shock,1,0,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-85,122,1,1,20040718,DET,SAN,2004-05
+Shot Chart Detail,1020400132,251,100656,Ruth Riley,1611661321,Detroit Shock,2,16,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,97,137,1,1,20040718,DET,SAN,2004-05
+Shot Chart Detail,1020400132,281,100656,Ruth Riley,1611661321,Detroit Shock,2,12,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,171,5,1,0,20040718,DET,SAN,2004-05
+Shot Chart Detail,1020400132,296,100656,Ruth Riley,1611661321,Detroit Shock,2,11,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-102,117,1,1,20040718,DET,SAN,2004-05
+Shot Chart Detail,1020400132,332,100656,Ruth Riley,1611661321,Detroit Shock,2,7,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,77,145,1,0,20040718,DET,SAN,2004-05
+Shot Chart Detail,1020400132,360,100656,Ruth Riley,1611661321,Detroit Shock,2,3,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,10,1,1,20040718,DET,SAN,2004-05
+Shot Chart Detail,1020400138,18,100656,Ruth Riley,1611661321,Detroit Shock,1,18,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,15,160,1,0,20040721,DET,CON,2004-05
+Shot Chart Detail,1020400138,75,100656,Ruth Riley,1611661321,Detroit Shock,1,12,37,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,148,18,1,1,20040721,DET,CON,2004-05
+Shot Chart Detail,1020400138,156,100656,Ruth Riley,1611661321,Detroit Shock,1,5,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,89,20,1,1,20040721,DET,CON,2004-05
+Shot Chart Detail,1020400138,174,100656,Ruth Riley,1611661321,Detroit Shock,1,3,48,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,10,1,0,20040721,DET,CON,2004-05
+Shot Chart Detail,1020400138,184,100656,Ruth Riley,1611661321,Detroit Shock,1,3,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040721,DET,CON,2004-05
+Shot Chart Detail,1020400138,211,100656,Ruth Riley,1611661321,Detroit Shock,1,0,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,43,1,1,20040721,DET,CON,2004-05
+Shot Chart Detail,1020400138,253,100656,Ruth Riley,1611661321,Detroit Shock,2,16,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-122,122,1,0,20040721,DET,CON,2004-05
+Shot Chart Detail,1020400138,345,100656,Ruth Riley,1611661321,Detroit Shock,2,4,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,126,0,1,0,20040721,DET,CON,2004-05
+Shot Chart Detail,1020400145,65,100656,Ruth Riley,1611661321,Detroit Shock,1,11,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-92,107,1,0,20040723,DET,CHA,2004-05
+Shot Chart Detail,1020400145,161,100656,Ruth Riley,1611661321,Detroit Shock,1,1,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,75,87,1,1,20040723,DET,CHA,2004-05
+Shot Chart Detail,1020400145,176,100656,Ruth Riley,1611661321,Detroit Shock,1,0,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,0,1,0,20040723,DET,CHA,2004-05
+Shot Chart Detail,1020400145,265,100656,Ruth Riley,1611661321,Detroit Shock,2,12,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040723,DET,CHA,2004-05
+Shot Chart Detail,1020400145,282,100656,Ruth Riley,1611661321,Detroit Shock,2,10,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,49,46,1,0,20040723,DET,CHA,2004-05
+Shot Chart Detail,1020400145,288,100656,Ruth Riley,1611661321,Detroit Shock,2,9,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,148,23,1,1,20040723,DET,CHA,2004-05
+Shot Chart Detail,1020400145,301,100656,Ruth Riley,1611661321,Detroit Shock,2,9,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,40,1,0,20040723,DET,CHA,2004-05
+Shot Chart Detail,1020400145,398,100656,Ruth Riley,1611661321,Detroit Shock,2,1,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,94,138,1,1,20040723,DET,CHA,2004-05
+Shot Chart Detail,1020400149,8,100656,Ruth Riley,1611661321,Detroit Shock,1,19,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,-19,1,1,20040724,NYL,DET,2004-05
+Shot Chart Detail,1020400149,39,100656,Ruth Riley,1611661321,Detroit Shock,1,14,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-99,-32,1,1,20040724,NYL,DET,2004-05
+Shot Chart Detail,1020400149,57,100656,Ruth Riley,1611661321,Detroit Shock,1,13,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040724,NYL,DET,2004-05
+Shot Chart Detail,1020400149,84,100656,Ruth Riley,1611661321,Detroit Shock,1,11,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,10,156,1,1,20040724,NYL,DET,2004-05
+Shot Chart Detail,1020400149,92,100656,Ruth Riley,1611661321,Detroit Shock,1,10,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,89,15,1,0,20040724,NYL,DET,2004-05
+Shot Chart Detail,1020400149,97,100656,Ruth Riley,1611661321,Detroit Shock,1,9,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-51,171,1,1,20040724,NYL,DET,2004-05
+Shot Chart Detail,1020400149,101,100656,Ruth Riley,1611661321,Detroit Shock,1,9,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040724,NYL,DET,2004-05
+Shot Chart Detail,1020400149,134,100656,Ruth Riley,1611661321,Detroit Shock,1,5,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040724,NYL,DET,2004-05
+Shot Chart Detail,1020400149,170,100656,Ruth Riley,1611661321,Detroit Shock,1,2,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-95,10,1,0,20040724,NYL,DET,2004-05
+Shot Chart Detail,1020400149,220,100656,Ruth Riley,1611661321,Detroit Shock,1,1,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-64,94,1,0,20040724,NYL,DET,2004-05
+Shot Chart Detail,1020400149,174,100656,Ruth Riley,1611661321,Detroit Shock,1,1,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040724,NYL,DET,2004-05
+Shot Chart Detail,1020400149,245,100656,Ruth Riley,1611661321,Detroit Shock,2,16,7,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,77,110,1,1,20040724,NYL,DET,2004-05
+Shot Chart Detail,1020400149,263,100656,Ruth Riley,1611661321,Detroit Shock,2,14,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-75,49,1,0,20040724,NYL,DET,2004-05
+Shot Chart Detail,1020400149,271,100656,Ruth Riley,1611661321,Detroit Shock,2,12,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,18,1,1,20040724,NYL,DET,2004-05
+Shot Chart Detail,1020400149,313,100656,Ruth Riley,1611661321,Detroit Shock,2,8,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040724,NYL,DET,2004-05
+Shot Chart Detail,1020400149,332,100656,Ruth Riley,1611661321,Detroit Shock,2,6,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,103,160,1,1,20040724,NYL,DET,2004-05
+Shot Chart Detail,1020400149,335,100656,Ruth Riley,1611661321,Detroit Shock,2,6,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-125,-3,1,0,20040724,NYL,DET,2004-05
+Shot Chart Detail,1020400149,343,100656,Ruth Riley,1611661321,Detroit Shock,2,4,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,64,166,1,0,20040724,NYL,DET,2004-05
+Shot Chart Detail,1020400149,382,100656,Ruth Riley,1611661321,Detroit Shock,2,1,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040724,NYL,DET,2004-05
+Shot Chart Detail,1020400149,405,100656,Ruth Riley,1611661321,Detroit Shock,2,0,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040724,NYL,DET,2004-05
+Shot Chart Detail,1020400149,420,100656,Ruth Riley,1611661321,Detroit Shock,2,0,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-5,222,1,0,20040724,NYL,DET,2004-05
+Shot Chart Detail,1020400154,70,100656,Ruth Riley,1611661321,Detroit Shock,1,13,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-6,171,1,0,20040728,WAS,DET,2004-05
+Shot Chart Detail,1020400154,75,100656,Ruth Riley,1611661321,Detroit Shock,1,12,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-117,118,1,0,20040728,WAS,DET,2004-05
+Shot Chart Detail,1020400154,109,100656,Ruth Riley,1611661321,Detroit Shock,1,9,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,13,1,0,20040728,WAS,DET,2004-05
+Shot Chart Detail,1020400154,216,100656,Ruth Riley,1611661321,Detroit Shock,1,3,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-110,-8,1,0,20040728,WAS,DET,2004-05
+Shot Chart Detail,1020400154,223,100656,Ruth Riley,1611661321,Detroit Shock,1,2,22,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-38,0,1,0,20040728,WAS,DET,2004-05
+Shot Chart Detail,1020400154,204,100656,Ruth Riley,1611661321,Detroit Shock,1,0,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,121,82,1,1,20040728,WAS,DET,2004-05
+Shot Chart Detail,1020400154,284,100656,Ruth Riley,1611661321,Detroit Shock,2,13,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,67,104,1,0,20040728,WAS,DET,2004-05
+Shot Chart Detail,1020400154,288,100656,Ruth Riley,1611661321,Detroit Shock,2,13,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-10,23,1,0,20040728,WAS,DET,2004-05
+Shot Chart Detail,1020400154,418,100656,Ruth Riley,1611661321,Detroit Shock,2,1,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,69,45,1,0,20040728,WAS,DET,2004-05
+Shot Chart Detail,1020400159,6,100656,Ruth Riley,1611661321,Detroit Shock,1,18,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-72,135,1,0,20040730,DET,NYL,2004-05
+Shot Chart Detail,1020400159,51,100656,Ruth Riley,1611661321,Detroit Shock,1,14,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,146,59,1,0,20040730,DET,NYL,2004-05
+Shot Chart Detail,1020400159,120,100656,Ruth Riley,1611661321,Detroit Shock,1,6,42,Missed Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,15,1,0,20040730,DET,NYL,2004-05
+Shot Chart Detail,1020400159,224,100656,Ruth Riley,1611661321,Detroit Shock,1,0,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040730,DET,NYL,2004-05
+Shot Chart Detail,1020400159,226,100656,Ruth Riley,1611661321,Detroit Shock,2,16,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-112,58,1,1,20040730,DET,NYL,2004-05
+Shot Chart Detail,1020400159,252,100656,Ruth Riley,1611661321,Detroit Shock,2,12,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,143,107,1,1,20040730,DET,NYL,2004-05
+Shot Chart Detail,1020400159,367,100656,Ruth Riley,1611661321,Detroit Shock,2,2,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,118,22,1,1,20040730,DET,NYL,2004-05
+Shot Chart Detail,1020400167,6,100656,Ruth Riley,1611661321,Detroit Shock,1,19,17,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-110,17,1,0,20040801,DET,MIN,2004-05
+Shot Chart Detail,1020400167,13,100656,Ruth Riley,1611661321,Detroit Shock,1,18,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-75,145,1,0,20040801,DET,MIN,2004-05
+Shot Chart Detail,1020400167,84,100656,Ruth Riley,1611661321,Detroit Shock,1,11,52,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-112,22,1,0,20040801,DET,MIN,2004-05
+Shot Chart Detail,1020400167,159,100656,Ruth Riley,1611661321,Detroit Shock,1,5,37,Missed Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-62,17,1,0,20040801,DET,MIN,2004-05
+Shot Chart Detail,1020400167,251,100656,Ruth Riley,1611661321,Detroit Shock,1,1,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-36,84,1,1,20040801,DET,MIN,2004-05
+Shot Chart Detail,1020400167,266,100656,Ruth Riley,1611661321,Detroit Shock,1,0,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040801,DET,MIN,2004-05
+Shot Chart Detail,1020400167,347,100656,Ruth Riley,1611661321,Detroit Shock,2,9,27,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,39,45,1,0,20040801,DET,MIN,2004-05
+Shot Chart Detail,1020400167,370,100656,Ruth Riley,1611661321,Detroit Shock,2,7,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-90,127,1,1,20040801,DET,MIN,2004-05
+Shot Chart Detail,1020400171,4,100656,Ruth Riley,1611661321,Detroit Shock,1,19,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-64,5,1,0,20040901,DET,PHO,2004-05
+Shot Chart Detail,1020400171,27,100656,Ruth Riley,1611661321,Detroit Shock,1,17,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-82,133,1,1,20040901,DET,PHO,2004-05
+Shot Chart Detail,1020400171,30,100656,Ruth Riley,1611661321,Detroit Shock,1,16,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,8,1,0,20040901,DET,PHO,2004-05
+Shot Chart Detail,1020400171,56,100656,Ruth Riley,1611661321,Detroit Shock,1,15,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,-6,1,0,20040901,DET,PHO,2004-05
+Shot Chart Detail,1020400171,64,100656,Ruth Riley,1611661321,Detroit Shock,1,13,32,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,90,5,1,1,20040901,DET,PHO,2004-05
+Shot Chart Detail,1020400171,102,100656,Ruth Riley,1611661321,Detroit Shock,1,9,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-123,-13,1,0,20040901,DET,PHO,2004-05
+Shot Chart Detail,1020400171,156,100656,Ruth Riley,1611661321,Detroit Shock,1,4,38,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,16,63,1,1,20040901,DET,PHO,2004-05
+Shot Chart Detail,1020400171,166,100656,Ruth Riley,1611661321,Detroit Shock,1,3,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-107,31,1,0,20040901,DET,PHO,2004-05
+Shot Chart Detail,1020400181,2,100656,Ruth Riley,1611661321,Detroit Shock,1,19,41,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-8,56,1,1,20040904,CHA,DET,2004-05
+Shot Chart Detail,1020400181,13,100656,Ruth Riley,1611661321,Detroit Shock,1,18,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-110,5,1,1,20040904,CHA,DET,2004-05
+Shot Chart Detail,1020400181,51,100656,Ruth Riley,1611661321,Detroit Shock,1,13,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,71,50,1,0,20040904,CHA,DET,2004-05
+Shot Chart Detail,1020400181,127,100656,Ruth Riley,1611661321,Detroit Shock,1,5,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040904,CHA,DET,2004-05
+Shot Chart Detail,1020400181,135,100656,Ruth Riley,1611661321,Detroit Shock,1,5,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040904,CHA,DET,2004-05
+Shot Chart Detail,1020400181,192,100656,Ruth Riley,1611661321,Detroit Shock,1,2,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040904,CHA,DET,2004-05
+Shot Chart Detail,1020400181,195,100656,Ruth Riley,1611661321,Detroit Shock,1,1,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,56,56,1,0,20040904,CHA,DET,2004-05
+Shot Chart Detail,1020400181,197,100656,Ruth Riley,1611661321,Detroit Shock,1,1,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,67,92,1,0,20040904,CHA,DET,2004-05
+Shot Chart Detail,1020400181,215,100656,Ruth Riley,1611661321,Detroit Shock,2,15,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040904,CHA,DET,2004-05
+Shot Chart Detail,1020400181,286,100656,Ruth Riley,1611661321,Detroit Shock,2,6,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,65,150,1,1,20040904,CHA,DET,2004-05
+Shot Chart Detail,1020400181,288,100656,Ruth Riley,1611661321,Detroit Shock,2,6,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,107,75,1,0,20040904,CHA,DET,2004-05
+Shot Chart Detail,1020400181,303,100656,Ruth Riley,1611661321,Detroit Shock,2,5,12,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,12,124,1,1,20040904,CHA,DET,2004-05
+Shot Chart Detail,1020400188,2,100656,Ruth Riley,1611661321,Detroit Shock,1,19,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-117,66,1,1,20040908,SEA,DET,2004-05
+Shot Chart Detail,1020400188,6,100656,Ruth Riley,1611661321,Detroit Shock,1,19,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040908,SEA,DET,2004-05
+Shot Chart Detail,1020400188,31,100656,Ruth Riley,1611661321,Detroit Shock,1,16,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-39,53,1,0,20040908,SEA,DET,2004-05
+Shot Chart Detail,1020400188,47,100656,Ruth Riley,1611661321,Detroit Shock,1,15,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-6,160,1,0,20040908,SEA,DET,2004-05
+Shot Chart Detail,1020400188,173,100656,Ruth Riley,1611661321,Detroit Shock,1,6,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,57,127,1,0,20040908,SEA,DET,2004-05
+Shot Chart Detail,1020400188,238,100656,Ruth Riley,1611661321,Detroit Shock,1,3,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-25,91,1,0,20040908,SEA,DET,2004-05
+Shot Chart Detail,1020400188,218,100656,Ruth Riley,1611661321,Detroit Shock,1,1,18,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040908,SEA,DET,2004-05
+Shot Chart Detail,1020400188,225,100656,Ruth Riley,1611661321,Detroit Shock,1,0,43,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-75,91,1,1,20040908,SEA,DET,2004-05
+Shot Chart Detail,1020400188,275,100656,Ruth Riley,1611661321,Detroit Shock,2,16,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,15,40,1,1,20040908,SEA,DET,2004-05
+Shot Chart Detail,1020400188,317,100656,Ruth Riley,1611661321,Detroit Shock,2,12,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,14,-75,125,1,0,20040908,SEA,DET,2004-05
+Shot Chart Detail,1020400192,12,100656,Ruth Riley,1611661321,Detroit Shock,1,18,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-29,164,1,0,20040909,LAS,DET,2004-05
+Shot Chart Detail,1020400192,28,100656,Ruth Riley,1611661321,Detroit Shock,1,17,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,41,13,1,0,20040909,LAS,DET,2004-05
+Shot Chart Detail,1020400192,67,100656,Ruth Riley,1611661321,Detroit Shock,1,13,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040909,LAS,DET,2004-05
+Shot Chart Detail,1020400192,225,100656,Ruth Riley,1611661321,Detroit Shock,1,3,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-82,41,1,1,20040909,LAS,DET,2004-05
+Shot Chart Detail,1020400192,229,100656,Ruth Riley,1611661321,Detroit Shock,1,2,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-61,100,1,0,20040909,LAS,DET,2004-05
+Shot Chart Detail,1020400192,249,100656,Ruth Riley,1611661321,Detroit Shock,2,16,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040909,LAS,DET,2004-05
+Shot Chart Detail,1020400192,366,100656,Ruth Riley,1611661321,Detroit Shock,2,5,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,108,13,1,0,20040909,LAS,DET,2004-05
+Shot Chart Detail,1020400197,14,100656,Ruth Riley,1611661321,Detroit Shock,1,18,19,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-31,61,1,1,20040911,PHO,DET,2004-05
+Shot Chart Detail,1020400197,40,100656,Ruth Riley,1611661321,Detroit Shock,1,15,24,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,47,125,1,0,20040911,PHO,DET,2004-05
+Shot Chart Detail,1020400197,67,100656,Ruth Riley,1611661321,Detroit Shock,1,12,49,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-61,99,1,1,20040911,PHO,DET,2004-05
+Shot Chart Detail,1020400197,149,100656,Ruth Riley,1611661321,Detroit Shock,1,4,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,85,143,1,0,20040911,PHO,DET,2004-05
+Shot Chart Detail,1020400197,213,100656,Ruth Riley,1611661321,Detroit Shock,1,2,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-2,140,1,1,20040911,PHO,DET,2004-05
+Shot Chart Detail,1020400197,225,100656,Ruth Riley,1611661321,Detroit Shock,1,0,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-21,110,1,0,20040911,PHO,DET,2004-05
+Shot Chart Detail,1020400197,320,100656,Ruth Riley,1611661321,Detroit Shock,2,8,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040911,PHO,DET,2004-05
+Shot Chart Detail,1020400197,366,100656,Ruth Riley,1611661321,Detroit Shock,2,3,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-6,156,1,1,20040911,PHO,DET,2004-05
+Shot Chart Detail,1020400197,374,100656,Ruth Riley,1611661321,Detroit Shock,2,2,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040911,PHO,DET,2004-05
+Shot Chart Detail,1020400203,7,100656,Ruth Riley,1611661321,Detroit Shock,1,19,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040914,DET,NYL,2004-05
+Shot Chart Detail,1020400203,15,100656,Ruth Riley,1611661321,Detroit Shock,1,18,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,11,53,1,0,20040914,DET,NYL,2004-05
+Shot Chart Detail,1020400203,50,100656,Ruth Riley,1611661321,Detroit Shock,1,14,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-115,0,1,1,20040914,DET,NYL,2004-05
+Shot Chart Detail,1020400203,56,100656,Ruth Riley,1611661321,Detroit Shock,1,13,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040914,DET,NYL,2004-05
+Shot Chart Detail,1020400203,60,100656,Ruth Riley,1611661321,Detroit Shock,1,12,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,79,48,1,1,20040914,DET,NYL,2004-05
+Shot Chart Detail,1020400203,190,100656,Ruth Riley,1611661321,Detroit Shock,1,2,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-100,54,1,1,20040914,DET,NYL,2004-05
+Shot Chart Detail,1020400203,203,100656,Ruth Riley,1611661321,Detroit Shock,1,1,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,6,63,1,0,20040914,DET,NYL,2004-05
+Shot Chart Detail,1020400203,216,100656,Ruth Riley,1611661321,Detroit Shock,2,16,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040914,DET,NYL,2004-05
+Shot Chart Detail,1020400203,261,100656,Ruth Riley,1611661321,Detroit Shock,2,11,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040914,DET,NYL,2004-05
+Shot Chart Detail,1020400203,263,100656,Ruth Riley,1611661321,Detroit Shock,2,11,24,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,16,95,1,1,20040914,DET,NYL,2004-05
+Shot Chart Detail,1020400203,296,100656,Ruth Riley,1611661321,Detroit Shock,2,7,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,140,56,1,0,20040914,DET,NYL,2004-05
+Shot Chart Detail,1020400203,302,100656,Ruth Riley,1611661321,Detroit Shock,2,6,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,12,1,1,20040914,DET,NYL,2004-05
+Shot Chart Detail,1020400203,307,100656,Ruth Riley,1611661321,Detroit Shock,2,6,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,10,1,1,20040914,DET,NYL,2004-05
+Shot Chart Detail,1020400203,327,100656,Ruth Riley,1611661321,Detroit Shock,2,3,10,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-26,28,1,1,20040914,DET,NYL,2004-05
+Shot Chart Detail,1020400203,366,100656,Ruth Riley,1611661321,Detroit Shock,3,4,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040914,DET,NYL,2004-05
+Shot Chart Detail,1020400203,376,100656,Ruth Riley,1611661321,Detroit Shock,3,3,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,25,1,0,20040914,DET,NYL,2004-05
+Shot Chart Detail,1020400218,14,100656,Ruth Riley,1611661321,Detroit Shock,1,17,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,136,43,1,0,20040919,DET,CHA,2004-05
+Shot Chart Detail,1020400218,23,100656,Ruth Riley,1611661321,Detroit Shock,1,16,9,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-20,118,1,1,20040919,DET,CHA,2004-05
+Shot Chart Detail,1020400218,98,100656,Ruth Riley,1611661321,Detroit Shock,1,9,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-115,71,1,0,20040919,DET,CHA,2004-05
+Shot Chart Detail,1020400218,105,100656,Ruth Riley,1611661321,Detroit Shock,1,8,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-133,71,1,0,20040919,DET,CHA,2004-05
+Shot Chart Detail,1020400218,192,100656,Ruth Riley,1611661321,Detroit Shock,1,1,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,16,141,1,1,20040919,DET,CHA,2004-05
+Shot Chart Detail,1020400218,288,100656,Ruth Riley,1611661321,Detroit Shock,2,7,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,16,82,1,1,20040919,DET,CHA,2004-05
+Shot Chart Detail,1020400218,343,100656,Ruth Riley,1611661321,Detroit Shock,2,2,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,49,86,1,0,20040919,DET,CHA,2004-05

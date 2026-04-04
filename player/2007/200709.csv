@@ -1,0 +1,24 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020700005,26,200709,Erin Grant,1611661316,Houston Comets,1,6,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-135,81,1,0,20070519,SEA,HOU,2007-08
+Shot Chart Detail,1020700005,28,200709,Erin Grant,1611661316,Houston Comets,1,6,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070519,SEA,HOU,2007-08
+Shot Chart Detail,1020700108,282,200709,Erin Grant,1611661316,Houston Comets,3,0,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-79,58,1,0,20070706,HOU,SEA,2007-08
+Shot Chart Detail,1020700108,286,200709,Erin Grant,1611661316,Houston Comets,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,11,214,1,0,20070706,HOU,SEA,2007-08
+Shot Chart Detail,1020700117,305,200709,Erin Grant,1611661316,Houston Comets,4,9,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,40,1,0,20070708,MIN,HOU,2007-08
+Shot Chart Detail,1020700121,171,200709,Erin Grant,1611661316,Houston Comets,2,0,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-69,110,1,0,20070710,HOU,IND,2007-08
+Shot Chart Detail,1020700136,104,200709,Erin Grant,1611661316,Houston Comets,2,6,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070720,NYL,HOU,2007-08
+Shot Chart Detail,1020700143,77,200709,Erin Grant,1611661316,Houston Comets,1,1,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-52,81,1,0,20070722,CON,HOU,2007-08
+Shot Chart Detail,1020700143,200,200709,Erin Grant,1611661316,Houston Comets,2,0,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,169,-1,1,0,20070722,CON,HOU,2007-08
+Shot Chart Detail,1020700173,157,200709,Erin Grant,1611661316,Houston Comets,2,4,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-13,164,1,1,20070803,HOU,LAS,2007-08
+Shot Chart Detail,1020700173,332,200709,Erin Grant,1611661316,Houston Comets,3,0,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-57,26,1,0,20070803,HOU,LAS,2007-08
+Shot Chart Detail,1020700179,106,200709,Erin Grant,1611661316,Houston Comets,1,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-16,229,1,0,20070804,MIN,HOU,2007-08
+Shot Chart Detail,1020700179,190,200709,Erin Grant,1611661316,Houston Comets,2,0,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070804,MIN,HOU,2007-08
+Shot Chart Detail,1020700179,200,200709,Erin Grant,1611661316,Houston Comets,2,0,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,107,59,1,0,20070804,MIN,HOU,2007-08
+Shot Chart Detail,1020700188,41,200709,Erin Grant,1611661316,Houston Comets,1,4,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,0,150,1,1,20070807,HOU,NYL,2007-08
+Shot Chart Detail,1020700188,48,200709,Erin Grant,1611661316,Houston Comets,1,4,14,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,34,105,1,1,20070807,HOU,NYL,2007-08
+Shot Chart Detail,1020700193,98,200709,Erin Grant,1611661316,Houston Comets,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,135,76,1,0,20070810,HOU,SAC,2007-08
+Shot Chart Detail,1020700193,113,200709,Erin Grant,1611661316,Houston Comets,2,8,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070810,HOU,SAC,2007-08
+Shot Chart Detail,1020700195,30,200709,Erin Grant,1611661316,Houston Comets,1,5,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-107,68,1,0,20070811,SAN,HOU,2007-08
+Shot Chart Detail,1020700195,73,200709,Erin Grant,1611661316,Houston Comets,1,0,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,3,1,1,20070811,SAN,HOU,2007-08
+Shot Chart Detail,1020700202,334,200709,Erin Grant,1611661316,Houston Comets,4,7,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,131,89,1,1,20070814,DET,HOU,2007-08
+Shot Chart Detail,1020700221,121,200709,Erin Grant,1611661316,Houston Comets,2,9,20,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-56,81,1,1,20070819,LAS,HOU,2007-08
+Shot Chart Detail,1020700221,383,200709,Erin Grant,1611661316,Houston Comets,4,3,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070819,LAS,HOU,2007-08

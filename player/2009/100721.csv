@@ -1,0 +1,356 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020900002,48,100721,Swin Cash,1611661328,Seattle Storm,1,5,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,37,31,1,0,20090606,SAC,SEA,2009-10
+Shot Chart Detail,1020900002,149,100721,Swin Cash,1611661328,Seattle Storm,2,8,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-124,87,1,0,20090606,SAC,SEA,2009-10
+Shot Chart Detail,1020900002,154,100721,Swin Cash,1611661328,Seattle Storm,2,7,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090606,SAC,SEA,2009-10
+Shot Chart Detail,1020900002,234,100721,Swin Cash,1611661328,Seattle Storm,2,0,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090606,SAC,SEA,2009-10
+Shot Chart Detail,1020900002,307,100721,Swin Cash,1611661328,Seattle Storm,3,4,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-185,1,1,0,20090606,SAC,SEA,2009-10
+Shot Chart Detail,1020900002,383,100721,Swin Cash,1611661328,Seattle Storm,4,7,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,11,1,1,20090606,SAC,SEA,2009-10
+Shot Chart Detail,1020900002,407,100721,Swin Cash,1611661328,Seattle Storm,4,5,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090606,SAC,SEA,2009-10
+Shot Chart Detail,1020900002,433,100721,Swin Cash,1611661328,Seattle Storm,4,4,36,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090606,SAC,SEA,2009-10
+Shot Chart Detail,1020900010,34,100721,Swin Cash,1611661328,Seattle Storm,1,6,23,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,4,52,1,1,20090607,SEA,SAC,2009-10
+Shot Chart Detail,1020900010,149,100721,Swin Cash,1611661328,Seattle Storm,2,7,19,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,34,47,1,1,20090607,SEA,SAC,2009-10
+Shot Chart Detail,1020900010,155,100721,Swin Cash,1611661328,Seattle Storm,2,6,55,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,217,11,1,0,20090607,SEA,SAC,2009-10
+Shot Chart Detail,1020900010,178,100721,Swin Cash,1611661328,Seattle Storm,2,4,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090607,SEA,SAC,2009-10
+Shot Chart Detail,1020900010,383,100721,Swin Cash,1611661328,Seattle Storm,4,7,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090607,SEA,SAC,2009-10
+Shot Chart Detail,1020900010,385,100721,Swin Cash,1611661328,Seattle Storm,4,7,38,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,25,1,1,20090607,SEA,SAC,2009-10
+Shot Chart Detail,1020900012,50,100721,Swin Cash,1611661328,Seattle Storm,1,5,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,12,1,1,20090609,IND,SEA,2009-10
+Shot Chart Detail,1020900012,78,100721,Swin Cash,1611661328,Seattle Storm,1,2,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-128,149,1,1,20090609,IND,SEA,2009-10
+Shot Chart Detail,1020900012,88,100721,Swin Cash,1611661328,Seattle Storm,1,1,47,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-112,3,1,1,20090609,IND,SEA,2009-10
+Shot Chart Detail,1020900012,102,100721,Swin Cash,1611661328,Seattle Storm,1,1,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,72,146,1,1,20090609,IND,SEA,2009-10
+Shot Chart Detail,1020900012,169,100721,Swin Cash,1611661328,Seattle Storm,2,3,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,0,1,1,20090609,IND,SEA,2009-10
+Shot Chart Detail,1020900012,395,100721,Swin Cash,1611661328,Seattle Storm,4,3,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,193,-8,1,0,20090609,IND,SEA,2009-10
+Shot Chart Detail,1020900012,439,100721,Swin Cash,1611661328,Seattle Storm,4,1,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-2,1,0,20090609,IND,SEA,2009-10
+Shot Chart Detail,1020900017,34,100721,Swin Cash,1611661328,Seattle Storm,1,6,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090612,MIN,SEA,2009-10
+Shot Chart Detail,1020900017,39,100721,Swin Cash,1611661328,Seattle Storm,1,6,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090612,MIN,SEA,2009-10
+Shot Chart Detail,1020900017,41,100721,Swin Cash,1611661328,Seattle Storm,1,5,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-87,135,1,1,20090612,MIN,SEA,2009-10
+Shot Chart Detail,1020900017,85,100721,Swin Cash,1611661328,Seattle Storm,1,1,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,171,0,1,0,20090612,MIN,SEA,2009-10
+Shot Chart Detail,1020900017,92,100721,Swin Cash,1611661328,Seattle Storm,1,1,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-78,23,1,0,20090612,MIN,SEA,2009-10
+Shot Chart Detail,1020900017,100,100721,Swin Cash,1611661328,Seattle Storm,1,0,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-62,44,1,0,20090612,MIN,SEA,2009-10
+Shot Chart Detail,1020900017,156,100721,Swin Cash,1611661328,Seattle Storm,2,5,10,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,7,47,1,1,20090612,MIN,SEA,2009-10
+Shot Chart Detail,1020900017,250,100721,Swin Cash,1611661328,Seattle Storm,3,6,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090612,MIN,SEA,2009-10
+Shot Chart Detail,1020900017,257,100721,Swin Cash,1611661328,Seattle Storm,3,6,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090612,MIN,SEA,2009-10
+Shot Chart Detail,1020900017,337,100721,Swin Cash,1611661328,Seattle Storm,4,7,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090612,MIN,SEA,2009-10
+Shot Chart Detail,1020900017,373,100721,Swin Cash,1611661328,Seattle Storm,4,4,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090612,MIN,SEA,2009-10
+Shot Chart Detail,1020900017,376,100721,Swin Cash,1611661328,Seattle Storm,4,3,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,0,143,1,1,20090612,MIN,SEA,2009-10
+Shot Chart Detail,1020900017,411,100721,Swin Cash,1611661328,Seattle Storm,4,1,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-3,1,0,20090612,MIN,SEA,2009-10
+Shot Chart Detail,1020900023,12,100721,Swin Cash,1611661328,Seattle Storm,1,7,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-160,83,1,0,20090614,CHI,SEA,2009-10
+Shot Chart Detail,1020900023,182,100721,Swin Cash,1611661328,Seattle Storm,3,7,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090614,CHI,SEA,2009-10
+Shot Chart Detail,1020900023,284,100721,Swin Cash,1611661328,Seattle Storm,3,0,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-138,93,1,1,20090614,CHI,SEA,2009-10
+Shot Chart Detail,1020900023,306,100721,Swin Cash,1611661328,Seattle Storm,4,8,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090614,CHI,SEA,2009-10
+Shot Chart Detail,1020900023,347,100721,Swin Cash,1611661328,Seattle Storm,4,3,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,22,1,0,20090614,CHI,SEA,2009-10
+Shot Chart Detail,1020900031,4,100721,Swin Cash,1611661328,Seattle Storm,1,9,22,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-11,50,1,0,20090619,SEA,MIN,2009-10
+Shot Chart Detail,1020900031,8,100721,Swin Cash,1611661328,Seattle Storm,1,9,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090619,SEA,MIN,2009-10
+Shot Chart Detail,1020900031,78,100721,Swin Cash,1611661328,Seattle Storm,1,3,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-40,89,1,0,20090619,SEA,MIN,2009-10
+Shot Chart Detail,1020900031,221,100721,Swin Cash,1611661328,Seattle Storm,2,4,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-116,58,1,0,20090619,SEA,MIN,2009-10
+Shot Chart Detail,1020900031,304,100721,Swin Cash,1611661328,Seattle Storm,3,8,48,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-16,33,1,0,20090619,SEA,MIN,2009-10
+Shot Chart Detail,1020900031,316,100721,Swin Cash,1611661328,Seattle Storm,3,7,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-119,15,1,0,20090619,SEA,MIN,2009-10
+Shot Chart Detail,1020900031,341,100721,Swin Cash,1611661328,Seattle Storm,3,5,26,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,50,107,1,1,20090619,SEA,MIN,2009-10
+Shot Chart Detail,1020900031,364,100721,Swin Cash,1611661328,Seattle Storm,3,3,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,155,149,1,0,20090619,SEA,MIN,2009-10
+Shot Chart Detail,1020900037,18,100721,Swin Cash,1611661328,Seattle Storm,1,8,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,89,142,1,0,20090621,PHO,SEA,2009-10
+Shot Chart Detail,1020900037,44,100721,Swin Cash,1611661328,Seattle Storm,1,4,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090621,PHO,SEA,2009-10
+Shot Chart Detail,1020900037,50,100721,Swin Cash,1611661328,Seattle Storm,1,4,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090621,PHO,SEA,2009-10
+Shot Chart Detail,1020900037,64,100721,Swin Cash,1611661328,Seattle Storm,1,3,7,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-67,28,1,1,20090621,PHO,SEA,2009-10
+Shot Chart Detail,1020900037,66,100721,Swin Cash,1611661328,Seattle Storm,1,2,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090621,PHO,SEA,2009-10
+Shot Chart Detail,1020900037,74,100721,Swin Cash,1611661328,Seattle Storm,1,2,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-62,17,1,0,20090621,PHO,SEA,2009-10
+Shot Chart Detail,1020900037,78,100721,Swin Cash,1611661328,Seattle Storm,1,1,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090621,PHO,SEA,2009-10
+Shot Chart Detail,1020900037,81,100721,Swin Cash,1611661328,Seattle Storm,1,1,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,86,66,1,0,20090621,PHO,SEA,2009-10
+Shot Chart Detail,1020900037,135,100721,Swin Cash,1611661328,Seattle Storm,2,8,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090621,PHO,SEA,2009-10
+Shot Chart Detail,1020900037,146,100721,Swin Cash,1611661328,Seattle Storm,2,6,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090621,PHO,SEA,2009-10
+Shot Chart Detail,1020900037,192,100721,Swin Cash,1611661328,Seattle Storm,2,2,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,-2,1,0,20090621,PHO,SEA,2009-10
+Shot Chart Detail,1020900037,203,100721,Swin Cash,1611661328,Seattle Storm,2,1,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-10,78,1,0,20090621,PHO,SEA,2009-10
+Shot Chart Detail,1020900037,245,100721,Swin Cash,1611661328,Seattle Storm,3,7,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-89,26,1,0,20090621,PHO,SEA,2009-10
+Shot Chart Detail,1020900037,270,100721,Swin Cash,1611661328,Seattle Storm,3,5,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,100,149,1,1,20090621,PHO,SEA,2009-10
+Shot Chart Detail,1020900037,284,100721,Swin Cash,1611661328,Seattle Storm,3,3,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090621,PHO,SEA,2009-10
+Shot Chart Detail,1020900037,285,100721,Swin Cash,1611661328,Seattle Storm,3,3,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090621,PHO,SEA,2009-10
+Shot Chart Detail,1020900037,372,100721,Swin Cash,1611661328,Seattle Storm,4,6,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,51,44,1,0,20090621,PHO,SEA,2009-10
+Shot Chart Detail,1020900037,382,100721,Swin Cash,1611661328,Seattle Storm,4,6,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090621,PHO,SEA,2009-10
+Shot Chart Detail,1020900037,391,100721,Swin Cash,1611661328,Seattle Storm,4,6,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090621,PHO,SEA,2009-10
+Shot Chart Detail,1020900037,397,100721,Swin Cash,1611661328,Seattle Storm,4,5,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090621,PHO,SEA,2009-10
+Shot Chart Detail,1020900046,33,100721,Swin Cash,1611661328,Seattle Storm,1,5,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,1,1,0,20090626,SEA,LAS,2009-10
+Shot Chart Detail,1020900046,48,100721,Swin Cash,1611661328,Seattle Storm,1,4,3,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,7,96,1,1,20090626,SEA,LAS,2009-10
+Shot Chart Detail,1020900046,54,100721,Swin Cash,1611661328,Seattle Storm,1,2,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090626,SEA,LAS,2009-10
+Shot Chart Detail,1020900046,63,100721,Swin Cash,1611661328,Seattle Storm,1,1,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,42,33,1,0,20090626,SEA,LAS,2009-10
+Shot Chart Detail,1020900046,137,100721,Swin Cash,1611661328,Seattle Storm,2,4,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,25,1,0,20090626,SEA,LAS,2009-10
+Shot Chart Detail,1020900046,234,100721,Swin Cash,1611661328,Seattle Storm,3,6,22,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,2,63,1,1,20090626,SEA,LAS,2009-10
+Shot Chart Detail,1020900046,305,100721,Swin Cash,1611661328,Seattle Storm,4,9,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,58,1,0,20090626,SEA,LAS,2009-10
+Shot Chart Detail,1020900046,319,100721,Swin Cash,1611661328,Seattle Storm,4,8,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,19,1,0,20090626,SEA,LAS,2009-10
+Shot Chart Detail,1020900046,321,100721,Swin Cash,1611661328,Seattle Storm,4,8,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090626,SEA,LAS,2009-10
+Shot Chart Detail,1020900046,382,100721,Swin Cash,1611661328,Seattle Storm,4,0,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,18,167,1,0,20090626,SEA,LAS,2009-10
+Shot Chart Detail,1020900052,3,100721,Swin Cash,1611661328,Seattle Storm,1,9,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,181,148,1,1,20090628,LAS,SEA,2009-10
+Shot Chart Detail,1020900052,34,100721,Swin Cash,1611661328,Seattle Storm,1,6,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),24+ ft.,22,220,61,1,0,20090628,LAS,SEA,2009-10
+Shot Chart Detail,1020900052,182,100721,Swin Cash,1611661328,Seattle Storm,2,1,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,151,74,1,0,20090628,LAS,SEA,2009-10
+Shot Chart Detail,1020900052,209,100721,Swin Cash,1611661328,Seattle Storm,3,9,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-7,162,1,0,20090628,LAS,SEA,2009-10
+Shot Chart Detail,1020900052,266,100721,Swin Cash,1611661328,Seattle Storm,3,4,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090628,LAS,SEA,2009-10
+Shot Chart Detail,1020900056,6,100721,Swin Cash,1611661328,Seattle Storm,1,9,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090701,PHO,SEA,2009-10
+Shot Chart Detail,1020900056,15,100721,Swin Cash,1611661328,Seattle Storm,1,7,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,165,56,1,0,20090701,PHO,SEA,2009-10
+Shot Chart Detail,1020900056,17,100721,Swin Cash,1611661328,Seattle Storm,1,7,43,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,31,64,1,1,20090701,PHO,SEA,2009-10
+Shot Chart Detail,1020900056,36,100721,Swin Cash,1611661328,Seattle Storm,1,5,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,1,85,1,0,20090701,PHO,SEA,2009-10
+Shot Chart Detail,1020900056,55,100721,Swin Cash,1611661328,Seattle Storm,1,4,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-57,9,1,1,20090701,PHO,SEA,2009-10
+Shot Chart Detail,1020900056,63,100721,Swin Cash,1611661328,Seattle Storm,1,3,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,132,108,1,0,20090701,PHO,SEA,2009-10
+Shot Chart Detail,1020900056,144,100721,Swin Cash,1611661328,Seattle Storm,2,5,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-157,12,1,1,20090701,PHO,SEA,2009-10
+Shot Chart Detail,1020900056,146,100721,Swin Cash,1611661328,Seattle Storm,2,5,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090701,PHO,SEA,2009-10
+Shot Chart Detail,1020900056,147,100721,Swin Cash,1611661328,Seattle Storm,2,5,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090701,PHO,SEA,2009-10
+Shot Chart Detail,1020900056,216,100721,Swin Cash,1611661328,Seattle Storm,3,8,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-4,160,1,0,20090701,PHO,SEA,2009-10
+Shot Chart Detail,1020900056,239,100721,Swin Cash,1611661328,Seattle Storm,3,6,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090701,PHO,SEA,2009-10
+Shot Chart Detail,1020900056,305,100721,Swin Cash,1611661328,Seattle Storm,3,1,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-87,47,1,0,20090701,PHO,SEA,2009-10
+Shot Chart Detail,1020900056,307,100721,Swin Cash,1611661328,Seattle Storm,3,1,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090701,PHO,SEA,2009-10
+Shot Chart Detail,1020900056,326,100721,Swin Cash,1611661328,Seattle Storm,4,9,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090701,PHO,SEA,2009-10
+Shot Chart Detail,1020900056,338,100721,Swin Cash,1611661328,Seattle Storm,4,9,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-4,179,1,1,20090701,PHO,SEA,2009-10
+Shot Chart Detail,1020900056,350,100721,Swin Cash,1611661328,Seattle Storm,4,7,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090701,PHO,SEA,2009-10
+Shot Chart Detail,1020900056,358,100721,Swin Cash,1611661328,Seattle Storm,4,6,4,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-119,-8,1,0,20090701,PHO,SEA,2009-10
+Shot Chart Detail,1020900056,386,100721,Swin Cash,1611661328,Seattle Storm,4,4,25,Missed Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,42,1,0,20090701,PHO,SEA,2009-10
+Shot Chart Detail,1020900065,33,100721,Swin Cash,1611661328,Seattle Storm,1,5,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,140,96,1,1,20090707,SEA,SAN,2009-10
+Shot Chart Detail,1020900065,42,100721,Swin Cash,1611661328,Seattle Storm,1,4,18,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,4,48,1,1,20090707,SEA,SAN,2009-10
+Shot Chart Detail,1020900065,45,100721,Swin Cash,1611661328,Seattle Storm,1,3,46,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-62,6,1,1,20090707,SEA,SAN,2009-10
+Shot Chart Detail,1020900065,120,100721,Swin Cash,1611661328,Seattle Storm,2,6,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-5,176,1,0,20090707,SEA,SAN,2009-10
+Shot Chart Detail,1020900065,147,100721,Swin Cash,1611661328,Seattle Storm,2,4,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-199,-2,1,0,20090707,SEA,SAN,2009-10
+Shot Chart Detail,1020900065,224,100721,Swin Cash,1611661328,Seattle Storm,3,7,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,9,1,0,20090707,SEA,SAN,2009-10
+Shot Chart Detail,1020900065,383,100721,Swin Cash,1611661328,Seattle Storm,4,5,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,144,69,1,1,20090707,SEA,SAN,2009-10
+Shot Chart Detail,1020900065,425,100721,Swin Cash,1611661328,Seattle Storm,4,1,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-116,3,1,1,20090707,SEA,SAN,2009-10
+Shot Chart Detail,1020900071,10,100721,Swin Cash,1611661328,Seattle Storm,1,8,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-123,-5,1,0,20090709,SEA,SAC,2009-10
+Shot Chart Detail,1020900071,21,100721,Swin Cash,1611661328,Seattle Storm,1,6,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090709,SEA,SAC,2009-10
+Shot Chart Detail,1020900071,43,100721,Swin Cash,1611661328,Seattle Storm,1,5,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090709,SEA,SAC,2009-10
+Shot Chart Detail,1020900071,184,100721,Swin Cash,1611661328,Seattle Storm,2,4,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,18,134,1,0,20090709,SEA,SAC,2009-10
+Shot Chart Detail,1020900071,196,100721,Swin Cash,1611661328,Seattle Storm,2,2,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090709,SEA,SAC,2009-10
+Shot Chart Detail,1020900071,206,100721,Swin Cash,1611661328,Seattle Storm,2,2,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090709,SEA,SAC,2009-10
+Shot Chart Detail,1020900071,227,100721,Swin Cash,1611661328,Seattle Storm,2,0,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-138,9,1,0,20090709,SEA,SAC,2009-10
+Shot Chart Detail,1020900071,286,100721,Swin Cash,1611661328,Seattle Storm,3,5,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-139,1,1,0,20090709,SEA,SAC,2009-10
+Shot Chart Detail,1020900071,307,100721,Swin Cash,1611661328,Seattle Storm,3,4,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090709,SEA,SAC,2009-10
+Shot Chart Detail,1020900071,310,100721,Swin Cash,1611661328,Seattle Storm,3,3,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-21,42,1,1,20090709,SEA,SAC,2009-10
+Shot Chart Detail,1020900071,400,100721,Swin Cash,1611661328,Seattle Storm,4,6,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-81,9,1,0,20090709,SEA,SAC,2009-10
+Shot Chart Detail,1020900071,407,100721,Swin Cash,1611661328,Seattle Storm,4,6,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,80,71,1,0,20090709,SEA,SAC,2009-10
+Shot Chart Detail,1020900071,427,100721,Swin Cash,1611661328,Seattle Storm,4,3,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,-2,1,1,20090709,SEA,SAC,2009-10
+Shot Chart Detail,1020900079,18,100721,Swin Cash,1611661328,Seattle Storm,1,8,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-100,135,1,0,20090712,SEA,CHI,2009-10
+Shot Chart Detail,1020900079,51,100721,Swin Cash,1611661328,Seattle Storm,1,5,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090712,SEA,CHI,2009-10
+Shot Chart Detail,1020900079,78,100721,Swin Cash,1611661328,Seattle Storm,1,2,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,26,52,1,0,20090712,SEA,CHI,2009-10
+Shot Chart Detail,1020900079,93,100721,Swin Cash,1611661328,Seattle Storm,1,1,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,59,61,1,0,20090712,SEA,CHI,2009-10
+Shot Chart Detail,1020900079,146,100721,Swin Cash,1611661328,Seattle Storm,2,6,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,17,63,1,1,20090712,SEA,CHI,2009-10
+Shot Chart Detail,1020900079,173,100721,Swin Cash,1611661328,Seattle Storm,2,2,10,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,54,37,1,1,20090712,SEA,CHI,2009-10
+Shot Chart Detail,1020900079,187,100721,Swin Cash,1611661328,Seattle Storm,2,1,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,28,167,1,1,20090712,SEA,CHI,2009-10
+Shot Chart Detail,1020900079,190,100721,Swin Cash,1611661328,Seattle Storm,2,0,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090712,SEA,CHI,2009-10
+Shot Chart Detail,1020900079,208,100721,Swin Cash,1611661328,Seattle Storm,3,7,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-34,220,1,0,20090712,SEA,CHI,2009-10
+Shot Chart Detail,1020900079,214,100721,Swin Cash,1611661328,Seattle Storm,3,6,56,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,48,23,1,0,20090712,SEA,CHI,2009-10
+Shot Chart Detail,1020900079,344,100721,Swin Cash,1611661328,Seattle Storm,4,4,6,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,26,56,1,1,20090712,SEA,CHI,2009-10
+Shot Chart Detail,1020900085,13,100721,Swin Cash,1611661328,Seattle Storm,1,8,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,56,48,1,0,20090715,SEA,DET,2009-10
+Shot Chart Detail,1020900085,56,100721,Swin Cash,1611661328,Seattle Storm,1,4,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-180,-6,1,1,20090715,SEA,DET,2009-10
+Shot Chart Detail,1020900085,173,100721,Swin Cash,1611661328,Seattle Storm,2,2,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-89,91,1,1,20090715,SEA,DET,2009-10
+Shot Chart Detail,1020900085,177,100721,Swin Cash,1611661328,Seattle Storm,2,1,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,47,211,1,0,20090715,SEA,DET,2009-10
+Shot Chart Detail,1020900085,226,100721,Swin Cash,1611661328,Seattle Storm,3,7,20,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-49,41,1,1,20090715,SEA,DET,2009-10
+Shot Chart Detail,1020900085,256,100721,Swin Cash,1611661328,Seattle Storm,3,4,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090715,SEA,DET,2009-10
+Shot Chart Detail,1020900085,289,100721,Swin Cash,1611661328,Seattle Storm,3,1,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-37,135,1,0,20090715,SEA,DET,2009-10
+Shot Chart Detail,1020900085,375,100721,Swin Cash,1611661328,Seattle Storm,4,3,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-198,6,1,0,20090715,SEA,DET,2009-10
+Shot Chart Detail,1020900088,2,100721,Swin Cash,1611661328,Seattle Storm,1,9,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,13,151,1,0,20090717,SAC,SEA,2009-10
+Shot Chart Detail,1020900088,37,100721,Swin Cash,1611661328,Seattle Storm,1,5,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090717,SAC,SEA,2009-10
+Shot Chart Detail,1020900088,74,100721,Swin Cash,1611661328,Seattle Storm,1,1,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090717,SAC,SEA,2009-10
+Shot Chart Detail,1020900088,84,100721,Swin Cash,1611661328,Seattle Storm,1,0,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,7,1,1,20090717,SAC,SEA,2009-10
+Shot Chart Detail,1020900088,143,100721,Swin Cash,1611661328,Seattle Storm,2,5,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,81,63,1,0,20090717,SAC,SEA,2009-10
+Shot Chart Detail,1020900088,268,100721,Swin Cash,1611661328,Seattle Storm,3,6,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,20,1,1,20090717,SAC,SEA,2009-10
+Shot Chart Detail,1020900088,283,100721,Swin Cash,1611661328,Seattle Storm,3,4,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090717,SAC,SEA,2009-10
+Shot Chart Detail,1020900095,14,100721,Swin Cash,1611661328,Seattle Storm,1,8,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090719,SEA,MIN,2009-10
+Shot Chart Detail,1020900095,47,100721,Swin Cash,1611661328,Seattle Storm,1,4,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-56,71,1,0,20090719,SEA,MIN,2009-10
+Shot Chart Detail,1020900095,72,100721,Swin Cash,1611661328,Seattle Storm,1,3,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,11,1,0,20090719,SEA,MIN,2009-10
+Shot Chart Detail,1020900095,84,100721,Swin Cash,1611661328,Seattle Storm,1,0,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-114,19,1,0,20090719,SEA,MIN,2009-10
+Shot Chart Detail,1020900095,142,100721,Swin Cash,1611661328,Seattle Storm,2,4,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,147,14,1,0,20090719,SEA,MIN,2009-10
+Shot Chart Detail,1020900095,161,100721,Swin Cash,1611661328,Seattle Storm,2,2,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,59,30,1,0,20090719,SEA,MIN,2009-10
+Shot Chart Detail,1020900095,190,100721,Swin Cash,1611661328,Seattle Storm,2,0,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090719,SEA,MIN,2009-10
+Shot Chart Detail,1020900095,203,100721,Swin Cash,1611661328,Seattle Storm,3,8,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-46,25,1,1,20090719,SEA,MIN,2009-10
+Shot Chart Detail,1020900095,250,100721,Swin Cash,1611661328,Seattle Storm,3,4,32,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,31,1,1,20090719,SEA,MIN,2009-10
+Shot Chart Detail,1020900095,290,100721,Swin Cash,1611661328,Seattle Storm,3,1,44,Made Shot,Jump Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,20,1,1,20090719,SEA,MIN,2009-10
+Shot Chart Detail,1020900095,304,100721,Swin Cash,1611661328,Seattle Storm,3,0,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,39,1,0,20090719,SEA,MIN,2009-10
+Shot Chart Detail,1020900095,362,100721,Swin Cash,1611661328,Seattle Storm,4,4,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,6,129,1,0,20090719,SEA,MIN,2009-10
+Shot Chart Detail,1020900095,378,100721,Swin Cash,1611661328,Seattle Storm,4,3,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,165,145,1,1,20090719,SEA,MIN,2009-10
+Shot Chart Detail,1020900101,5,100721,Swin Cash,1611661328,Seattle Storm,1,9,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,147,107,1,0,20090722,SEA,LAS,2009-10
+Shot Chart Detail,1020900101,14,100721,Swin Cash,1611661328,Seattle Storm,1,8,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090722,SEA,LAS,2009-10
+Shot Chart Detail,1020900101,17,100721,Swin Cash,1611661328,Seattle Storm,1,8,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090722,SEA,LAS,2009-10
+Shot Chart Detail,1020900101,21,100721,Swin Cash,1611661328,Seattle Storm,1,8,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-193,102,1,1,20090722,SEA,LAS,2009-10
+Shot Chart Detail,1020900101,50,100721,Swin Cash,1611661328,Seattle Storm,1,5,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-93,-2,1,0,20090722,SEA,LAS,2009-10
+Shot Chart Detail,1020900101,111,100721,Swin Cash,1611661328,Seattle Storm,2,9,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,37,41,1,0,20090722,SEA,LAS,2009-10
+Shot Chart Detail,1020900101,115,100721,Swin Cash,1611661328,Seattle Storm,2,8,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,7,1,0,20090722,SEA,LAS,2009-10
+Shot Chart Detail,1020900101,163,100721,Swin Cash,1611661328,Seattle Storm,2,5,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090722,SEA,LAS,2009-10
+Shot Chart Detail,1020900101,165,100721,Swin Cash,1611661328,Seattle Storm,2,5,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090722,SEA,LAS,2009-10
+Shot Chart Detail,1020900101,168,100721,Swin Cash,1611661328,Seattle Storm,2,4,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,2,134,1,0,20090722,SEA,LAS,2009-10
+Shot Chart Detail,1020900101,175,100721,Swin Cash,1611661328,Seattle Storm,2,3,51,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,42,28,1,1,20090722,SEA,LAS,2009-10
+Shot Chart Detail,1020900101,219,100721,Swin Cash,1611661328,Seattle Storm,2,0,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-8,220,1,0,20090722,SEA,LAS,2009-10
+Shot Chart Detail,1020900101,245,100721,Swin Cash,1611661328,Seattle Storm,3,8,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-52,108,1,0,20090722,SEA,LAS,2009-10
+Shot Chart Detail,1020900101,264,100721,Swin Cash,1611661328,Seattle Storm,3,6,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,28,148,1,0,20090722,SEA,LAS,2009-10
+Shot Chart Detail,1020900101,345,100721,Swin Cash,1611661328,Seattle Storm,4,7,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,173,143,1,0,20090722,SEA,LAS,2009-10
+Shot Chart Detail,1020900101,408,100721,Swin Cash,1611661328,Seattle Storm,4,1,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,15,1,0,20090722,SEA,LAS,2009-10
+Shot Chart Detail,1020900101,454,100721,Swin Cash,1611661328,Seattle Storm,5,3,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,116,20,1,0,20090722,SEA,LAS,2009-10
+Shot Chart Detail,1020900101,472,100721,Swin Cash,1611661328,Seattle Storm,5,2,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090722,SEA,LAS,2009-10
+Shot Chart Detail,1020900101,492,100721,Swin Cash,1611661328,Seattle Storm,6,4,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,168,-3,1,0,20090722,SEA,LAS,2009-10
+Shot Chart Detail,1020900101,568,100721,Swin Cash,1611661328,Seattle Storm,7,2,55,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,59,28,1,1,20090722,SEA,LAS,2009-10
+Shot Chart Detail,1020900101,593,100721,Swin Cash,1611661328,Seattle Storm,7,0,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,195,99,1,1,20090722,SEA,LAS,2009-10
+Shot Chart Detail,1020900111,11,100721,Swin Cash,1611661328,Seattle Storm,1,8,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-111,181,1,0,20090728,SAN,SEA,2009-10
+Shot Chart Detail,1020900111,31,100721,Swin Cash,1611661328,Seattle Storm,1,7,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,6,1,1,20090728,SAN,SEA,2009-10
+Shot Chart Detail,1020900111,77,100721,Swin Cash,1611661328,Seattle Storm,1,1,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,211,37,1,0,20090728,SAN,SEA,2009-10
+Shot Chart Detail,1020900111,108,100721,Swin Cash,1611661328,Seattle Storm,2,7,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-54,30,1,0,20090728,SAN,SEA,2009-10
+Shot Chart Detail,1020900111,124,100721,Swin Cash,1611661328,Seattle Storm,2,6,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,4,1,0,20090728,SAN,SEA,2009-10
+Shot Chart Detail,1020900111,147,100721,Swin Cash,1611661328,Seattle Storm,2,4,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,0,1,1,20090728,SAN,SEA,2009-10
+Shot Chart Detail,1020900111,153,100721,Swin Cash,1611661328,Seattle Storm,2,4,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,6,1,0,20090728,SAN,SEA,2009-10
+Shot Chart Detail,1020900111,177,100721,Swin Cash,1611661328,Seattle Storm,2,2,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-70,148,1,1,20090728,SAN,SEA,2009-10
+Shot Chart Detail,1020900111,184,100721,Swin Cash,1611661328,Seattle Storm,2,1,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,0,1,1,20090728,SAN,SEA,2009-10
+Shot Chart Detail,1020900111,241,100721,Swin Cash,1611661328,Seattle Storm,3,6,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,1,1,0,20090728,SAN,SEA,2009-10
+Shot Chart Detail,1020900111,263,100721,Swin Cash,1611661328,Seattle Storm,3,3,29,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,10,37,1,0,20090728,SAN,SEA,2009-10
+Shot Chart Detail,1020900111,354,100721,Swin Cash,1611661328,Seattle Storm,4,5,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,144,-2,1,1,20090728,SAN,SEA,2009-10
+Shot Chart Detail,1020900122,63,100721,Swin Cash,1611661328,Seattle Storm,1,4,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090801,SEA,SAN,2009-10
+Shot Chart Detail,1020900122,73,100721,Swin Cash,1611661328,Seattle Storm,1,3,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-56,39,1,0,20090801,SEA,SAN,2009-10
+Shot Chart Detail,1020900122,100,100721,Swin Cash,1611661328,Seattle Storm,1,0,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,15,80,138,1,0,20090801,SEA,SAN,2009-10
+Shot Chart Detail,1020900122,140,100721,Swin Cash,1611661328,Seattle Storm,2,8,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090801,SEA,SAN,2009-10
+Shot Chart Detail,1020900122,150,100721,Swin Cash,1611661328,Seattle Storm,2,7,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-62,20,1,0,20090801,SEA,SAN,2009-10
+Shot Chart Detail,1020900122,167,100721,Swin Cash,1611661328,Seattle Storm,2,5,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-62,11,1,0,20090801,SEA,SAN,2009-10
+Shot Chart Detail,1020900122,185,100721,Swin Cash,1611661328,Seattle Storm,2,4,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,24,168,1,0,20090801,SEA,SAN,2009-10
+Shot Chart Detail,1020900122,198,100721,Swin Cash,1611661328,Seattle Storm,2,3,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090801,SEA,SAN,2009-10
+Shot Chart Detail,1020900122,278,100721,Swin Cash,1611661328,Seattle Storm,3,6,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-45,39,1,0,20090801,SEA,SAN,2009-10
+Shot Chart Detail,1020900122,309,100721,Swin Cash,1611661328,Seattle Storm,3,4,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090801,SEA,SAN,2009-10
+Shot Chart Detail,1020900122,317,100721,Swin Cash,1611661328,Seattle Storm,3,3,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090801,SEA,SAN,2009-10
+Shot Chart Detail,1020900122,364,100721,Swin Cash,1611661328,Seattle Storm,3,1,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,1,143,1,0,20090801,SEA,SAN,2009-10
+Shot Chart Detail,1020900122,479,100721,Swin Cash,1611661328,Seattle Storm,4,3,14,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090801,SEA,SAN,2009-10
+Shot Chart Detail,1020900127,35,100721,Swin Cash,1611661328,Seattle Storm,1,5,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,12,55,1,0,20090804,SEA,PHO,2009-10
+Shot Chart Detail,1020900127,67,100721,Swin Cash,1611661328,Seattle Storm,1,3,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-57,28,1,0,20090804,SEA,PHO,2009-10
+Shot Chart Detail,1020900127,149,100721,Swin Cash,1611661328,Seattle Storm,2,6,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-13,75,1,1,20090804,SEA,PHO,2009-10
+Shot Chart Detail,1020900127,158,100721,Swin Cash,1611661328,Seattle Storm,2,5,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090804,SEA,PHO,2009-10
+Shot Chart Detail,1020900127,191,100721,Swin Cash,1611661328,Seattle Storm,2,2,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,70,52,1,0,20090804,SEA,PHO,2009-10
+Shot Chart Detail,1020900127,237,100721,Swin Cash,1611661328,Seattle Storm,3,9,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-130,119,1,0,20090804,SEA,PHO,2009-10
+Shot Chart Detail,1020900127,267,100721,Swin Cash,1611661328,Seattle Storm,3,7,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,36,172,1,0,20090804,SEA,PHO,2009-10
+Shot Chart Detail,1020900127,276,100721,Swin Cash,1611661328,Seattle Storm,3,6,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,47,25,1,0,20090804,SEA,PHO,2009-10
+Shot Chart Detail,1020900127,285,100721,Swin Cash,1611661328,Seattle Storm,3,5,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090804,SEA,PHO,2009-10
+Shot Chart Detail,1020900127,368,100721,Swin Cash,1611661328,Seattle Storm,4,9,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090804,SEA,PHO,2009-10
+Shot Chart Detail,1020900127,384,100721,Swin Cash,1611661328,Seattle Storm,4,8,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,28,131,1,0,20090804,SEA,PHO,2009-10
+Shot Chart Detail,1020900127,392,100721,Swin Cash,1611661328,Seattle Storm,4,7,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090804,SEA,PHO,2009-10
+Shot Chart Detail,1020900127,399,100721,Swin Cash,1611661328,Seattle Storm,4,6,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090804,SEA,PHO,2009-10
+Shot Chart Detail,1020900127,417,100721,Swin Cash,1611661328,Seattle Storm,4,5,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,149,-19,1,0,20090804,SEA,PHO,2009-10
+Shot Chart Detail,1020900127,521,100721,Swin Cash,1611661328,Seattle Storm,5,3,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090804,SEA,PHO,2009-10
+Shot Chart Detail,1020900127,547,100721,Swin Cash,1611661328,Seattle Storm,5,0,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090804,SEA,PHO,2009-10
+Shot Chart Detail,1020900130,97,100721,Swin Cash,1611661328,Seattle Storm,2,9,37,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090806,LAS,SEA,2009-10
+Shot Chart Detail,1020900130,174,100721,Swin Cash,1611661328,Seattle Storm,2,2,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,6,1,0,20090806,LAS,SEA,2009-10
+Shot Chart Detail,1020900130,205,100721,Swin Cash,1611661328,Seattle Storm,3,9,44,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-7,77,1,1,20090806,LAS,SEA,2009-10
+Shot Chart Detail,1020900130,213,100721,Swin Cash,1611661328,Seattle Storm,3,8,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-190,99,1,1,20090806,LAS,SEA,2009-10
+Shot Chart Detail,1020900130,223,100721,Swin Cash,1611661328,Seattle Storm,3,6,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090806,LAS,SEA,2009-10
+Shot Chart Detail,1020900130,233,100721,Swin Cash,1611661328,Seattle Storm,3,6,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090806,LAS,SEA,2009-10
+Shot Chart Detail,1020900130,246,100721,Swin Cash,1611661328,Seattle Storm,3,4,53,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-217,0,1,0,20090806,LAS,SEA,2009-10
+Shot Chart Detail,1020900130,323,100721,Swin Cash,1611661328,Seattle Storm,4,8,30,Made Shot,Turnaround Bank Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-38,55,1,1,20090806,LAS,SEA,2009-10
+Shot Chart Detail,1020900130,330,100721,Swin Cash,1611661328,Seattle Storm,4,7,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090806,LAS,SEA,2009-10
+Shot Chart Detail,1020900130,384,100721,Swin Cash,1611661328,Seattle Storm,4,2,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090806,LAS,SEA,2009-10
+Shot Chart Detail,1020900130,431,100721,Swin Cash,1611661328,Seattle Storm,5,4,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-89,154,1,0,20090806,LAS,SEA,2009-10
+Shot Chart Detail,1020900135,11,100721,Swin Cash,1611661328,Seattle Storm,1,9,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,51,42,1,0,20090808,SEA,NYL,2009-10
+Shot Chart Detail,1020900135,18,100721,Swin Cash,1611661328,Seattle Storm,1,8,30,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090808,SEA,NYL,2009-10
+Shot Chart Detail,1020900135,87,100721,Swin Cash,1611661328,Seattle Storm,1,1,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,67,20,1,0,20090808,SEA,NYL,2009-10
+Shot Chart Detail,1020900135,165,100721,Swin Cash,1611661328,Seattle Storm,2,3,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-73,137,1,1,20090808,SEA,NYL,2009-10
+Shot Chart Detail,1020900135,185,100721,Swin Cash,1611661328,Seattle Storm,2,1,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-103,19,1,0,20090808,SEA,NYL,2009-10
+Shot Chart Detail,1020900135,181,100721,Swin Cash,1611661328,Seattle Storm,2,1,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090808,SEA,NYL,2009-10
+Shot Chart Detail,1020900135,192,100721,Swin Cash,1611661328,Seattle Storm,2,0,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,67,52,1,1,20090808,SEA,NYL,2009-10
+Shot Chart Detail,1020900135,260,100721,Swin Cash,1611661328,Seattle Storm,3,3,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,155,115,1,0,20090808,SEA,NYL,2009-10
+Shot Chart Detail,1020900135,284,100721,Swin Cash,1611661328,Seattle Storm,3,1,31,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-34,25,1,1,20090808,SEA,NYL,2009-10
+Shot Chart Detail,1020900135,323,100721,Swin Cash,1611661328,Seattle Storm,4,7,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-128,112,1,1,20090808,SEA,NYL,2009-10
+Shot Chart Detail,1020900135,348,100721,Swin Cash,1611661328,Seattle Storm,4,4,25,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,65,137,1,1,20090808,SEA,NYL,2009-10
+Shot Chart Detail,1020900135,380,100721,Swin Cash,1611661328,Seattle Storm,4,0,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,108,17,1,0,20090808,SEA,NYL,2009-10
+Shot Chart Detail,1020900144,48,100721,Swin Cash,1611661328,Seattle Storm,1,5,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,64,159,1,0,20090813,CON,SEA,2009-10
+Shot Chart Detail,1020900144,50,100721,Swin Cash,1611661328,Seattle Storm,1,4,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,43,66,1,0,20090813,CON,SEA,2009-10
+Shot Chart Detail,1020900144,111,100721,Swin Cash,1611661328,Seattle Storm,2,9,10,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-41,23,1,0,20090813,CON,SEA,2009-10
+Shot Chart Detail,1020900144,242,100721,Swin Cash,1611661328,Seattle Storm,3,6,14,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,23,1,0,20090813,CON,SEA,2009-10
+Shot Chart Detail,1020900144,288,100721,Swin Cash,1611661328,Seattle Storm,3,1,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,22,1,0,20090813,CON,SEA,2009-10
+Shot Chart Detail,1020900144,299,100721,Swin Cash,1611661328,Seattle Storm,3,0,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,7,1,0,20090813,CON,SEA,2009-10
+Shot Chart Detail,1020900144,388,100721,Swin Cash,1611661328,Seattle Storm,4,2,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,159,153,1,0,20090813,CON,SEA,2009-10
+Shot Chart Detail,1020900151,8,100721,Swin Cash,1611661328,Seattle Storm,1,9,1,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-37,0,1,1,20090815,ATL,SEA,2009-10
+Shot Chart Detail,1020900151,38,100721,Swin Cash,1611661328,Seattle Storm,1,5,57,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,14,1,0,20090815,ATL,SEA,2009-10
+Shot Chart Detail,1020900151,195,100721,Swin Cash,1611661328,Seattle Storm,2,2,34,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,1,1,1,20090815,ATL,SEA,2009-10
+Shot Chart Detail,1020900151,205,100721,Swin Cash,1611661328,Seattle Storm,2,1,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,4,1,1,20090815,ATL,SEA,2009-10
+Shot Chart Detail,1020900151,266,100721,Swin Cash,1611661328,Seattle Storm,3,7,23,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,4,1,0,20090815,ATL,SEA,2009-10
+Shot Chart Detail,1020900151,296,100721,Swin Cash,1611661328,Seattle Storm,3,5,14,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,0,1,0,20090815,ATL,SEA,2009-10
+Shot Chart Detail,1020900151,415,100721,Swin Cash,1611661328,Seattle Storm,4,5,10,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,1,1,1,20090815,ATL,SEA,2009-10
+Shot Chart Detail,1020900151,443,100721,Swin Cash,1611661328,Seattle Storm,4,0,44,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,3,1,1,20090815,ATL,SEA,2009-10
+Shot Chart Detail,1020900157,13,100721,Swin Cash,1611661328,Seattle Storm,1,8,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,12,1,1,20090818,DET,SEA,2009-10
+Shot Chart Detail,1020900157,50,100721,Swin Cash,1611661328,Seattle Storm,1,4,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,17,1,0,20090818,DET,SEA,2009-10
+Shot Chart Detail,1020900157,54,100721,Swin Cash,1611661328,Seattle Storm,1,4,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090818,DET,SEA,2009-10
+Shot Chart Detail,1020900157,84,100721,Swin Cash,1611661328,Seattle Storm,1,2,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090818,DET,SEA,2009-10
+Shot Chart Detail,1020900157,113,100721,Swin Cash,1611661328,Seattle Storm,2,8,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-169,162,1,1,20090818,DET,SEA,2009-10
+Shot Chart Detail,1020900157,116,100721,Swin Cash,1611661328,Seattle Storm,2,8,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090818,DET,SEA,2009-10
+Shot Chart Detail,1020900157,160,100721,Swin Cash,1611661328,Seattle Storm,2,3,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090818,DET,SEA,2009-10
+Shot Chart Detail,1020900157,165,100721,Swin Cash,1611661328,Seattle Storm,2,3,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,20,1,1,20090818,DET,SEA,2009-10
+Shot Chart Detail,1020900157,169,100721,Swin Cash,1611661328,Seattle Storm,2,2,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,159,63,1,0,20090818,DET,SEA,2009-10
+Shot Chart Detail,1020900157,200,100721,Swin Cash,1611661328,Seattle Storm,2,0,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-117,195,1,0,20090818,DET,SEA,2009-10
+Shot Chart Detail,1020900157,251,100721,Swin Cash,1611661328,Seattle Storm,3,4,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-188,17,1,0,20090818,DET,SEA,2009-10
+Shot Chart Detail,1020900157,255,100721,Swin Cash,1611661328,Seattle Storm,3,4,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090818,DET,SEA,2009-10
+Shot Chart Detail,1020900157,310,100721,Swin Cash,1611661328,Seattle Storm,3,0,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-147,48,1,0,20090818,DET,SEA,2009-10
+Shot Chart Detail,1020900157,394,100721,Swin Cash,1611661328,Seattle Storm,4,3,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-149,39,1,0,20090818,DET,SEA,2009-10
+Shot Chart Detail,1020900169,40,100721,Swin Cash,1611661328,Seattle Storm,1,6,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-97,0,1,0,20090822,SEA,IND,2009-10
+Shot Chart Detail,1020900169,107,100721,Swin Cash,1611661328,Seattle Storm,1,0,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090822,SEA,IND,2009-10
+Shot Chart Detail,1020900169,133,100721,Swin Cash,1611661328,Seattle Storm,2,7,52,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-62,137,1,1,20090822,SEA,IND,2009-10
+Shot Chart Detail,1020900169,139,100721,Swin Cash,1611661328,Seattle Storm,2,7,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-45,162,1,0,20090822,SEA,IND,2009-10
+Shot Chart Detail,1020900169,196,100721,Swin Cash,1611661328,Seattle Storm,2,2,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-101,94,1,1,20090822,SEA,IND,2009-10
+Shot Chart Detail,1020900169,221,100721,Swin Cash,1611661328,Seattle Storm,2,0,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-149,157,1,1,20090822,SEA,IND,2009-10
+Shot Chart Detail,1020900169,277,100721,Swin Cash,1611661328,Seattle Storm,3,3,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-160,159,1,0,20090822,SEA,IND,2009-10
+Shot Chart Detail,1020900169,304,100721,Swin Cash,1611661328,Seattle Storm,3,1,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090822,SEA,IND,2009-10
+Shot Chart Detail,1020900169,306,100721,Swin Cash,1611661328,Seattle Storm,3,1,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090822,SEA,IND,2009-10
+Shot Chart Detail,1020900169,375,100721,Swin Cash,1611661328,Seattle Storm,4,5,16,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-95,89,1,0,20090822,SEA,IND,2009-10
+Shot Chart Detail,1020900169,399,100721,Swin Cash,1611661328,Seattle Storm,4,2,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090822,SEA,IND,2009-10
+Shot Chart Detail,1020900176,18,100721,Swin Cash,1611661328,Seattle Storm,1,6,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,54,14,1,0,20090825,SEA,WAS,2009-10
+Shot Chart Detail,1020900176,61,100721,Swin Cash,1611661328,Seattle Storm,1,3,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-179,124,1,1,20090825,SEA,WAS,2009-10
+Shot Chart Detail,1020900176,68,100721,Swin Cash,1611661328,Seattle Storm,1,2,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,177,135,1,0,20090825,SEA,WAS,2009-10
+Shot Chart Detail,1020900176,87,100721,Swin Cash,1611661328,Seattle Storm,1,1,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-10,44,1,0,20090825,SEA,WAS,2009-10
+Shot Chart Detail,1020900176,188,100721,Swin Cash,1611661328,Seattle Storm,2,2,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,0,127,1,0,20090825,SEA,WAS,2009-10
+Shot Chart Detail,1020900176,197,100721,Swin Cash,1611661328,Seattle Storm,2,2,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,14,1,0,20090825,SEA,WAS,2009-10
+Shot Chart Detail,1020900176,209,100721,Swin Cash,1611661328,Seattle Storm,2,1,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-2,195,1,0,20090825,SEA,WAS,2009-10
+Shot Chart Detail,1020900176,248,100721,Swin Cash,1611661328,Seattle Storm,3,8,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090825,SEA,WAS,2009-10
+Shot Chart Detail,1020900176,288,100721,Swin Cash,1611661328,Seattle Storm,3,5,44,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090825,SEA,WAS,2009-10
+Shot Chart Detail,1020900176,397,100721,Swin Cash,1611661328,Seattle Storm,4,8,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-41,42,1,0,20090825,SEA,WAS,2009-10
+Shot Chart Detail,1020900176,416,100721,Swin Cash,1611661328,Seattle Storm,4,7,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-116,77,1,0,20090825,SEA,WAS,2009-10
+Shot Chart Detail,1020900176,440,100721,Swin Cash,1611661328,Seattle Storm,4,5,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,155,20,1,0,20090825,SEA,WAS,2009-10
+Shot Chart Detail,1020900179,46,100721,Swin Cash,1611661328,Seattle Storm,1,6,8,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090827,SEA,CON,2009-10
+Shot Chart Detail,1020900179,105,100721,Swin Cash,1611661328,Seattle Storm,2,9,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,15,140,1,0,20090827,SEA,CON,2009-10
+Shot Chart Detail,1020900179,189,100721,Swin Cash,1611661328,Seattle Storm,2,2,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-23,33,1,0,20090827,SEA,CON,2009-10
+Shot Chart Detail,1020900179,211,100721,Swin Cash,1611661328,Seattle Storm,2,0,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-139,124,1,0,20090827,SEA,CON,2009-10
+Shot Chart Detail,1020900179,249,100721,Swin Cash,1611661328,Seattle Storm,3,7,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090827,SEA,CON,2009-10
+Shot Chart Detail,1020900179,280,100721,Swin Cash,1611661328,Seattle Storm,3,2,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-130,173,1,1,20090827,SEA,CON,2009-10
+Shot Chart Detail,1020900179,324,100721,Swin Cash,1611661328,Seattle Storm,4,9,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-116,37,1,1,20090827,SEA,CON,2009-10
+Shot Chart Detail,1020900179,410,100721,Swin Cash,1611661328,Seattle Storm,4,1,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090827,SEA,CON,2009-10
+Shot Chart Detail,1020900185,23,100721,Swin Cash,1611661328,Seattle Storm,1,7,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090829,SEA,ATL,2009-10
+Shot Chart Detail,1020900185,37,100721,Swin Cash,1611661328,Seattle Storm,1,6,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,48,11,1,1,20090829,SEA,ATL,2009-10
+Shot Chart Detail,1020900185,49,100721,Swin Cash,1611661328,Seattle Storm,1,5,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,133,30,1,1,20090829,SEA,ATL,2009-10
+Shot Chart Detail,1020900185,102,100721,Swin Cash,1611661328,Seattle Storm,1,0,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090829,SEA,ATL,2009-10
+Shot Chart Detail,1020900185,105,100721,Swin Cash,1611661328,Seattle Storm,1,0,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090829,SEA,ATL,2009-10
+Shot Chart Detail,1020900185,124,100721,Swin Cash,1611661328,Seattle Storm,2,8,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-45,143,1,0,20090829,SEA,ATL,2009-10
+Shot Chart Detail,1020900185,170,100721,Swin Cash,1611661328,Seattle Storm,2,4,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,1,112,1,1,20090829,SEA,ATL,2009-10
+Shot Chart Detail,1020900185,190,100721,Swin Cash,1611661328,Seattle Storm,2,3,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090829,SEA,ATL,2009-10
+Shot Chart Detail,1020900185,193,100721,Swin Cash,1611661328,Seattle Storm,2,2,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090829,SEA,ATL,2009-10
+Shot Chart Detail,1020900185,195,100721,Swin Cash,1611661328,Seattle Storm,2,2,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090829,SEA,ATL,2009-10
+Shot Chart Detail,1020900185,200,100721,Swin Cash,1611661328,Seattle Storm,2,2,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,135,132,1,0,20090829,SEA,ATL,2009-10
+Shot Chart Detail,1020900185,239,100721,Swin Cash,1611661328,Seattle Storm,3,8,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,4,1,0,20090829,SEA,ATL,2009-10
+Shot Chart Detail,1020900185,443,100721,Swin Cash,1611661328,Seattle Storm,4,3,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-13,39,1,0,20090829,SEA,ATL,2009-10
+Shot Chart Detail,1020900185,451,100721,Swin Cash,1611661328,Seattle Storm,4,2,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090829,SEA,ATL,2009-10
+Shot Chart Detail,1020900185,571,100721,Swin Cash,1611661328,Seattle Storm,6,1,59,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,0,124,1,1,20090829,SEA,ATL,2009-10
+Shot Chart Detail,1020900190,42,100721,Swin Cash,1611661328,Seattle Storm,1,4,50,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,0,1,0,20090901,NYL,SEA,2009-10
+Shot Chart Detail,1020900190,104,100721,Swin Cash,1611661328,Seattle Storm,2,9,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090901,NYL,SEA,2009-10
+Shot Chart Detail,1020900190,301,100721,Swin Cash,1611661328,Seattle Storm,3,1,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090901,NYL,SEA,2009-10
+Shot Chart Detail,1020900190,313,100721,Swin Cash,1611661328,Seattle Storm,3,0,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090901,NYL,SEA,2009-10
+Shot Chart Detail,1020900190,329,100721,Swin Cash,1611661328,Seattle Storm,4,9,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-60,142,1,0,20090901,NYL,SEA,2009-10
+Shot Chart Detail,1020900190,331,100721,Swin Cash,1611661328,Seattle Storm,4,9,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-52,214,1,0,20090901,NYL,SEA,2009-10
+Shot Chart Detail,1020900190,374,100721,Swin Cash,1611661328,Seattle Storm,4,4,50,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-56,129,1,0,20090901,NYL,SEA,2009-10
+Shot Chart Detail,1020900190,401,100721,Swin Cash,1611661328,Seattle Storm,4,1,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,163,102,1,1,20090901,NYL,SEA,2009-10
+Shot Chart Detail,1020900196,3,100721,Swin Cash,1611661328,Seattle Storm,1,9,38,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-155,42,1,1,20090903,WAS,SEA,2009-10
+Shot Chart Detail,1020900196,54,100721,Swin Cash,1611661328,Seattle Storm,1,3,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-81,119,1,1,20090903,WAS,SEA,2009-10
+Shot Chart Detail,1020900196,108,100721,Swin Cash,1611661328,Seattle Storm,1,0,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,23,-229,66,1,0,20090903,WAS,SEA,2009-10
+Shot Chart Detail,1020900196,144,100721,Swin Cash,1611661328,Seattle Storm,2,7,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,54,30,1,0,20090903,WAS,SEA,2009-10
+Shot Chart Detail,1020900196,287,100721,Swin Cash,1611661328,Seattle Storm,3,6,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,111,80,1,0,20090903,WAS,SEA,2009-10
+Shot Chart Detail,1020900196,367,100721,Swin Cash,1611661328,Seattle Storm,3,1,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-6,1,1,20090903,WAS,SEA,2009-10
+Shot Chart Detail,1020900196,374,100721,Swin Cash,1611661328,Seattle Storm,3,1,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,168,-10,1,0,20090903,WAS,SEA,2009-10
+Shot Chart Detail,1020900196,423,100721,Swin Cash,1611661328,Seattle Storm,4,7,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,91,19,1,0,20090903,WAS,SEA,2009-10
+Shot Chart Detail,1020900196,468,100721,Swin Cash,1611661328,Seattle Storm,4,3,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,53,-2,1,0,20090903,WAS,SEA,2009-10
+Shot Chart Detail,1020900196,482,100721,Swin Cash,1611661328,Seattle Storm,4,2,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-169,142,1,0,20090903,WAS,SEA,2009-10
+Shot Chart Detail,1020900201,4,100721,Swin Cash,1611661328,Seattle Storm,1,9,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,147,162,1,0,20090905,MIN,SEA,2009-10
+Shot Chart Detail,1020900201,24,100721,Swin Cash,1611661328,Seattle Storm,1,6,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,28,58,1,0,20090905,MIN,SEA,2009-10
+Shot Chart Detail,1020900201,31,100721,Swin Cash,1611661328,Seattle Storm,1,5,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090905,MIN,SEA,2009-10
+Shot Chart Detail,1020900201,69,100721,Swin Cash,1611661328,Seattle Storm,1,1,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,15,227,1,0,20090905,MIN,SEA,2009-10
+Shot Chart Detail,1020900201,83,100721,Swin Cash,1611661328,Seattle Storm,1,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,155,164,1,0,20090905,MIN,SEA,2009-10
+Shot Chart Detail,1020900201,132,100721,Swin Cash,1611661328,Seattle Storm,2,4,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-5,86,1,0,20090905,MIN,SEA,2009-10
+Shot Chart Detail,1020900201,138,100721,Swin Cash,1611661328,Seattle Storm,2,3,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090905,MIN,SEA,2009-10
+Shot Chart Detail,1020900201,140,100721,Swin Cash,1611661328,Seattle Storm,2,3,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090905,MIN,SEA,2009-10
+Shot Chart Detail,1020900201,147,100721,Swin Cash,1611661328,Seattle Storm,2,2,28,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,47,131,1,1,20090905,MIN,SEA,2009-10
+Shot Chart Detail,1020900201,176,100721,Swin Cash,1611661328,Seattle Storm,2,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-147,172,1,1,20090905,MIN,SEA,2009-10
+Shot Chart Detail,1020900201,200,100721,Swin Cash,1611661328,Seattle Storm,3,7,49,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,62,82,1,1,20090905,MIN,SEA,2009-10
+Shot Chart Detail,1020900201,211,100721,Swin Cash,1611661328,Seattle Storm,3,7,2,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,91,9,1,0,20090905,MIN,SEA,2009-10
+Shot Chart Detail,1020900201,216,100721,Swin Cash,1611661328,Seattle Storm,3,6,10,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,65,37,1,1,20090905,MIN,SEA,2009-10
+Shot Chart Detail,1020900201,228,100721,Swin Cash,1611661328,Seattle Storm,3,4,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090905,MIN,SEA,2009-10
+Shot Chart Detail,1020900201,235,100721,Swin Cash,1611661328,Seattle Storm,3,4,10,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-67,44,1,0,20090905,MIN,SEA,2009-10
+Shot Chart Detail,1020900201,239,100721,Swin Cash,1611661328,Seattle Storm,3,3,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090905,MIN,SEA,2009-10
+Shot Chart Detail,1020900201,301,100721,Swin Cash,1611661328,Seattle Storm,4,8,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090905,MIN,SEA,2009-10

@@ -1,0 +1,268 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1029900007,13,100250,Korie Hlede,1611661321,Detroit Shock,1,18,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,29,1,0,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900007,23,100250,Korie Hlede,1611661321,Detroit Shock,1,17,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-173,-8,1,0,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900007,100,100250,Korie Hlede,1611661321,Detroit Shock,1,9,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-121,164,1,0,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900007,111,100250,Korie Hlede,1611661321,Detroit Shock,1,8,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,76,81,1,0,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900007,116,100250,Korie Hlede,1611661321,Detroit Shock,1,8,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900007,205,100250,Korie Hlede,1611661321,Detroit Shock,1,2,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,98,109,1,1,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900007,229,100250,Korie Hlede,1611661321,Detroit Shock,2,16,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900007,248,100250,Korie Hlede,1611661321,Detroit Shock,2,15,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900007,252,100250,Korie Hlede,1611661321,Detroit Shock,2,14,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,46,119,1,1,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900007,256,100250,Korie Hlede,1611661321,Detroit Shock,2,13,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-173,143,1,1,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900007,270,100250,Korie Hlede,1611661321,Detroit Shock,2,12,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-201,63,1,0,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900007,273,100250,Korie Hlede,1611661321,Detroit Shock,2,12,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,89,70,1,0,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900007,326,100250,Korie Hlede,1611661321,Detroit Shock,2,6,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900007,340,100250,Korie Hlede,1611661321,Detroit Shock,2,5,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,-3,1,0,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900007,360,100250,Korie Hlede,1611661321,Detroit Shock,2,4,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-149,18,1,1,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900007,382,100250,Korie Hlede,1611661321,Detroit Shock,2,2,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900013,11,100250,Korie Hlede,1611661321,Detroit Shock,1,18,18,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,1,1,0,19990614,CLE,DET,1999-00
+Shot Chart Detail,1029900013,14,100250,Korie Hlede,1611661321,Detroit Shock,1,17,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,93,113,1,1,19990614,CLE,DET,1999-00
+Shot Chart Detail,1029900013,18,100250,Korie Hlede,1611661321,Detroit Shock,1,16,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-126,51,1,0,19990614,CLE,DET,1999-00
+Shot Chart Detail,1029900013,25,100250,Korie Hlede,1611661321,Detroit Shock,1,15,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,5,141,1,1,19990614,CLE,DET,1999-00
+Shot Chart Detail,1029900013,36,100250,Korie Hlede,1611661321,Detroit Shock,1,13,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-175,-31,1,0,19990614,CLE,DET,1999-00
+Shot Chart Detail,1029900013,75,100250,Korie Hlede,1611661321,Detroit Shock,1,11,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-38,151,1,0,19990614,CLE,DET,1999-00
+Shot Chart Detail,1029900013,148,100250,Korie Hlede,1611661321,Detroit Shock,1,4,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-51,124,1,0,19990614,CLE,DET,1999-00
+Shot Chart Detail,1029900013,157,100250,Korie Hlede,1611661321,Detroit Shock,1,3,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-169,124,1,1,19990614,CLE,DET,1999-00
+Shot Chart Detail,1029900013,194,100250,Korie Hlede,1611661321,Detroit Shock,1,2,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,-3,1,1,19990614,CLE,DET,1999-00
+Shot Chart Detail,1029900013,196,100250,Korie Hlede,1611661321,Detroit Shock,1,2,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,-10,1,1,19990614,CLE,DET,1999-00
+Shot Chart Detail,1029900013,205,100250,Korie Hlede,1611661321,Detroit Shock,1,0,49,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-74,23,1,1,19990614,CLE,DET,1999-00
+Shot Chart Detail,1029900013,327,100250,Korie Hlede,1611661321,Detroit Shock,2,6,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-38,100,1,0,19990614,CLE,DET,1999-00
+Shot Chart Detail,1029900013,384,100250,Korie Hlede,1611661321,Detroit Shock,2,0,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-111,124,1,1,19990614,CLE,DET,1999-00
+Shot Chart Detail,1029900016,8,100250,Korie Hlede,1611661321,Detroit Shock,1,19,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-115,36,1,0,19990617,DET,ORL,1999-00
+Shot Chart Detail,1029900016,51,100250,Korie Hlede,1611661321,Detroit Shock,1,13,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990617,DET,ORL,1999-00
+Shot Chart Detail,1029900016,124,100250,Korie Hlede,1611661321,Detroit Shock,1,6,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-136,8,1,0,19990617,DET,ORL,1999-00
+Shot Chart Detail,1029900016,148,100250,Korie Hlede,1611661321,Detroit Shock,1,3,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990617,DET,ORL,1999-00
+Shot Chart Detail,1029900016,157,100250,Korie Hlede,1611661321,Detroit Shock,1,3,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-109,113,1,0,19990617,DET,ORL,1999-00
+Shot Chart Detail,1029900016,224,100250,Korie Hlede,1611661321,Detroit Shock,1,1,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,76,40,1,0,19990617,DET,ORL,1999-00
+Shot Chart Detail,1029900016,334,100250,Korie Hlede,1611661321,Detroit Shock,2,7,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990617,DET,ORL,1999-00
+Shot Chart Detail,1029900020,5,100250,Korie Hlede,1611661321,Detroit Shock,1,19,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,126,-23,1,1,19990618,WAS,DET,1999-00
+Shot Chart Detail,1029900020,116,100250,Korie Hlede,1611661321,Detroit Shock,1,7,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,46,0,1,0,19990618,WAS,DET,1999-00
+Shot Chart Detail,1029900020,130,100250,Korie Hlede,1611661321,Detroit Shock,1,5,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,0,1,0,19990618,WAS,DET,1999-00
+Shot Chart Detail,1029900020,141,100250,Korie Hlede,1611661321,Detroit Shock,1,4,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-136,33,1,0,19990618,WAS,DET,1999-00
+Shot Chart Detail,1029900020,207,100250,Korie Hlede,1611661321,Detroit Shock,1,1,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,-23,1,0,19990618,WAS,DET,1999-00
+Shot Chart Detail,1029900020,210,100250,Korie Hlede,1611661321,Detroit Shock,1,1,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-81,93,1,1,19990618,WAS,DET,1999-00
+Shot Chart Detail,1029900026,8,100250,Korie Hlede,1611661321,Detroit Shock,1,18,52,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-25,132,1,1,19990620,NYL,DET,1999-00
+Shot Chart Detail,1029900026,12,100250,Korie Hlede,1611661321,Detroit Shock,1,17,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,51,143,1,0,19990620,NYL,DET,1999-00
+Shot Chart Detail,1029900026,41,100250,Korie Hlede,1611661321,Detroit Shock,1,14,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990620,NYL,DET,1999-00
+Shot Chart Detail,1029900026,46,100250,Korie Hlede,1611661321,Detroit Shock,1,13,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,20,-197,55,1,0,19990620,NYL,DET,1999-00
+Shot Chart Detail,1029900026,86,100250,Korie Hlede,1611661321,Detroit Shock,1,9,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-188,-10,1,0,19990620,NYL,DET,1999-00
+Shot Chart Detail,1029900026,146,100250,Korie Hlede,1611661321,Detroit Shock,1,3,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,23,1,0,19990620,NYL,DET,1999-00
+Shot Chart Detail,1029900026,322,100250,Korie Hlede,1611661321,Detroit Shock,2,7,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990620,NYL,DET,1999-00
+Shot Chart Detail,1029900030,15,100250,Korie Hlede,1611661321,Detroit Shock,1,18,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-132,-16,1,0,19990622,DET,CHA,1999-00
+Shot Chart Detail,1029900030,19,100250,Korie Hlede,1611661321,Detroit Shock,1,17,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990622,DET,CHA,1999-00
+Shot Chart Detail,1029900030,141,100250,Korie Hlede,1611661321,Detroit Shock,1,7,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,175,145,1,0,19990622,DET,CHA,1999-00
+Shot Chart Detail,1029900034,11,100250,Korie Hlede,1611661321,Detroit Shock,1,18,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-33,128,1,0,19990624,DET,HOU,1999-00
+Shot Chart Detail,1029900034,59,100250,Korie Hlede,1611661321,Detroit Shock,1,13,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-83,121,1,1,19990624,DET,HOU,1999-00
+Shot Chart Detail,1029900034,130,100250,Korie Hlede,1611661321,Detroit Shock,1,6,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,104,72,1,0,19990624,DET,HOU,1999-00
+Shot Chart Detail,1029900034,139,100250,Korie Hlede,1611661321,Detroit Shock,1,4,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,10,1,1,19990624,DET,HOU,1999-00
+Shot Chart Detail,1029900034,216,100250,Korie Hlede,1611661321,Detroit Shock,1,1,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990624,DET,HOU,1999-00
+Shot Chart Detail,1029900034,284,100250,Korie Hlede,1611661321,Detroit Shock,2,10,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990624,DET,HOU,1999-00
+Shot Chart Detail,1029900034,323,100250,Korie Hlede,1611661321,Detroit Shock,2,6,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990624,DET,HOU,1999-00
+Shot Chart Detail,1029900034,353,100250,Korie Hlede,1611661321,Detroit Shock,2,3,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,138,66,1,1,19990624,DET,HOU,1999-00
+Shot Chart Detail,1029900034,376,100250,Korie Hlede,1611661321,Detroit Shock,2,1,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,38,1,1,19990624,DET,HOU,1999-00
+Shot Chart Detail,1029900034,397,100250,Korie Hlede,1611661321,Detroit Shock,2,0,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,147,-5,1,1,19990624,DET,HOU,1999-00
+Shot Chart Detail,1029900034,399,100250,Korie Hlede,1611661321,Detroit Shock,2,0,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,37,147,347,1,0,19990624,DET,HOU,1999-00
+Shot Chart Detail,1029900041,21,100250,Korie Hlede,1611661321,Detroit Shock,1,17,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-188,121,1,0,19990626,DET,PHO,1999-00
+Shot Chart Detail,1029900041,40,100250,Korie Hlede,1611661321,Detroit Shock,1,14,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-126,72,1,0,19990626,DET,PHO,1999-00
+Shot Chart Detail,1029900041,221,100250,Korie Hlede,1611661321,Detroit Shock,1,0,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-141,83,1,0,19990626,DET,PHO,1999-00
+Shot Chart Detail,1029900046,70,100250,Korie Hlede,1611661321,Detroit Shock,1,12,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990628,DET,NYL,1999-00
+Shot Chart Detail,1029900046,91,100250,Korie Hlede,1611661321,Detroit Shock,1,10,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990628,DET,NYL,1999-00
+Shot Chart Detail,1029900046,97,100250,Korie Hlede,1611661321,Detroit Shock,1,9,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990628,DET,NYL,1999-00
+Shot Chart Detail,1029900046,100,100250,Korie Hlede,1611661321,Detroit Shock,1,9,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-162,25,1,1,19990628,DET,NYL,1999-00
+Shot Chart Detail,1029900046,119,100250,Korie Hlede,1611661321,Detroit Shock,1,7,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-48,214,1,0,19990628,DET,NYL,1999-00
+Shot Chart Detail,1029900046,122,100250,Korie Hlede,1611661321,Detroit Shock,1,6,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,87,78,1,1,19990628,DET,NYL,1999-00
+Shot Chart Detail,1029900046,139,100250,Korie Hlede,1611661321,Detroit Shock,1,5,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-205,98,1,1,19990628,DET,NYL,1999-00
+Shot Chart Detail,1029900046,235,100250,Korie Hlede,1611661321,Detroit Shock,2,14,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-104,214,1,0,19990628,DET,NYL,1999-00
+Shot Chart Detail,1029900046,245,100250,Korie Hlede,1611661321,Detroit Shock,2,13,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-162,18,1,0,19990628,DET,NYL,1999-00
+Shot Chart Detail,1029900046,280,100250,Korie Hlede,1611661321,Detroit Shock,2,10,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990628,DET,NYL,1999-00
+Shot Chart Detail,1029900046,295,100250,Korie Hlede,1611661321,Detroit Shock,2,8,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,218,46,1,1,19990628,DET,NYL,1999-00
+Shot Chart Detail,1029900056,86,100250,Korie Hlede,1611661321,Detroit Shock,1,11,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990702,DET,LAS,1999-00
+Shot Chart Detail,1029900056,88,100250,Korie Hlede,1611661321,Detroit Shock,1,11,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-132,36,1,0,19990702,DET,LAS,1999-00
+Shot Chart Detail,1029900056,122,100250,Korie Hlede,1611661321,Detroit Shock,1,8,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-182,119,1,1,19990702,DET,LAS,1999-00
+Shot Chart Detail,1029900056,162,100250,Korie Hlede,1611661321,Detroit Shock,1,6,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990702,DET,LAS,1999-00
+Shot Chart Detail,1029900056,335,100250,Korie Hlede,1611661321,Detroit Shock,2,14,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990702,DET,LAS,1999-00
+Shot Chart Detail,1029900056,345,100250,Korie Hlede,1611661321,Detroit Shock,2,13,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,194,91,1,0,19990702,DET,LAS,1999-00
+Shot Chart Detail,1029900056,348,100250,Korie Hlede,1611661321,Detroit Shock,2,12,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990702,DET,LAS,1999-00
+Shot Chart Detail,1029900056,474,100250,Korie Hlede,1611661321,Detroit Shock,2,3,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,25,1,0,19990702,DET,LAS,1999-00
+Shot Chart Detail,1029900056,481,100250,Korie Hlede,1611661321,Detroit Shock,2,2,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990702,DET,LAS,1999-00
+Shot Chart Detail,1029900056,490,100250,Korie Hlede,1611661321,Detroit Shock,2,1,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,115,70,1,1,19990702,DET,LAS,1999-00
+Shot Chart Detail,1029900056,540,100250,Korie Hlede,1611661321,Detroit Shock,2,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-160,164,1,0,19990702,DET,LAS,1999-00
+Shot Chart Detail,1029900061,87,100250,Korie Hlede,1611661321,Detroit Shock,1,10,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-132,31,1,0,19990704,DET,SAC,1999-00
+Shot Chart Detail,1029900061,104,100250,Korie Hlede,1611661321,Detroit Shock,1,8,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-91,51,1,0,19990704,DET,SAC,1999-00
+Shot Chart Detail,1029900061,106,100250,Korie Hlede,1611661321,Detroit Shock,1,8,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990704,DET,SAC,1999-00
+Shot Chart Detail,1029900061,108,100250,Korie Hlede,1611661321,Detroit Shock,1,8,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990704,DET,SAC,1999-00
+Shot Chart Detail,1029900061,279,100250,Korie Hlede,1611661321,Detroit Shock,2,12,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,46,1,0,19990704,DET,SAC,1999-00
+Shot Chart Detail,1029900061,288,100250,Korie Hlede,1611661321,Detroit Shock,2,12,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,211,46,1,1,19990704,DET,SAC,1999-00
+Shot Chart Detail,1029900061,306,100250,Korie Hlede,1611661321,Detroit Shock,2,10,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990704,DET,SAC,1999-00
+Shot Chart Detail,1029900061,320,100250,Korie Hlede,1611661321,Detroit Shock,2,8,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,117,18,1,0,19990704,DET,SAC,1999-00
+Shot Chart Detail,1029900061,327,100250,Korie Hlede,1611661321,Detroit Shock,2,7,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-132,70,1,0,19990704,DET,SAC,1999-00
+Shot Chart Detail,1029900061,401,100250,Korie Hlede,1611661321,Detroit Shock,2,1,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,96,102,1,0,19990704,DET,SAC,1999-00
+Shot Chart Detail,1029900061,444,100250,Korie Hlede,1611661321,Detroit Shock,2,0,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990704,DET,SAC,1999-00
+Shot Chart Detail,1029900061,459,100250,Korie Hlede,1611661321,Detroit Shock,2,0,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,96,51,1,0,19990704,DET,SAC,1999-00
+Shot Chart Detail,1029900061,464,100250,Korie Hlede,1611661321,Detroit Shock,2,0,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990704,DET,SAC,1999-00
+Shot Chart Detail,1029900066,101,100250,Korie Hlede,1611661321,Detroit Shock,1,8,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,70,109,1,0,19990706,UTA,DET,1999-00
+Shot Chart Detail,1029900066,106,100250,Korie Hlede,1611661321,Detroit Shock,1,8,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-126,81,1,1,19990706,UTA,DET,1999-00
+Shot Chart Detail,1029900066,257,100250,Korie Hlede,1611661321,Detroit Shock,2,13,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990706,UTA,DET,1999-00
+Shot Chart Detail,1029900066,501,100250,Korie Hlede,1611661321,Detroit Shock,4,3,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,115,53,1,0,19990706,UTA,DET,1999-00
+Shot Chart Detail,1029900066,536,100250,Korie Hlede,1611661321,Detroit Shock,4,0,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-44,207,1,0,19990706,UTA,DET,1999-00
+Shot Chart Detail,1029900066,538,100250,Korie Hlede,1611661321,Detroit Shock,4,0,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-139,158,1,0,19990706,UTA,DET,1999-00
+Shot Chart Detail,1029900078,95,100250,Korie Hlede,1611661321,Detroit Shock,1,8,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-91,70,1,0,19990710,DET,WAS,1999-00
+Shot Chart Detail,1029900078,116,100250,Korie Hlede,1611661321,Detroit Shock,1,6,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,126,36,1,0,19990710,DET,WAS,1999-00
+Shot Chart Detail,1029900078,321,100250,Korie Hlede,1611661321,Detroit Shock,2,7,28,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,25,1,0,19990710,DET,WAS,1999-00
+Shot Chart Detail,1029900078,331,100250,Korie Hlede,1611661321,Detroit Shock,2,6,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-3,51,1,1,19990710,DET,WAS,1999-00
+Shot Chart Detail,1029900078,334,100250,Korie Hlede,1611661321,Detroit Shock,2,6,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,188,141,1,0,19990710,DET,WAS,1999-00
+Shot Chart Detail,1029900078,425,100250,Korie Hlede,1611661321,Detroit Shock,3,4,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990710,DET,WAS,1999-00
+Shot Chart Detail,1029900078,436,100250,Korie Hlede,1611661321,Detroit Shock,3,3,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,126,46,1,0,19990710,DET,WAS,1999-00
+Shot Chart Detail,1029900078,473,100250,Korie Hlede,1611661321,Detroit Shock,4,4,41,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990710,DET,WAS,1999-00
+Shot Chart Detail,1029900078,479,100250,Korie Hlede,1611661321,Detroit Shock,4,3,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,31,119,1,0,19990710,DET,WAS,1999-00
+Shot Chart Detail,1029900083,101,100250,Korie Hlede,1611661321,Detroit Shock,1,8,24,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,55,23,1,0,19990712,ORL,DET,1999-00
+Shot Chart Detail,1029900083,113,100250,Korie Hlede,1611661321,Detroit Shock,1,7,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,46,145,1,0,19990712,ORL,DET,1999-00
+Shot Chart Detail,1029900083,149,100250,Korie Hlede,1611661321,Detroit Shock,1,3,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,46,-3,1,0,19990712,ORL,DET,1999-00
+Shot Chart Detail,1029900086,83,100250,Korie Hlede,1611661321,Detroit Shock,1,9,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,5,1,0,19990716,WAS,DET,1999-00
+Shot Chart Detail,1029900086,116,100250,Korie Hlede,1611661321,Detroit Shock,1,7,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-36,66,1,0,19990716,WAS,DET,1999-00
+Shot Chart Detail,1029900086,128,100250,Korie Hlede,1611661321,Detroit Shock,1,7,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-14,55,1,0,19990716,WAS,DET,1999-00
+Shot Chart Detail,1029900086,136,100250,Korie Hlede,1611661321,Detroit Shock,1,6,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-87,33,1,0,19990716,WAS,DET,1999-00
+Shot Chart Detail,1029900086,188,100250,Korie Hlede,1611661321,Detroit Shock,1,1,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-94,72,1,0,19990716,WAS,DET,1999-00
+Shot Chart Detail,1029900086,281,100250,Korie Hlede,1611661321,Detroit Shock,2,11,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-94,61,1,1,19990716,WAS,DET,1999-00
+Shot Chart Detail,1029900086,284,100250,Korie Hlede,1611661321,Detroit Shock,2,10,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-128,38,1,1,19990716,WAS,DET,1999-00
+Shot Chart Detail,1029900086,307,100250,Korie Hlede,1611661321,Detroit Shock,2,8,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-109,44,1,1,19990716,WAS,DET,1999-00
+Shot Chart Detail,1029900092,71,100250,Korie Hlede,1611661321,Detroit Shock,1,10,58,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,156,83,1,0,19990717,DET,CLE,1999-00
+Shot Chart Detail,1029900092,76,100250,Korie Hlede,1611661321,Detroit Shock,1,10,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,119,87,1,0,19990717,DET,CLE,1999-00
+Shot Chart Detail,1029900092,89,100250,Korie Hlede,1611661321,Detroit Shock,1,8,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-79,55,1,0,19990717,DET,CLE,1999-00
+Shot Chart Detail,1029900092,124,100250,Korie Hlede,1611661321,Detroit Shock,1,5,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990717,DET,CLE,1999-00
+Shot Chart Detail,1029900092,131,100250,Korie Hlede,1611661321,Detroit Shock,1,4,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-106,31,1,0,19990717,DET,CLE,1999-00
+Shot Chart Detail,1029900092,140,100250,Korie Hlede,1611661321,Detroit Shock,1,3,42,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990717,DET,CLE,1999-00
+Shot Chart Detail,1029900092,153,100250,Korie Hlede,1611661321,Detroit Shock,1,3,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,14,1,0,19990717,DET,CLE,1999-00
+Shot Chart Detail,1029900092,172,100250,Korie Hlede,1611661321,Detroit Shock,1,1,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,134,3,1,1,19990717,DET,CLE,1999-00
+Shot Chart Detail,1029900092,323,100250,Korie Hlede,1611661321,Detroit Shock,2,11,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990717,DET,CLE,1999-00
+Shot Chart Detail,1029900092,373,100250,Korie Hlede,1611661321,Detroit Shock,2,6,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990717,DET,CLE,1999-00
+Shot Chart Detail,1029900092,421,100250,Korie Hlede,1611661321,Detroit Shock,2,2,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-70,115,1,0,19990717,DET,CLE,1999-00
+Shot Chart Detail,1029900092,431,100250,Korie Hlede,1611661321,Detroit Shock,2,0,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,126,42,1,1,19990717,DET,CLE,1999-00
+Shot Chart Detail,1029900103,93,100250,Korie Hlede,1611661321,Detroit Shock,1,9,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-96,130,1,1,19990721,DET,UTA,1999-00
+Shot Chart Detail,1029900103,96,100250,Korie Hlede,1611661321,Detroit Shock,1,9,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,89,98,1,0,19990721,DET,UTA,1999-00
+Shot Chart Detail,1029900103,136,100250,Korie Hlede,1611661321,Detroit Shock,1,5,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990721,DET,UTA,1999-00
+Shot Chart Detail,1029900103,151,100250,Korie Hlede,1611661321,Detroit Shock,1,3,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990721,DET,UTA,1999-00
+Shot Chart Detail,1029900103,275,100250,Korie Hlede,1611661321,Detroit Shock,2,10,10,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,10,130,1,1,19990721,DET,UTA,1999-00
+Shot Chart Detail,1029900107,96,100250,Korie Hlede,1611661321,Detroit Shock,1,8,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-117,96,1,1,19990723,CLE,DET,1999-00
+Shot Chart Detail,1029900107,282,100250,Korie Hlede,1611661321,Detroit Shock,2,9,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-132,12,1,0,19990723,CLE,DET,1999-00
+Shot Chart Detail,1029900113,18,100250,Korie Hlede,1611661321,Detroit Shock,1,17,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990725,DET,CHA,1999-00
+Shot Chart Detail,1029900113,45,100250,Korie Hlede,1611661321,Detroit Shock,1,14,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,78,98,1,0,19990725,DET,CHA,1999-00
+Shot Chart Detail,1029900113,100,100250,Korie Hlede,1611661321,Detroit Shock,1,7,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-132,-14,1,0,19990725,DET,CHA,1999-00
+Shot Chart Detail,1029900113,127,100250,Korie Hlede,1611661321,Detroit Shock,1,4,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990725,DET,CHA,1999-00
+Shot Chart Detail,1029900113,130,100250,Korie Hlede,1611661321,Detroit Shock,1,4,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-72,70,1,0,19990725,DET,CHA,1999-00
+Shot Chart Detail,1029900113,181,100250,Korie Hlede,1611661321,Detroit Shock,1,1,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,121,109,1,0,19990725,DET,CHA,1999-00
+Shot Chart Detail,1029900113,206,100250,Korie Hlede,1611661321,Detroit Shock,2,14,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,194,109,1,1,19990725,DET,CHA,1999-00
+Shot Chart Detail,1029900113,208,100250,Korie Hlede,1611661321,Detroit Shock,2,14,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990725,DET,CHA,1999-00
+Shot Chart Detail,1029900113,213,100250,Korie Hlede,1611661321,Detroit Shock,2,13,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,12,1,1,19990725,DET,CHA,1999-00
+Shot Chart Detail,1029900113,215,100250,Korie Hlede,1611661321,Detroit Shock,2,13,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-154,158,1,0,19990725,DET,CHA,1999-00
+Shot Chart Detail,1029900113,226,100250,Korie Hlede,1611661321,Detroit Shock,2,12,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990725,DET,CHA,1999-00
+Shot Chart Detail,1029900113,244,100250,Korie Hlede,1611661321,Detroit Shock,2,10,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990725,DET,CHA,1999-00
+Shot Chart Detail,1029900113,251,100250,Korie Hlede,1611661321,Detroit Shock,2,9,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,179,130,1,1,19990725,DET,CHA,1999-00
+Shot Chart Detail,1029900113,273,100250,Korie Hlede,1611661321,Detroit Shock,2,6,40,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,51,91,1,1,19990725,DET,CHA,1999-00
+Shot Chart Detail,1029900113,280,100250,Korie Hlede,1611661321,Detroit Shock,2,5,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990725,DET,CHA,1999-00
+Shot Chart Detail,1029900113,317,100250,Korie Hlede,1611661321,Detroit Shock,2,2,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,128,31,1,1,19990725,DET,CHA,1999-00
+Shot Chart Detail,1029900118,71,100250,Korie Hlede,1611661321,Detroit Shock,1,12,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-104,85,1,0,19990727,HOU,DET,1999-00
+Shot Chart Detail,1029900118,113,100250,Korie Hlede,1611661321,Detroit Shock,1,9,7,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990727,HOU,DET,1999-00
+Shot Chart Detail,1029900118,121,100250,Korie Hlede,1611661321,Detroit Shock,1,8,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-126,-8,1,0,19990727,HOU,DET,1999-00
+Shot Chart Detail,1029900118,320,100250,Korie Hlede,1611661321,Detroit Shock,2,9,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-182,119,1,0,19990727,HOU,DET,1999-00
+Shot Chart Detail,1029900118,376,100250,Korie Hlede,1611661321,Detroit Shock,2,3,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990727,HOU,DET,1999-00
+Shot Chart Detail,1029900122,4,100250,Korie Hlede,1611661321,Detroit Shock,1,19,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-111,59,1,1,19990728,CHA,DET,1999-00
+Shot Chart Detail,1029900122,20,100250,Korie Hlede,1611661321,Detroit Shock,1,16,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,14,132,1,0,19990728,CHA,DET,1999-00
+Shot Chart Detail,1029900122,26,100250,Korie Hlede,1611661321,Detroit Shock,1,15,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-33,154,1,0,19990728,CHA,DET,1999-00
+Shot Chart Detail,1029900122,32,100250,Korie Hlede,1611661321,Detroit Shock,1,14,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990728,CHA,DET,1999-00
+Shot Chart Detail,1029900122,129,100250,Korie Hlede,1611661321,Detroit Shock,1,3,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,192,111,1,0,19990728,CHA,DET,1999-00
+Shot Chart Detail,1029900132,176,100250,Korie Hlede,1611661319,Utah Starzz,1,0,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-134,173,1,0,19990731,UTA,SAC,1999-00
+Shot Chart Detail,1029900132,270,100250,Korie Hlede,1611661319,Utah Starzz,2,11,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990731,UTA,SAC,1999-00
+Shot Chart Detail,1029900132,307,100250,Korie Hlede,1611661319,Utah Starzz,2,7,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990731,UTA,SAC,1999-00
+Shot Chart Detail,1029900132,334,100250,Korie Hlede,1611661319,Utah Starzz,2,5,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,25,162,1,0,19990731,UTA,SAC,1999-00
+Shot Chart Detail,1029900132,346,100250,Korie Hlede,1611661319,Utah Starzz,2,4,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,20,-190,78,1,0,19990731,UTA,SAC,1999-00
+Shot Chart Detail,1029900139,89,100250,Korie Hlede,1611661319,Utah Starzz,1,11,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-115,143,1,0,19990803,UTA,NYL,1999-00
+Shot Chart Detail,1029900139,319,100250,Korie Hlede,1611661319,Utah Starzz,2,8,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-188,119,1,1,19990803,UTA,NYL,1999-00
+Shot Chart Detail,1029900139,325,100250,Korie Hlede,1611661319,Utah Starzz,2,7,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,162,143,1,1,19990803,UTA,NYL,1999-00
+Shot Chart Detail,1029900139,339,100250,Korie Hlede,1611661319,Utah Starzz,2,5,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-109,126,1,1,19990803,UTA,NYL,1999-00
+Shot Chart Detail,1029900139,374,100250,Korie Hlede,1611661319,Utah Starzz,2,0,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-158,143,1,0,19990803,UTA,NYL,1999-00
+Shot Chart Detail,1029900139,381,100250,Korie Hlede,1611661319,Utah Starzz,2,0,18,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,14,81,1,1,19990803,UTA,NYL,1999-00
+Shot Chart Detail,1029900144,93,100250,Korie Hlede,1611661319,Utah Starzz,1,10,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,132,72,1,0,19990805,UTA,LAS,1999-00
+Shot Chart Detail,1029900144,110,100250,Korie Hlede,1611661319,Utah Starzz,1,8,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-66,173,1,0,19990805,UTA,LAS,1999-00
+Shot Chart Detail,1029900144,145,100250,Korie Hlede,1611661319,Utah Starzz,1,5,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,23,158,1,1,19990805,UTA,LAS,1999-00
+Shot Chart Detail,1029900144,188,100250,Korie Hlede,1611661319,Utah Starzz,1,2,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,1,1,1,19990805,UTA,LAS,1999-00
+Shot Chart Detail,1029900144,216,100250,Korie Hlede,1611661319,Utah Starzz,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,66,192,1,0,19990805,UTA,LAS,1999-00
+Shot Chart Detail,1029900144,310,100250,Korie Hlede,1611661319,Utah Starzz,2,9,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-109,196,1,0,19990805,UTA,LAS,1999-00
+Shot Chart Detail,1029900144,315,100250,Korie Hlede,1611661319,Utah Starzz,2,9,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990805,UTA,LAS,1999-00
+Shot Chart Detail,1029900144,369,100250,Korie Hlede,1611661319,Utah Starzz,2,2,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990805,UTA,LAS,1999-00
+Shot Chart Detail,1029900144,376,100250,Korie Hlede,1611661319,Utah Starzz,2,1,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,81,192,1,1,19990805,UTA,LAS,1999-00
+Shot Chart Detail,1029900151,56,100250,Korie Hlede,1611661319,Utah Starzz,1,12,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,20,201,31,1,1,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,77,100250,Korie Hlede,1611661319,Utah Starzz,1,10,41,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,33,25,1,1,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,79,100250,Korie Hlede,1611661319,Utah Starzz,1,10,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-117,53,1,0,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,118,100250,Korie Hlede,1611661319,Utah Starzz,1,6,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,147,100250,Korie Hlede,1611661319,Utah Starzz,1,3,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,151,100250,Korie Hlede,1611661319,Utah Starzz,1,2,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,158,100250,Korie Hlede,1611661319,Utah Starzz,1,2,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,-5,1,0,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,275,100250,Korie Hlede,1611661319,Utah Starzz,2,9,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-190,115,1,0,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,329,100250,Korie Hlede,1611661319,Utah Starzz,2,4,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-44,59,1,0,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900156,64,100250,Korie Hlede,1611661319,Utah Starzz,1,11,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,93,151,1,0,19990809,UTA,CHA,1999-00
+Shot Chart Detail,1029900156,89,100250,Korie Hlede,1611661319,Utah Starzz,1,8,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-166,141,1,0,19990809,UTA,CHA,1999-00
+Shot Chart Detail,1029900156,116,100250,Korie Hlede,1611661319,Utah Starzz,1,7,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,108,25,1,0,19990809,UTA,CHA,1999-00
+Shot Chart Detail,1029900156,131,100250,Korie Hlede,1611661319,Utah Starzz,1,4,40,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,8,128,1,1,19990809,UTA,CHA,1999-00
+Shot Chart Detail,1029900156,143,100250,Korie Hlede,1611661319,Utah Starzz,1,3,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990809,UTA,CHA,1999-00
+Shot Chart Detail,1029900156,165,100250,Korie Hlede,1611661319,Utah Starzz,1,1,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990809,UTA,CHA,1999-00
+Shot Chart Detail,1029900156,168,100250,Korie Hlede,1611661319,Utah Starzz,1,1,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,8,119,1,0,19990809,UTA,CHA,1999-00
+Shot Chart Detail,1029900156,338,100250,Korie Hlede,1611661319,Utah Starzz,2,3,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-182,106,1,1,19990809,UTA,CHA,1999-00
+Shot Chart Detail,1029900156,346,100250,Korie Hlede,1611661319,Utah Starzz,2,2,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990809,UTA,CHA,1999-00
+Shot Chart Detail,1029900156,351,100250,Korie Hlede,1611661319,Utah Starzz,2,1,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,29,102,1,0,19990809,UTA,CHA,1999-00
+Shot Chart Detail,1029900161,88,100250,Korie Hlede,1611661319,Utah Starzz,1,11,10,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-44,113,1,1,19990811,MIN,UTA,1999-00
+Shot Chart Detail,1029900161,136,100250,Korie Hlede,1611661319,Utah Starzz,1,7,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-117,179,1,1,19990811,MIN,UTA,1999-00
+Shot Chart Detail,1029900161,165,100250,Korie Hlede,1611661319,Utah Starzz,1,3,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,16,128,96,1,1,19990811,MIN,UTA,1999-00
+Shot Chart Detail,1029900161,175,100250,Korie Hlede,1611661319,Utah Starzz,1,3,19,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990811,MIN,UTA,1999-00
+Shot Chart Detail,1029900161,183,100250,Korie Hlede,1611661319,Utah Starzz,1,2,28,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-1,40,1,1,19990811,MIN,UTA,1999-00
+Shot Chart Detail,1029900161,188,100250,Korie Hlede,1611661319,Utah Starzz,1,1,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-66,162,1,1,19990811,MIN,UTA,1999-00
+Shot Chart Detail,1029900161,310,100250,Korie Hlede,1611661319,Utah Starzz,2,12,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-169,124,1,0,19990811,MIN,UTA,1999-00
+Shot Chart Detail,1029900161,353,100250,Korie Hlede,1611661319,Utah Starzz,2,9,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990811,MIN,UTA,1999-00
+Shot Chart Detail,1029900161,356,100250,Korie Hlede,1611661319,Utah Starzz,2,8,38,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990811,MIN,UTA,1999-00
+Shot Chart Detail,1029900161,413,100250,Korie Hlede,1611661319,Utah Starzz,2,2,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-197,85,1,1,19990811,MIN,UTA,1999-00
+Shot Chart Detail,1029900166,108,100250,Korie Hlede,1611661319,Utah Starzz,1,8,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-136,164,1,0,19990813,UTA,PHO,1999-00
+Shot Chart Detail,1029900166,125,100250,Korie Hlede,1611661319,Utah Starzz,1,6,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,132,115,1,0,19990813,UTA,PHO,1999-00
+Shot Chart Detail,1029900166,129,100250,Korie Hlede,1611661319,Utah Starzz,1,5,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990813,UTA,PHO,1999-00
+Shot Chart Detail,1029900166,184,100250,Korie Hlede,1611661319,Utah Starzz,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,45,8,452,1,0,19990813,UTA,PHO,1999-00
+Shot Chart Detail,1029900166,269,100250,Korie Hlede,1611661319,Utah Starzz,2,10,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-158,147,1,0,19990813,UTA,PHO,1999-00
+Shot Chart Detail,1029900166,272,100250,Korie Hlede,1611661319,Utah Starzz,2,10,21,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-218,25,1,0,19990813,UTA,PHO,1999-00
+Shot Chart Detail,1029900166,336,100250,Korie Hlede,1611661319,Utah Starzz,2,3,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990813,UTA,PHO,1999-00
+Shot Chart Detail,1029900171,76,100250,Korie Hlede,1611661319,Utah Starzz,1,12,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,102,119,1,1,19990814,SAC,UTA,1999-00
+Shot Chart Detail,1029900171,96,100250,Korie Hlede,1611661319,Utah Starzz,1,10,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,81,141,1,1,19990814,SAC,UTA,1999-00
+Shot Chart Detail,1029900171,131,100250,Korie Hlede,1611661319,Utah Starzz,1,7,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,162,141,1,1,19990814,SAC,UTA,1999-00
+Shot Chart Detail,1029900171,157,100250,Korie Hlede,1611661319,Utah Starzz,1,4,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,20,-166,119,1,1,19990814,SAC,UTA,1999-00
+Shot Chart Detail,1029900171,179,100250,Korie Hlede,1611661319,Utah Starzz,1,2,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-130,119,1,0,19990814,SAC,UTA,1999-00
+Shot Chart Detail,1029900171,271,100250,Korie Hlede,1611661319,Utah Starzz,2,13,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-94,130,1,0,19990814,SAC,UTA,1999-00
+Shot Chart Detail,1029900171,293,100250,Korie Hlede,1611661319,Utah Starzz,2,10,41,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,35,12,1,0,19990814,SAC,UTA,1999-00
+Shot Chart Detail,1029900171,360,100250,Korie Hlede,1611661319,Utah Starzz,2,4,48,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,35,23,1,1,19990814,SAC,UTA,1999-00
+Shot Chart Detail,1029900171,393,100250,Korie Hlede,1611661319,Utah Starzz,2,1,29,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-36,16,1,0,19990814,SAC,UTA,1999-00
+Shot Chart Detail,1029900176,35,100250,Korie Hlede,1611661319,Utah Starzz,1,16,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-104,31,1,0,19990816,HOU,UTA,1999-00
+Shot Chart Detail,1029900176,60,100250,Korie Hlede,1611661319,Utah Starzz,1,14,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-29,104,1,0,19990816,HOU,UTA,1999-00
+Shot Chart Detail,1029900176,77,100250,Korie Hlede,1611661319,Utah Starzz,1,12,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-203,70,1,0,19990816,HOU,UTA,1999-00
+Shot Chart Detail,1029900176,211,100250,Korie Hlede,1611661319,Utah Starzz,1,1,47,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990816,HOU,UTA,1999-00
+Shot Chart Detail,1029900176,252,100250,Korie Hlede,1611661319,Utah Starzz,2,15,11,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990816,HOU,UTA,1999-00
+Shot Chart Detail,1029900176,264,100250,Korie Hlede,1611661319,Utah Starzz,2,14,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990816,HOU,UTA,1999-00
+Shot Chart Detail,1029900176,285,100250,Korie Hlede,1611661319,Utah Starzz,2,11,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-23,42,1,0,19990816,HOU,UTA,1999-00
+Shot Chart Detail,1029900176,327,100250,Korie Hlede,1611661319,Utah Starzz,2,7,17,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-29,128,1,1,19990816,HOU,UTA,1999-00
+Shot Chart Detail,1029900176,334,100250,Korie Hlede,1611661319,Utah Starzz,2,6,31,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990816,HOU,UTA,1999-00
+Shot Chart Detail,1029900176,432,100250,Korie Hlede,1611661319,Utah Starzz,2,0,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,164,121,1,0,19990816,HOU,UTA,1999-00
+Shot Chart Detail,1029900186,67,100250,Korie Hlede,1611661319,Utah Starzz,1,12,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,35,121,1,0,19990820,PHO,UTA,1999-00
+Shot Chart Detail,1029900186,98,100250,Korie Hlede,1611661319,Utah Starzz,1,9,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,108,76,1,0,19990820,PHO,UTA,1999-00
+Shot Chart Detail,1029900186,130,100250,Korie Hlede,1611661319,Utah Starzz,1,6,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990820,PHO,UTA,1999-00
+Shot Chart Detail,1029900186,140,100250,Korie Hlede,1611661319,Utah Starzz,1,5,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,22,-220,33,1,0,19990820,PHO,UTA,1999-00
+Shot Chart Detail,1029900186,147,100250,Korie Hlede,1611661319,Utah Starzz,1,5,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-85,149,1,0,19990820,PHO,UTA,1999-00
+Shot Chart Detail,1029900186,261,100250,Korie Hlede,1611661319,Utah Starzz,2,12,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990820,PHO,UTA,1999-00
+Shot Chart Detail,1029900186,270,100250,Korie Hlede,1611661319,Utah Starzz,2,11,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-199,93,1,1,19990820,PHO,UTA,1999-00
+Shot Chart Detail,1029900186,294,100250,Korie Hlede,1611661319,Utah Starzz,2,7,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-128,44,1,0,19990820,PHO,UTA,1999-00
+Shot Chart Detail,1029900186,325,100250,Korie Hlede,1611661319,Utah Starzz,2,3,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-214,33,1,1,19990820,PHO,UTA,1999-00
+Shot Chart Detail,1029900186,341,100250,Korie Hlede,1611661319,Utah Starzz,2,2,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,78,111,1,0,19990820,PHO,UTA,1999-00
+Shot Chart Detail,1029900186,393,100250,Korie Hlede,1611661319,Utah Starzz,2,0,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990820,PHO,UTA,1999-00
+Shot Chart Detail,1029900191,52,100250,Korie Hlede,1611661319,Utah Starzz,1,12,58,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990821,UTA,LAS,1999-00
+Shot Chart Detail,1029900191,88,100250,Korie Hlede,1611661319,Utah Starzz,1,9,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,1,141,1,0,19990821,UTA,LAS,1999-00
+Shot Chart Detail,1029900191,138,100250,Korie Hlede,1611661319,Utah Starzz,1,4,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990821,UTA,LAS,1999-00
+Shot Chart Detail,1029900191,171,100250,Korie Hlede,1611661319,Utah Starzz,1,1,1,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-212,-14,1,1,19990821,UTA,LAS,1999-00
+Shot Chart Detail,1029900191,274,100250,Korie Hlede,1611661319,Utah Starzz,2,10,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990821,UTA,LAS,1999-00
+Shot Chart Detail,1029900191,303,100250,Korie Hlede,1611661319,Utah Starzz,2,7,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990821,UTA,LAS,1999-00
+Shot Chart Detail,1029900191,305,100250,Korie Hlede,1611661319,Utah Starzz,2,6,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,20,-197,72,1,1,19990821,UTA,LAS,1999-00
+Shot Chart Detail,1029900191,316,100250,Korie Hlede,1611661319,Utah Starzz,2,6,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990821,UTA,LAS,1999-00
+Shot Chart Detail,1029900191,343,100250,Korie Hlede,1611661319,Utah Starzz,2,2,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,154,141,1,0,19990821,UTA,LAS,1999-00

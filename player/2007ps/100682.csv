@@ -1,0 +1,24 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1040700121,10,100682,Lauren Jackson,1611661328,Seattle Storm,1,8,32,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-11,1,0,20070824,SEA,PHO,2007-08
+Shot Chart Detail,1040700121,34,100682,Lauren Jackson,1611661328,Seattle Storm,1,6,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,69,76,1,1,20070824,SEA,PHO,2007-08
+Shot Chart Detail,1040700121,60,100682,Lauren Jackson,1611661328,Seattle Storm,1,3,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,0,104,1,0,20070824,SEA,PHO,2007-08
+Shot Chart Detail,1040700121,78,100682,Lauren Jackson,1611661328,Seattle Storm,1,2,17,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-26,1,1,20070824,SEA,PHO,2007-08
+Shot Chart Detail,1040700121,244,100682,Lauren Jackson,1611661328,Seattle Storm,3,5,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,204,66,1,1,20070824,SEA,PHO,2007-08
+Shot Chart Detail,1040700121,277,100682,Lauren Jackson,1611661328,Seattle Storm,3,3,0,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,8,1,1,20070824,SEA,PHO,2007-08
+Shot Chart Detail,1040700121,294,100682,Lauren Jackson,1611661328,Seattle Storm,3,1,56,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,7,1,0,20070824,SEA,PHO,2007-08
+Shot Chart Detail,1040700121,305,100682,Lauren Jackson,1611661328,Seattle Storm,3,1,19,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,8,1,1,20070824,SEA,PHO,2007-08
+Shot Chart Detail,1040700121,395,100682,Lauren Jackson,1611661328,Seattle Storm,4,4,37,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,212,-6,1,0,20070824,SEA,PHO,2007-08
+Shot Chart Detail,1040700121,411,100682,Lauren Jackson,1611661328,Seattle Storm,4,3,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,184,-1,1,0,20070824,SEA,PHO,2007-08
+Shot Chart Detail,1040700122,10,100682,Lauren Jackson,1611661328,Seattle Storm,1,8,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070826,PHO,SEA,2007-08
+Shot Chart Detail,1040700122,18,100682,Lauren Jackson,1611661328,Seattle Storm,1,7,49,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-2,72,1,1,20070826,PHO,SEA,2007-08
+Shot Chart Detail,1040700122,47,100682,Lauren Jackson,1611661328,Seattle Storm,1,4,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-3,214,1,0,20070826,PHO,SEA,2007-08
+Shot Chart Detail,1040700122,113,100682,Lauren Jackson,1611661328,Seattle Storm,2,9,27,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,220,2,1,1,20070826,PHO,SEA,2007-08
+Shot Chart Detail,1040700122,150,100682,Lauren Jackson,1611661328,Seattle Storm,2,5,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,13,1,1,20070826,PHO,SEA,2007-08
+Shot Chart Detail,1040700122,161,100682,Lauren Jackson,1611661328,Seattle Storm,2,3,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,202,92,1,0,20070826,PHO,SEA,2007-08
+Shot Chart Detail,1040700122,333,100682,Lauren Jackson,1611661328,Seattle Storm,4,9,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,0,197,1,1,20070826,PHO,SEA,2007-08
+Shot Chart Detail,1040700122,341,100682,Lauren Jackson,1611661328,Seattle Storm,4,8,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-48,91,1,1,20070826,PHO,SEA,2007-08
+Shot Chart Detail,1040700122,380,100682,Lauren Jackson,1611661328,Seattle Storm,4,2,58,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,12,1,0,20070826,PHO,SEA,2007-08
+Shot Chart Detail,1040700122,415,100682,Lauren Jackson,1611661328,Seattle Storm,4,0,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070826,PHO,SEA,2007-08
+Shot Chart Detail,1040700122,421,100682,Lauren Jackson,1611661328,Seattle Storm,4,0,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,174,135,1,0,20070826,PHO,SEA,2007-08
+Shot Chart Detail,1040700122,428,100682,Lauren Jackson,1611661328,Seattle Storm,4,0,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070826,PHO,SEA,2007-08
+Shot Chart Detail,1040700122,431,100682,Lauren Jackson,1611661328,Seattle Storm,4,0,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070826,PHO,SEA,2007-08

@@ -1,0 +1,25 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020100008,351,100411,Carla McGhee,1611661323,Orlando Miracle,2,5,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010601,ORL,LAS,2001-02
+Shot Chart Detail,1020100020,101,100411,Carla McGhee,1611661323,Orlando Miracle,1,11,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-65,49,1,0,20010605,DET,ORL,2001-02
+Shot Chart Detail,1020100020,112,100411,Carla McGhee,1611661323,Orlando Miracle,1,10,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-8,160,1,0,20010605,DET,ORL,2001-02
+Shot Chart Detail,1020100020,118,100411,Carla McGhee,1611661323,Orlando Miracle,1,9,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,14,-79,120,1,0,20010605,DET,ORL,2001-02
+Shot Chart Detail,1020100020,137,100411,Carla McGhee,1611661323,Orlando Miracle,1,8,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-115,55,1,1,20010605,DET,ORL,2001-02
+Shot Chart Detail,1020100020,395,100411,Carla McGhee,1611661323,Orlando Miracle,2,7,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,-13,1,0,20010605,DET,ORL,2001-02
+Shot Chart Detail,1020100020,401,100411,Carla McGhee,1611661323,Orlando Miracle,2,7,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,30,1,0,20010605,DET,ORL,2001-02
+Shot Chart Detail,1020100020,419,100411,Carla McGhee,1611661323,Orlando Miracle,2,5,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010605,DET,ORL,2001-02
+Shot Chart Detail,1020100025,98,100411,Carla McGhee,1611661323,Orlando Miracle,1,10,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,73,-23,1,1,20010607,UTA,ORL,2001-02
+Shot Chart Detail,1020100025,436,100411,Carla McGhee,1611661323,Orlando Miracle,2,3,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-77,-6,1,0,20010607,UTA,ORL,2001-02
+Shot Chart Detail,1020100025,438,100411,Carla McGhee,1611661323,Orlando Miracle,2,3,29,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,57,1,0,20010607,UTA,ORL,2001-02
+Shot Chart Detail,1020100047,73,100411,Carla McGhee,1611661323,Orlando Miracle,1,11,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,79,-6,1,0,20010614,LAS,ORL,2001-02
+Shot Chart Detail,1020100084,408,100411,Carla McGhee,1611661323,Orlando Miracle,2,0,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-75,76,1,0,20010625,ORL,NYL,2001-02
+Shot Chart Detail,1020100089,268,100411,Carla McGhee,1611661323,Orlando Miracle,2,11,16,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,58,30,1,1,20010627,ORL,CLE,2001-02
+Shot Chart Detail,1020100098,80,100411,Carla McGhee,1611661323,Orlando Miracle,1,10,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,150,7,1,0,20010630,NYL,ORL,2001-02
+Shot Chart Detail,1020100102,297,100411,Carla McGhee,1611661323,Orlando Miracle,2,9,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,144,17,1,1,20010701,WAS,ORL,2001-02
+Shot Chart Detail,1020100102,312,100411,Carla McGhee,1611661323,Orlando Miracle,2,7,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-27,55,1,0,20010701,WAS,ORL,2001-02
+Shot Chart Detail,1020100153,166,100411,Carla McGhee,1611661323,Orlando Miracle,1,2,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,83,34,1,0,20010718,ORL,HOU,2001-02
+Shot Chart Detail,1020100153,178,100411,Carla McGhee,1611661323,Orlando Miracle,1,2,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-134,118,1,0,20010718,ORL,HOU,2001-02
+Shot Chart Detail,1020100197,74,100411,Carla McGhee,1611661323,Orlando Miracle,1,12,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,134,-8,1,0,20010730,CLE,ORL,2001-02
+Shot Chart Detail,1020100197,81,100411,Carla McGhee,1611661323,Orlando Miracle,1,12,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-132,13,1,0,20010730,CLE,ORL,2001-02
+Shot Chart Detail,1020100197,85,100411,Carla McGhee,1611661323,Orlando Miracle,1,11,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,34,1,1,20010730,CLE,ORL,2001-02
+Shot Chart Detail,1020100197,92,100411,Carla McGhee,1611661323,Orlando Miracle,1,10,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,-23,1,0,20010730,CLE,ORL,2001-02
+Shot Chart Detail,1020100210,152,100411,Carla McGhee,1611661323,Orlando Miracle,1,4,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-42,150,1,0,20010803,HOU,ORL,2001-02

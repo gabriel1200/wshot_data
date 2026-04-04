@@ -1,0 +1,28 @@
+GRID_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,FGA,FGM,FG_PCT,SEASON
+League Averages,Above the Break 3,Center(C),24+ ft.,161,47,0.292,2023-24
+League Averages,Above the Break 3,Center(C),16-24 ft.,5,3,0.6,2023-24
+League Averages,Above the Break 3,Left Side Center(LC),24+ ft.,273,101,0.37,2023-24
+League Averages,Above the Break 3,Left Side Center(LC),16-24 ft.,18,6,0.333,2023-24
+League Averages,Above the Break 3,Left Side(L),16-24 ft.,12,3,0.25,2023-24
+League Averages,Above the Break 3,Left Side(L),24+ ft.,37,12,0.324,2023-24
+League Averages,Above the Break 3,Right Side Center(RC),24+ ft.,242,87,0.36,2023-24
+League Averages,Above the Break 3,Right Side Center(RC),16-24 ft.,9,5,0.556,2023-24
+League Averages,Above the Break 3,Right Side(R),16-24 ft.,20,12,0.6,2023-24
+League Averages,Above the Break 3,Right Side(R),24+ ft.,46,24,0.522,2023-24
+League Averages,Backcourt,Back Court(BC),Back Court Shot,8,0,0.0,2023-24
+League Averages,In The Paint (Non-RA),Center(C),8-16 ft.,149,63,0.423,2023-24
+League Averages,In The Paint (Non-RA),Center(C),Less Than 8 ft.,461,177,0.384,2023-24
+League Averages,In The Paint (Non-RA),Left Side(L),8-16 ft.,32,9,0.281,2023-24
+League Averages,In The Paint (Non-RA),Right Side(R),8-16 ft.,34,16,0.471,2023-24
+League Averages,Left Corner 3,Left Side(L),24+ ft.,77,21,0.273,2023-24
+League Averages,Left Corner 3,Left Side(L),16-24 ft.,1,1,1.0,2023-24
+League Averages,Mid-Range,Center(C),8-16 ft.,49,23,0.469,2023-24
+League Averages,Mid-Range,Center(C),16-24 ft.,78,22,0.282,2023-24
+League Averages,Mid-Range,Left Side Center(LC),16-24 ft.,45,13,0.289,2023-24
+League Averages,Mid-Range,Left Side(L),16-24 ft.,33,12,0.364,2023-24
+League Averages,Mid-Range,Left Side(L),8-16 ft.,84,33,0.393,2023-24
+League Averages,Mid-Range,Right Side Center(RC),16-24 ft.,57,19,0.333,2023-24
+League Averages,Mid-Range,Right Side(R),8-16 ft.,86,36,0.419,2023-24
+League Averages,Mid-Range,Right Side(R),16-24 ft.,27,8,0.296,2023-24
+League Averages,Restricted Area,Center(C),Less Than 8 ft.,717,446,0.622,2023-24
+League Averages,Right Corner 3,Right Side(R),24+ ft.,52,14,0.269,2023-24

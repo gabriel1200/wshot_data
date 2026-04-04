@@ -1,0 +1,189 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1040700101,26,100639,Deanna Nolan,1611661321,Detroit Shock,1,6,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-123,58,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,31,100639,Deanna Nolan,1611661321,Detroit Shock,1,6,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,23,213,99,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,53,100639,Deanna Nolan,1611661321,Detroit Shock,1,4,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-156,3,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,67,100639,Deanna Nolan,1611661321,Detroit Shock,1,1,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,49,1,1,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,131,100639,Deanna Nolan,1611661321,Detroit Shock,2,6,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-115,181,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,143,100639,Deanna Nolan,1611661321,Detroit Shock,2,5,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-148,10,1,1,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,161,100639,Deanna Nolan,1611661321,Detroit Shock,2,3,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-138,35,1,1,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,183,100639,Deanna Nolan,1611661321,Detroit Shock,2,0,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-66,76,1,1,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,186,100639,Deanna Nolan,1611661321,Detroit Shock,2,0,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,110,99,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,204,100639,Deanna Nolan,1611661321,Detroit Shock,3,9,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-49,169,1,1,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,208,100639,Deanna Nolan,1611661321,Detroit Shock,3,9,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,43,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,212,100639,Deanna Nolan,1611661321,Detroit Shock,3,8,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-5,120,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,233,100639,Deanna Nolan,1611661321,Detroit Shock,3,6,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,3,66,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,273,100639,Deanna Nolan,1611661321,Detroit Shock,3,2,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,281,100639,Deanna Nolan,1611661321,Detroit Shock,3,2,18,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-117,-3,1,1,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,298,100639,Deanna Nolan,1611661321,Detroit Shock,3,0,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,304,100639,Deanna Nolan,1611661321,Detroit Shock,4,9,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-97,49,1,1,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700101,320,100639,Deanna Nolan,1611661321,Detroit Shock,4,7,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,172,63,1,0,20070824,NYL,DET,2007-08
+Shot Chart Detail,1040700102,8,100639,Deanna Nolan,1611661321,Detroit Shock,1,8,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-118,59,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,38,100639,Deanna Nolan,1611661321,Detroit Shock,1,5,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,-6,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,112,100639,Deanna Nolan,1611661321,Detroit Shock,2,7,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,122,100639,Deanna Nolan,1611661321,Detroit Shock,2,6,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-117,40,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,158,100639,Deanna Nolan,1611661321,Detroit Shock,2,4,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-125,56,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,220,100639,Deanna Nolan,1611661321,Detroit Shock,3,9,10,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-43,76,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,227,100639,Deanna Nolan,1611661321,Detroit Shock,3,8,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,117,79,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,230,100639,Deanna Nolan,1611661321,Detroit Shock,3,7,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,125,53,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,253,100639,Deanna Nolan,1611661321,Detroit Shock,3,4,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,59,72,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,259,100639,Deanna Nolan,1611661321,Detroit Shock,3,3,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-79,163,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,298,100639,Deanna Nolan,1611661321,Detroit Shock,4,9,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,59,140,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,309,100639,Deanna Nolan,1611661321,Detroit Shock,4,8,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,52,56,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,311,100639,Deanna Nolan,1611661321,Detroit Shock,4,8,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,337,100639,Deanna Nolan,1611661321,Detroit Shock,4,5,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,-6,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,349,100639,Deanna Nolan,1611661321,Detroit Shock,4,4,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,169,26,1,1,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,364,100639,Deanna Nolan,1611661321,Detroit Shock,4,2,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,-1,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,376,100639,Deanna Nolan,1611661321,Detroit Shock,4,1,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-34,146,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700102,381,100639,Deanna Nolan,1611661321,Detroit Shock,4,0,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-117,72,1,0,20070826,DET,NYL,2007-08
+Shot Chart Detail,1040700103,10,100639,Deanna Nolan,1611661321,Detroit Shock,1,8,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,40,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,56,100639,Deanna Nolan,1611661321,Detroit Shock,1,2,47,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,82,77,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,65,100639,Deanna Nolan,1611661321,Detroit Shock,1,2,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,-5,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,98,100639,Deanna Nolan,1611661321,Detroit Shock,2,8,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,22,-220,58,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,104,100639,Deanna Nolan,1611661321,Detroit Shock,2,8,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,77,125,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,132,100639,Deanna Nolan,1611661321,Detroit Shock,2,4,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-117,26,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,142,100639,Deanna Nolan,1611661321,Detroit Shock,2,3,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-71,128,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,150,100639,Deanna Nolan,1611661321,Detroit Shock,2,2,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-113,26,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,165,100639,Deanna Nolan,1611661321,Detroit Shock,2,0,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-209,59,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,177,100639,Deanna Nolan,1611661321,Detroit Shock,3,9,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,-13,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,179,100639,Deanna Nolan,1611661321,Detroit Shock,3,8,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,41,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,185,100639,Deanna Nolan,1611661321,Detroit Shock,3,7,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,217,100639,Deanna Nolan,1611661321,Detroit Shock,3,4,55,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,14,-75,127,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,229,100639,Deanna Nolan,1611661321,Detroit Shock,3,3,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,140,58,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,233,100639,Deanna Nolan,1611661321,Detroit Shock,3,3,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,209,45,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,238,100639,Deanna Nolan,1611661321,Detroit Shock,3,2,41,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,3,81,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,245,100639,Deanna Nolan,1611661321,Detroit Shock,3,1,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,212,49,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,271,100639,Deanna Nolan,1611661321,Detroit Shock,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,202,66,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,276,100639,Deanna Nolan,1611661321,Detroit Shock,4,9,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,31,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,279,100639,Deanna Nolan,1611661321,Detroit Shock,4,9,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-107,109,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,292,100639,Deanna Nolan,1611661321,Detroit Shock,4,7,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,149,43,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,302,100639,Deanna Nolan,1611661321,Detroit Shock,4,6,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,49,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,337,100639,Deanna Nolan,1611661321,Detroit Shock,4,3,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,371,100639,Deanna Nolan,1611661321,Detroit Shock,4,0,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,-13,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,387,100639,Deanna Nolan,1611661321,Detroit Shock,5,3,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-148,174,1,0,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700103,410,100639,Deanna Nolan,1611661321,Detroit Shock,5,1,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-133,45,1,1,20070828,DET,NYL,2007-08
+Shot Chart Detail,1040700201,4,100639,Deanna Nolan,1611661321,Detroit Shock,1,9,30,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,22,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,35,100639,Deanna Nolan,1611661321,Detroit Shock,1,6,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-154,-28,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,72,100639,Deanna Nolan,1611661321,Detroit Shock,1,2,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-158,58,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,77,100639,Deanna Nolan,1611661321,Detroit Shock,1,1,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,67,-8,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,82,100639,Deanna Nolan,1611661321,Detroit Shock,1,1,5,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-13,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,90,100639,Deanna Nolan,1611661321,Detroit Shock,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,0,156,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,112,100639,Deanna Nolan,1611661321,Detroit Shock,2,8,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-136,0,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,114,100639,Deanna Nolan,1611661321,Detroit Shock,2,8,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,-21,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,135,100639,Deanna Nolan,1611661321,Detroit Shock,2,6,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,156,183,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,146,100639,Deanna Nolan,1611661321,Detroit Shock,2,5,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-125,81,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,160,100639,Deanna Nolan,1611661321,Detroit Shock,2,3,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,46,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,198,100639,Deanna Nolan,1611661321,Detroit Shock,2,0,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,107,99,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,284,100639,Deanna Nolan,1611661321,Detroit Shock,3,3,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-39,-18,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,289,100639,Deanna Nolan,1611661321,Detroit Shock,3,3,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,149,61,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,351,100639,Deanna Nolan,1611661321,Detroit Shock,4,6,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,-19,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,362,100639,Deanna Nolan,1611661321,Detroit Shock,4,5,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-112,92,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,371,100639,Deanna Nolan,1611661321,Detroit Shock,4,5,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-215,33,1,1,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700201,394,100639,Deanna Nolan,1611661321,Detroit Shock,4,2,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-5,146,1,0,20070831,IND,DET,2007-08
+Shot Chart Detail,1040700202,29,100639,Deanna Nolan,1611661321,Detroit Shock,1,7,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-138,51,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,71,100639,Deanna Nolan,1611661321,Detroit Shock,1,3,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,22,-222,41,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,96,100639,Deanna Nolan,1611661321,Detroit Shock,2,9,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-122,61,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,130,100639,Deanna Nolan,1611661321,Detroit Shock,2,6,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-212,40,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,139,100639,Deanna Nolan,1611661321,Detroit Shock,2,5,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,23,-220,71,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,153,100639,Deanna Nolan,1611661321,Detroit Shock,2,3,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,8,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,165,100639,Deanna Nolan,1611661321,Detroit Shock,2,1,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,188,100639,Deanna Nolan,1611661321,Detroit Shock,3,9,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,-6,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,212,100639,Deanna Nolan,1611661321,Detroit Shock,3,5,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,212,38,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,229,100639,Deanna Nolan,1611661321,Detroit Shock,3,4,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,0,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,244,100639,Deanna Nolan,1611661321,Detroit Shock,3,3,8,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,210,26,1,1,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,261,100639,Deanna Nolan,1611661321,Detroit Shock,3,2,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-85,141,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,263,100639,Deanna Nolan,1611661321,Detroit Shock,3,2,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,-11,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,299,100639,Deanna Nolan,1611661321,Detroit Shock,4,9,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,12,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,305,100639,Deanna Nolan,1611661321,Detroit Shock,4,8,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,331,100639,Deanna Nolan,1611661321,Detroit Shock,4,6,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,0,164,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,339,100639,Deanna Nolan,1611661321,Detroit Shock,4,5,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-136,31,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700202,352,100639,Deanna Nolan,1611661321,Detroit Shock,4,4,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-100,58,1,0,20070902,DET,IND,2007-08
+Shot Chart Detail,1040700203,16,100639,Deanna Nolan,1611661321,Detroit Shock,1,7,59,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-210,-3,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,28,100639,Deanna Nolan,1611661321,Detroit Shock,1,6,13,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,23,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,44,100639,Deanna Nolan,1611661321,Detroit Shock,1,4,47,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,212,13,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,70,100639,Deanna Nolan,1611661321,Detroit Shock,1,2,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,57,220,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,93,100639,Deanna Nolan,1611661321,Detroit Shock,1,0,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-126,15,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,99,100639,Deanna Nolan,1611661321,Detroit Shock,2,9,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,39,179,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,103,100639,Deanna Nolan,1611661321,Detroit Shock,2,9,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-161,28,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,115,100639,Deanna Nolan,1611661321,Detroit Shock,2,8,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-46,114,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,128,100639,Deanna Nolan,1611661321,Detroit Shock,2,7,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,136,100639,Deanna Nolan,1611661321,Detroit Shock,2,6,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,54,143,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,147,100639,Deanna Nolan,1611661321,Detroit Shock,2,5,40,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-214,18,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,163,100639,Deanna Nolan,1611661321,Detroit Shock,2,4,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-200,82,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,173,100639,Deanna Nolan,1611661321,Detroit Shock,2,2,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,82,141,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,177,100639,Deanna Nolan,1611661321,Detroit Shock,2,2,29,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,17,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,201,100639,Deanna Nolan,1611661321,Detroit Shock,2,0,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,246,100639,Deanna Nolan,1611661321,Detroit Shock,3,6,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,213,46,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,272,100639,Deanna Nolan,1611661321,Detroit Shock,3,4,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,36,173,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,293,100639,Deanna Nolan,1611661321,Detroit Shock,3,2,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,307,100639,Deanna Nolan,1611661321,Detroit Shock,3,1,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-3,102,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,327,100639,Deanna Nolan,1611661321,Detroit Shock,3,0,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-59,91,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700203,374,100639,Deanna Nolan,1611661321,Detroit Shock,4,4,40,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-220,-6,1,1,20070903,DET,IND,2007-08
+Shot Chart Detail,1040700301,17,100639,Deanna Nolan,1611661321,Detroit Shock,1,8,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-156,15,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,85,100639,Deanna Nolan,1611661321,Detroit Shock,1,1,50,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-218,-8,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,263,100639,Deanna Nolan,1611661321,Detroit Shock,3,6,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,128,104,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,269,100639,Deanna Nolan,1611661321,Detroit Shock,3,6,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,291,100639,Deanna Nolan,1611661321,Detroit Shock,3,4,23,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-13,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,296,100639,Deanna Nolan,1611661321,Detroit Shock,3,3,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,-8,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,372,100639,Deanna Nolan,1611661321,Detroit Shock,4,7,20,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,22,1,1,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700301,423,100639,Deanna Nolan,1611661321,Detroit Shock,4,3,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,62,135,1,0,20070905,DET,PHO,2007-08
+Shot Chart Detail,1040700302,17,100639,Deanna Nolan,1611661321,Detroit Shock,1,8,44,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,20,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,84,100639,Deanna Nolan,1611661321,Detroit Shock,1,2,42,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-218,-8,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,108,100639,Deanna Nolan,1611661321,Detroit Shock,1,0,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,121,100639,Deanna Nolan,1611661321,Detroit Shock,2,9,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,95,12,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,171,100639,Deanna Nolan,1611661321,Detroit Shock,2,3,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-149,20,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,204,100639,Deanna Nolan,1611661321,Detroit Shock,2,1,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,26,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,216,100639,Deanna Nolan,1611661321,Detroit Shock,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,59,-200,556,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,237,100639,Deanna Nolan,1611661321,Detroit Shock,3,7,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,62,110,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,242,100639,Deanna Nolan,1611661321,Detroit Shock,3,7,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-85,66,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,272,100639,Deanna Nolan,1611661321,Detroit Shock,3,4,28,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-9,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,282,100639,Deanna Nolan,1611661321,Detroit Shock,3,3,28,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,-14,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,284,100639,Deanna Nolan,1611661321,Detroit Shock,3,3,22,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,41,71,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,295,100639,Deanna Nolan,1611661321,Detroit Shock,3,2,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,23,-207,107,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,327,100639,Deanna Nolan,1611661321,Detroit Shock,3,0,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,128,36,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,332,100639,Deanna Nolan,1611661321,Detroit Shock,3,0,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,10,97,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,337,100639,Deanna Nolan,1611661321,Detroit Shock,3,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-122,128,1,1,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,363,100639,Deanna Nolan,1611661321,Detroit Shock,4,6,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,-71,222,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700302,368,100639,Deanna Nolan,1611661321,Detroit Shock,4,5,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-34,160,1,0,20070908,DET,PHO,2007-08
+Shot Chart Detail,1040700303,4,100639,Deanna Nolan,1611661321,Detroit Shock,1,9,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-103,133,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,23,100639,Deanna Nolan,1611661321,Detroit Shock,1,7,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,80,202,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,30,100639,Deanna Nolan,1611661321,Detroit Shock,1,6,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-212,33,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,102,100639,Deanna Nolan,1611661321,Detroit Shock,1,0,47,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-61,97,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,127,100639,Deanna Nolan,1611661321,Detroit Shock,2,8,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-154,5,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,140,100639,Deanna Nolan,1611661321,Detroit Shock,2,7,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-92,92,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,222,100639,Deanna Nolan,1611661321,Detroit Shock,3,9,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-82,63,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,231,100639,Deanna Nolan,1611661321,Detroit Shock,3,8,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,237,100639,Deanna Nolan,1611661321,Detroit Shock,3,8,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,23,-200,114,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,243,100639,Deanna Nolan,1611661321,Detroit Shock,3,7,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-38,150,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,311,100639,Deanna Nolan,1611661321,Detroit Shock,3,0,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-105,82,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,330,100639,Deanna Nolan,1611661321,Detroit Shock,4,7,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,5,155,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,367,100639,Deanna Nolan,1611661321,Detroit Shock,4,5,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,171,72,1,0,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700303,407,100639,Deanna Nolan,1611661321,Detroit Shock,4,1,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,207,63,1,1,20070911,PHO,DET,2007-08
+Shot Chart Detail,1040700304,44,100639,Deanna Nolan,1611661321,Detroit Shock,1,4,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-80,141,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,87,100639,Deanna Nolan,1611661321,Detroit Shock,1,1,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,49,209,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,110,100639,Deanna Nolan,1611661321,Detroit Shock,2,9,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-143,51,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,128,100639,Deanna Nolan,1611661321,Detroit Shock,2,7,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-149,31,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,157,100639,Deanna Nolan,1611661321,Detroit Shock,2,5,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,191,100639,Deanna Nolan,1611661321,Detroit Shock,2,1,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-97,125,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,238,100639,Deanna Nolan,1611661321,Detroit Shock,3,7,3,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,17,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,281,100639,Deanna Nolan,1611661321,Detroit Shock,3,3,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-85,115,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,313,100639,Deanna Nolan,1611661321,Detroit Shock,3,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-89,87,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,354,100639,Deanna Nolan,1611661321,Detroit Shock,4,3,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,52,202,1,0,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700304,389,100639,Deanna Nolan,1611661321,Detroit Shock,4,0,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-113,97,1,1,20070913,PHO,DET,2007-08
+Shot Chart Detail,1040700305,37,100639,Deanna Nolan,1611661321,Detroit Shock,1,5,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-145,46,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,41,100639,Deanna Nolan,1611661321,Detroit Shock,1,4,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,-3,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,75,100639,Deanna Nolan,1611661321,Detroit Shock,1,1,22,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,-3,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,107,100639,Deanna Nolan,1611661321,Detroit Shock,2,8,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,133,71,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,117,100639,Deanna Nolan,1611661321,Detroit Shock,2,7,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,115,197,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,148,100639,Deanna Nolan,1611661321,Detroit Shock,2,4,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,51,151,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,225,100639,Deanna Nolan,1611661321,Detroit Shock,3,8,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,149,56,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,233,100639,Deanna Nolan,1611661321,Detroit Shock,3,7,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-107,26,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,268,100639,Deanna Nolan,1611661321,Detroit Shock,3,4,20,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-5,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,281,100639,Deanna Nolan,1611661321,Detroit Shock,3,3,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-3,217,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,290,100639,Deanna Nolan,1611661321,Detroit Shock,3,2,33,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,13,74,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,331,100639,Deanna Nolan,1611661321,Detroit Shock,4,8,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-148,0,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,333,100639,Deanna Nolan,1611661321,Detroit Shock,4,8,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-145,181,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,342,100639,Deanna Nolan,1611661321,Detroit Shock,4,7,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,3,125,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,368,100639,Deanna Nolan,1611661321,Detroit Shock,4,4,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-125,87,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,370,100639,Deanna Nolan,1611661321,Detroit Shock,4,4,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,23,94,1,0,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,378,100639,Deanna Nolan,1611661321,Detroit Shock,4,4,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070916,DET,PHO,2007-08
+Shot Chart Detail,1040700305,394,100639,Deanna Nolan,1611661321,Detroit Shock,4,2,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-84,209,1,1,20070916,DET,PHO,2007-08

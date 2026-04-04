@@ -1,0 +1,451 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020700006,4,200676,Candice Dupree,1611661329,Chicago Sky,1,9,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070520,NYL,CHI,2007-08
+Shot Chart Detail,1020700006,56,200676,Candice Dupree,1611661329,Chicago Sky,1,4,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070520,NYL,CHI,2007-08
+Shot Chart Detail,1020700006,124,200676,Candice Dupree,1611661329,Chicago Sky,2,6,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,12,1,0,20070520,NYL,CHI,2007-08
+Shot Chart Detail,1020700006,133,200676,Candice Dupree,1611661329,Chicago Sky,2,5,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070520,NYL,CHI,2007-08
+Shot Chart Detail,1020700006,145,200676,Candice Dupree,1611661329,Chicago Sky,2,4,29,Missed Shot,Finger Roll Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,29,45,1,0,20070520,NYL,CHI,2007-08
+Shot Chart Detail,1020700006,151,200676,Candice Dupree,1611661329,Chicago Sky,2,3,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070520,NYL,CHI,2007-08
+Shot Chart Detail,1020700006,161,200676,Candice Dupree,1611661329,Chicago Sky,2,2,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070520,NYL,CHI,2007-08
+Shot Chart Detail,1020700006,168,200676,Candice Dupree,1611661329,Chicago Sky,2,2,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-125,84,1,0,20070520,NYL,CHI,2007-08
+Shot Chart Detail,1020700006,203,200676,Candice Dupree,1611661329,Chicago Sky,3,9,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070520,NYL,CHI,2007-08
+Shot Chart Detail,1020700006,225,200676,Candice Dupree,1611661329,Chicago Sky,3,6,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070520,NYL,CHI,2007-08
+Shot Chart Detail,1020700006,254,200676,Candice Dupree,1611661329,Chicago Sky,3,4,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-21,150,1,1,20070520,NYL,CHI,2007-08
+Shot Chart Detail,1020700006,287,200676,Candice Dupree,1611661329,Chicago Sky,3,1,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070520,NYL,CHI,2007-08
+Shot Chart Detail,1020700006,346,200676,Candice Dupree,1611661329,Chicago Sky,4,6,34,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-28,91,1,0,20070520,NYL,CHI,2007-08
+Shot Chart Detail,1020700006,364,200676,Candice Dupree,1611661329,Chicago Sky,4,4,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070520,NYL,CHI,2007-08
+Shot Chart Detail,1020700009,8,200676,Candice Dupree,1611661329,Chicago Sky,1,9,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,47,74,1,0,20070522,CHI,LAS,2007-08
+Shot Chart Detail,1020700009,56,200676,Candice Dupree,1611661329,Chicago Sky,1,4,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,8,1,0,20070522,CHI,LAS,2007-08
+Shot Chart Detail,1020700009,136,200676,Candice Dupree,1611661329,Chicago Sky,2,7,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-44,49,1,0,20070522,CHI,LAS,2007-08
+Shot Chart Detail,1020700009,160,200676,Candice Dupree,1611661329,Chicago Sky,2,4,28,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070522,CHI,LAS,2007-08
+Shot Chart Detail,1020700009,174,200676,Candice Dupree,1611661329,Chicago Sky,2,2,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,64,61,1,0,20070522,CHI,LAS,2007-08
+Shot Chart Detail,1020700009,211,200676,Candice Dupree,1611661329,Chicago Sky,3,9,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,103,40,1,0,20070522,CHI,LAS,2007-08
+Shot Chart Detail,1020700009,225,200676,Candice Dupree,1611661329,Chicago Sky,3,8,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,95,46,1,0,20070522,CHI,LAS,2007-08
+Shot Chart Detail,1020700009,426,200676,Candice Dupree,1611661329,Chicago Sky,3,4,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070522,CHI,LAS,2007-08
+Shot Chart Detail,1020700009,351,200676,Candice Dupree,1611661329,Chicago Sky,4,3,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,3,1,1,20070522,CHI,LAS,2007-08
+Shot Chart Detail,1020700016,32,200676,Candice Dupree,1611661329,Chicago Sky,1,6,58,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-15,71,1,1,20070525,MIN,CHI,2007-08
+Shot Chart Detail,1020700016,34,200676,Candice Dupree,1611661329,Chicago Sky,1,6,23,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070525,MIN,CHI,2007-08
+Shot Chart Detail,1020700016,42,200676,Candice Dupree,1611661329,Chicago Sky,1,5,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-125,35,1,1,20070525,MIN,CHI,2007-08
+Shot Chart Detail,1020700016,67,200676,Candice Dupree,1611661329,Chicago Sky,1,3,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,95,54,1,0,20070525,MIN,CHI,2007-08
+Shot Chart Detail,1020700016,72,200676,Candice Dupree,1611661329,Chicago Sky,1,1,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070525,MIN,CHI,2007-08
+Shot Chart Detail,1020700016,195,200676,Candice Dupree,1611661329,Chicago Sky,3,9,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070525,MIN,CHI,2007-08
+Shot Chart Detail,1020700016,211,200676,Candice Dupree,1611661329,Chicago Sky,3,8,21,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-21,48,1,1,20070525,MIN,CHI,2007-08
+Shot Chart Detail,1020700016,216,200676,Candice Dupree,1611661329,Chicago Sky,3,7,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-6,158,1,1,20070525,MIN,CHI,2007-08
+Shot Chart Detail,1020700016,218,200676,Candice Dupree,1611661329,Chicago Sky,3,6,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-11,146,1,1,20070525,MIN,CHI,2007-08
+Shot Chart Detail,1020700016,226,200676,Candice Dupree,1611661329,Chicago Sky,3,6,17,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-6,56,1,1,20070525,MIN,CHI,2007-08
+Shot Chart Detail,1020700016,234,200676,Candice Dupree,1611661329,Chicago Sky,3,5,16,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,28,1,1,20070525,MIN,CHI,2007-08
+Shot Chart Detail,1020700016,259,200676,Candice Dupree,1611661329,Chicago Sky,3,2,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070525,MIN,CHI,2007-08
+Shot Chart Detail,1020700016,262,200676,Candice Dupree,1611661329,Chicago Sky,3,2,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-39,86,1,0,20070525,MIN,CHI,2007-08
+Shot Chart Detail,1020700016,305,200676,Candice Dupree,1611661329,Chicago Sky,4,8,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,53,1,1,20070525,MIN,CHI,2007-08
+Shot Chart Detail,1020700016,360,200676,Candice Dupree,1611661329,Chicago Sky,4,4,10,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,74,36,1,1,20070525,MIN,CHI,2007-08
+Shot Chart Detail,1020700024,6,200676,Candice Dupree,1611661329,Chicago Sky,1,9,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-61,81,1,0,20070531,CHI,CON,2007-08
+Shot Chart Detail,1020700024,15,200676,Candice Dupree,1611661329,Chicago Sky,1,8,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070531,CHI,CON,2007-08
+Shot Chart Detail,1020700024,33,200676,Candice Dupree,1611661329,Chicago Sky,1,6,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070531,CHI,CON,2007-08
+Shot Chart Detail,1020700024,63,200676,Candice Dupree,1611661329,Chicago Sky,1,4,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,0,151,1,1,20070531,CHI,CON,2007-08
+Shot Chart Detail,1020700024,74,200676,Candice Dupree,1611661329,Chicago Sky,1,3,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,94,95,1,0,20070531,CHI,CON,2007-08
+Shot Chart Detail,1020700024,81,200676,Candice Dupree,1611661329,Chicago Sky,1,2,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,112,25,1,0,20070531,CHI,CON,2007-08
+Shot Chart Detail,1020700024,86,200676,Candice Dupree,1611661329,Chicago Sky,1,1,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070531,CHI,CON,2007-08
+Shot Chart Detail,1020700024,134,200676,Candice Dupree,1611661329,Chicago Sky,2,7,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-31,156,1,1,20070531,CHI,CON,2007-08
+Shot Chart Detail,1020700024,180,200676,Candice Dupree,1611661329,Chicago Sky,2,3,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070531,CHI,CON,2007-08
+Shot Chart Detail,1020700024,194,200676,Candice Dupree,1611661329,Chicago Sky,2,1,24,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,117,3,1,1,20070531,CHI,CON,2007-08
+Shot Chart Detail,1020700024,224,200676,Candice Dupree,1611661329,Chicago Sky,3,8,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-87,141,1,1,20070531,CHI,CON,2007-08
+Shot Chart Detail,1020700024,305,200676,Candice Dupree,1611661329,Chicago Sky,3,1,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,49,160,1,1,20070531,CHI,CON,2007-08
+Shot Chart Detail,1020700024,309,200676,Candice Dupree,1611661329,Chicago Sky,3,0,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,131,-1,1,0,20070531,CHI,CON,2007-08
+Shot Chart Detail,1020700024,345,200676,Candice Dupree,1611661329,Chicago Sky,4,7,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,10,179,1,0,20070531,CHI,CON,2007-08
+Shot Chart Detail,1020700024,366,200676,Candice Dupree,1611661329,Chicago Sky,4,5,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,71,110,1,0,20070531,CHI,CON,2007-08
+Shot Chart Detail,1020700024,389,200676,Candice Dupree,1611661329,Chicago Sky,4,3,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-39,107,1,1,20070531,CHI,CON,2007-08
+Shot Chart Detail,1020700024,400,200676,Candice Dupree,1611661329,Chicago Sky,4,2,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,62,163,1,1,20070531,CHI,CON,2007-08
+Shot Chart Detail,1020700024,416,200676,Candice Dupree,1611661329,Chicago Sky,4,0,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-154,-8,1,0,20070531,CHI,CON,2007-08
+Shot Chart Detail,1020700024,433,200676,Candice Dupree,1611661329,Chicago Sky,5,4,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,-13,1,0,20070531,CHI,CON,2007-08
+Shot Chart Detail,1020700024,454,200676,Candice Dupree,1611661329,Chicago Sky,5,1,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,56,171,1,0,20070531,CHI,CON,2007-08
+Shot Chart Detail,1020700024,476,200676,Candice Dupree,1611661329,Chicago Sky,5,0,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070531,CHI,CON,2007-08
+Shot Chart Detail,1020700024,484,200676,Candice Dupree,1611661329,Chicago Sky,5,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,149,197,1,0,20070531,CHI,CON,2007-08
+Shot Chart Detail,1020700025,9,200676,Candice Dupree,1611661329,Chicago Sky,1,9,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-77,-24,1,0,20070601,WAS,CHI,2007-08
+Shot Chart Detail,1020700025,15,200676,Candice Dupree,1611661329,Chicago Sky,1,8,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,59,10,1,0,20070601,WAS,CHI,2007-08
+Shot Chart Detail,1020700025,18,200676,Candice Dupree,1611661329,Chicago Sky,1,8,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-5,1,1,20070601,WAS,CHI,2007-08
+Shot Chart Detail,1020700025,36,200676,Candice Dupree,1611661329,Chicago Sky,1,6,41,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,33,51,1,1,20070601,WAS,CHI,2007-08
+Shot Chart Detail,1020700025,62,200676,Candice Dupree,1611661329,Chicago Sky,1,3,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-140,77,1,0,20070601,WAS,CHI,2007-08
+Shot Chart Detail,1020700025,71,200676,Candice Dupree,1611661329,Chicago Sky,1,2,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,-19,1,0,20070601,WAS,CHI,2007-08
+Shot Chart Detail,1020700025,153,200676,Candice Dupree,1611661329,Chicago Sky,2,5,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,11,22,1,0,20070601,WAS,CHI,2007-08
+Shot Chart Detail,1020700025,171,200676,Candice Dupree,1611661329,Chicago Sky,2,4,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,2,1,1,20070601,WAS,CHI,2007-08
+Shot Chart Detail,1020700025,233,200676,Candice Dupree,1611661329,Chicago Sky,3,9,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-87,132,1,1,20070601,WAS,CHI,2007-08
+Shot Chart Detail,1020700025,236,200676,Candice Dupree,1611661329,Chicago Sky,3,8,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-87,-32,1,1,20070601,WAS,CHI,2007-08
+Shot Chart Detail,1020700025,265,200676,Candice Dupree,1611661329,Chicago Sky,3,6,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-92,56,1,1,20070601,WAS,CHI,2007-08
+Shot Chart Detail,1020700025,281,200676,Candice Dupree,1611661329,Chicago Sky,3,4,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,52,-19,1,0,20070601,WAS,CHI,2007-08
+Shot Chart Detail,1020700025,376,200676,Candice Dupree,1611661329,Chicago Sky,4,6,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,0,1,1,20070601,WAS,CHI,2007-08
+Shot Chart Detail,1020700025,386,200676,Candice Dupree,1611661329,Chicago Sky,4,4,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,-3,1,1,20070601,WAS,CHI,2007-08
+Shot Chart Detail,1020700025,399,200676,Candice Dupree,1611661329,Chicago Sky,4,3,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,-32,1,1,20070601,WAS,CHI,2007-08
+Shot Chart Detail,1020700032,9,200676,Candice Dupree,1611661329,Chicago Sky,1,9,27,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-6,59,1,0,20070603,CHI,MIN,2007-08
+Shot Chart Detail,1020700032,15,200676,Candice Dupree,1611661329,Chicago Sky,1,8,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070603,CHI,MIN,2007-08
+Shot Chart Detail,1020700032,36,200676,Candice Dupree,1611661329,Chicago Sky,1,6,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-115,41,1,1,20070603,CHI,MIN,2007-08
+Shot Chart Detail,1020700032,51,200676,Candice Dupree,1611661329,Chicago Sky,1,4,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070603,CHI,MIN,2007-08
+Shot Chart Detail,1020700032,58,200676,Candice Dupree,1611661329,Chicago Sky,1,4,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-23,186,1,0,20070603,CHI,MIN,2007-08
+Shot Chart Detail,1020700032,77,200676,Candice Dupree,1611661329,Chicago Sky,1,2,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,112,7,1,0,20070603,CHI,MIN,2007-08
+Shot Chart Detail,1020700032,84,200676,Candice Dupree,1611661329,Chicago Sky,1,2,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-117,-13,1,1,20070603,CHI,MIN,2007-08
+Shot Chart Detail,1020700032,128,200676,Candice Dupree,1611661329,Chicago Sky,2,9,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,0,81,1,0,20070603,CHI,MIN,2007-08
+Shot Chart Detail,1020700032,175,200676,Candice Dupree,1611661329,Chicago Sky,2,6,21,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070603,CHI,MIN,2007-08
+Shot Chart Detail,1020700032,273,200676,Candice Dupree,1611661329,Chicago Sky,3,8,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070603,CHI,MIN,2007-08
+Shot Chart Detail,1020700032,356,200676,Candice Dupree,1611661329,Chicago Sky,3,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-5,181,1,0,20070603,CHI,MIN,2007-08
+Shot Chart Detail,1020700032,366,200676,Candice Dupree,1611661329,Chicago Sky,4,9,19,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070603,CHI,MIN,2007-08
+Shot Chart Detail,1020700032,408,200676,Candice Dupree,1611661329,Chicago Sky,4,5,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070603,CHI,MIN,2007-08
+Shot Chart Detail,1020700032,414,200676,Candice Dupree,1611661329,Chicago Sky,4,4,54,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070603,CHI,MIN,2007-08
+Shot Chart Detail,1020700032,445,200676,Candice Dupree,1611661329,Chicago Sky,4,1,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070603,CHI,MIN,2007-08
+Shot Chart Detail,1020700039,19,200676,Candice Dupree,1611661329,Chicago Sky,1,7,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070607,PHO,CHI,2007-08
+Shot Chart Detail,1020700039,26,200676,Candice Dupree,1611661329,Chicago Sky,1,6,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070607,PHO,CHI,2007-08
+Shot Chart Detail,1020700039,36,200676,Candice Dupree,1611661329,Chicago Sky,1,5,40,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,59,48,1,1,20070607,PHO,CHI,2007-08
+Shot Chart Detail,1020700039,125,200676,Candice Dupree,1611661329,Chicago Sky,2,6,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,77,128,1,0,20070607,PHO,CHI,2007-08
+Shot Chart Detail,1020700039,273,200676,Candice Dupree,1611661329,Chicago Sky,3,4,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070607,PHO,CHI,2007-08
+Shot Chart Detail,1020700039,293,200676,Candice Dupree,1611661329,Chicago Sky,3,2,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,82,138,1,0,20070607,PHO,CHI,2007-08
+Shot Chart Detail,1020700039,346,200676,Candice Dupree,1611661329,Chicago Sky,4,8,2,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-72,33,1,1,20070607,PHO,CHI,2007-08
+Shot Chart Detail,1020700039,356,200676,Candice Dupree,1611661329,Chicago Sky,4,6,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,-3,1,0,20070607,PHO,CHI,2007-08
+Shot Chart Detail,1020700044,18,200676,Candice Dupree,1611661329,Chicago Sky,1,6,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-57,138,1,0,20070609,SAN,CHI,2007-08
+Shot Chart Detail,1020700044,30,200676,Candice Dupree,1611661329,Chicago Sky,1,5,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-1,1,1,20070609,SAN,CHI,2007-08
+Shot Chart Detail,1020700044,35,200676,Candice Dupree,1611661329,Chicago Sky,1,5,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,0,1,0,20070609,SAN,CHI,2007-08
+Shot Chart Detail,1020700044,60,200676,Candice Dupree,1611661329,Chicago Sky,1,2,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,0,1,1,20070609,SAN,CHI,2007-08
+Shot Chart Detail,1020700044,85,200676,Candice Dupree,1611661329,Chicago Sky,2,9,27,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,71,33,1,1,20070609,SAN,CHI,2007-08
+Shot Chart Detail,1020700044,163,200676,Candice Dupree,1611661329,Chicago Sky,2,3,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,0,1,1,20070609,SAN,CHI,2007-08
+Shot Chart Detail,1020700044,172,200676,Candice Dupree,1611661329,Chicago Sky,2,2,5,Missed Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,12,1,0,20070609,SAN,CHI,2007-08
+Shot Chart Detail,1020700044,256,200676,Candice Dupree,1611661329,Chicago Sky,3,5,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,7,1,1,20070609,SAN,CHI,2007-08
+Shot Chart Detail,1020700044,343,200676,Candice Dupree,1611661329,Chicago Sky,4,7,43,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,15,33,1,0,20070609,SAN,CHI,2007-08
+Shot Chart Detail,1020700044,366,200676,Candice Dupree,1611661329,Chicago Sky,4,4,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,7,1,0,20070609,SAN,CHI,2007-08
+Shot Chart Detail,1020700044,372,200676,Candice Dupree,1611661329,Chicago Sky,4,4,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,85,-3,1,1,20070609,SAN,CHI,2007-08
+Shot Chart Detail,1020700044,382,200676,Candice Dupree,1611661329,Chicago Sky,4,2,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,3,1,1,20070609,SAN,CHI,2007-08
+Shot Chart Detail,1020700050,29,200676,Candice Dupree,1611661329,Chicago Sky,1,5,46,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,74,13,1,1,20070612,CHI,SEA,2007-08
+Shot Chart Detail,1020700050,46,200676,Candice Dupree,1611661329,Chicago Sky,1,4,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-159,0,1,0,20070612,CHI,SEA,2007-08
+Shot Chart Detail,1020700050,116,200676,Candice Dupree,1611661329,Chicago Sky,2,5,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070612,CHI,SEA,2007-08
+Shot Chart Detail,1020700050,122,200676,Candice Dupree,1611661329,Chicago Sky,2,4,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,117,-6,1,0,20070612,CHI,SEA,2007-08
+Shot Chart Detail,1020700050,173,200676,Candice Dupree,1611661329,Chicago Sky,3,9,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070612,CHI,SEA,2007-08
+Shot Chart Detail,1020700050,198,200676,Candice Dupree,1611661329,Chicago Sky,3,6,26,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,89,-5,1,0,20070612,CHI,SEA,2007-08
+Shot Chart Detail,1020700050,225,200676,Candice Dupree,1611661329,Chicago Sky,3,4,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070612,CHI,SEA,2007-08
+Shot Chart Detail,1020700050,228,200676,Candice Dupree,1611661329,Chicago Sky,3,3,54,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-115,26,1,1,20070612,CHI,SEA,2007-08
+Shot Chart Detail,1020700050,230,200676,Candice Dupree,1611661329,Chicago Sky,3,3,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-135,0,1,0,20070612,CHI,SEA,2007-08
+Shot Chart Detail,1020700050,233,200676,Candice Dupree,1611661329,Chicago Sky,3,3,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070612,CHI,SEA,2007-08
+Shot Chart Detail,1020700050,251,200676,Candice Dupree,1611661329,Chicago Sky,3,1,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,62,151,1,0,20070612,CHI,SEA,2007-08
+Shot Chart Detail,1020700050,265,200676,Candice Dupree,1611661329,Chicago Sky,3,0,42,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,52,74,1,1,20070612,CHI,SEA,2007-08
+Shot Chart Detail,1020700050,290,200676,Candice Dupree,1611661329,Chicago Sky,4,8,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070612,CHI,SEA,2007-08
+Shot Chart Detail,1020700050,335,200676,Candice Dupree,1611661329,Chicago Sky,4,4,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070612,CHI,SEA,2007-08
+Shot Chart Detail,1020700059,12,200676,Candice Dupree,1611661329,Chicago Sky,1,8,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070615,CHI,NYL,2007-08
+Shot Chart Detail,1020700059,19,200676,Candice Dupree,1611661329,Chicago Sky,1,7,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-6,71,1,0,20070615,CHI,NYL,2007-08
+Shot Chart Detail,1020700059,31,200676,Candice Dupree,1611661329,Chicago Sky,1,6,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070615,CHI,NYL,2007-08
+Shot Chart Detail,1020700059,52,200676,Candice Dupree,1611661329,Chicago Sky,1,4,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,26,163,1,0,20070615,CHI,NYL,2007-08
+Shot Chart Detail,1020700059,75,200676,Candice Dupree,1611661329,Chicago Sky,1,0,52,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-112,-5,1,1,20070615,CHI,NYL,2007-08
+Shot Chart Detail,1020700059,90,200676,Candice Dupree,1611661329,Chicago Sky,2,9,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070615,CHI,NYL,2007-08
+Shot Chart Detail,1020700059,100,200676,Candice Dupree,1611661329,Chicago Sky,2,8,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-156,0,1,1,20070615,CHI,NYL,2007-08
+Shot Chart Detail,1020700059,109,200676,Candice Dupree,1611661329,Chicago Sky,2,6,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070615,CHI,NYL,2007-08
+Shot Chart Detail,1020700059,150,200676,Candice Dupree,1611661329,Chicago Sky,2,2,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070615,CHI,NYL,2007-08
+Shot Chart Detail,1020700059,198,200676,Candice Dupree,1611661329,Chicago Sky,3,8,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070615,CHI,NYL,2007-08
+Shot Chart Detail,1020700059,232,200676,Candice Dupree,1611661329,Chicago Sky,3,5,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070615,CHI,NYL,2007-08
+Shot Chart Detail,1020700059,233,200676,Candice Dupree,1611661329,Chicago Sky,3,5,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070615,CHI,NYL,2007-08
+Shot Chart Detail,1020700059,251,200676,Candice Dupree,1611661329,Chicago Sky,3,3,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070615,CHI,NYL,2007-08
+Shot Chart Detail,1020700059,253,200676,Candice Dupree,1611661329,Chicago Sky,3,3,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070615,CHI,NYL,2007-08
+Shot Chart Detail,1020700059,263,200676,Candice Dupree,1611661329,Chicago Sky,3,2,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-95,35,1,1,20070615,CHI,NYL,2007-08
+Shot Chart Detail,1020700059,284,200676,Candice Dupree,1611661329,Chicago Sky,3,0,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070615,CHI,NYL,2007-08
+Shot Chart Detail,1020700059,356,200676,Candice Dupree,1611661329,Chicago Sky,4,3,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070615,CHI,NYL,2007-08
+Shot Chart Detail,1020700059,371,200676,Candice Dupree,1611661329,Chicago Sky,4,2,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,95,145,1,0,20070615,CHI,NYL,2007-08
+Shot Chart Detail,1020700059,373,200676,Candice Dupree,1611661329,Chicago Sky,4,2,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,92,186,1,0,20070615,CHI,NYL,2007-08
+Shot Chart Detail,1020700059,381,200676,Candice Dupree,1611661329,Chicago Sky,4,1,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-6,76,1,0,20070615,CHI,NYL,2007-08
+Shot Chart Detail,1020700065,36,200676,Candice Dupree,1611661329,Chicago Sky,1,5,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-92,74,1,0,20070617,CON,CHI,2007-08
+Shot Chart Detail,1020700065,39,200676,Candice Dupree,1611661329,Chicago Sky,1,5,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-143,40,1,1,20070617,CON,CHI,2007-08
+Shot Chart Detail,1020700065,50,200676,Candice Dupree,1611661329,Chicago Sky,1,3,42,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,36,1,0,20070617,CON,CHI,2007-08
+Shot Chart Detail,1020700065,54,200676,Candice Dupree,1611661329,Chicago Sky,1,3,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,117,0,1,1,20070617,CON,CHI,2007-08
+Shot Chart Detail,1020700067,2,200676,Candice Dupree,1611661329,Chicago Sky,1,9,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070619,CHI,SAC,2007-08
+Shot Chart Detail,1020700067,6,200676,Candice Dupree,1611661329,Chicago Sky,1,9,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-18,76,1,0,20070619,CHI,SAC,2007-08
+Shot Chart Detail,1020700067,80,200676,Candice Dupree,1611661329,Chicago Sky,1,2,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070619,CHI,SAC,2007-08
+Shot Chart Detail,1020700067,135,200676,Candice Dupree,1611661329,Chicago Sky,2,6,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070619,CHI,SAC,2007-08
+Shot Chart Detail,1020700067,139,200676,Candice Dupree,1611661329,Chicago Sky,2,5,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070619,CHI,SAC,2007-08
+Shot Chart Detail,1020700080,14,200676,Candice Dupree,1611661329,Chicago Sky,1,8,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-136,-5,1,0,20070623,CHI,WAS,2007-08
+Shot Chart Detail,1020700080,23,200676,Candice Dupree,1611661329,Chicago Sky,1,7,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-6,166,1,1,20070623,CHI,WAS,2007-08
+Shot Chart Detail,1020700080,45,200676,Candice Dupree,1611661329,Chicago Sky,1,4,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070623,CHI,WAS,2007-08
+Shot Chart Detail,1020700080,90,200676,Candice Dupree,1611661329,Chicago Sky,1,1,9,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,56,1,0,20070623,CHI,WAS,2007-08
+Shot Chart Detail,1020700080,126,200676,Candice Dupree,1611661329,Chicago Sky,2,6,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070623,CHI,WAS,2007-08
+Shot Chart Detail,1020700080,132,200676,Candice Dupree,1611661329,Chicago Sky,2,6,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,107,-5,1,0,20070623,CHI,WAS,2007-08
+Shot Chart Detail,1020700080,154,200676,Candice Dupree,1611661329,Chicago Sky,2,4,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070623,CHI,WAS,2007-08
+Shot Chart Detail,1020700080,156,200676,Candice Dupree,1611661329,Chicago Sky,2,4,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070623,CHI,WAS,2007-08
+Shot Chart Detail,1020700080,181,200676,Candice Dupree,1611661329,Chicago Sky,2,2,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,57,31,1,0,20070623,CHI,WAS,2007-08
+Shot Chart Detail,1020700080,200,200676,Candice Dupree,1611661329,Chicago Sky,2,1,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070623,CHI,WAS,2007-08
+Shot Chart Detail,1020700080,219,200676,Candice Dupree,1611661329,Chicago Sky,3,9,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,-6,1,0,20070623,CHI,WAS,2007-08
+Shot Chart Detail,1020700080,221,200676,Candice Dupree,1611661329,Chicago Sky,3,8,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070623,CHI,WAS,2007-08
+Shot Chart Detail,1020700080,228,200676,Candice Dupree,1611661329,Chicago Sky,3,7,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070623,CHI,WAS,2007-08
+Shot Chart Detail,1020700080,237,200676,Candice Dupree,1611661329,Chicago Sky,3,5,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070623,CHI,WAS,2007-08
+Shot Chart Detail,1020700080,324,200676,Candice Dupree,1611661329,Chicago Sky,4,6,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,22,1,0,20070623,CHI,WAS,2007-08
+Shot Chart Detail,1020700080,357,200676,Candice Dupree,1611661329,Chicago Sky,4,4,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,107,23,1,1,20070623,CHI,WAS,2007-08
+Shot Chart Detail,1020700080,364,200676,Candice Dupree,1611661329,Chicago Sky,4,3,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070623,CHI,WAS,2007-08
+Shot Chart Detail,1020700080,407,200676,Candice Dupree,1611661329,Chicago Sky,4,0,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,95,-6,1,1,20070623,CHI,WAS,2007-08
+Shot Chart Detail,1020700080,416,200676,Candice Dupree,1611661329,Chicago Sky,4,0,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,100,81,1,1,20070623,CHI,WAS,2007-08
+Shot Chart Detail,1020700087,17,200676,Candice Dupree,1611661329,Chicago Sky,1,7,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-43,17,1,0,20070626,SEA,CHI,2007-08
+Shot Chart Detail,1020700087,31,200676,Candice Dupree,1611661329,Chicago Sky,1,5,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-44,-1,1,0,20070626,SEA,CHI,2007-08
+Shot Chart Detail,1020700087,85,200676,Candice Dupree,1611661329,Chicago Sky,1,0,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,54,-11,1,0,20070626,SEA,CHI,2007-08
+Shot Chart Detail,1020700087,95,200676,Candice Dupree,1611661329,Chicago Sky,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,161,86,1,0,20070626,SEA,CHI,2007-08
+Shot Chart Detail,1020700087,105,200676,Candice Dupree,1611661329,Chicago Sky,2,8,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,17,1,1,20070626,SEA,CHI,2007-08
+Shot Chart Detail,1020700087,107,200676,Candice Dupree,1611661329,Chicago Sky,2,8,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,-3,1,1,20070626,SEA,CHI,2007-08
+Shot Chart Detail,1020700087,165,200676,Candice Dupree,1611661329,Chicago Sky,2,2,52,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,87,0,1,1,20070626,SEA,CHI,2007-08
+Shot Chart Detail,1020700087,226,200676,Candice Dupree,1611661329,Chicago Sky,3,8,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,26,151,1,1,20070626,SEA,CHI,2007-08
+Shot Chart Detail,1020700087,262,200676,Candice Dupree,1611661329,Chicago Sky,3,5,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,64,128,1,0,20070626,SEA,CHI,2007-08
+Shot Chart Detail,1020700087,269,200676,Candice Dupree,1611661329,Chicago Sky,3,5,4,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070626,SEA,CHI,2007-08
+Shot Chart Detail,1020700087,286,200676,Candice Dupree,1611661329,Chicago Sky,3,4,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,82,-1,1,0,20070626,SEA,CHI,2007-08
+Shot Chart Detail,1020700087,290,200676,Candice Dupree,1611661329,Chicago Sky,3,3,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070626,SEA,CHI,2007-08
+Shot Chart Detail,1020700087,314,200676,Candice Dupree,1611661329,Chicago Sky,3,1,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070626,SEA,CHI,2007-08
+Shot Chart Detail,1020700087,368,200676,Candice Dupree,1611661329,Chicago Sky,4,5,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,85,-6,1,0,20070626,SEA,CHI,2007-08
+Shot Chart Detail,1020700087,373,200676,Candice Dupree,1611661329,Chicago Sky,4,5,44,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,85,18,1,1,20070626,SEA,CHI,2007-08
+Shot Chart Detail,1020700095,6,200676,Candice Dupree,1611661329,Chicago Sky,1,8,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-130,102,1,0,20070629,SAC,CHI,2007-08
+Shot Chart Detail,1020700095,33,200676,Candice Dupree,1611661329,Chicago Sky,1,5,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070629,SAC,CHI,2007-08
+Shot Chart Detail,1020700095,64,200676,Candice Dupree,1611661329,Chicago Sky,1,2,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,5,1,0,20070629,SAC,CHI,2007-08
+Shot Chart Detail,1020700095,79,200676,Candice Dupree,1611661329,Chicago Sky,1,0,42,Made Shot,Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070629,SAC,CHI,2007-08
+Shot Chart Detail,1020700095,82,200676,Candice Dupree,1611661329,Chicago Sky,1,0,0,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070629,SAC,CHI,2007-08
+Shot Chart Detail,1020700095,87,200676,Candice Dupree,1611661329,Chicago Sky,2,9,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,3,77,1,0,20070629,SAC,CHI,2007-08
+Shot Chart Detail,1020700095,107,200676,Candice Dupree,1611661329,Chicago Sky,2,7,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,56,26,1,0,20070629,SAC,CHI,2007-08
+Shot Chart Detail,1020700095,171,200676,Candice Dupree,1611661329,Chicago Sky,2,1,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,8,1,1,20070629,SAC,CHI,2007-08
+Shot Chart Detail,1020700095,174,200676,Candice Dupree,1611661329,Chicago Sky,2,1,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070629,SAC,CHI,2007-08
+Shot Chart Detail,1020700095,179,200676,Candice Dupree,1611661329,Chicago Sky,2,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,98,12,1,1,20070629,SAC,CHI,2007-08
+Shot Chart Detail,1020700095,203,200676,Candice Dupree,1611661329,Chicago Sky,3,7,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070629,SAC,CHI,2007-08
+Shot Chart Detail,1020700095,206,200676,Candice Dupree,1611661329,Chicago Sky,3,7,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-135,33,1,0,20070629,SAC,CHI,2007-08
+Shot Chart Detail,1020700095,346,200676,Candice Dupree,1611661329,Chicago Sky,4,3,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,130,91,1,0,20070629,SAC,CHI,2007-08
+Shot Chart Detail,1020700095,395,200676,Candice Dupree,1611661329,Chicago Sky,5,3,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,74,8,1,0,20070629,SAC,CHI,2007-08
+Shot Chart Detail,1020700095,431,200676,Candice Dupree,1611661329,Chicago Sky,5,0,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070629,SAC,CHI,2007-08
+Shot Chart Detail,1020700101,5,200676,Candice Dupree,1611661329,Chicago Sky,1,8,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070701,LAS,CHI,2007-08
+Shot Chart Detail,1020700101,17,200676,Candice Dupree,1611661329,Chicago Sky,1,7,35,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070701,LAS,CHI,2007-08
+Shot Chart Detail,1020700101,32,200676,Candice Dupree,1611661329,Chicago Sky,1,5,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070701,LAS,CHI,2007-08
+Shot Chart Detail,1020700101,52,200676,Candice Dupree,1611661329,Chicago Sky,1,3,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070701,LAS,CHI,2007-08
+Shot Chart Detail,1020700101,121,200676,Candice Dupree,1611661329,Chicago Sky,2,7,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070701,LAS,CHI,2007-08
+Shot Chart Detail,1020700101,162,200676,Candice Dupree,1611661329,Chicago Sky,2,3,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070701,LAS,CHI,2007-08
+Shot Chart Detail,1020700101,164,200676,Candice Dupree,1611661329,Chicago Sky,2,2,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-71,141,1,0,20070701,LAS,CHI,2007-08
+Shot Chart Detail,1020700101,180,200676,Candice Dupree,1611661329,Chicago Sky,2,0,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,3,143,1,0,20070701,LAS,CHI,2007-08
+Shot Chart Detail,1020700101,189,200676,Candice Dupree,1611661329,Chicago Sky,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,48,-179,452,1,0,20070701,LAS,CHI,2007-08
+Shot Chart Detail,1020700101,195,200676,Candice Dupree,1611661329,Chicago Sky,3,9,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,15,77,132,1,0,20070701,LAS,CHI,2007-08
+Shot Chart Detail,1020700101,231,200676,Candice Dupree,1611661329,Chicago Sky,3,5,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070701,LAS,CHI,2007-08
+Shot Chart Detail,1020700101,288,200676,Candice Dupree,1611661329,Chicago Sky,3,0,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,80,10,1,0,20070701,LAS,CHI,2007-08
+Shot Chart Detail,1020700101,317,200676,Candice Dupree,1611661329,Chicago Sky,4,8,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070701,LAS,CHI,2007-08
+Shot Chart Detail,1020700101,326,200676,Candice Dupree,1611661329,Chicago Sky,4,7,10,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-97,3,1,1,20070701,LAS,CHI,2007-08
+Shot Chart Detail,1020700101,338,200676,Candice Dupree,1611661329,Chicago Sky,4,6,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-107,118,1,1,20070701,LAS,CHI,2007-08
+Shot Chart Detail,1020700101,375,200676,Candice Dupree,1611661329,Chicago Sky,4,1,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,128,-9,1,0,20070701,LAS,CHI,2007-08
+Shot Chart Detail,1020700101,396,200676,Candice Dupree,1611661329,Chicago Sky,4,0,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-136,76,1,1,20070701,LAS,CHI,2007-08
+Shot Chart Detail,1020700101,416,200676,Candice Dupree,1611661329,Chicago Sky,5,3,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070701,LAS,CHI,2007-08
+Shot Chart Detail,1020700101,425,200676,Candice Dupree,1611661329,Chicago Sky,5,2,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-62,53,1,0,20070701,LAS,CHI,2007-08
+Shot Chart Detail,1020700101,440,200676,Candice Dupree,1611661329,Chicago Sky,5,1,28,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,15,1,1,20070701,LAS,CHI,2007-08
+Shot Chart Detail,1020700101,455,200676,Candice Dupree,1611661329,Chicago Sky,5,0,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-135,8,1,0,20070701,LAS,CHI,2007-08
+Shot Chart Detail,1020700112,10,200676,Candice Dupree,1611661329,Chicago Sky,1,8,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070707,CHI,WAS,2007-08
+Shot Chart Detail,1020700112,15,200676,Candice Dupree,1611661329,Chicago Sky,1,8,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-108,30,1,1,20070707,CHI,WAS,2007-08
+Shot Chart Detail,1020700112,38,200676,Candice Dupree,1611661329,Chicago Sky,1,6,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070707,CHI,WAS,2007-08
+Shot Chart Detail,1020700112,43,200676,Candice Dupree,1611661329,Chicago Sky,1,4,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-122,114,1,1,20070707,CHI,WAS,2007-08
+Shot Chart Detail,1020700112,48,200676,Candice Dupree,1611661329,Chicago Sky,1,4,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-138,-1,1,0,20070707,CHI,WAS,2007-08
+Shot Chart Detail,1020700112,53,200676,Candice Dupree,1611661329,Chicago Sky,1,3,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070707,CHI,WAS,2007-08
+Shot Chart Detail,1020700112,55,200676,Candice Dupree,1611661329,Chicago Sky,1,3,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,36,61,1,1,20070707,CHI,WAS,2007-08
+Shot Chart Detail,1020700112,91,200676,Candice Dupree,1611661329,Chicago Sky,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-123,22,1,0,20070707,CHI,WAS,2007-08
+Shot Chart Detail,1020700112,128,200676,Candice Dupree,1611661329,Chicago Sky,2,7,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070707,CHI,WAS,2007-08
+Shot Chart Detail,1020700112,160,200676,Candice Dupree,1611661329,Chicago Sky,2,4,24,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-6,82,1,1,20070707,CHI,WAS,2007-08
+Shot Chart Detail,1020700112,189,200676,Candice Dupree,1611661329,Chicago Sky,2,1,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-118,105,1,0,20070707,CHI,WAS,2007-08
+Shot Chart Detail,1020700112,252,200676,Candice Dupree,1611661329,Chicago Sky,3,4,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070707,CHI,WAS,2007-08
+Shot Chart Detail,1020700112,260,200676,Candice Dupree,1611661329,Chicago Sky,3,3,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070707,CHI,WAS,2007-08
+Shot Chart Detail,1020700112,319,200676,Candice Dupree,1611661329,Chicago Sky,4,8,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070707,CHI,WAS,2007-08
+Shot Chart Detail,1020700112,354,200676,Candice Dupree,1611661329,Chicago Sky,4,6,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070707,CHI,WAS,2007-08
+Shot Chart Detail,1020700112,359,200676,Candice Dupree,1611661329,Chicago Sky,4,5,29,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-11,49,1,0,20070707,CHI,WAS,2007-08
+Shot Chart Detail,1020700112,383,200676,Candice Dupree,1611661329,Chicago Sky,4,2,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-87,141,1,0,20070707,CHI,WAS,2007-08
+Shot Chart Detail,1020700112,396,200676,Candice Dupree,1611661329,Chicago Sky,4,2,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070707,CHI,WAS,2007-08
+Shot Chart Detail,1020700112,422,200676,Candice Dupree,1611661329,Chicago Sky,4,0,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070707,CHI,WAS,2007-08
+Shot Chart Detail,1020700116,3,200676,Candice Dupree,1611661329,Chicago Sky,1,9,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,-28,1,0,20070708,IND,CHI,2007-08
+Shot Chart Detail,1020700116,10,200676,Candice Dupree,1611661329,Chicago Sky,1,8,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,84,107,1,0,20070708,IND,CHI,2007-08
+Shot Chart Detail,1020700116,126,200676,Candice Dupree,1611661329,Chicago Sky,2,7,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-57,-23,1,0,20070708,IND,CHI,2007-08
+Shot Chart Detail,1020700116,140,200676,Candice Dupree,1611661329,Chicago Sky,2,6,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-89,-32,1,0,20070708,IND,CHI,2007-08
+Shot Chart Detail,1020700116,176,200676,Candice Dupree,1611661329,Chicago Sky,2,2,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,6,148,1,1,20070708,IND,CHI,2007-08
+Shot Chart Detail,1020700116,184,200676,Candice Dupree,1611661329,Chicago Sky,2,1,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-77,0,1,0,20070708,IND,CHI,2007-08
+Shot Chart Detail,1020700116,197,200676,Candice Dupree,1611661329,Chicago Sky,2,0,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,20,148,1,0,20070708,IND,CHI,2007-08
+Shot Chart Detail,1020700116,205,200676,Candice Dupree,1611661329,Chicago Sky,3,9,46,Made Shot,Jump Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,20,1,1,20070708,IND,CHI,2007-08
+Shot Chart Detail,1020700116,214,200676,Candice Dupree,1611661329,Chicago Sky,3,8,46,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,13,1,0,20070708,IND,CHI,2007-08
+Shot Chart Detail,1020700116,248,200676,Candice Dupree,1611661329,Chicago Sky,3,4,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,-3,1,1,20070708,IND,CHI,2007-08
+Shot Chart Detail,1020700116,254,200676,Candice Dupree,1611661329,Chicago Sky,3,3,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,138,115,1,1,20070708,IND,CHI,2007-08
+Shot Chart Detail,1020700116,266,200676,Candice Dupree,1611661329,Chicago Sky,3,2,23,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,-19,1,0,20070708,IND,CHI,2007-08
+Shot Chart Detail,1020700116,268,200676,Candice Dupree,1611661329,Chicago Sky,3,2,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,-3,1,1,20070708,IND,CHI,2007-08
+Shot Chart Detail,1020700116,299,200676,Candice Dupree,1611661329,Chicago Sky,3,0,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-107,-32,1,0,20070708,IND,CHI,2007-08
+Shot Chart Detail,1020700120,28,200676,Candice Dupree,1611661329,Chicago Sky,1,6,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-72,84,1,0,20070710,DET,CHI,2007-08
+Shot Chart Detail,1020700120,58,200676,Candice Dupree,1611661329,Chicago Sky,1,3,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-138,3,1,1,20070710,DET,CHI,2007-08
+Shot Chart Detail,1020700120,60,200676,Candice Dupree,1611661329,Chicago Sky,1,3,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,-5,1,0,20070710,DET,CHI,2007-08
+Shot Chart Detail,1020700120,70,200676,Candice Dupree,1611661329,Chicago Sky,1,1,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,107,95,1,0,20070710,DET,CHI,2007-08
+Shot Chart Detail,1020700120,76,200676,Candice Dupree,1611661329,Chicago Sky,1,1,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070710,DET,CHI,2007-08
+Shot Chart Detail,1020700120,84,200676,Candice Dupree,1611661329,Chicago Sky,1,0,23,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-62,127,1,1,20070710,DET,CHI,2007-08
+Shot Chart Detail,1020700120,87,200676,Candice Dupree,1611661329,Chicago Sky,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,60,209,565,1,0,20070710,DET,CHI,2007-08
+Shot Chart Detail,1020700120,94,200676,Candice Dupree,1611661329,Chicago Sky,2,9,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070710,DET,CHI,2007-08
+Shot Chart Detail,1020700120,175,200676,Candice Dupree,1611661329,Chicago Sky,2,1,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,128,8,1,0,20070710,DET,CHI,2007-08
+Shot Chart Detail,1020700120,203,200676,Candice Dupree,1611661329,Chicago Sky,3,9,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-87,102,1,1,20070710,DET,CHI,2007-08
+Shot Chart Detail,1020700120,205,200676,Candice Dupree,1611661329,Chicago Sky,3,9,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,40,1,0,20070710,DET,CHI,2007-08
+Shot Chart Detail,1020700120,220,200676,Candice Dupree,1611661329,Chicago Sky,3,7,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070710,DET,CHI,2007-08
+Shot Chart Detail,1020700120,223,200676,Candice Dupree,1611661329,Chicago Sky,3,6,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-177,18,1,0,20070710,DET,CHI,2007-08
+Shot Chart Detail,1020700120,231,200676,Candice Dupree,1611661329,Chicago Sky,3,6,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,102,128,1,0,20070710,DET,CHI,2007-08
+Shot Chart Detail,1020700120,247,200676,Candice Dupree,1611661329,Chicago Sky,3,4,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070710,DET,CHI,2007-08
+Shot Chart Detail,1020700120,251,200676,Candice Dupree,1611661329,Chicago Sky,3,3,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070710,DET,CHI,2007-08
+Shot Chart Detail,1020700120,255,200676,Candice Dupree,1611661329,Chicago Sky,3,2,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-128,89,1,0,20070710,DET,CHI,2007-08
+Shot Chart Detail,1020700120,267,200676,Candice Dupree,1611661329,Chicago Sky,3,1,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,7,1,0,20070710,DET,CHI,2007-08
+Shot Chart Detail,1020700120,272,200676,Candice Dupree,1611661329,Chicago Sky,3,0,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070710,DET,CHI,2007-08
+Shot Chart Detail,1020700120,287,200676,Candice Dupree,1611661329,Chicago Sky,4,9,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070710,DET,CHI,2007-08
+Shot Chart Detail,1020700120,289,200676,Candice Dupree,1611661329,Chicago Sky,4,9,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,-1,1,0,20070710,DET,CHI,2007-08
+Shot Chart Detail,1020700120,307,200676,Candice Dupree,1611661329,Chicago Sky,4,7,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070710,DET,CHI,2007-08
+Shot Chart Detail,1020700120,319,200676,Candice Dupree,1611661329,Chicago Sky,4,5,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070710,DET,CHI,2007-08
+Shot Chart Detail,1020700120,337,200676,Candice Dupree,1611661329,Chicago Sky,4,3,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-31,84,1,0,20070710,DET,CHI,2007-08
+Shot Chart Detail,1020700120,353,200676,Candice Dupree,1611661329,Chicago Sky,4,2,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-118,87,1,0,20070710,DET,CHI,2007-08
+Shot Chart Detail,1020700120,357,200676,Candice Dupree,1611661329,Chicago Sky,4,1,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-107,10,1,0,20070710,DET,CHI,2007-08
+Shot Chart Detail,1020700126,10,200676,Candice Dupree,1611661329,Chicago Sky,1,9,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-20,71,1,1,20070712,CHI,DET,2007-08
+Shot Chart Detail,1020700126,39,200676,Candice Dupree,1611661329,Chicago Sky,1,6,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,15,1,1,20070712,CHI,DET,2007-08
+Shot Chart Detail,1020700126,42,200676,Candice Dupree,1611661329,Chicago Sky,1,6,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,0,114,1,0,20070712,CHI,DET,2007-08
+Shot Chart Detail,1020700126,66,200676,Candice Dupree,1611661329,Chicago Sky,1,3,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070712,CHI,DET,2007-08
+Shot Chart Detail,1020700126,95,200676,Candice Dupree,1611661329,Chicago Sky,1,0,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-90,64,1,0,20070712,CHI,DET,2007-08
+Shot Chart Detail,1020700126,147,200676,Candice Dupree,1611661329,Chicago Sky,2,5,5,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,3,125,1,1,20070712,CHI,DET,2007-08
+Shot Chart Detail,1020700126,162,200676,Candice Dupree,1611661329,Chicago Sky,2,3,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-46,104,1,0,20070712,CHI,DET,2007-08
+Shot Chart Detail,1020700126,164,200676,Candice Dupree,1611661329,Chicago Sky,2,2,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-154,-5,1,0,20070712,CHI,DET,2007-08
+Shot Chart Detail,1020700126,183,200676,Candice Dupree,1611661329,Chicago Sky,2,0,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,0,127,1,0,20070712,CHI,DET,2007-08
+Shot Chart Detail,1020700126,188,200676,Candice Dupree,1611661329,Chicago Sky,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-136,-5,1,0,20070712,CHI,DET,2007-08
+Shot Chart Detail,1020700126,196,200676,Candice Dupree,1611661329,Chicago Sky,3,9,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,125,51,1,0,20070712,CHI,DET,2007-08
+Shot Chart Detail,1020700126,218,200676,Candice Dupree,1611661329,Chicago Sky,3,6,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,77,150,1,0,20070712,CHI,DET,2007-08
+Shot Chart Detail,1020700126,225,200676,Candice Dupree,1611661329,Chicago Sky,3,6,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,-26,1,0,20070712,CHI,DET,2007-08
+Shot Chart Detail,1020700126,269,200676,Candice Dupree,1611661329,Chicago Sky,3,0,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-138,100,1,1,20070712,CHI,DET,2007-08
+Shot Chart Detail,1020700126,309,200676,Candice Dupree,1611661329,Chicago Sky,4,7,14,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070712,CHI,DET,2007-08
+Shot Chart Detail,1020700126,322,200676,Candice Dupree,1611661329,Chicago Sky,4,6,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-136,-9,1,1,20070712,CHI,DET,2007-08
+Shot Chart Detail,1020700126,347,200676,Candice Dupree,1611661329,Chicago Sky,4,3,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,98,56,1,0,20070712,CHI,DET,2007-08
+Shot Chart Detail,1020700133,32,200676,Candice Dupree,1611661329,Chicago Sky,1,5,38,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-13,122,1,1,20070718,IND,CHI,2007-08
+Shot Chart Detail,1020700133,101,200676,Candice Dupree,1611661329,Chicago Sky,2,8,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,-24,1,1,20070718,IND,CHI,2007-08
+Shot Chart Detail,1020700133,121,200676,Candice Dupree,1611661329,Chicago Sky,2,5,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,140,72,1,1,20070718,IND,CHI,2007-08
+Shot Chart Detail,1020700133,128,200676,Candice Dupree,1611661329,Chicago Sky,2,5,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,11,174,1,0,20070718,IND,CHI,2007-08
+Shot Chart Detail,1020700133,140,200676,Candice Dupree,1611661329,Chicago Sky,2,4,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,8,49,1,0,20070718,IND,CHI,2007-08
+Shot Chart Detail,1020700133,160,200676,Candice Dupree,1611661329,Chicago Sky,2,1,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,-26,1,0,20070718,IND,CHI,2007-08
+Shot Chart Detail,1020700133,229,200676,Candice Dupree,1611661329,Chicago Sky,3,5,28,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,66,125,1,1,20070718,IND,CHI,2007-08
+Shot Chart Detail,1020700133,292,200676,Candice Dupree,1611661329,Chicago Sky,4,9,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,-8,1,1,20070718,IND,CHI,2007-08
+Shot Chart Detail,1020700133,295,200676,Candice Dupree,1611661329,Chicago Sky,4,9,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,-23,1,0,20070718,IND,CHI,2007-08
+Shot Chart Detail,1020700133,297,200676,Candice Dupree,1611661329,Chicago Sky,4,8,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-44,45,1,0,20070718,IND,CHI,2007-08
+Shot Chart Detail,1020700133,316,200676,Candice Dupree,1611661329,Chicago Sky,4,6,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,107,77,1,0,20070718,IND,CHI,2007-08
+Shot Chart Detail,1020700133,360,200676,Candice Dupree,1611661329,Chicago Sky,4,1,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,118,123,1,0,20070718,IND,CHI,2007-08
+Shot Chart Detail,1020700141,4,200676,Candice Dupree,1611661329,Chicago Sky,1,9,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,15,54,1,0,20070721,CHI,IND,2007-08
+Shot Chart Detail,1020700141,8,200676,Candice Dupree,1611661329,Chicago Sky,1,8,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070721,CHI,IND,2007-08
+Shot Chart Detail,1020700141,11,200676,Candice Dupree,1611661329,Chicago Sky,1,7,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,79,77,1,0,20070721,CHI,IND,2007-08
+Shot Chart Detail,1020700141,24,200676,Candice Dupree,1611661329,Chicago Sky,1,6,16,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-69,35,1,1,20070721,CHI,IND,2007-08
+Shot Chart Detail,1020700141,30,200676,Candice Dupree,1611661329,Chicago Sky,1,4,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-28,173,1,1,20070721,CHI,IND,2007-08
+Shot Chart Detail,1020700141,32,200676,Candice Dupree,1611661329,Chicago Sky,1,4,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070721,CHI,IND,2007-08
+Shot Chart Detail,1020700141,71,200676,Candice Dupree,1611661329,Chicago Sky,1,1,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,-11,1,0,20070721,CHI,IND,2007-08
+Shot Chart Detail,1020700141,84,200676,Candice Dupree,1611661329,Chicago Sky,1,0,11,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-10,137,1,1,20070721,CHI,IND,2007-08
+Shot Chart Detail,1020700141,93,200676,Candice Dupree,1611661329,Chicago Sky,2,9,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-59,168,1,0,20070721,CHI,IND,2007-08
+Shot Chart Detail,1020700141,96,200676,Candice Dupree,1611661329,Chicago Sky,2,8,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070721,CHI,IND,2007-08
+Shot Chart Detail,1020700141,98,200676,Candice Dupree,1611661329,Chicago Sky,2,8,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-8,166,1,0,20070721,CHI,IND,2007-08
+Shot Chart Detail,1020700141,140,200676,Candice Dupree,1611661329,Chicago Sky,2,3,12,Missed Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-102,26,1,0,20070721,CHI,IND,2007-08
+Shot Chart Detail,1020700141,160,200676,Candice Dupree,1611661329,Chicago Sky,2,1,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070721,CHI,IND,2007-08
+Shot Chart Detail,1020700141,207,200676,Candice Dupree,1611661329,Chicago Sky,3,7,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-149,-23,1,0,20070721,CHI,IND,2007-08
+Shot Chart Detail,1020700141,214,200676,Candice Dupree,1611661329,Chicago Sky,3,6,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070721,CHI,IND,2007-08
+Shot Chart Detail,1020700141,320,200676,Candice Dupree,1611661329,Chicago Sky,4,7,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-17,84,1,0,20070721,CHI,IND,2007-08
+Shot Chart Detail,1020700141,341,200676,Candice Dupree,1611661329,Chicago Sky,4,4,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-51,95,1,0,20070721,CHI,IND,2007-08
+Shot Chart Detail,1020700141,354,200676,Candice Dupree,1611661329,Chicago Sky,4,2,32,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-36,115,1,1,20070721,CHI,IND,2007-08
+Shot Chart Detail,1020700141,362,200676,Candice Dupree,1611661329,Chicago Sky,4,1,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,133,68,1,0,20070721,CHI,IND,2007-08
+Shot Chart Detail,1020700144,48,200676,Candice Dupree,1611661329,Chicago Sky,1,4,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,44,40,1,0,20070722,CHI,SAN,2007-08
+Shot Chart Detail,1020700144,125,200676,Candice Dupree,1611661329,Chicago Sky,2,6,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070722,CHI,SAN,2007-08
+Shot Chart Detail,1020700144,129,200676,Candice Dupree,1611661329,Chicago Sky,2,5,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-148,10,1,0,20070722,CHI,SAN,2007-08
+Shot Chart Detail,1020700144,177,200676,Candice Dupree,1611661329,Chicago Sky,2,0,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-74,173,1,0,20070722,CHI,SAN,2007-08
+Shot Chart Detail,1020700144,202,200676,Candice Dupree,1611661329,Chicago Sky,3,8,6,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,28,58,1,0,20070722,CHI,SAN,2007-08
+Shot Chart Detail,1020700144,208,200676,Candice Dupree,1611661329,Chicago Sky,3,7,15,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-16,58,1,1,20070722,CHI,SAN,2007-08
+Shot Chart Detail,1020700144,236,200676,Candice Dupree,1611661329,Chicago Sky,3,4,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,10,1,0,20070722,CHI,SAN,2007-08
+Shot Chart Detail,1020700144,342,200676,Candice Dupree,1611661329,Chicago Sky,4,5,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070722,CHI,SAN,2007-08
+Shot Chart Detail,1020700144,361,200676,Candice Dupree,1611661329,Chicago Sky,4,2,53,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070722,CHI,SAN,2007-08
+Shot Chart Detail,1020700152,8,200676,Candice Dupree,1611661329,Chicago Sky,1,9,12,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,-8,1,1,20070726,DET,CHI,2007-08
+Shot Chart Detail,1020700152,22,200676,Candice Dupree,1611661329,Chicago Sky,1,7,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,-1,1,1,20070726,DET,CHI,2007-08
+Shot Chart Detail,1020700152,101,200676,Candice Dupree,1611661329,Chicago Sky,2,8,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,-3,1,0,20070726,DET,CHI,2007-08
+Shot Chart Detail,1020700152,135,200676,Candice Dupree,1611661329,Chicago Sky,2,4,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070726,DET,CHI,2007-08
+Shot Chart Detail,1020700152,214,200676,Candice Dupree,1611661329,Chicago Sky,3,8,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,0,146,1,0,20070726,DET,CHI,2007-08
+Shot Chart Detail,1020700152,217,200676,Candice Dupree,1611661329,Chicago Sky,3,7,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070726,DET,CHI,2007-08
+Shot Chart Detail,1020700152,253,200676,Candice Dupree,1611661329,Chicago Sky,3,3,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070726,DET,CHI,2007-08
+Shot Chart Detail,1020700152,339,200676,Candice Dupree,1611661329,Chicago Sky,4,6,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,-9,1,1,20070726,DET,CHI,2007-08
+Shot Chart Detail,1020700152,352,200676,Candice Dupree,1611661329,Chicago Sky,4,5,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070726,DET,CHI,2007-08
+Shot Chart Detail,1020700152,358,200676,Candice Dupree,1611661329,Chicago Sky,4,4,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-28,54,1,0,20070726,DET,CHI,2007-08
+Shot Chart Detail,1020700152,361,200676,Candice Dupree,1611661329,Chicago Sky,4,4,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,0,1,1,20070726,DET,CHI,2007-08
+Shot Chart Detail,1020700152,366,200676,Candice Dupree,1611661329,Chicago Sky,4,3,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-110,22,1,0,20070726,DET,CHI,2007-08
+Shot Chart Detail,1020700152,380,200676,Candice Dupree,1611661329,Chicago Sky,4,1,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-149,43,1,1,20070726,DET,CHI,2007-08
+Shot Chart Detail,1020700152,390,200676,Candice Dupree,1611661329,Chicago Sky,4,0,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-108,59,1,1,20070726,DET,CHI,2007-08
+Shot Chart Detail,1020700155,154,200676,Candice Dupree,1611661329,Chicago Sky,2,4,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,64,115,1,0,20070727,CHI,PHO,2007-08
+Shot Chart Detail,1020700155,164,200676,Candice Dupree,1611661329,Chicago Sky,2,4,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,25,1,1,20070727,CHI,PHO,2007-08
+Shot Chart Detail,1020700155,176,200676,Candice Dupree,1611661329,Chicago Sky,2,2,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070727,CHI,PHO,2007-08
+Shot Chart Detail,1020700155,216,200676,Candice Dupree,1611661329,Chicago Sky,3,9,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070727,CHI,PHO,2007-08
+Shot Chart Detail,1020700155,224,200676,Candice Dupree,1611661329,Chicago Sky,3,8,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070727,CHI,PHO,2007-08
+Shot Chart Detail,1020700155,254,200676,Candice Dupree,1611661329,Chicago Sky,3,5,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070727,CHI,PHO,2007-08
+Shot Chart Detail,1020700155,256,200676,Candice Dupree,1611661329,Chicago Sky,3,5,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070727,CHI,PHO,2007-08
+Shot Chart Detail,1020700155,283,200676,Candice Dupree,1611661329,Chicago Sky,3,3,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,131,7,1,0,20070727,CHI,PHO,2007-08
+Shot Chart Detail,1020700155,296,200676,Candice Dupree,1611661329,Chicago Sky,3,1,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070727,CHI,PHO,2007-08
+Shot Chart Detail,1020700161,26,200676,Candice Dupree,1611661329,Chicago Sky,1,7,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,5,1,0,20070729,CHI,HOU,2007-08
+Shot Chart Detail,1020700161,76,200676,Candice Dupree,1611661329,Chicago Sky,1,3,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,85,22,1,0,20070729,CHI,HOU,2007-08
+Shot Chart Detail,1020700161,80,200676,Candice Dupree,1611661329,Chicago Sky,1,2,22,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,1,66,1,0,20070729,CHI,HOU,2007-08
+Shot Chart Detail,1020700161,87,200676,Candice Dupree,1611661329,Chicago Sky,1,1,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-159,71,1,1,20070729,CHI,HOU,2007-08
+Shot Chart Detail,1020700161,189,200676,Candice Dupree,1611661329,Chicago Sky,2,3,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,13,1,1,20070729,CHI,HOU,2007-08
+Shot Chart Detail,1020700161,211,200676,Candice Dupree,1611661329,Chicago Sky,2,1,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070729,CHI,HOU,2007-08
+Shot Chart Detail,1020700161,236,200676,Candice Dupree,1611661329,Chicago Sky,3,8,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,66,146,1,0,20070729,CHI,HOU,2007-08
+Shot Chart Detail,1020700161,260,200676,Candice Dupree,1611661329,Chicago Sky,3,6,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070729,CHI,HOU,2007-08
+Shot Chart Detail,1020700161,276,200676,Candice Dupree,1611661329,Chicago Sky,3,5,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070729,CHI,HOU,2007-08
+Shot Chart Detail,1020700167,9,200676,Candice Dupree,1611661329,Chicago Sky,1,8,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,3,1,0,20070731,CON,CHI,2007-08
+Shot Chart Detail,1020700167,24,200676,Candice Dupree,1611661329,Chicago Sky,1,6,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-13,48,1,0,20070731,CON,CHI,2007-08
+Shot Chart Detail,1020700167,59,200676,Candice Dupree,1611661329,Chicago Sky,1,2,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-3,30,1,0,20070731,CON,CHI,2007-08
+Shot Chart Detail,1020700167,172,200676,Candice Dupree,1611661329,Chicago Sky,2,1,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,7,1,1,20070731,CON,CHI,2007-08
+Shot Chart Detail,1020700167,194,200676,Candice Dupree,1611661329,Chicago Sky,3,9,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-5,94,1,0,20070731,CON,CHI,2007-08
+Shot Chart Detail,1020700167,213,200676,Candice Dupree,1611661329,Chicago Sky,3,6,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,67,143,1,0,20070731,CON,CHI,2007-08
+Shot Chart Detail,1020700181,3,200676,Candice Dupree,1611661329,Chicago Sky,1,9,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,23,1,0,20070805,WAS,CHI,2007-08
+Shot Chart Detail,1020700181,12,200676,Candice Dupree,1611661329,Chicago Sky,1,8,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,13,1,0,20070805,WAS,CHI,2007-08
+Shot Chart Detail,1020700181,19,200676,Candice Dupree,1611661329,Chicago Sky,1,7,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,2,1,1,20070805,WAS,CHI,2007-08
+Shot Chart Detail,1020700181,33,200676,Candice Dupree,1611661329,Chicago Sky,1,5,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-57,41,1,0,20070805,WAS,CHI,2007-08
+Shot Chart Detail,1020700181,40,200676,Candice Dupree,1611661329,Chicago Sky,1,5,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,-41,1,1,20070805,WAS,CHI,2007-08
+Shot Chart Detail,1020700181,57,200676,Candice Dupree,1611661329,Chicago Sky,1,3,16,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,82,7,1,1,20070805,WAS,CHI,2007-08
+Shot Chart Detail,1020700181,96,200676,Candice Dupree,1611661329,Chicago Sky,2,8,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,15,148,1,1,20070805,WAS,CHI,2007-08
+Shot Chart Detail,1020700181,196,200676,Candice Dupree,1611661329,Chicago Sky,3,8,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-61,56,1,0,20070805,WAS,CHI,2007-08
+Shot Chart Detail,1020700181,207,200676,Candice Dupree,1611661329,Chicago Sky,3,7,13,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,5,1,1,20070805,WAS,CHI,2007-08
+Shot Chart Detail,1020700181,253,200676,Candice Dupree,1611661329,Chicago Sky,3,2,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,29,122,1,0,20070805,WAS,CHI,2007-08
+Shot Chart Detail,1020700181,263,200676,Candice Dupree,1611661329,Chicago Sky,3,1,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-28,-6,1,0,20070805,WAS,CHI,2007-08
+Shot Chart Detail,1020700181,308,200676,Candice Dupree,1611661329,Chicago Sky,4,8,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,-3,1,0,20070805,WAS,CHI,2007-08
+Shot Chart Detail,1020700181,349,200676,Candice Dupree,1611661329,Chicago Sky,4,3,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,89,105,1,1,20070805,WAS,CHI,2007-08
+Shot Chart Detail,1020700181,387,200676,Candice Dupree,1611661329,Chicago Sky,4,0,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-9,1,1,20070805,WAS,CHI,2007-08
+Shot Chart Detail,1020700186,25,200676,Candice Dupree,1611661329,Chicago Sky,1,6,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-16,100,1,0,20070807,CHI,IND,2007-08
+Shot Chart Detail,1020700186,82,200676,Candice Dupree,1611661329,Chicago Sky,2,9,21,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-108,25,1,1,20070807,CHI,IND,2007-08
+Shot Chart Detail,1020700186,89,200676,Candice Dupree,1611661329,Chicago Sky,2,7,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,-13,1,0,20070807,CHI,IND,2007-08
+Shot Chart Detail,1020700186,93,200676,Candice Dupree,1611661329,Chicago Sky,2,7,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070807,CHI,IND,2007-08
+Shot Chart Detail,1020700186,238,200676,Candice Dupree,1611661329,Chicago Sky,3,2,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,47,48,1,0,20070807,CHI,IND,2007-08
+Shot Chart Detail,1020700186,247,200676,Candice Dupree,1611661329,Chicago Sky,3,1,29,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-126,10,1,0,20070807,CHI,IND,2007-08
+Shot Chart Detail,1020700186,278,200676,Candice Dupree,1611661329,Chicago Sky,4,8,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-62,49,1,0,20070807,CHI,IND,2007-08
+Shot Chart Detail,1020700186,290,200676,Candice Dupree,1611661329,Chicago Sky,4,6,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-146,155,1,0,20070807,CHI,IND,2007-08
+Shot Chart Detail,1020700186,307,200676,Candice Dupree,1611661329,Chicago Sky,4,5,10,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070807,CHI,IND,2007-08
+Shot Chart Detail,1020700186,320,200676,Candice Dupree,1611661329,Chicago Sky,4,3,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-52,36,1,0,20070807,CHI,IND,2007-08
+Shot Chart Detail,1020700186,351,200676,Candice Dupree,1611661329,Chicago Sky,4,0,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-43,114,1,0,20070807,CHI,IND,2007-08
+Shot Chart Detail,1020700186,433,200676,Candice Dupree,1611661329,Chicago Sky,6,2,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070807,CHI,IND,2007-08
+Shot Chart Detail,1020700186,436,200676,Candice Dupree,1611661329,Chicago Sky,6,1,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-28,41,1,0,20070807,CHI,IND,2007-08
+Shot Chart Detail,1020700186,460,200676,Candice Dupree,1611661329,Chicago Sky,6,0,27,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-38,41,1,0,20070807,CHI,IND,2007-08
+Shot Chart Detail,1020700197,5,200676,Candice Dupree,1611661329,Chicago Sky,1,9,14,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-99,33,1,1,20070811,CHI,CON,2007-08
+Shot Chart Detail,1020700197,7,200676,Candice Dupree,1611661329,Chicago Sky,1,8,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-143,12,1,1,20070811,CHI,CON,2007-08
+Shot Chart Detail,1020700197,17,200676,Candice Dupree,1611661329,Chicago Sky,1,7,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-39,102,1,0,20070811,CHI,CON,2007-08
+Shot Chart Detail,1020700197,46,200676,Candice Dupree,1611661329,Chicago Sky,1,4,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-49,49,1,0,20070811,CHI,CON,2007-08
+Shot Chart Detail,1020700197,98,200676,Candice Dupree,1611661329,Chicago Sky,2,8,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070811,CHI,CON,2007-08
+Shot Chart Detail,1020700197,111,200676,Candice Dupree,1611661329,Chicago Sky,2,7,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070811,CHI,CON,2007-08
+Shot Chart Detail,1020700197,131,200676,Candice Dupree,1611661329,Chicago Sky,2,5,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070811,CHI,CON,2007-08
+Shot Chart Detail,1020700197,149,200676,Candice Dupree,1611661329,Chicago Sky,2,3,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070811,CHI,CON,2007-08
+Shot Chart Detail,1020700197,196,200676,Candice Dupree,1611661329,Chicago Sky,3,8,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,-19,1,0,20070811,CHI,CON,2007-08
+Shot Chart Detail,1020700197,225,200676,Candice Dupree,1611661329,Chicago Sky,3,3,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-154,0,1,1,20070811,CHI,CON,2007-08
+Shot Chart Detail,1020700197,323,200676,Candice Dupree,1611661329,Chicago Sky,4,3,50,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-135,-19,1,1,20070811,CHI,CON,2007-08
+Shot Chart Detail,1020700204,22,200676,Candice Dupree,1611661329,Chicago Sky,1,7,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-94,137,1,0,20070814,CHI,NYL,2007-08
+Shot Chart Detail,1020700204,27,200676,Candice Dupree,1611661329,Chicago Sky,1,6,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,2,1,0,20070814,CHI,NYL,2007-08
+Shot Chart Detail,1020700204,32,200676,Candice Dupree,1611661329,Chicago Sky,1,5,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-6,74,1,0,20070814,CHI,NYL,2007-08
+Shot Chart Detail,1020700204,62,200676,Candice Dupree,1611661329,Chicago Sky,1,1,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070814,CHI,NYL,2007-08
+Shot Chart Detail,1020700204,201,200676,Candice Dupree,1611661329,Chicago Sky,3,7,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070814,CHI,NYL,2007-08
+Shot Chart Detail,1020700204,218,200676,Candice Dupree,1611661329,Chicago Sky,3,5,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070814,CHI,NYL,2007-08
+Shot Chart Detail,1020700204,252,200676,Candice Dupree,1611661329,Chicago Sky,3,1,37,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070814,CHI,NYL,2007-08
+Shot Chart Detail,1020700204,262,200676,Candice Dupree,1611661329,Chicago Sky,3,0,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070814,CHI,NYL,2007-08
+Shot Chart Detail,1020700204,294,200676,Candice Dupree,1611661329,Chicago Sky,4,7,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-189,-28,1,0,20070814,CHI,NYL,2007-08
+Shot Chart Detail,1020700204,312,200676,Candice Dupree,1611661329,Chicago Sky,4,5,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070814,CHI,NYL,2007-08
+Shot Chart Detail,1020700204,330,200676,Candice Dupree,1611661329,Chicago Sky,4,4,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070814,CHI,NYL,2007-08
+Shot Chart Detail,1020700204,344,200676,Candice Dupree,1611661329,Chicago Sky,4,1,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-15,164,1,1,20070814,CHI,NYL,2007-08
+Shot Chart Detail,1020700210,19,200676,Candice Dupree,1611661329,Chicago Sky,1,7,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-122,128,1,1,20070816,HOU,CHI,2007-08
+Shot Chart Detail,1020700210,28,200676,Candice Dupree,1611661329,Chicago Sky,1,6,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,49,135,1,0,20070816,HOU,CHI,2007-08
+Shot Chart Detail,1020700210,32,200676,Candice Dupree,1611661329,Chicago Sky,1,6,5,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,38,1,1,20070816,HOU,CHI,2007-08
+Shot Chart Detail,1020700210,34,200676,Candice Dupree,1611661329,Chicago Sky,1,5,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070816,HOU,CHI,2007-08
+Shot Chart Detail,1020700210,57,200676,Candice Dupree,1611661329,Chicago Sky,1,3,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-2,166,1,0,20070816,HOU,CHI,2007-08
+Shot Chart Detail,1020700210,59,200676,Candice Dupree,1611661329,Chicago Sky,1,3,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070816,HOU,CHI,2007-08
+Shot Chart Detail,1020700210,62,200676,Candice Dupree,1611661329,Chicago Sky,1,3,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070816,HOU,CHI,2007-08
+Shot Chart Detail,1020700210,83,200676,Candice Dupree,1611661329,Chicago Sky,1,1,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-87,23,1,0,20070816,HOU,CHI,2007-08
+Shot Chart Detail,1020700210,144,200676,Candice Dupree,1611661329,Chicago Sky,2,4,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,135,89,1,0,20070816,HOU,CHI,2007-08
+Shot Chart Detail,1020700210,146,200676,Candice Dupree,1611661329,Chicago Sky,2,4,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070816,HOU,CHI,2007-08
+Shot Chart Detail,1020700210,229,200676,Candice Dupree,1611661329,Chicago Sky,3,7,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,1,150,1,0,20070816,HOU,CHI,2007-08
+Shot Chart Detail,1020700210,237,200676,Candice Dupree,1611661329,Chicago Sky,3,6,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070816,HOU,CHI,2007-08
+Shot Chart Detail,1020700210,308,200676,Candice Dupree,1611661329,Chicago Sky,4,8,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-128,23,1,0,20070816,HOU,CHI,2007-08
+Shot Chart Detail,1020700210,370,200676,Candice Dupree,1611661329,Chicago Sky,4,1,32,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070816,HOU,CHI,2007-08
+Shot Chart Detail,1020700217,3,200676,Candice Dupree,1611661329,Chicago Sky,1,9,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,23,1,0,20070819,NYL,CHI,2007-08
+Shot Chart Detail,1020700217,17,200676,Candice Dupree,1611661329,Chicago Sky,1,7,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070819,NYL,CHI,2007-08
+Shot Chart Detail,1020700217,308,200676,Candice Dupree,1611661329,Chicago Sky,3,9,10,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-73,17,1,1,20070819,NYL,CHI,2007-08
+Shot Chart Detail,1020700217,232,200676,Candice Dupree,1611661329,Chicago Sky,3,7,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070819,NYL,CHI,2007-08
+Shot Chart Detail,1020700217,239,200676,Candice Dupree,1611661329,Chicago Sky,3,6,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,-16,1,0,20070819,NYL,CHI,2007-08
+Shot Chart Detail,1020700217,337,200676,Candice Dupree,1611661329,Chicago Sky,4,7,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-74,28,1,0,20070819,NYL,CHI,2007-08
+Shot Chart Detail,1020700217,379,200676,Candice Dupree,1611661329,Chicago Sky,4,3,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070819,NYL,CHI,2007-08
+Shot Chart Detail,1020700217,404,200676,Candice Dupree,1611661329,Chicago Sky,4,0,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070819,NYL,CHI,2007-08

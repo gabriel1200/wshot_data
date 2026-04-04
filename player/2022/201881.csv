@@ -1,0 +1,9 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1022200009,21,201881,Angel McCoughtry,1611661324,Minnesota Lynx,1,8,10,Missed Shot,Driving Layup Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-102,107,1,0,20220508,MIN,WAS,2022-23
+Shot Chart Detail,1022200009,53,201881,Angel McCoughtry,1611661324,Minnesota Lynx,1,6,36,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,1,65,1,0,20220508,MIN,WAS,2022-23
+Shot Chart Detail,1022200009,153,201881,Angel McCoughtry,1611661324,Minnesota Lynx,1,0,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,17,1,1,20220508,MIN,WAS,2022-23
+Shot Chart Detail,1022200009,168,201881,Angel McCoughtry,1611661324,Minnesota Lynx,2,9,21,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,0,1,0,20220508,MIN,WAS,2022-23
+Shot Chart Detail,1022200009,184,201881,Angel McCoughtry,1611661324,Minnesota Lynx,2,8,5,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,132,109,1,0,20220508,MIN,WAS,2022-23
+Shot Chart Detail,1022200011,192,201881,Angel McCoughtry,1611661324,Minnesota Lynx,2,8,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,15,1,1,20220510,IND,MIN,2022-23
+Shot Chart Detail,1022200011,215,201881,Angel McCoughtry,1611661324,Minnesota Lynx,2,6,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,150,120,1,1,20220510,IND,MIN,2022-23
+Shot Chart Detail,1022200011,225,201881,Angel McCoughtry,1611661324,Minnesota Lynx,2,5,2,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-127,-4,1,0,20220510,IND,MIN,2022-23

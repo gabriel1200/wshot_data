@@ -1,0 +1,5 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1041400131,11,202251,Jayne Appel Marinelli,1611661319,San Antonio Stars,1,7,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14.0,-19.0,146.0,1,0,20140821,MIN,SAN,2014-15
+Shot Chart Detail,1041400131,130,202251,Jayne Appel Marinelli,1611661319,San Antonio Stars,2,4,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4.0,-10.0,39.0,1,0,20140821,MIN,SAN,2014-15
+Shot Chart Detail,1041400131,220,202251,Jayne Appel Marinelli,1611661319,San Antonio Stars,3,7,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0.0,-2.0,9.0,1,0,20140821,MIN,SAN,2014-15
+Shot Chart Detail,1041400132,205,202251,Jayne Appel Marinelli,1611661319,San Antonio Stars,3,9,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4.0,-8.0,42.0,1,0,20140823,SAN,MIN,2014-15

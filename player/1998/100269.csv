@@ -1,0 +1,261 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1029800005,11,100269,Carla Boyd,1611661321,Detroit Shock,1,18,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-154,160,1,0,19980613,DET,CHA,1998-99
+Shot Chart Detail,1029800005,19,100269,Carla Boyd,1611661321,Detroit Shock,1,17,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980613,DET,CHA,1998-99
+Shot Chart Detail,1029800005,133,100269,Carla Boyd,1611661321,Detroit Shock,1,6,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-169,166,1,0,19980613,DET,CHA,1998-99
+Shot Chart Detail,1029800005,146,100269,Carla Boyd,1611661321,Detroit Shock,1,4,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-143,3,1,1,19980613,DET,CHA,1998-99
+Shot Chart Detail,1029800005,235,100269,Carla Boyd,1611661321,Detroit Shock,2,15,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,218,66,1,0,19980613,DET,CHA,1998-99
+Shot Chart Detail,1029800005,239,100269,Carla Boyd,1611661321,Detroit Shock,2,15,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980613,DET,CHA,1998-99
+Shot Chart Detail,1029800005,257,100269,Carla Boyd,1611661321,Detroit Shock,2,13,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980613,DET,CHA,1998-99
+Shot Chart Detail,1029800005,279,100269,Carla Boyd,1611661321,Detroit Shock,2,11,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-147,181,1,1,19980613,DET,CHA,1998-99
+Shot Chart Detail,1029800005,309,100269,Carla Boyd,1611661321,Detroit Shock,2,8,51,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980613,DET,CHA,1998-99
+Shot Chart Detail,1029800005,319,100269,Carla Boyd,1611661321,Detroit Shock,2,7,29,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,216,14,1,0,19980613,DET,CHA,1998-99
+Shot Chart Detail,1029800005,393,100269,Carla Boyd,1611661321,Detroit Shock,2,1,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,201,85,1,0,19980613,DET,CHA,1998-99
+Shot Chart Detail,1029800005,406,100269,Carla Boyd,1611661321,Detroit Shock,2,0,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-31,227,1,0,19980613,DET,CHA,1998-99
+Shot Chart Detail,1029800005,431,100269,Carla Boyd,1611661321,Detroit Shock,2,0,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,20,188,93,1,1,19980613,DET,CHA,1998-99
+Shot Chart Detail,1029800005,433,100269,Carla Boyd,1611661321,Detroit Shock,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-141,175,1,0,19980613,DET,CHA,1998-99
+Shot Chart Detail,1029800010,26,100269,Carla Boyd,1611661321,Detroit Shock,1,16,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-209,96,1,1,19980615,DET,CLE,1998-99
+Shot Chart Detail,1029800010,63,100269,Carla Boyd,1611661321,Detroit Shock,1,12,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980615,DET,CLE,1998-99
+Shot Chart Detail,1029800010,125,100269,Carla Boyd,1611661321,Detroit Shock,1,5,40,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,-5,1,0,19980615,DET,CLE,1998-99
+Shot Chart Detail,1029800010,129,100269,Carla Boyd,1611661321,Detroit Shock,1,5,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980615,DET,CLE,1998-99
+Shot Chart Detail,1029800010,144,100269,Carla Boyd,1611661321,Detroit Shock,1,4,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980615,DET,CLE,1998-99
+Shot Chart Detail,1029800010,149,100269,Carla Boyd,1611661321,Detroit Shock,1,3,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,22,-220,59,1,1,19980615,DET,CLE,1998-99
+Shot Chart Detail,1029800010,155,100269,Carla Boyd,1611661321,Detroit Shock,1,3,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-166,149,1,0,19980615,DET,CLE,1998-99
+Shot Chart Detail,1029800010,233,100269,Carla Boyd,1611661321,Detroit Shock,1,2,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,63,53,1,0,19980615,DET,CLE,1998-99
+Shot Chart Detail,1029800010,242,100269,Carla Boyd,1611661321,Detroit Shock,1,1,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,134,0,1,1,19980615,DET,CLE,1998-99
+Shot Chart Detail,1029800010,193,100269,Carla Boyd,1611661321,Detroit Shock,1,1,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,33,1,0,19980615,DET,CLE,1998-99
+Shot Chart Detail,1029800010,247,100269,Carla Boyd,1611661321,Detroit Shock,1,1,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,14,1,1,19980615,DET,CLE,1998-99
+Shot Chart Detail,1029800010,345,100269,Carla Boyd,1611661321,Detroit Shock,2,8,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980615,DET,CLE,1998-99
+Shot Chart Detail,1029800014,28,100269,Carla Boyd,1611661321,Detroit Shock,1,16,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980618,CHA,DET,1998-99
+Shot Chart Detail,1029800014,45,100269,Carla Boyd,1611661321,Detroit Shock,1,14,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,134,-38,1,1,19980618,CHA,DET,1998-99
+Shot Chart Detail,1029800014,56,100269,Carla Boyd,1611661321,Detroit Shock,1,13,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,31,205,1,0,19980618,CHA,DET,1998-99
+Shot Chart Detail,1029800014,163,100269,Carla Boyd,1611661321,Detroit Shock,1,2,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,83,-31,1,1,19980618,CHA,DET,1998-99
+Shot Chart Detail,1029800014,168,100269,Carla Boyd,1611661321,Detroit Shock,1,1,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980618,CHA,DET,1998-99
+Shot Chart Detail,1029800014,205,100269,Carla Boyd,1611661321,Detroit Shock,1,0,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-139,-1,1,1,19980618,CHA,DET,1998-99
+Shot Chart Detail,1029800014,249,100269,Carla Boyd,1611661321,Detroit Shock,2,13,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,85,199,1,0,19980618,CHA,DET,1998-99
+Shot Chart Detail,1029800014,345,100269,Carla Boyd,1611661321,Detroit Shock,2,3,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,121,186,1,0,19980618,CHA,DET,1998-99
+Shot Chart Detail,1029800019,5,100269,Carla Boyd,1611661321,Detroit Shock,1,19,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-1,143,1,0,19980620,CLE,DET,1998-99
+Shot Chart Detail,1029800019,175,100269,Carla Boyd,1611661321,Detroit Shock,1,2,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-173,-1,1,1,19980620,CLE,DET,1998-99
+Shot Chart Detail,1029800019,190,100269,Carla Boyd,1611661321,Detroit Shock,1,1,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-6,149,1,0,19980620,CLE,DET,1998-99
+Shot Chart Detail,1029800019,266,100269,Carla Boyd,1611661321,Detroit Shock,2,15,30,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,20,207,16,1,0,19980620,CLE,DET,1998-99
+Shot Chart Detail,1029800019,275,100269,Carla Boyd,1611661321,Detroit Shock,2,14,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,29,1,1,19980620,CLE,DET,1998-99
+Shot Chart Detail,1029800019,296,100269,Carla Boyd,1611661321,Detroit Shock,2,12,9,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,57,1,1,19980620,CLE,DET,1998-99
+Shot Chart Detail,1029800019,321,100269,Carla Boyd,1611661321,Detroit Shock,2,9,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,119,68,1,0,19980620,CLE,DET,1998-99
+Shot Chart Detail,1029800019,399,100269,Carla Boyd,1611661321,Detroit Shock,2,1,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,5,1,1,19980620,CLE,DET,1998-99
+Shot Chart Detail,1029800019,439,100269,Carla Boyd,1611661321,Detroit Shock,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,18,1,0,19980620,CLE,DET,1998-99
+Shot Chart Detail,1029800022,13,100269,Carla Boyd,1611661321,Detroit Shock,1,18,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-177,-27,1,1,19980621,WAS,DET,1998-99
+Shot Chart Detail,1029800022,20,100269,Carla Boyd,1611661321,Detroit Shock,1,18,9,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-70,-3,1,1,19980621,WAS,DET,1998-99
+Shot Chart Detail,1029800022,70,100269,Carla Boyd,1611661321,Detroit Shock,1,12,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,81,111,1,0,19980621,WAS,DET,1998-99
+Shot Chart Detail,1029800022,107,100269,Carla Boyd,1611661321,Detroit Shock,1,10,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,70,-12,1,0,19980621,WAS,DET,1998-99
+Shot Chart Detail,1029800022,111,100269,Carla Boyd,1611661321,Detroit Shock,1,9,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,-12,1,1,19980621,WAS,DET,1998-99
+Shot Chart Detail,1029800022,161,100269,Carla Boyd,1611661321,Detroit Shock,1,4,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-132,-18,1,0,19980621,WAS,DET,1998-99
+Shot Chart Detail,1029800022,241,100269,Carla Boyd,1611661321,Detroit Shock,1,2,27,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,-29,1,1,19980621,WAS,DET,1998-99
+Shot Chart Detail,1029800022,301,100269,Carla Boyd,1611661321,Detroit Shock,2,9,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,27,10,1,0,19980621,WAS,DET,1998-99
+Shot Chart Detail,1029800027,34,100269,Carla Boyd,1611661321,Detroit Shock,1,16,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,-8,1,0,19980623,DET,SAC,1998-99
+Shot Chart Detail,1029800027,42,100269,Carla Boyd,1611661321,Detroit Shock,1,14,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-149,33,1,1,19980623,DET,SAC,1998-99
+Shot Chart Detail,1029800027,70,100269,Carla Boyd,1611661321,Detroit Shock,1,11,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-66,42,1,0,19980623,DET,SAC,1998-99
+Shot Chart Detail,1029800027,225,100269,Carla Boyd,1611661321,Detroit Shock,2,15,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980623,DET,SAC,1998-99
+Shot Chart Detail,1029800027,227,100269,Carla Boyd,1611661321,Detroit Shock,2,15,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980623,DET,SAC,1998-99
+Shot Chart Detail,1029800027,231,100269,Carla Boyd,1611661321,Detroit Shock,2,15,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,138,46,1,0,19980623,DET,SAC,1998-99
+Shot Chart Detail,1029800030,2,100269,Carla Boyd,1611661321,Detroit Shock,1,19,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-117,36,1,1,19980625,DET,WAS,1998-99
+Shot Chart Detail,1029800030,4,100269,Carla Boyd,1611661321,Detroit Shock,1,19,17,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-46,66,1,1,19980625,DET,WAS,1998-99
+Shot Chart Detail,1029800030,13,100269,Carla Boyd,1611661321,Detroit Shock,1,17,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,151,166,1,0,19980625,DET,WAS,1998-99
+Shot Chart Detail,1029800030,46,100269,Carla Boyd,1611661321,Detroit Shock,1,13,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980625,DET,WAS,1998-99
+Shot Chart Detail,1029800030,58,100269,Carla Boyd,1611661321,Detroit Shock,1,11,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,106,188,1,0,19980625,DET,WAS,1998-99
+Shot Chart Detail,1029800030,142,100269,Carla Boyd,1611661321,Detroit Shock,1,3,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-14,126,1,0,19980625,DET,WAS,1998-99
+Shot Chart Detail,1029800030,146,100269,Carla Boyd,1611661321,Detroit Shock,1,2,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,87,23,1,0,19980625,DET,WAS,1998-99
+Shot Chart Detail,1029800030,189,100269,Carla Boyd,1611661321,Detroit Shock,1,1,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,93,55,1,0,19980625,DET,WAS,1998-99
+Shot Chart Detail,1029800030,215,100269,Carla Boyd,1611661321,Detroit Shock,2,14,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,145,10,1,0,19980625,DET,WAS,1998-99
+Shot Chart Detail,1029800030,217,100269,Carla Boyd,1611661321,Detroit Shock,2,14,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980625,DET,WAS,1998-99
+Shot Chart Detail,1029800030,243,100269,Carla Boyd,1611661321,Detroit Shock,2,11,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980625,DET,WAS,1998-99
+Shot Chart Detail,1029800030,255,100269,Carla Boyd,1611661321,Detroit Shock,2,10,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,211,74,1,0,19980625,DET,WAS,1998-99
+Shot Chart Detail,1029800030,304,100269,Carla Boyd,1611661321,Detroit Shock,2,4,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,119,53,1,0,19980625,DET,WAS,1998-99
+Shot Chart Detail,1029800030,327,100269,Carla Boyd,1611661321,Detroit Shock,2,2,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980625,DET,WAS,1998-99
+Shot Chart Detail,1029800035,5,100269,Carla Boyd,1611661321,Detroit Shock,1,19,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,-8,1,1,19980627,CLE,DET,1998-99
+Shot Chart Detail,1029800035,80,100269,Carla Boyd,1611661321,Detroit Shock,1,17,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,119,35,1,0,19980627,CLE,DET,1998-99
+Shot Chart Detail,1029800035,47,100269,Carla Boyd,1611661321,Detroit Shock,1,15,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,0,1,0,19980627,CLE,DET,1998-99
+Shot Chart Detail,1029800035,55,100269,Carla Boyd,1611661321,Detroit Shock,1,14,49,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,18,33,1,0,19980627,CLE,DET,1998-99
+Shot Chart Detail,1029800035,86,100269,Carla Boyd,1611661321,Detroit Shock,1,10,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,156,136,1,1,19980627,CLE,DET,1998-99
+Shot Chart Detail,1029800035,213,100269,Carla Boyd,1611661321,Detroit Shock,1,0,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-3,-10,1,0,19980627,CLE,DET,1998-99
+Shot Chart Detail,1029800035,302,100269,Carla Boyd,1611661321,Detroit Shock,2,10,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-2,70,1,0,19980627,CLE,DET,1998-99
+Shot Chart Detail,1029800039,9,100269,Carla Boyd,1611661321,Detroit Shock,1,18,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,87,201,1,0,19980629,DET,CHA,1998-99
+Shot Chart Detail,1029800039,156,100269,Carla Boyd,1611661321,Detroit Shock,1,1,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,59,100,1,0,19980629,DET,CHA,1998-99
+Shot Chart Detail,1029800039,200,100269,Carla Boyd,1611661321,Detroit Shock,1,1,15,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,21,1,0,19980629,DET,CHA,1998-99
+Shot Chart Detail,1029800039,218,100269,Carla Boyd,1611661321,Detroit Shock,2,15,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,16,57,1,0,19980629,DET,CHA,1998-99
+Shot Chart Detail,1029800044,7,100269,Carla Boyd,1611661321,Detroit Shock,1,19,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,123,169,1,0,19980701,DET,NYL,1998-99
+Shot Chart Detail,1029800044,16,100269,Carla Boyd,1611661321,Detroit Shock,1,18,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-162,12,1,0,19980701,DET,NYL,1998-99
+Shot Chart Detail,1029800044,89,100269,Carla Boyd,1611661321,Detroit Shock,1,10,22,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-68,63,1,0,19980701,DET,NYL,1998-99
+Shot Chart Detail,1029800044,99,100269,Carla Boyd,1611661321,Detroit Shock,1,9,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,8,1,0,19980701,DET,NYL,1998-99
+Shot Chart Detail,1029800044,190,100269,Carla Boyd,1611661321,Detroit Shock,1,2,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980701,DET,NYL,1998-99
+Shot Chart Detail,1029800044,192,100269,Carla Boyd,1611661321,Detroit Shock,1,1,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980701,DET,NYL,1998-99
+Shot Chart Detail,1029800044,234,100269,Carla Boyd,1611661321,Detroit Shock,2,14,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,14,1,1,19980701,DET,NYL,1998-99
+Shot Chart Detail,1029800044,405,100269,Carla Boyd,1611661321,Detroit Shock,2,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,128,1,1,1,19980701,DET,NYL,1998-99
+Shot Chart Detail,1029800052,5,100269,Carla Boyd,1611661321,Detroit Shock,1,19,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,20,199,40,1,0,19980706,NYL,DET,1998-99
+Shot Chart Detail,1029800052,19,100269,Carla Boyd,1611661321,Detroit Shock,1,17,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,51,33,1,0,19980706,NYL,DET,1998-99
+Shot Chart Detail,1029800052,26,100269,Carla Boyd,1611661321,Detroit Shock,1,17,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980706,NYL,DET,1998-99
+Shot Chart Detail,1029800052,129,100269,Carla Boyd,1611661321,Detroit Shock,1,6,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-134,8,1,0,19980706,NYL,DET,1998-99
+Shot Chart Detail,1029800052,141,100269,Carla Boyd,1611661321,Detroit Shock,1,6,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980706,NYL,DET,1998-99
+Shot Chart Detail,1029800052,144,100269,Carla Boyd,1611661321,Detroit Shock,1,6,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980706,NYL,DET,1998-99
+Shot Chart Detail,1029800052,199,100269,Carla Boyd,1611661321,Detroit Shock,1,3,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980706,NYL,DET,1998-99
+Shot Chart Detail,1029800052,251,100269,Carla Boyd,1611661321,Detroit Shock,2,14,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-109,40,1,0,19980706,NYL,DET,1998-99
+Shot Chart Detail,1029800052,351,100269,Carla Boyd,1611661321,Detroit Shock,2,5,23,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-68,20,1,1,19980706,NYL,DET,1998-99
+Shot Chart Detail,1029800058,73,100269,Carla Boyd,1611661321,Detroit Shock,1,13,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980708,DET,PHO,1998-99
+Shot Chart Detail,1029800058,90,100269,Carla Boyd,1611661321,Detroit Shock,1,11,33,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-72,76,1,1,19980708,DET,PHO,1998-99
+Shot Chart Detail,1029800058,102,100269,Carla Boyd,1611661321,Detroit Shock,1,10,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-147,171,1,0,19980708,DET,PHO,1998-99
+Shot Chart Detail,1029800058,136,100269,Carla Boyd,1611661321,Detroit Shock,1,7,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980708,DET,PHO,1998-99
+Shot Chart Detail,1029800058,145,100269,Carla Boyd,1611661321,Detroit Shock,1,6,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-117,68,1,0,19980708,DET,PHO,1998-99
+Shot Chart Detail,1029800058,156,100269,Carla Boyd,1611661321,Detroit Shock,1,5,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-214,149,1,1,19980708,DET,PHO,1998-99
+Shot Chart Detail,1029800058,181,100269,Carla Boyd,1611661321,Detroit Shock,1,2,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980708,DET,PHO,1998-99
+Shot Chart Detail,1029800058,183,100269,Carla Boyd,1611661321,Detroit Shock,1,2,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980708,DET,PHO,1998-99
+Shot Chart Detail,1029800058,200,100269,Carla Boyd,1611661321,Detroit Shock,1,0,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,23,-220,89,1,1,19980708,DET,PHO,1998-99
+Shot Chart Detail,1029800058,294,100269,Carla Boyd,1611661321,Detroit Shock,2,11,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-36,85,1,0,19980708,DET,PHO,1998-99
+Shot Chart Detail,1029800058,390,100269,Carla Boyd,1611661321,Detroit Shock,2,3,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980708,DET,PHO,1998-99
+Shot Chart Detail,1029800058,422,100269,Carla Boyd,1611661321,Detroit Shock,2,0,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-212,76,1,1,19980708,DET,PHO,1998-99
+Shot Chart Detail,1029800061,99,100269,Carla Boyd,1611661321,Detroit Shock,1,8,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,20,194,70,1,0,19980709,HOU,DET,1998-99
+Shot Chart Detail,1029800061,161,100269,Carla Boyd,1611661321,Detroit Shock,1,5,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-111,-8,1,0,19980709,HOU,DET,1998-99
+Shot Chart Detail,1029800061,292,100269,Carla Boyd,1611661321,Detroit Shock,2,12,58,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980709,HOU,DET,1998-99
+Shot Chart Detail,1029800061,357,100269,Carla Boyd,1611661321,Detroit Shock,2,6,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-145,96,1,0,19980709,HOU,DET,1998-99
+Shot Chart Detail,1029800061,377,100269,Carla Boyd,1611661321,Detroit Shock,2,5,4,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-28,25,1,0,19980709,HOU,DET,1998-99
+Shot Chart Detail,1029800064,59,100269,Carla Boyd,1611661321,Detroit Shock,1,13,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,-25,1,0,19980711,WAS,DET,1998-99
+Shot Chart Detail,1029800064,85,100269,Carla Boyd,1611661321,Detroit Shock,1,11,2,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,211,-33,1,0,19980711,WAS,DET,1998-99
+Shot Chart Detail,1029800064,220,100269,Carla Boyd,1611661321,Detroit Shock,1,0,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,20,171,121,1,0,19980711,WAS,DET,1998-99
+Shot Chart Detail,1029800064,297,100269,Carla Boyd,1611661321,Detroit Shock,2,13,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,175,-16,1,0,19980711,WAS,DET,1998-99
+Shot Chart Detail,1029800064,305,100269,Carla Boyd,1611661321,Detroit Shock,2,12,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,1,132,1,0,19980711,WAS,DET,1998-99
+Shot Chart Detail,1029800069,91,100269,Carla Boyd,1611661321,Detroit Shock,1,8,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980713,UTA,DET,1998-99
+Shot Chart Detail,1029800069,146,100269,Carla Boyd,1611661321,Detroit Shock,1,3,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,20,-171,117,1,0,19980713,UTA,DET,1998-99
+Shot Chart Detail,1029800069,245,100269,Carla Boyd,1611661321,Detroit Shock,2,15,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980713,UTA,DET,1998-99
+Shot Chart Detail,1029800069,316,100269,Carla Boyd,1611661321,Detroit Shock,2,9,52,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,20,-205,3,1,0,19980713,UTA,DET,1998-99
+Shot Chart Detail,1029800069,366,100269,Carla Boyd,1611661321,Detroit Shock,2,5,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980713,UTA,DET,1998-99
+Shot Chart Detail,1029800069,420,100269,Carla Boyd,1611661321,Detroit Shock,2,0,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,136,160,1,0,19980713,UTA,DET,1998-99
+Shot Chart Detail,1029800073,57,100269,Carla Boyd,1611661321,Detroit Shock,1,14,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,44,44,1,0,19980715,PHO,DET,1998-99
+Shot Chart Detail,1029800073,61,100269,Carla Boyd,1611661321,Detroit Shock,1,13,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,76,59,1,0,19980715,PHO,DET,1998-99
+Shot Chart Detail,1029800073,375,100269,Carla Boyd,1611661321,Detroit Shock,2,3,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980715,PHO,DET,1998-99
+Shot Chart Detail,1029800077,58,100269,Carla Boyd,1611661321,Detroit Shock,1,12,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,83,85,1,0,19980717,DET,UTA,1998-99
+Shot Chart Detail,1029800077,71,100269,Carla Boyd,1611661321,Detroit Shock,1,10,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-18,139,1,0,19980717,DET,UTA,1998-99
+Shot Chart Detail,1029800077,75,100269,Carla Boyd,1611661321,Detroit Shock,1,10,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,106,81,1,0,19980717,DET,UTA,1998-99
+Shot Chart Detail,1029800077,114,100269,Carla Boyd,1611661321,Detroit Shock,1,5,38,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,74,18,1,1,19980717,DET,UTA,1998-99
+Shot Chart Detail,1029800077,196,100269,Carla Boyd,1611661321,Detroit Shock,1,2,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980717,DET,UTA,1998-99
+Shot Chart Detail,1029800077,211,100269,Carla Boyd,1611661321,Detroit Shock,1,1,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,0,154,1,1,19980717,DET,UTA,1998-99
+Shot Chart Detail,1029800077,225,100269,Carla Boyd,1611661321,Detroit Shock,1,0,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,61,40,1,0,19980717,DET,UTA,1998-99
+Shot Chart Detail,1029800077,348,100269,Carla Boyd,1611661321,Detroit Shock,2,3,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,14,1,0,19980717,DET,UTA,1998-99
+Shot Chart Detail,1029800077,357,100269,Carla Boyd,1611661321,Detroit Shock,2,3,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,115,91,1,0,19980717,DET,UTA,1998-99
+Shot Chart Detail,1029800077,368,100269,Carla Boyd,1611661321,Detroit Shock,2,2,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980717,DET,UTA,1998-99
+Shot Chart Detail,1029800077,370,100269,Carla Boyd,1611661321,Detroit Shock,2,1,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,111,63,1,1,19980717,DET,UTA,1998-99
+Shot Chart Detail,1029800079,5,100269,Carla Boyd,1611661321,Detroit Shock,1,19,16,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,3,1,1,19980718,DET,CLE,1998-99
+Shot Chart Detail,1029800079,34,100269,Carla Boyd,1611661321,Detroit Shock,1,15,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-205,93,1,0,19980718,DET,CLE,1998-99
+Shot Chart Detail,1029800079,90,100269,Carla Boyd,1611661321,Detroit Shock,1,9,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,190,115,1,0,19980718,DET,CLE,1998-99
+Shot Chart Detail,1029800079,288,100269,Carla Boyd,1611661321,Detroit Shock,2,9,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980718,DET,CLE,1998-99
+Shot Chart Detail,1029800079,301,100269,Carla Boyd,1611661321,Detroit Shock,2,8,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,8,145,1,0,19980718,DET,CLE,1998-99
+Shot Chart Detail,1029800079,321,100269,Carla Boyd,1611661321,Detroit Shock,2,6,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980718,DET,CLE,1998-99
+Shot Chart Detail,1029800079,327,100269,Carla Boyd,1611661321,Detroit Shock,2,5,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980718,DET,CLE,1998-99
+Shot Chart Detail,1029800079,346,100269,Carla Boyd,1611661321,Detroit Shock,2,4,5,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-1,128,1,1,19980718,DET,CLE,1998-99
+Shot Chart Detail,1029800089,9,100269,Carla Boyd,1611661321,Detroit Shock,1,19,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,-5,1,0,19980722,DET,WAS,1998-99
+Shot Chart Detail,1029800089,36,100269,Carla Boyd,1611661321,Detroit Shock,1,16,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,128,63,1,0,19980722,DET,WAS,1998-99
+Shot Chart Detail,1029800089,45,100269,Carla Boyd,1611661321,Detroit Shock,1,14,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,78,119,1,1,19980722,DET,WAS,1998-99
+Shot Chart Detail,1029800089,48,100269,Carla Boyd,1611661321,Detroit Shock,1,14,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-91,124,1,0,19980722,DET,WAS,1998-99
+Shot Chart Detail,1029800089,52,100269,Carla Boyd,1611661321,Detroit Shock,1,13,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980722,DET,WAS,1998-99
+Shot Chart Detail,1029800089,65,100269,Carla Boyd,1611661321,Detroit Shock,1,12,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-218,53,1,1,19980722,DET,WAS,1998-99
+Shot Chart Detail,1029800089,98,100269,Carla Boyd,1611661321,Detroit Shock,1,9,49,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-89,91,1,0,19980722,DET,WAS,1998-99
+Shot Chart Detail,1029800089,110,100269,Carla Boyd,1611661321,Detroit Shock,1,8,56,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-3,115,1,0,19980722,DET,WAS,1998-99
+Shot Chart Detail,1029800089,214,100269,Carla Boyd,1611661321,Detroit Shock,1,3,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,134,5,1,1,19980722,DET,WAS,1998-99
+Shot Chart Detail,1029800089,226,100269,Carla Boyd,1611661321,Detroit Shock,1,1,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-151,78,1,1,19980722,DET,WAS,1998-99
+Shot Chart Detail,1029800089,232,100269,Carla Boyd,1611661321,Detroit Shock,1,0,29,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-220,3,1,1,19980722,DET,WAS,1998-99
+Shot Chart Detail,1029800089,272,100269,Carla Boyd,1611661321,Detroit Shock,2,13,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980722,DET,WAS,1998-99
+Shot Chart Detail,1029800094,14,100269,Carla Boyd,1611661321,Detroit Shock,1,17,51,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-220,27,1,1,19980725,DET,LAS,1998-99
+Shot Chart Detail,1029800094,35,100269,Carla Boyd,1611661321,Detroit Shock,1,15,7,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-134,57,1,0,19980725,DET,LAS,1998-99
+Shot Chart Detail,1029800094,44,100269,Carla Boyd,1611661321,Detroit Shock,1,14,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,36,1,0,19980725,DET,LAS,1998-99
+Shot Chart Detail,1029800094,84,100269,Carla Boyd,1611661321,Detroit Shock,1,9,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,5,119,1,0,19980725,DET,LAS,1998-99
+Shot Chart Detail,1029800094,98,100269,Carla Boyd,1611661321,Detroit Shock,1,8,32,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-14,1,0,19980725,DET,LAS,1998-99
+Shot Chart Detail,1029800094,100,100269,Carla Boyd,1611661321,Detroit Shock,1,8,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-72,111,1,0,19980725,DET,LAS,1998-99
+Shot Chart Detail,1029800094,158,100269,Carla Boyd,1611661321,Detroit Shock,1,3,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-121,196,1,0,19980725,DET,LAS,1998-99
+Shot Chart Detail,1029800094,170,100269,Carla Boyd,1611661321,Detroit Shock,1,1,38,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-10,74,1,0,19980725,DET,LAS,1998-99
+Shot Chart Detail,1029800094,240,100269,Carla Boyd,1611661321,Detroit Shock,2,15,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,211,38,1,0,19980725,DET,LAS,1998-99
+Shot Chart Detail,1029800094,247,100269,Carla Boyd,1611661321,Detroit Shock,2,14,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,18,1,0,19980725,DET,LAS,1998-99
+Shot Chart Detail,1029800094,288,100269,Carla Boyd,1611661321,Detroit Shock,2,9,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-102,111,1,0,19980725,DET,LAS,1998-99
+Shot Chart Detail,1029800094,334,100269,Carla Boyd,1611661321,Detroit Shock,2,5,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980725,DET,LAS,1998-99
+Shot Chart Detail,1029800094,369,100269,Carla Boyd,1611661321,Detroit Shock,2,2,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,36,1,1,19980725,DET,LAS,1998-99
+Shot Chart Detail,1029800095,3,100269,Carla Boyd,1611661321,Detroit Shock,1,19,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-126,160,1,1,19980726,NYL,DET,1998-99
+Shot Chart Detail,1029800095,11,100269,Carla Boyd,1611661321,Detroit Shock,1,18,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,19,179,85,1,0,19980726,NYL,DET,1998-99
+Shot Chart Detail,1029800095,54,100269,Carla Boyd,1611661321,Detroit Shock,1,13,11,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,20,206,-21,1,0,19980726,NYL,DET,1998-99
+Shot Chart Detail,1029800095,101,100269,Carla Boyd,1611661321,Detroit Shock,1,7,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980726,NYL,DET,1998-99
+Shot Chart Detail,1029800095,106,100269,Carla Boyd,1611661321,Detroit Shock,1,6,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,51,196,1,0,19980726,NYL,DET,1998-99
+Shot Chart Detail,1029800095,122,100269,Carla Boyd,1611661321,Detroit Shock,1,6,16,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,20,-203,-3,1,0,19980726,NYL,DET,1998-99
+Shot Chart Detail,1029800095,234,100269,Carla Boyd,1611661321,Detroit Shock,2,15,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980726,NYL,DET,1998-99
+Shot Chart Detail,1029800105,3,100269,Carla Boyd,1611661321,Detroit Shock,1,19,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980731,DET,SAC,1998-99
+Shot Chart Detail,1029800105,25,100269,Carla Boyd,1611661321,Detroit Shock,1,15,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,70,83,1,0,19980731,DET,SAC,1998-99
+Shot Chart Detail,1029800105,29,100269,Carla Boyd,1611661321,Detroit Shock,1,15,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980731,DET,SAC,1998-99
+Shot Chart Detail,1029800105,55,100269,Carla Boyd,1611661321,Detroit Shock,1,14,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980731,DET,SAC,1998-99
+Shot Chart Detail,1029800105,50,100269,Carla Boyd,1611661321,Detroit Shock,1,13,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,134,171,1,1,19980731,DET,SAC,1998-99
+Shot Chart Detail,1029800105,73,100269,Carla Boyd,1611661321,Detroit Shock,1,10,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980731,DET,SAC,1998-99
+Shot Chart Detail,1029800105,100,100269,Carla Boyd,1611661321,Detroit Shock,1,7,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980731,DET,SAC,1998-99
+Shot Chart Detail,1029800105,174,100269,Carla Boyd,1611661321,Detroit Shock,1,1,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980731,DET,SAC,1998-99
+Shot Chart Detail,1029800105,204,100269,Carla Boyd,1611661321,Detroit Shock,2,15,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,0,1,0,19980731,DET,SAC,1998-99
+Shot Chart Detail,1029800105,308,100269,Carla Boyd,1611661321,Detroit Shock,2,3,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,214,63,1,0,19980731,DET,SAC,1998-99
+Shot Chart Detail,1029800105,321,100269,Carla Boyd,1611661321,Detroit Shock,2,1,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-190,124,1,0,19980731,DET,SAC,1998-99
+Shot Chart Detail,1029800112,19,100269,Carla Boyd,1611661321,Detroit Shock,1,18,5,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,3,1,0,19980803,CHA,DET,1998-99
+Shot Chart Detail,1029800112,137,100269,Carla Boyd,1611661321,Detroit Shock,1,6,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980803,CHA,DET,1998-99
+Shot Chart Detail,1029800112,144,100269,Carla Boyd,1611661321,Detroit Shock,1,5,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,72,134,1,0,19980803,CHA,DET,1998-99
+Shot Chart Detail,1029800112,164,100269,Carla Boyd,1611661321,Detroit Shock,1,2,43,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,20,205,21,1,0,19980803,CHA,DET,1998-99
+Shot Chart Detail,1029800112,206,100269,Carla Boyd,1611661321,Detroit Shock,1,2,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980803,CHA,DET,1998-99
+Shot Chart Detail,1029800112,220,100269,Carla Boyd,1611661321,Detroit Shock,2,16,15,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980803,CHA,DET,1998-99
+Shot Chart Detail,1029800112,284,100269,Carla Boyd,1611661321,Detroit Shock,2,10,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,0,76,1,0,19980803,CHA,DET,1998-99
+Shot Chart Detail,1029800112,314,100269,Carla Boyd,1611661321,Detroit Shock,2,7,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,27,12,1,0,19980803,CHA,DET,1998-99
+Shot Chart Detail,1029800112,342,100269,Carla Boyd,1611661321,Detroit Shock,2,5,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,102,46,1,0,19980803,CHA,DET,1998-99
+Shot Chart Detail,1029800112,374,100269,Carla Boyd,1611661321,Detroit Shock,2,2,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-14,164,1,0,19980803,CHA,DET,1998-99
+Shot Chart Detail,1029800118,19,100269,Carla Boyd,1611661321,Detroit Shock,1,17,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,55,3,1,0,19980805,DET,LAS,1998-99
+Shot Chart Detail,1029800118,51,100269,Carla Boyd,1611661321,Detroit Shock,1,13,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,214,48,1,0,19980805,DET,LAS,1998-99
+Shot Chart Detail,1029800118,70,100269,Carla Boyd,1611661321,Detroit Shock,1,11,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-102,109,1,0,19980805,DET,LAS,1998-99
+Shot Chart Detail,1029800118,141,100269,Carla Boyd,1611661321,Detroit Shock,1,4,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,12,1,0,19980805,DET,LAS,1998-99
+Shot Chart Detail,1029800118,167,100269,Carla Boyd,1611661321,Detroit Shock,1,1,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980805,DET,LAS,1998-99
+Shot Chart Detail,1029800118,217,100269,Carla Boyd,1611661321,Detroit Shock,1,1,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,91,1,1,0,19980805,DET,LAS,1998-99
+Shot Chart Detail,1029800118,231,100269,Carla Boyd,1611661321,Detroit Shock,2,16,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980805,DET,LAS,1998-99
+Shot Chart Detail,1029800118,248,100269,Carla Boyd,1611661321,Detroit Shock,2,14,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980805,DET,LAS,1998-99
+Shot Chart Detail,1029800118,258,100269,Carla Boyd,1611661321,Detroit Shock,2,13,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,3,1,0,19980805,DET,LAS,1998-99
+Shot Chart Detail,1029800118,308,100269,Carla Boyd,1611661321,Detroit Shock,2,9,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980805,DET,LAS,1998-99
+Shot Chart Detail,1029800118,382,100269,Carla Boyd,1611661321,Detroit Shock,2,2,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980805,DET,LAS,1998-99
+Shot Chart Detail,1029800118,419,100269,Carla Boyd,1611661321,Detroit Shock,2,0,6,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,-5,1,0,19980805,DET,LAS,1998-99
+Shot Chart Detail,1029800121,4,100269,Carla Boyd,1611661321,Detroit Shock,1,19,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-136,46,1,0,19980807,DET,HOU,1998-99
+Shot Chart Detail,1029800121,6,100269,Carla Boyd,1611661321,Detroit Shock,1,19,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980807,DET,HOU,1998-99
+Shot Chart Detail,1029800121,9,100269,Carla Boyd,1611661321,Detroit Shock,1,18,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980807,DET,HOU,1998-99
+Shot Chart Detail,1029800121,30,100269,Carla Boyd,1611661321,Detroit Shock,1,15,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980807,DET,HOU,1998-99
+Shot Chart Detail,1029800121,58,100269,Carla Boyd,1611661321,Detroit Shock,1,12,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980807,DET,HOU,1998-99
+Shot Chart Detail,1029800121,131,100269,Carla Boyd,1611661321,Detroit Shock,1,2,56,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-220,-16,1,0,19980807,DET,HOU,1998-99
+Shot Chart Detail,1029800129,6,100269,Carla Boyd,1611661321,Detroit Shock,1,19,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-68,83,1,0,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,24,100269,Carla Boyd,1611661321,Detroit Shock,1,17,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,134,156,1,1,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,33,100269,Carla Boyd,1611661321,Detroit Shock,1,16,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,98,126,1,0,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,47,100269,Carla Boyd,1611661321,Detroit Shock,1,14,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,173,21,1,0,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,213,100269,Carla Boyd,1611661321,Detroit Shock,1,2,24,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,20,203,0,1,1,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,229,100269,Carla Boyd,1611661321,Detroit Shock,1,0,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,10,1,1,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,242,100269,Carla Boyd,1611661321,Detroit Shock,2,16,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-186,38,1,1,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,255,100269,Carla Boyd,1611661321,Detroit Shock,2,15,49,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,14,1,0,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,276,100269,Carla Boyd,1611661321,Detroit Shock,2,14,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-139,-3,1,1,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,306,100269,Carla Boyd,1611661321,Detroit Shock,2,12,3,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,342,100269,Carla Boyd,1611661321,Detroit Shock,2,8,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,102,173,1,0,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,349,100269,Carla Boyd,1611661321,Detroit Shock,2,7,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,156,59,1,0,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800131,16,100269,Carla Boyd,1611661321,Detroit Shock,1,17,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980811,SAC,DET,1998-99
+Shot Chart Detail,1029800131,25,100269,Carla Boyd,1611661321,Detroit Shock,1,16,31,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980811,SAC,DET,1998-99
+Shot Chart Detail,1029800131,282,100269,Carla Boyd,1611661321,Detroit Shock,2,7,31,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-46,1,1,0,19980811,SAC,DET,1998-99
+Shot Chart Detail,1029800131,302,100269,Carla Boyd,1611661321,Detroit Shock,2,5,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980811,SAC,DET,1998-99
+Shot Chart Detail,1029800131,305,100269,Carla Boyd,1611661321,Detroit Shock,2,5,6,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-209,25,1,0,19980811,SAC,DET,1998-99
+Shot Chart Detail,1029800137,6,100269,Carla Boyd,1611661321,Detroit Shock,1,18,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,78,29,1,0,19980814,PHO,DET,1998-99
+Shot Chart Detail,1029800137,155,100269,Carla Boyd,1611661321,Detroit Shock,1,2,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-44,46,1,0,19980814,PHO,DET,1998-99
+Shot Chart Detail,1029800137,156,100269,Carla Boyd,1611661321,Detroit Shock,1,2,40,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-36,31,1,1,19980814,PHO,DET,1998-99
+Shot Chart Detail,1029800137,267,100269,Carla Boyd,1611661321,Detroit Shock,2,11,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-38,42,1,0,19980814,PHO,DET,1998-99
+Shot Chart Detail,1029800137,275,100269,Carla Boyd,1611661321,Detroit Shock,2,11,39,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-29,29,1,1,19980814,PHO,DET,1998-99
+Shot Chart Detail,1029800137,386,100269,Carla Boyd,1611661321,Detroit Shock,2,2,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,89,23,1,1,19980814,PHO,DET,1998-99
+Shot Chart Detail,1029800137,408,100269,Carla Boyd,1611661321,Detroit Shock,2,1,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,158,194,1,1,19980814,PHO,DET,1998-99
+Shot Chart Detail,1029800142,6,100269,Carla Boyd,1611661321,Detroit Shock,1,19,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,31,63,1,0,19980816,LAS,DET,1998-99
+Shot Chart Detail,1029800142,35,100269,Carla Boyd,1611661321,Detroit Shock,1,15,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-145,104,1,0,19980816,LAS,DET,1998-99
+Shot Chart Detail,1029800142,44,100269,Carla Boyd,1611661321,Detroit Shock,1,14,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-38,66,1,0,19980816,LAS,DET,1998-99
+Shot Chart Detail,1029800142,127,100269,Carla Boyd,1611661321,Detroit Shock,1,6,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,108,196,1,1,19980816,LAS,DET,1998-99
+Shot Chart Detail,1029800142,135,100269,Carla Boyd,1611661321,Detroit Shock,1,4,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980816,LAS,DET,1998-99
+Shot Chart Detail,1029800142,200,100269,Carla Boyd,1611661321,Detroit Shock,1,2,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-16,66,1,0,19980816,LAS,DET,1998-99
+Shot Chart Detail,1029800142,216,100269,Carla Boyd,1611661321,Detroit Shock,1,0,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980816,LAS,DET,1998-99
+Shot Chart Detail,1029800142,225,100269,Carla Boyd,1611661321,Detroit Shock,2,16,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-66,18,1,0,19980816,LAS,DET,1998-99
+Shot Chart Detail,1029800142,320,100269,Carla Boyd,1611661321,Detroit Shock,2,7,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-70,29,1,1,19980816,LAS,DET,1998-99
+Shot Chart Detail,1029800142,342,100269,Carla Boyd,1611661321,Detroit Shock,2,5,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980816,LAS,DET,1998-99
+Shot Chart Detail,1029800148,23,100269,Carla Boyd,1611661321,Detroit Shock,1,16,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,108,91,1,0,19980819,DET,NYL,1998-99
+Shot Chart Detail,1029800148,35,100269,Carla Boyd,1611661321,Detroit Shock,1,14,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980819,DET,NYL,1998-99
+Shot Chart Detail,1029800148,37,100269,Carla Boyd,1611661321,Detroit Shock,1,14,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980819,DET,NYL,1998-99
+Shot Chart Detail,1029800148,132,100269,Carla Boyd,1611661321,Detroit Shock,1,3,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-154,-1,1,0,19980819,DET,NYL,1998-99
+Shot Chart Detail,1029800148,191,100269,Carla Boyd,1611661321,Detroit Shock,1,2,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,8,1,0,19980819,DET,NYL,1998-99
+Shot Chart Detail,1029800148,241,100269,Carla Boyd,1611661321,Detroit Shock,2,12,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,143,61,1,0,19980819,DET,NYL,1998-99

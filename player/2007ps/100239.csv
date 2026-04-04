@@ -1,0 +1,26 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1040700111,7,100239,Margo Dydek,1611661323,Connecticut Sun,1,8,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,67,133,1,1,20070823,CON,IND,2007-08
+Shot Chart Detail,1040700111,143,100239,Margo Dydek,1611661323,Connecticut Sun,2,4,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,-5,1,0,20070823,CON,IND,2007-08
+Shot Chart Detail,1040700111,151,100239,Margo Dydek,1611661323,Connecticut Sun,2,3,49,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,52,28,1,1,20070823,CON,IND,2007-08
+Shot Chart Detail,1040700111,185,100239,Margo Dydek,1611661323,Connecticut Sun,3,9,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,6,222,1,1,20070823,CON,IND,2007-08
+Shot Chart Detail,1040700111,255,100239,Margo Dydek,1611661323,Connecticut Sun,3,1,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,75,169,1,0,20070823,CON,IND,2007-08
+Shot Chart Detail,1040700111,259,100239,Margo Dydek,1611661323,Connecticut Sun,3,1,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,8,183,1,0,20070823,CON,IND,2007-08
+Shot Chart Detail,1040700111,269,100239,Margo Dydek,1611661323,Connecticut Sun,3,0,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,5,1,1,20070823,CON,IND,2007-08
+Shot Chart Detail,1040700111,305,100239,Margo Dydek,1611661323,Connecticut Sun,4,6,36,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,15,1,0,20070823,CON,IND,2007-08
+Shot Chart Detail,1040700111,349,100239,Margo Dydek,1611661323,Connecticut Sun,4,2,11,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-113,48,1,1,20070823,CON,IND,2007-08
+Shot Chart Detail,1040700111,353,100239,Margo Dydek,1611661323,Connecticut Sun,4,1,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,7,1,0,20070823,CON,IND,2007-08
+Shot Chart Detail,1040700111,411,100239,Margo Dydek,1611661323,Connecticut Sun,5,0,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,6,214,1,0,20070823,CON,IND,2007-08
+Shot Chart Detail,1040700111,438,100239,Margo Dydek,1611661323,Connecticut Sun,6,4,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,-21,1,0,20070823,CON,IND,2007-08
+Shot Chart Detail,1040700112,43,100239,Margo Dydek,1611661323,Connecticut Sun,1,5,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-51,164,1,0,20070825,IND,CON,2007-08
+Shot Chart Detail,1040700112,136,100239,Margo Dydek,1611661323,Connecticut Sun,2,5,30,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-117,-32,1,1,20070825,IND,CON,2007-08
+Shot Chart Detail,1040700112,139,100239,Margo Dydek,1611661323,Connecticut Sun,2,4,54,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-2,130,1,1,20070825,IND,CON,2007-08
+Shot Chart Detail,1040700112,141,100239,Margo Dydek,1611661323,Connecticut Sun,2,4,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,0,74,1,0,20070825,IND,CON,2007-08
+Shot Chart Detail,1040700112,174,100239,Margo Dydek,1611661323,Connecticut Sun,2,0,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,15,1,0,20070825,IND,CON,2007-08
+Shot Chart Detail,1040700112,309,100239,Margo Dydek,1611661323,Connecticut Sun,4,6,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,23,186,1,0,20070825,IND,CON,2007-08
+Shot Chart Detail,1040700112,344,100239,Margo Dydek,1611661323,Connecticut Sun,4,3,19,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-57,3,1,1,20070825,IND,CON,2007-08
+Shot Chart Detail,1040700113,52,100239,Margo Dydek,1611661323,Connecticut Sun,1,3,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-148,-36,1,1,20070827,IND,CON,2007-08
+Shot Chart Detail,1040700113,56,100239,Margo Dydek,1611661323,Connecticut Sun,1,2,59,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,-8,1,1,20070827,IND,CON,2007-08
+Shot Chart Detail,1040700113,143,100239,Margo Dydek,1611661323,Connecticut Sun,2,4,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-77,143,1,0,20070827,IND,CON,2007-08
+Shot Chart Detail,1040700113,152,100239,Margo Dydek,1611661323,Connecticut Sun,2,3,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,26,46,1,0,20070827,IND,CON,2007-08
+Shot Chart Detail,1040700113,198,100239,Margo Dydek,1611661323,Connecticut Sun,3,7,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,-24,1,0,20070827,IND,CON,2007-08
+Shot Chart Detail,1040700113,374,100239,Margo Dydek,1611661323,Connecticut Sun,5,4,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,52,38,1,0,20070827,IND,CON,2007-08

@@ -1,0 +1,6 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020200154,332,100743,Davalyn Cunningham,1611661323,Orlando Miracle,2,3,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-27,144,1,0,20020717,CHA,ORL,2002-03
+Shot Chart Detail,1020200154,346,100743,Davalyn Cunningham,1611661323,Orlando Miracle,2,2,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020717,CHA,ORL,2002-03
+Shot Chart Detail,1020200154,358,100743,Davalyn Cunningham,1611661323,Orlando Miracle,2,0,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020717,CHA,ORL,2002-03
+Shot Chart Detail,1020200163,363,100743,Davalyn Cunningham,1611661323,Orlando Miracle,2,1,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-16,70,1,0,20020719,ORL,UTA,2002-03
+Shot Chart Detail,1020200200,179,100743,Davalyn Cunningham,1611661323,Orlando Miracle,1,1,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,87,40,1,0,20020730,WAS,ORL,2002-03

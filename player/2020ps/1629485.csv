@@ -1,0 +1,6 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1042000201,31,1629485,Kristine Anigwe,1611661320,Los Angeles Sparks,1,7,54,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-24,19,1,1,20200917,LAS,CON,2020-21
+Shot Chart Detail,1042000201,36,1629485,Kristine Anigwe,1611661320,Los Angeles Sparks,1,7,17,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,0,20200917,LAS,CON,2020-21
+Shot Chart Detail,1042000201,38,1629485,Kristine Anigwe,1611661320,Los Angeles Sparks,1,7,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,3,89,1,0,20200917,LAS,CON,2020-21
+Shot Chart Detail,1042000201,195,1629485,Kristine Anigwe,1611661320,Los Angeles Sparks,2,3,38,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-8,36,1,1,20200917,LAS,CON,2020-21
+Shot Chart Detail,1042000201,301,1629485,Kristine Anigwe,1611661320,Los Angeles Sparks,3,5,31,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,29,1,1,20200917,LAS,CON,2020-21

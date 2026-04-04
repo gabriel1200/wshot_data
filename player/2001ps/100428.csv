@@ -1,0 +1,18 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1040100001,10,100428,Mery Andrade,1611661315,Cleveland Rockers,1,18,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,129,66,1,1,20010816,CHA,CLE,2001-02
+Shot Chart Detail,1040100001,79,100428,Mery Andrade,1611661315,Cleveland Rockers,1,9,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010816,CHA,CLE,2001-02
+Shot Chart Detail,1040100001,85,100428,Mery Andrade,1611661315,Cleveland Rockers,1,9,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,134,163,1,0,20010816,CHA,CLE,2001-02
+Shot Chart Detail,1040100001,87,100428,Mery Andrade,1611661315,Cleveland Rockers,1,9,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010816,CHA,CLE,2001-02
+Shot Chart Detail,1040100001,109,100428,Mery Andrade,1611661315,Cleveland Rockers,1,6,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,193,15,1,0,20010816,CHA,CLE,2001-02
+Shot Chart Detail,1040100001,249,100428,Mery Andrade,1611661315,Cleveland Rockers,2,8,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-181,53,1,1,20010816,CHA,CLE,2001-02
+Shot Chart Detail,1040100003,9,100428,Mery Andrade,1611661315,Cleveland Rockers,1,18,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,21,1,0,20010818,CLE,CHA,2001-02
+Shot Chart Detail,1040100003,23,100428,Mery Andrade,1611661315,Cleveland Rockers,1,16,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-10,42,1,0,20010818,CLE,CHA,2001-02
+Shot Chart Detail,1040100003,31,100428,Mery Andrade,1611661315,Cleveland Rockers,1,15,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,15,1,1,20010818,CLE,CHA,2001-02
+Shot Chart Detail,1040100003,215,100428,Mery Andrade,1611661315,Cleveland Rockers,1,0,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,3,188,1,0,20010818,CLE,CHA,2001-02
+Shot Chart Detail,1040100003,244,100428,Mery Andrade,1611661315,Cleveland Rockers,2,13,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-67,165,1,0,20010818,CLE,CHA,2001-02
+Shot Chart Detail,1040100003,314,100428,Mery Andrade,1611661315,Cleveland Rockers,2,4,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,-36,1,0,20010818,CLE,CHA,2001-02
+Shot Chart Detail,1040100005,39,100428,Mery Andrade,1611661315,Cleveland Rockers,1,14,56,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-79,97,1,0,20010820,CLE,CHA,2001-02
+Shot Chart Detail,1040100005,142,100428,Mery Andrade,1611661315,Cleveland Rockers,1,4,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,167,9,1,0,20010820,CLE,CHA,2001-02
+Shot Chart Detail,1040100005,154,100428,Mery Andrade,1611661315,Cleveland Rockers,1,3,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,19,1,1,20010820,CLE,CHA,2001-02
+Shot Chart Detail,1040100005,158,100428,Mery Andrade,1611661315,Cleveland Rockers,1,2,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-136,97,1,1,20010820,CLE,CHA,2001-02
+Shot Chart Detail,1040100005,280,100428,Mery Andrade,1611661315,Cleveland Rockers,2,8,32,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-214,9,1,1,20010820,CLE,CHA,2001-02

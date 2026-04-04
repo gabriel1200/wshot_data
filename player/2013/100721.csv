@@ -1,0 +1,285 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1021300006,30,100721,Swin Cash,1611661329,Chicago Sky,1,6,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,-34,228,1,0,20130527,PHO,CHI,2013-14
+Shot Chart Detail,1021300006,62,100721,Swin Cash,1611661329,Chicago Sky,1,3,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,0,1,0,20130527,PHO,CHI,2013-14
+Shot Chart Detail,1021300006,66,100721,Swin Cash,1611661329,Chicago Sky,1,2,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,-2,1,1,20130527,PHO,CHI,2013-14
+Shot Chart Detail,1021300006,228,100721,Swin Cash,1611661329,Chicago Sky,3,8,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-152,129,1,1,20130527,PHO,CHI,2013-14
+Shot Chart Detail,1021300006,358,100721,Swin Cash,1611661329,Chicago Sky,4,6,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,3,1,0,20130527,PHO,CHI,2013-14
+Shot Chart Detail,1021300006,375,100721,Swin Cash,1611661329,Chicago Sky,4,5,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,1,20130527,PHO,CHI,2013-14
+Shot Chart Detail,1021300006,394,100721,Swin Cash,1611661329,Chicago Sky,4,4,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,155,165,1,0,20130527,PHO,CHI,2013-14
+Shot Chart Detail,1021300009,96,100721,Swin Cash,1611661329,Chicago Sky,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,163,113,1,0,20130531,CHI,CON,2013-14
+Shot Chart Detail,1021300009,224,100721,Swin Cash,1611661329,Chicago Sky,3,8,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,3,1,1,20130531,CHI,CON,2013-14
+Shot Chart Detail,1021300009,240,100721,Swin Cash,1611661329,Chicago Sky,3,6,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,19,1,0,20130531,CHI,CON,2013-14
+Shot Chart Detail,1021300009,263,100721,Swin Cash,1611661329,Chicago Sky,3,3,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-172,143,1,1,20130531,CHI,CON,2013-14
+Shot Chart Detail,1021300009,345,100721,Swin Cash,1611661329,Chicago Sky,4,6,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,23,1,0,20130531,CHI,CON,2013-14
+Shot Chart Detail,1021300009,384,100721,Swin Cash,1611661329,Chicago Sky,4,2,28,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-5,1,0,20130531,CHI,CON,2013-14
+Shot Chart Detail,1021300013,26,100721,Swin Cash,1611661329,Chicago Sky,1,6,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,108,167,1,0,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300013,159,100721,Swin Cash,1611661329,Chicago Sky,2,3,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-79,192,1,1,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300013,194,100721,Swin Cash,1611661329,Chicago Sky,2,0,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-169,160,1,1,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300013,210,100721,Swin Cash,1611661329,Chicago Sky,3,8,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,116,220,1,0,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300013,250,100721,Swin Cash,1611661329,Chicago Sky,3,3,7,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,0,1,1,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300013,298,100721,Swin Cash,1611661329,Chicago Sky,4,9,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,47,82,1,0,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300013,327,100721,Swin Cash,1611661329,Chicago Sky,4,7,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,28,1,1,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300013,359,100721,Swin Cash,1611661329,Chicago Sky,4,4,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,15,1,1,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300013,367,100721,Swin Cash,1611661329,Chicago Sky,4,4,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-37,239,1,0,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300013,379,100721,Swin Cash,1611661329,Chicago Sky,4,2,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,30,1,1,20130602,CHI,TUL,2013-14
+Shot Chart Detail,1021300019,2,100721,Swin Cash,1611661329,Chicago Sky,1,9,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,-2,1,0,20130607,SAN,CHI,2013-14
+Shot Chart Detail,1021300019,28,100721,Swin Cash,1611661329,Chicago Sky,1,5,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,17,1,1,20130607,SAN,CHI,2013-14
+Shot Chart Detail,1021300019,34,100721,Swin Cash,1611661329,Chicago Sky,1,5,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,7,1,1,20130607,SAN,CHI,2013-14
+Shot Chart Detail,1021300019,110,100721,Swin Cash,1611661329,Chicago Sky,2,8,7,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,23,1,0,20130607,SAN,CHI,2013-14
+Shot Chart Detail,1021300019,239,100721,Swin Cash,1611661329,Chicago Sky,3,6,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,73,222,1,0,20130607,SAN,CHI,2013-14
+Shot Chart Detail,1021300019,319,100721,Swin Cash,1611661329,Chicago Sky,3,0,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,23,-205,107,1,0,20130607,SAN,CHI,2013-14
+Shot Chart Detail,1021300019,345,100721,Swin Cash,1611661329,Chicago Sky,4,7,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,4,1,1,20130607,SAN,CHI,2013-14
+Shot Chart Detail,1021300019,375,100721,Swin Cash,1611661329,Chicago Sky,4,4,11,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,48,1,1,20130607,SAN,CHI,2013-14
+Shot Chart Detail,1021300019,415,100721,Swin Cash,1611661329,Chicago Sky,4,0,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-112,134,1,0,20130607,SAN,CHI,2013-14
+Shot Chart Detail,1021300025,195,100721,Swin Cash,1611661329,Chicago Sky,2,2,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,11,1,1,20130609,CHI,SAN,2013-14
+Shot Chart Detail,1021300025,233,100721,Swin Cash,1611661329,Chicago Sky,2,0,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,160,164,1,0,20130609,CHI,SAN,2013-14
+Shot Chart Detail,1021300025,279,100721,Swin Cash,1611661329,Chicago Sky,3,5,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,3,1,0,20130609,CHI,SAN,2013-14
+Shot Chart Detail,1021300025,309,100721,Swin Cash,1611661329,Chicago Sky,3,3,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,23,1,0,20130609,CHI,SAN,2013-14
+Shot Chart Detail,1021300025,391,100721,Swin Cash,1611661329,Chicago Sky,4,6,35,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,9,1,1,20130609,CHI,SAN,2013-14
+Shot Chart Detail,1021300025,396,100721,Swin Cash,1611661329,Chicago Sky,4,5,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,165,77,1,1,20130609,CHI,SAN,2013-14
+Shot Chart Detail,1021300025,409,100721,Swin Cash,1611661329,Chicago Sky,4,4,50,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-4,31,1,0,20130609,CHI,SAN,2013-14
+Shot Chart Detail,1021300034,4,100721,Swin Cash,1611661329,Chicago Sky,1,9,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-93,224,1,0,20130616,ATL,CHI,2013-14
+Shot Chart Detail,1021300034,60,100721,Swin Cash,1611661329,Chicago Sky,1,4,45,Missed Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-11,39,1,0,20130616,ATL,CHI,2013-14
+Shot Chart Detail,1021300034,171,100721,Swin Cash,1611661329,Chicago Sky,2,6,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,4,1,1,20130616,ATL,CHI,2013-14
+Shot Chart Detail,1021300034,174,100721,Swin Cash,1611661329,Chicago Sky,2,5,29,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-78,58,1,1,20130616,ATL,CHI,2013-14
+Shot Chart Detail,1021300034,260,100721,Swin Cash,1611661329,Chicago Sky,3,8,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,14,1,1,20130616,ATL,CHI,2013-14
+Shot Chart Detail,1021300034,268,100721,Swin Cash,1611661329,Chicago Sky,3,7,15,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-13,50,1,0,20130616,ATL,CHI,2013-14
+Shot Chart Detail,1021300034,273,100721,Swin Cash,1611661329,Chicago Sky,3,6,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,151,183,1,0,20130616,ATL,CHI,2013-14
+Shot Chart Detail,1021300034,381,100721,Swin Cash,1611661329,Chicago Sky,4,8,48,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-70,19,1,1,20130616,ATL,CHI,2013-14
+Shot Chart Detail,1021300039,66,100721,Swin Cash,1611661329,Chicago Sky,1,3,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-49,200,1,0,20130620,TUL,CHI,2013-14
+Shot Chart Detail,1021300039,227,100721,Swin Cash,1611661329,Chicago Sky,3,9,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,11,1,1,20130620,TUL,CHI,2013-14
+Shot Chart Detail,1021300039,266,100721,Swin Cash,1611661329,Chicago Sky,3,5,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-29,67,1,0,20130620,TUL,CHI,2013-14
+Shot Chart Detail,1021300039,339,100721,Swin Cash,1611661329,Chicago Sky,3,0,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-51,14,1,0,20130620,TUL,CHI,2013-14
+Shot Chart Detail,1021300039,355,100721,Swin Cash,1611661329,Chicago Sky,3,0,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-157,14,1,1,20130620,TUL,CHI,2013-14
+Shot Chart Detail,1021300043,24,100721,Swin Cash,1611661329,Chicago Sky,1,7,41,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-15,26,1,0,20130622,IND,CHI,2013-14
+Shot Chart Detail,1021300043,26,100721,Swin Cash,1611661329,Chicago Sky,1,7,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,3,1,1,20130622,IND,CHI,2013-14
+Shot Chart Detail,1021300043,146,100721,Swin Cash,1611661329,Chicago Sky,2,6,56,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,2,44,1,1,20130622,IND,CHI,2013-14
+Shot Chart Detail,1021300043,211,100721,Swin Cash,1611661329,Chicago Sky,3,9,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,26,1,0,20130622,IND,CHI,2013-14
+Shot Chart Detail,1021300043,220,100721,Swin Cash,1611661329,Chicago Sky,3,9,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-196,-13,1,0,20130622,IND,CHI,2013-14
+Shot Chart Detail,1021300043,275,100721,Swin Cash,1611661329,Chicago Sky,3,3,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,195,-14,1,1,20130622,IND,CHI,2013-14
+Shot Chart Detail,1021300043,353,100721,Swin Cash,1611661329,Chicago Sky,4,5,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-149,119,1,0,20130622,IND,CHI,2013-14
+Shot Chart Detail,1021300043,376,100721,Swin Cash,1611661329,Chicago Sky,4,4,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,-11,1,1,20130622,IND,CHI,2013-14
+Shot Chart Detail,1021300043,403,100721,Swin Cash,1611661329,Chicago Sky,4,0,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,-25,1,0,20130622,IND,CHI,2013-14
+Shot Chart Detail,1021300051,8,100721,Swin Cash,1611661329,Chicago Sky,1,8,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,83,183,1,0,20130626,CHI,NYL,2013-14
+Shot Chart Detail,1021300051,22,100721,Swin Cash,1611661329,Chicago Sky,1,7,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-35,36,1,0,20130626,CHI,NYL,2013-14
+Shot Chart Detail,1021300051,247,100721,Swin Cash,1611661329,Chicago Sky,3,8,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,159,126,1,1,20130626,CHI,NYL,2013-14
+Shot Chart Detail,1021300051,250,100721,Swin Cash,1611661329,Chicago Sky,3,7,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-201,28,1,1,20130626,CHI,NYL,2013-14
+Shot Chart Detail,1021300051,252,100721,Swin Cash,1611661329,Chicago Sky,3,7,16,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-2,1,0,20130626,CHI,NYL,2013-14
+Shot Chart Detail,1021300051,288,100721,Swin Cash,1611661329,Chicago Sky,3,4,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,184,1,1,1,20130626,CHI,NYL,2013-14
+Shot Chart Detail,1021300051,304,100721,Swin Cash,1611661329,Chicago Sky,3,1,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,0,1,0,20130626,CHI,NYL,2013-14
+Shot Chart Detail,1021300051,357,100721,Swin Cash,1611661329,Chicago Sky,4,6,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,3,1,0,20130626,CHI,NYL,2013-14
+Shot Chart Detail,1021300051,376,100721,Swin Cash,1611661329,Chicago Sky,4,5,10,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,-2,1,0,20130626,CHI,NYL,2013-14
+Shot Chart Detail,1021300051,390,100721,Swin Cash,1611661329,Chicago Sky,4,4,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-209,96,1,0,20130626,CHI,NYL,2013-14
+Shot Chart Detail,1021300058,27,100721,Swin Cash,1611661329,Chicago Sky,1,7,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,129,85,1,0,20130629,CHI,LAS,2013-14
+Shot Chart Detail,1021300058,60,100721,Swin Cash,1611661329,Chicago Sky,1,5,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,15,1,0,20130629,CHI,LAS,2013-14
+Shot Chart Detail,1021300058,80,100721,Swin Cash,1611661329,Chicago Sky,1,3,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,124,138,1,0,20130629,CHI,LAS,2013-14
+Shot Chart Detail,1021300058,91,100721,Swin Cash,1611661329,Chicago Sky,1,2,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-207,1,1,1,20130629,CHI,LAS,2013-14
+Shot Chart Detail,1021300058,93,100721,Swin Cash,1611661329,Chicago Sky,1,2,19,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-30,56,1,1,20130629,CHI,LAS,2013-14
+Shot Chart Detail,1021300058,108,100721,Swin Cash,1611661329,Chicago Sky,1,0,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-38,127,1,0,20130629,CHI,LAS,2013-14
+Shot Chart Detail,1021300058,155,100721,Swin Cash,1611661329,Chicago Sky,2,6,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,15,1,0,20130629,CHI,LAS,2013-14
+Shot Chart Detail,1021300058,210,100721,Swin Cash,1611661329,Chicago Sky,2,1,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,15,1,1,20130629,CHI,LAS,2013-14
+Shot Chart Detail,1021300058,241,100721,Swin Cash,1611661329,Chicago Sky,3,9,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,132,190,1,0,20130629,CHI,LAS,2013-14
+Shot Chart Detail,1021300058,413,100721,Swin Cash,1611661329,Chicago Sky,4,4,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-139,74,1,0,20130629,CHI,LAS,2013-14
+Shot Chart Detail,1021300058,440,100721,Swin Cash,1611661329,Chicago Sky,4,2,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,147,50,1,0,20130629,CHI,LAS,2013-14
+Shot Chart Detail,1021300062,5,100721,Swin Cash,1611661329,Chicago Sky,1,9,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,7,1,0,20130702,CHI,SEA,2013-14
+Shot Chart Detail,1021300062,35,100721,Swin Cash,1611661329,Chicago Sky,1,6,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,3,1,1,20130702,CHI,SEA,2013-14
+Shot Chart Detail,1021300062,46,100721,Swin Cash,1611661329,Chicago Sky,1,5,24,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,7,1,1,20130702,CHI,SEA,2013-14
+Shot Chart Detail,1021300062,101,100721,Swin Cash,1611661329,Chicago Sky,1,0,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,73,181,1,0,20130702,CHI,SEA,2013-14
+Shot Chart Detail,1021300062,232,100721,Swin Cash,1611661329,Chicago Sky,2,0,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,114,134,1,0,20130702,CHI,SEA,2013-14
+Shot Chart Detail,1021300062,293,100721,Swin Cash,1611661329,Chicago Sky,3,4,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,113,217,1,0,20130702,CHI,SEA,2013-14
+Shot Chart Detail,1021300062,351,100721,Swin Cash,1611661329,Chicago Sky,4,8,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,1,1,1,20130702,CHI,SEA,2013-14
+Shot Chart Detail,1021300062,404,100721,Swin Cash,1611661329,Chicago Sky,4,4,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-120,217,1,0,20130702,CHI,SEA,2013-14
+Shot Chart Detail,1021300070,2,100721,Swin Cash,1611661329,Chicago Sky,1,9,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,121,127,1,0,20130707,NYL,CHI,2013-14
+Shot Chart Detail,1021300070,30,100721,Swin Cash,1611661329,Chicago Sky,1,6,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,146,195,1,0,20130707,NYL,CHI,2013-14
+Shot Chart Detail,1021300070,58,100721,Swin Cash,1611661329,Chicago Sky,1,4,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-75,75,1,0,20130707,NYL,CHI,2013-14
+Shot Chart Detail,1021300070,70,100721,Swin Cash,1611661329,Chicago Sky,1,3,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,48,80,1,0,20130707,NYL,CHI,2013-14
+Shot Chart Detail,1021300070,179,100721,Swin Cash,1611661329,Chicago Sky,2,4,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,110,203,1,1,20130707,NYL,CHI,2013-14
+Shot Chart Detail,1021300070,212,100721,Swin Cash,1611661329,Chicago Sky,2,1,27,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-27,20,1,0,20130707,NYL,CHI,2013-14
+Shot Chart Detail,1021300070,231,100721,Swin Cash,1611661329,Chicago Sky,3,9,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-182,66,1,0,20130707,NYL,CHI,2013-14
+Shot Chart Detail,1021300070,399,100721,Swin Cash,1611661329,Chicago Sky,4,8,26,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,89,123,1,1,20130707,NYL,CHI,2013-14
+Shot Chart Detail,1021300074,37,100721,Swin Cash,1611661329,Chicago Sky,1,5,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,3,1,1,20130710,CHI,WAS,2013-14
+Shot Chart Detail,1021300074,231,100721,Swin Cash,1611661329,Chicago Sky,2,0,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-175,146,1,1,20130710,CHI,WAS,2013-14
+Shot Chart Detail,1021300074,253,100721,Swin Cash,1611661329,Chicago Sky,3,9,41,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,-14,1,0,20130710,CHI,WAS,2013-14
+Shot Chart Detail,1021300074,257,100721,Swin Cash,1611661329,Chicago Sky,3,9,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,3,1,1,20130710,CHI,WAS,2013-14
+Shot Chart Detail,1021300074,271,100721,Swin Cash,1611661329,Chicago Sky,3,7,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-52,123,1,0,20130710,CHI,WAS,2013-14
+Shot Chart Detail,1021300074,307,100721,Swin Cash,1611661329,Chicago Sky,3,5,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-169,0,1,1,20130710,CHI,WAS,2013-14
+Shot Chart Detail,1021300074,407,100721,Swin Cash,1611661329,Chicago Sky,4,5,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,9,1,1,20130710,CHI,WAS,2013-14
+Shot Chart Detail,1021300078,18,100721,Swin Cash,1611661329,Chicago Sky,1,8,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-3,1,1,20130712,CON,CHI,2013-14
+Shot Chart Detail,1021300078,135,100721,Swin Cash,1611661329,Chicago Sky,2,8,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,-14,1,1,20130712,CON,CHI,2013-14
+Shot Chart Detail,1021300078,164,100721,Swin Cash,1611661329,Chicago Sky,2,6,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,12,1,1,20130712,CON,CHI,2013-14
+Shot Chart Detail,1021300078,171,100721,Swin Cash,1611661329,Chicago Sky,2,5,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,83,96,1,0,20130712,CON,CHI,2013-14
+Shot Chart Detail,1021300078,240,100721,Swin Cash,1611661329,Chicago Sky,3,9,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-123,151,1,0,20130712,CON,CHI,2013-14
+Shot Chart Detail,1021300078,249,100721,Swin Cash,1611661329,Chicago Sky,3,8,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,15,1,1,20130712,CON,CHI,2013-14
+Shot Chart Detail,1021300078,258,100721,Swin Cash,1611661329,Chicago Sky,3,7,13,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,14,1,1,20130712,CON,CHI,2013-14
+Shot Chart Detail,1021300078,296,100721,Swin Cash,1611661329,Chicago Sky,3,2,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-10,-21,1,1,20130712,CON,CHI,2013-14
+Shot Chart Detail,1021300078,354,100721,Swin Cash,1611661329,Chicago Sky,4,7,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,-10,1,1,20130712,CON,CHI,2013-14
+Shot Chart Detail,1021300078,407,100721,Swin Cash,1611661329,Chicago Sky,4,2,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,4,1,0,20130712,CON,CHI,2013-14
+Shot Chart Detail,1021300088,15,100721,Swin Cash,1611661329,Chicago Sky,1,8,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,196,143,1,1,20130718,NYL,CHI,2013-14
+Shot Chart Detail,1021300088,132,100721,Swin Cash,1611661329,Chicago Sky,2,6,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-87,94,1,0,20130718,NYL,CHI,2013-14
+Shot Chart Detail,1021300088,137,100721,Swin Cash,1611661329,Chicago Sky,2,6,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-163,53,1,0,20130718,NYL,CHI,2013-14
+Shot Chart Detail,1021300088,147,100721,Swin Cash,1611661329,Chicago Sky,2,5,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,200,157,1,0,20130718,NYL,CHI,2013-14
+Shot Chart Detail,1021300088,228,100721,Swin Cash,1611661329,Chicago Sky,3,8,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,20,1,1,20130718,NYL,CHI,2013-14
+Shot Chart Detail,1021300088,256,100721,Swin Cash,1611661329,Chicago Sky,3,5,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-7,242,1,0,20130718,NYL,CHI,2013-14
+Shot Chart Detail,1021300088,313,100721,Swin Cash,1611661329,Chicago Sky,3,1,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,9,1,1,20130718,NYL,CHI,2013-14
+Shot Chart Detail,1021300088,409,100721,Swin Cash,1611661329,Chicago Sky,4,5,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,155,186,1,0,20130718,NYL,CHI,2013-14
+Shot Chart Detail,1021300088,428,100721,Swin Cash,1611661329,Chicago Sky,4,3,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,179,23,1,0,20130718,NYL,CHI,2013-14
+Shot Chart Detail,1021300088,448,100721,Swin Cash,1611661329,Chicago Sky,4,1,31,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,7,1,0,20130718,NYL,CHI,2013-14
+Shot Chart Detail,1021300093,41,100721,Swin Cash,1611661329,Chicago Sky,1,5,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,103,217,1,0,20130720,CHI,NYL,2013-14
+Shot Chart Detail,1021300093,43,100721,Swin Cash,1611661329,Chicago Sky,1,5,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,7,1,1,20130720,CHI,NYL,2013-14
+Shot Chart Detail,1021300093,61,100721,Swin Cash,1611661329,Chicago Sky,1,4,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-97,146,1,0,20130720,CHI,NYL,2013-14
+Shot Chart Detail,1021300093,247,100721,Swin Cash,1611661329,Chicago Sky,3,7,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,177,39,1,1,20130720,CHI,NYL,2013-14
+Shot Chart Detail,1021300093,367,100721,Swin Cash,1611661329,Chicago Sky,4,6,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,19,1,0,20130720,CHI,NYL,2013-14
+Shot Chart Detail,1021300093,373,100721,Swin Cash,1611661329,Chicago Sky,4,6,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),24+ ft.,24,230,85,1,1,20130720,CHI,NYL,2013-14
+Shot Chart Detail,1021300093,404,100721,Swin Cash,1611661329,Chicago Sky,4,3,6,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,4,1,1,20130720,CHI,NYL,2013-14
+Shot Chart Detail,1021300093,411,100721,Swin Cash,1611661329,Chicago Sky,4,1,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-103,244,1,0,20130720,CHI,NYL,2013-14
+Shot Chart Detail,1021300100,44,100721,Swin Cash,1611661329,Chicago Sky,1,5,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,3,1,1,20130724,WAS,CHI,2013-14
+Shot Chart Detail,1021300100,71,100721,Swin Cash,1611661329,Chicago Sky,1,3,15,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-48,134,1,1,20130724,WAS,CHI,2013-14
+Shot Chart Detail,1021300100,119,100721,Swin Cash,1611661329,Chicago Sky,2,9,38,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,27,1,0,20130724,WAS,CHI,2013-14
+Shot Chart Detail,1021300100,144,100721,Swin Cash,1611661329,Chicago Sky,2,7,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,10,252,1,0,20130724,WAS,CHI,2013-14
+Shot Chart Detail,1021300100,164,100721,Swin Cash,1611661329,Chicago Sky,2,5,43,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,11,1,1,20130724,WAS,CHI,2013-14
+Shot Chart Detail,1021300100,188,100721,Swin Cash,1611661329,Chicago Sky,2,3,46,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,17,1,0,20130724,WAS,CHI,2013-14
+Shot Chart Detail,1021300100,200,100721,Swin Cash,1611661329,Chicago Sky,2,2,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,23,-229,37,1,0,20130724,WAS,CHI,2013-14
+Shot Chart Detail,1021300100,282,100721,Swin Cash,1611661329,Chicago Sky,3,7,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),24+ ft.,24,231,75,1,0,20130724,WAS,CHI,2013-14
+Shot Chart Detail,1021300100,457,100721,Swin Cash,1611661329,Chicago Sky,4,3,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-190,6,1,0,20130724,WAS,CHI,2013-14
+Shot Chart Detail,1021300100,461,100721,Swin Cash,1611661329,Chicago Sky,4,2,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-49,164,1,0,20130724,WAS,CHI,2013-14
+Shot Chart Detail,1021300100,499,100721,Swin Cash,1611661329,Chicago Sky,4,0,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,3,1,1,20130724,WAS,CHI,2013-14
+Shot Chart Detail,1021300111,41,100721,Swin Cash,1611661329,Chicago Sky,1,4,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,9,211,1,1,20130802,CHI,WAS,2013-14
+Shot Chart Detail,1021300111,77,100721,Swin Cash,1611661329,Chicago Sky,1,0,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-29,246,1,0,20130802,CHI,WAS,2013-14
+Shot Chart Detail,1021300111,107,100721,Swin Cash,1611661329,Chicago Sky,2,8,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,8,1,0,20130802,CHI,WAS,2013-14
+Shot Chart Detail,1021300111,110,100721,Swin Cash,1611661329,Chicago Sky,2,7,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,0,1,1,20130802,CHI,WAS,2013-14
+Shot Chart Detail,1021300111,133,100721,Swin Cash,1611661329,Chicago Sky,2,5,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,102,219,1,0,20130802,CHI,WAS,2013-14
+Shot Chart Detail,1021300111,209,100721,Swin Cash,1611661329,Chicago Sky,3,9,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,12,1,0,20130802,CHI,WAS,2013-14
+Shot Chart Detail,1021300111,211,100721,Swin Cash,1611661329,Chicago Sky,3,9,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,-2,1,0,20130802,CHI,WAS,2013-14
+Shot Chart Detail,1021300111,235,100721,Swin Cash,1611661329,Chicago Sky,3,7,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),24+ ft.,23,228,64,1,0,20130802,CHI,WAS,2013-14
+Shot Chart Detail,1021300111,245,100721,Swin Cash,1611661329,Chicago Sky,3,6,29,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,3,1,1,20130802,CHI,WAS,2013-14
+Shot Chart Detail,1021300111,336,100721,Swin Cash,1611661329,Chicago Sky,4,9,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,95,228,1,0,20130802,CHI,WAS,2013-14
+Shot Chart Detail,1021300111,348,100721,Swin Cash,1611661329,Chicago Sky,4,8,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,11,1,0,20130802,CHI,WAS,2013-14
+Shot Chart Detail,1021300111,391,100721,Swin Cash,1611661329,Chicago Sky,4,5,35,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,20,53,1,0,20130802,CHI,WAS,2013-14
+Shot Chart Detail,1021300111,421,100721,Swin Cash,1611661329,Chicago Sky,4,2,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-86,228,1,0,20130802,CHI,WAS,2013-14
+Shot Chart Detail,1021300113,2,100721,Swin Cash,1611661329,Chicago Sky,1,9,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,18,242,1,0,20130803,IND,CHI,2013-14
+Shot Chart Detail,1021300113,13,100721,Swin Cash,1611661329,Chicago Sky,1,7,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,105,160,1,0,20130803,IND,CHI,2013-14
+Shot Chart Detail,1021300113,31,100721,Swin Cash,1611661329,Chicago Sky,1,5,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-2,83,1,0,20130803,IND,CHI,2013-14
+Shot Chart Detail,1021300113,169,100721,Swin Cash,1611661329,Chicago Sky,2,4,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-32,-33,1,0,20130803,IND,CHI,2013-14
+Shot Chart Detail,1021300113,253,100721,Swin Cash,1611661329,Chicago Sky,3,8,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,86,129,1,1,20130803,IND,CHI,2013-14
+Shot Chart Detail,1021300113,274,100721,Swin Cash,1611661329,Chicago Sky,3,5,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,53,224,1,1,20130803,IND,CHI,2013-14
+Shot Chart Detail,1021300113,283,100721,Swin Cash,1611661329,Chicago Sky,3,4,39,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,-16,1,0,20130803,IND,CHI,2013-14
+Shot Chart Detail,1021300120,4,100721,Swin Cash,1611661329,Chicago Sky,1,9,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,207,-13,1,1,20130806,CHI,IND,2013-14
+Shot Chart Detail,1021300120,11,100721,Swin Cash,1611661329,Chicago Sky,1,8,13,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,6,1,0,20130806,CHI,IND,2013-14
+Shot Chart Detail,1021300120,74,100721,Swin Cash,1611661329,Chicago Sky,1,1,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,0,1,0,20130806,CHI,IND,2013-14
+Shot Chart Detail,1021300120,78,100721,Swin Cash,1611661329,Chicago Sky,1,0,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,147,175,1,0,20130806,CHI,IND,2013-14
+Shot Chart Detail,1021300120,107,100721,Swin Cash,1611661329,Chicago Sky,2,7,50,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,24,198,1,1,20130806,CHI,IND,2013-14
+Shot Chart Detail,1021300120,139,100721,Swin Cash,1611661329,Chicago Sky,2,4,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,6,1,0,20130806,CHI,IND,2013-14
+Shot Chart Detail,1021300120,209,100721,Swin Cash,1611661329,Chicago Sky,3,9,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,20,1,0,20130806,CHI,IND,2013-14
+Shot Chart Detail,1021300120,230,100721,Swin Cash,1611661329,Chicago Sky,3,7,45,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,20,1,1,20130806,CHI,IND,2013-14
+Shot Chart Detail,1021300120,291,100721,Swin Cash,1611661329,Chicago Sky,3,3,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-86,157,1,0,20130806,CHI,IND,2013-14
+Shot Chart Detail,1021300125,45,100721,Swin Cash,1611661329,Chicago Sky,1,5,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,177,66,1,0,20130809,CON,CHI,2013-14
+Shot Chart Detail,1021300125,164,100721,Swin Cash,1611661329,Chicago Sky,2,4,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-87,213,1,0,20130809,CON,CHI,2013-14
+Shot Chart Detail,1021300125,217,100721,Swin Cash,1611661329,Chicago Sky,3,9,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-8,1,0,20130809,CON,CHI,2013-14
+Shot Chart Detail,1021300125,221,100721,Swin Cash,1611661329,Chicago Sky,3,8,49,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-43,77,1,1,20130809,CON,CHI,2013-14
+Shot Chart Detail,1021300125,236,100721,Swin Cash,1611661329,Chicago Sky,3,6,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,7,1,0,20130809,CON,CHI,2013-14
+Shot Chart Detail,1021300125,291,100721,Swin Cash,1611661329,Chicago Sky,3,1,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,-10,1,0,20130809,CON,CHI,2013-14
+Shot Chart Detail,1021300125,328,100721,Swin Cash,1611661329,Chicago Sky,4,8,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,0,1,1,20130809,CON,CHI,2013-14
+Shot Chart Detail,1021300125,334,100721,Swin Cash,1611661329,Chicago Sky,4,7,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,1,1,0,20130809,CON,CHI,2013-14
+Shot Chart Detail,1021300132,37,100721,Swin Cash,1611661329,Chicago Sky,1,6,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-29,4,1,1,20130811,CHI,MIN,2013-14
+Shot Chart Detail,1021300132,78,100721,Swin Cash,1611661329,Chicago Sky,1,1,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,1,1,0,20130811,CHI,MIN,2013-14
+Shot Chart Detail,1021300132,101,100721,Swin Cash,1611661329,Chicago Sky,2,9,11,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-62,140,1,1,20130811,CHI,MIN,2013-14
+Shot Chart Detail,1021300132,209,100721,Swin Cash,1611661329,Chicago Sky,3,7,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),24+ ft.,22,228,28,1,0,20130811,CHI,MIN,2013-14
+Shot Chart Detail,1021300132,237,100721,Swin Cash,1611661329,Chicago Sky,3,5,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,28,1,0,20130811,CHI,MIN,2013-14
+Shot Chart Detail,1021300132,288,100721,Swin Cash,1611661329,Chicago Sky,3,0,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,1,1,1,20130811,CHI,MIN,2013-14
+Shot Chart Detail,1021300132,444,100721,Swin Cash,1611661329,Chicago Sky,5,1,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-98,71,1,0,20130811,CHI,MIN,2013-14
+Shot Chart Detail,1021300135,23,100721,Swin Cash,1611661329,Chicago Sky,1,7,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,-5,1,0,20130813,LAS,CHI,2013-14
+Shot Chart Detail,1021300135,50,100721,Swin Cash,1611661329,Chicago Sky,1,5,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-46,126,1,0,20130813,LAS,CHI,2013-14
+Shot Chart Detail,1021300135,73,100721,Swin Cash,1611661329,Chicago Sky,1,3,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-123,104,1,0,20130813,LAS,CHI,2013-14
+Shot Chart Detail,1021300135,99,100721,Swin Cash,1611661329,Chicago Sky,1,0,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,1,1,1,20130813,LAS,CHI,2013-14
+Shot Chart Detail,1021300135,124,100721,Swin Cash,1611661329,Chicago Sky,2,7,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,4,1,0,20130813,LAS,CHI,2013-14
+Shot Chart Detail,1021300135,228,100721,Swin Cash,1611661329,Chicago Sky,3,6,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,155,48,1,1,20130813,LAS,CHI,2013-14
+Shot Chart Detail,1021300135,239,100721,Swin Cash,1611661329,Chicago Sky,3,5,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,6,1,1,20130813,LAS,CHI,2013-14
+Shot Chart Detail,1021300135,253,100721,Swin Cash,1611661329,Chicago Sky,3,3,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-114,198,1,0,20130813,LAS,CHI,2013-14
+Shot Chart Detail,1021300135,272,100721,Swin Cash,1611661329,Chicago Sky,3,2,31,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,64,31,1,1,20130813,LAS,CHI,2013-14
+Shot Chart Detail,1021300138,10,100721,Swin Cash,1611661329,Chicago Sky,1,9,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,19,1,1,20130815,SEA,CHI,2013-14
+Shot Chart Detail,1021300138,23,100721,Swin Cash,1611661329,Chicago Sky,1,7,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-62,132,1,0,20130815,SEA,CHI,2013-14
+Shot Chart Detail,1021300138,26,100721,Swin Cash,1611661329,Chicago Sky,1,7,16,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,44,1,1,20130815,SEA,CHI,2013-14
+Shot Chart Detail,1021300138,36,100721,Swin Cash,1611661329,Chicago Sky,1,6,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,133,134,1,0,20130815,SEA,CHI,2013-14
+Shot Chart Detail,1021300138,43,100721,Swin Cash,1611661329,Chicago Sky,1,6,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,83,20,1,0,20130815,SEA,CHI,2013-14
+Shot Chart Detail,1021300138,168,100721,Swin Cash,1611661329,Chicago Sky,2,3,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,-7,238,1,0,20130815,SEA,CHI,2013-14
+Shot Chart Detail,1021300138,214,100721,Swin Cash,1611661329,Chicago Sky,3,9,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,17,1,1,20130815,SEA,CHI,2013-14
+Shot Chart Detail,1021300138,222,100721,Swin Cash,1611661329,Chicago Sky,3,8,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,0,195,1,0,20130815,SEA,CHI,2013-14
+Shot Chart Detail,1021300138,226,100721,Swin Cash,1611661329,Chicago Sky,3,7,44,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20130815,SEA,CHI,2013-14
+Shot Chart Detail,1021300138,267,100721,Swin Cash,1611661329,Chicago Sky,3,2,32,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,32,28,1,1,20130815,SEA,CHI,2013-14
+Shot Chart Detail,1021300138,273,100721,Swin Cash,1611661329,Chicago Sky,3,1,57,Made Shot,Pullup Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-45,25,1,1,20130815,SEA,CHI,2013-14
+Shot Chart Detail,1021300138,366,100721,Swin Cash,1611661329,Chicago Sky,4,1,31,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,26,1,1,20130815,SEA,CHI,2013-14
+Shot Chart Detail,1021300146,2,100721,Swin Cash,1611661329,Chicago Sky,1,9,49,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,-2,1,0,20130818,CHI,CON,2013-14
+Shot Chart Detail,1021300146,120,100721,Swin Cash,1611661329,Chicago Sky,2,7,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,155,184,1,0,20130818,CHI,CON,2013-14
+Shot Chart Detail,1021300146,158,100721,Swin Cash,1611661329,Chicago Sky,2,5,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,0,1,0,20130818,CHI,CON,2013-14
+Shot Chart Detail,1021300146,194,100721,Swin Cash,1611661329,Chicago Sky,2,1,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,0,1,1,20130818,CHI,CON,2013-14
+Shot Chart Detail,1021300146,227,100721,Swin Cash,1611661329,Chicago Sky,3,8,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,0,249,1,0,20130818,CHI,CON,2013-14
+Shot Chart Detail,1021300146,238,100721,Swin Cash,1611661329,Chicago Sky,3,7,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,0,1,0,20130818,CHI,CON,2013-14
+Shot Chart Detail,1021300146,246,100721,Swin Cash,1611661329,Chicago Sky,3,6,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,-13,1,0,20130818,CHI,CON,2013-14
+Shot Chart Detail,1021300146,403,100721,Swin Cash,1611661329,Chicago Sky,4,2,10,Made Shot,Pullup Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-134,44,1,1,20130818,CHI,CON,2013-14
+Shot Chart Detail,1021300146,409,100721,Swin Cash,1611661329,Chicago Sky,4,0,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,20,178,1,0,20130818,CHI,CON,2013-14
+Shot Chart Detail,1021300149,38,100721,Swin Cash,1611661329,Chicago Sky,1,5,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-75,192,1,0,20130820,WAS,CHI,2013-14
+Shot Chart Detail,1021300149,177,100721,Swin Cash,1611661329,Chicago Sky,2,4,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-5,1,1,20130820,WAS,CHI,2013-14
+Shot Chart Detail,1021300149,200,100721,Swin Cash,1611661329,Chicago Sky,2,2,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,-6,1,0,20130820,WAS,CHI,2013-14
+Shot Chart Detail,1021300149,368,100721,Swin Cash,1611661329,Chicago Sky,3,1,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,135,67,1,0,20130820,WAS,CHI,2013-14
+Shot Chart Detail,1021300149,471,100721,Swin Cash,1611661329,Chicago Sky,4,5,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,86,233,1,0,20130820,WAS,CHI,2013-14
+Shot Chart Detail,1021300156,2,100721,Swin Cash,1611661329,Chicago Sky,1,9,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,185,-8,1,1,20130823,CHI,NYL,2013-14
+Shot Chart Detail,1021300156,47,100721,Swin Cash,1611661329,Chicago Sky,1,4,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,177,-16,1,1,20130823,CHI,NYL,2013-14
+Shot Chart Detail,1021300156,114,100721,Swin Cash,1611661329,Chicago Sky,2,7,44,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-30,56,1,1,20130823,CHI,NYL,2013-14
+Shot Chart Detail,1021300156,181,100721,Swin Cash,1611661329,Chicago Sky,2,1,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,-17,1,1,20130823,CHI,NYL,2013-14
+Shot Chart Detail,1021300156,213,100721,Swin Cash,1611661329,Chicago Sky,3,9,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,15,184,1,1,20130823,CHI,NYL,2013-14
+Shot Chart Detail,1021300159,16,100721,Swin Cash,1611661329,Chicago Sky,1,8,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,37,172,1,0,20130824,ATL,CHI,2013-14
+Shot Chart Detail,1021300159,25,100721,Swin Cash,1611661329,Chicago Sky,1,7,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,12,1,1,20130824,ATL,CHI,2013-14
+Shot Chart Detail,1021300159,38,100721,Swin Cash,1611661329,Chicago Sky,1,5,59,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,11,1,0,20130824,ATL,CHI,2013-14
+Shot Chart Detail,1021300159,41,100721,Swin Cash,1611661329,Chicago Sky,1,5,35,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,24,26,1,1,20130824,ATL,CHI,2013-14
+Shot Chart Detail,1021300159,246,100721,Swin Cash,1611661329,Chicago Sky,2,0,48,Made Shot,Driving Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,12,1,1,20130824,ATL,CHI,2013-14
+Shot Chart Detail,1021300159,263,100721,Swin Cash,1611661329,Chicago Sky,3,8,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-177,50,1,0,20130824,ATL,CHI,2013-14
+Shot Chart Detail,1021300159,281,100721,Swin Cash,1611661329,Chicago Sky,3,7,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,113,157,1,0,20130824,ATL,CHI,2013-14
+Shot Chart Detail,1021300159,371,100721,Swin Cash,1611661329,Chicago Sky,3,0,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,12,1,1,20130824,ATL,CHI,2013-14
+Shot Chart Detail,1021300159,456,100721,Swin Cash,1611661329,Chicago Sky,4,3,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-18,203,1,1,20130824,ATL,CHI,2013-14
+Shot Chart Detail,1021300170,23,100721,Swin Cash,1611661329,Chicago Sky,1,7,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,-6,1,0,20130831,CHI,ATL,2013-14
+Shot Chart Detail,1021300170,26,100721,Swin Cash,1611661329,Chicago Sky,1,7,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-199,-19,1,0,20130831,CHI,ATL,2013-14
+Shot Chart Detail,1021300170,111,100721,Swin Cash,1611661329,Chicago Sky,2,9,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-103,113,1,1,20130831,CHI,ATL,2013-14
+Shot Chart Detail,1021300170,135,100721,Swin Cash,1611661329,Chicago Sky,2,6,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,11,1,0,20130831,CHI,ATL,2013-14
+Shot Chart Detail,1021300170,189,100721,Swin Cash,1611661329,Chicago Sky,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-138,142,1,0,20130831,CHI,ATL,2013-14
+Shot Chart Detail,1021300170,243,100721,Swin Cash,1611661329,Chicago Sky,3,4,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,10,172,1,0,20130831,CHI,ATL,2013-14
+Shot Chart Detail,1021300170,351,100721,Swin Cash,1611661329,Chicago Sky,4,6,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,19,1,1,20130831,CHI,ATL,2013-14
+Shot Chart Detail,1021300181,25,100721,Swin Cash,1611661329,Chicago Sky,1,5,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,2,159,1,0,20130906,CHI,IND,2013-14
+Shot Chart Detail,1021300181,27,100721,Swin Cash,1611661329,Chicago Sky,1,5,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,7,1,0,20130906,CHI,IND,2013-14
+Shot Chart Detail,1021300181,116,100721,Swin Cash,1611661329,Chicago Sky,2,7,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,106,129,1,0,20130906,CHI,IND,2013-14
+Shot Chart Detail,1021300181,120,100721,Swin Cash,1611661329,Chicago Sky,2,7,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,0,1,0,20130906,CHI,IND,2013-14
+Shot Chart Detail,1021300181,121,100721,Swin Cash,1611661329,Chicago Sky,2,6,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,1,1,1,20130906,CHI,IND,2013-14
+Shot Chart Detail,1021300181,152,100721,Swin Cash,1611661329,Chicago Sky,2,5,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,-2,1,0,20130906,CHI,IND,2013-14
+Shot Chart Detail,1021300181,286,100721,Swin Cash,1611661329,Chicago Sky,3,2,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,58,28,1,0,20130906,CHI,IND,2013-14
+Shot Chart Detail,1021300181,288,100721,Swin Cash,1611661329,Chicago Sky,3,2,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,181,-10,1,0,20130906,CHI,IND,2013-14
+Shot Chart Detail,1021300181,350,100721,Swin Cash,1611661329,Chicago Sky,4,5,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,81,228,1,1,20130906,CHI,IND,2013-14
+Shot Chart Detail,1021300181,389,100721,Swin Cash,1611661329,Chicago Sky,4,1,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),24+ ft.,22,225,39,1,1,20130906,CHI,IND,2013-14
+Shot Chart Detail,1021300181,393,100721,Swin Cash,1611661329,Chicago Sky,4,1,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,103,219,1,1,20130906,CHI,IND,2013-14
+Shot Chart Detail,1021300181,421,100721,Swin Cash,1611661329,Chicago Sky,4,0,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-128,198,1,0,20130906,CHI,IND,2013-14
+Shot Chart Detail,1021300186,2,100721,Swin Cash,1611661329,Chicago Sky,1,9,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,11,1,0,20130908,WAS,CHI,2013-14
+Shot Chart Detail,1021300186,173,100721,Swin Cash,1611661329,Chicago Sky,2,5,35,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,4,1,1,20130908,WAS,CHI,2013-14
+Shot Chart Detail,1021300186,194,100721,Swin Cash,1611661329,Chicago Sky,2,3,38,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,17,36,1,1,20130908,WAS,CHI,2013-14
+Shot Chart Detail,1021300186,201,100721,Swin Cash,1611661329,Chicago Sky,2,2,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,3,1,0,20130908,WAS,CHI,2013-14
+Shot Chart Detail,1021300186,203,100721,Swin Cash,1611661329,Chicago Sky,2,2,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,11,1,1,20130908,WAS,CHI,2013-14
+Shot Chart Detail,1021300186,239,100721,Swin Cash,1611661329,Chicago Sky,3,9,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),24+ ft.,24,242,30,1,1,20130908,WAS,CHI,2013-14
+Shot Chart Detail,1021300186,242,100721,Swin Cash,1611661329,Chicago Sky,3,8,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,176,167,1,0,20130908,WAS,CHI,2013-14
+Shot Chart Detail,1021300186,255,100721,Swin Cash,1611661329,Chicago Sky,3,7,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,7,1,1,20130908,WAS,CHI,2013-14
+Shot Chart Detail,1021300186,350,100721,Swin Cash,1611661329,Chicago Sky,4,9,26,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,12,1,1,20130908,WAS,CHI,2013-14
+Shot Chart Detail,1021300186,455,100721,Swin Cash,1611661329,Chicago Sky,4,1,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,-14,1,0,20130908,WAS,CHI,2013-14
+Shot Chart Detail,1021300186,476,100721,Swin Cash,1611661329,Chicago Sky,4,0,11,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,12,102,1,1,20130908,WAS,CHI,2013-14
+Shot Chart Detail,1021300192,139,100721,Swin Cash,1611661329,Chicago Sky,2,6,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,20,1,0,20130911,CHI,PHO,2013-14
+Shot Chart Detail,1021300192,198,100721,Swin Cash,1611661329,Chicago Sky,2,1,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,-2,1,1,20130911,CHI,PHO,2013-14
+Shot Chart Detail,1021300192,270,100721,Swin Cash,1611661329,Chicago Sky,3,3,13,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-10,1,1,20130911,CHI,PHO,2013-14
+Shot Chart Detail,1021300192,316,100721,Swin Cash,1611661329,Chicago Sky,4,7,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,6,126,1,0,20130911,CHI,PHO,2013-14
+Shot Chart Detail,1021300197,2,100721,Swin Cash,1611661329,Chicago Sky,1,9,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,195,-11,1,0,20130913,CHI,ATL,2013-14
+Shot Chart Detail,1021300197,19,100721,Swin Cash,1611661329,Chicago Sky,1,8,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-8,67,1,0,20130913,CHI,ATL,2013-14
+Shot Chart Detail,1021300197,38,100721,Swin Cash,1611661329,Chicago Sky,1,6,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,3,1,1,20130913,CHI,ATL,2013-14
+Shot Chart Detail,1021300197,61,100721,Swin Cash,1611661329,Chicago Sky,1,4,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-105,-11,1,0,20130913,CHI,ATL,2013-14
+Shot Chart Detail,1021300197,176,100721,Swin Cash,1611661329,Chicago Sky,2,3,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-177,149,1,1,20130913,CHI,ATL,2013-14
+Shot Chart Detail,1021300197,181,100721,Swin Cash,1611661329,Chicago Sky,2,3,3,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,1,1,0,20130913,CHI,ATL,2013-14
+Shot Chart Detail,1021300197,291,100721,Swin Cash,1611661329,Chicago Sky,3,4,15,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,7,67,1,1,20130913,CHI,ATL,2013-14
+Shot Chart Detail,1021300197,410,100721,Swin Cash,1611661329,Chicago Sky,4,1,22,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,245,-3,1,0,20130913,CHI,ATL,2013-14
+Shot Chart Detail,1021300199,37,100721,Swin Cash,1611661329,Chicago Sky,1,6,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-188,132,1,0,20130914,MIN,CHI,2013-14
+Shot Chart Detail,1021300199,166,100721,Swin Cash,1611661329,Chicago Sky,2,3,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,44,1,1,20130914,MIN,CHI,2013-14
+Shot Chart Detail,1021300199,241,100721,Swin Cash,1611661329,Chicago Sky,3,4,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-24,138,1,0,20130914,MIN,CHI,2013-14
+Shot Chart Detail,1021300199,309,100721,Swin Cash,1611661329,Chicago Sky,4,8,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-75,131,1,0,20130914,MIN,CHI,2013-14
+Shot Chart Detail,1021300199,318,100721,Swin Cash,1611661329,Chicago Sky,4,7,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-168,67,1,0,20130914,MIN,CHI,2013-14

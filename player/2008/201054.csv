@@ -1,0 +1,111 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020800119,183,201054,Alison Bales,1611661330,Atlanta Dream,2,2,23,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,49,1,0,20080705,ATL,CHI,2008-09
+Shot Chart Detail,1020800119,254,201054,Alison Bales,1611661330,Atlanta Dream,3,5,52,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080705,ATL,CHI,2008-09
+Shot Chart Detail,1020800119,278,201054,Alison Bales,1611661330,Atlanta Dream,3,3,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,44,43,1,0,20080705,ATL,CHI,2008-09
+Shot Chart Detail,1020800119,341,201054,Alison Bales,1611661330,Atlanta Dream,4,8,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-61,30,1,1,20080705,ATL,CHI,2008-09
+Shot Chart Detail,1020800119,351,201054,Alison Bales,1611661330,Atlanta Dream,4,8,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,8,1,0,20080705,ATL,CHI,2008-09
+Shot Chart Detail,1020800119,355,201054,Alison Bales,1611661330,Atlanta Dream,4,7,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-52,31,1,0,20080705,ATL,CHI,2008-09
+Shot Chart Detail,1020800119,366,201054,Alison Bales,1611661330,Atlanta Dream,4,6,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-66,86,1,0,20080705,ATL,CHI,2008-09
+Shot Chart Detail,1020800129,126,201054,Alison Bales,1611661330,Atlanta Dream,2,6,31,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,95,0,1,1,20080709,MIN,ATL,2008-09
+Shot Chart Detail,1020800129,134,201054,Alison Bales,1611661330,Atlanta Dream,2,5,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,31,181,1,1,20080709,MIN,ATL,2008-09
+Shot Chart Detail,1020800129,160,201054,Alison Bales,1611661330,Atlanta Dream,2,3,30,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,20,1,0,20080709,MIN,ATL,2008-09
+Shot Chart Detail,1020800129,178,201054,Alison Bales,1611661330,Atlanta Dream,2,1,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080709,MIN,ATL,2008-09
+Shot Chart Detail,1020800129,181,201054,Alison Bales,1611661330,Atlanta Dream,2,0,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-36,168,1,1,20080709,MIN,ATL,2008-09
+Shot Chart Detail,1020800129,225,201054,Alison Bales,1611661330,Atlanta Dream,3,5,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,64,164,1,0,20080709,MIN,ATL,2008-09
+Shot Chart Detail,1020800129,234,201054,Alison Bales,1611661330,Atlanta Dream,3,4,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-154,72,1,0,20080709,MIN,ATL,2008-09
+Shot Chart Detail,1020800135,91,201054,Alison Bales,1611661330,Atlanta Dream,1,0,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,28,1,1,20080711,SAN,ATL,2008-09
+Shot Chart Detail,1020800135,159,201054,Alison Bales,1611661330,Atlanta Dream,2,3,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,-1,1,1,20080711,SAN,ATL,2008-09
+Shot Chart Detail,1020800135,165,201054,Alison Bales,1611661330,Atlanta Dream,2,2,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,-8,1,1,20080711,SAN,ATL,2008-09
+Shot Chart Detail,1020800135,184,201054,Alison Bales,1611661330,Atlanta Dream,3,9,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-100,51,1,0,20080711,SAN,ATL,2008-09
+Shot Chart Detail,1020800135,211,201054,Alison Bales,1611661330,Atlanta Dream,3,6,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,10,1,0,20080711,SAN,ATL,2008-09
+Shot Chart Detail,1020800135,282,201054,Alison Bales,1611661330,Atlanta Dream,3,0,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,8,179,1,1,20080711,SAN,ATL,2008-09
+Shot Chart Detail,1020800142,47,201054,Alison Bales,1611661330,Atlanta Dream,1,5,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,57,207,1,0,20080713,CHI,ATL,2008-09
+Shot Chart Detail,1020800142,52,201054,Alison Bales,1611661330,Atlanta Dream,1,5,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080713,CHI,ATL,2008-09
+Shot Chart Detail,1020800142,125,201054,Alison Bales,1611661330,Atlanta Dream,2,6,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080713,CHI,ATL,2008-09
+Shot Chart Detail,1020800142,206,201054,Alison Bales,1611661330,Atlanta Dream,3,8,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,69,169,1,0,20080713,CHI,ATL,2008-09
+Shot Chart Detail,1020800142,287,201054,Alison Bales,1611661330,Atlanta Dream,3,0,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,69,15,1,0,20080713,CHI,ATL,2008-09
+Shot Chart Detail,1020800147,35,201054,Alison Bales,1611661330,Atlanta Dream,1,5,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,84,132,1,0,20080716,IND,ATL,2008-09
+Shot Chart Detail,1020800147,55,201054,Alison Bales,1611661330,Atlanta Dream,1,3,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,31,181,1,0,20080716,IND,ATL,2008-09
+Shot Chart Detail,1020800147,188,201054,Alison Bales,1611661330,Atlanta Dream,2,1,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,-3,1,1,20080716,IND,ATL,2008-09
+Shot Chart Detail,1020800147,233,201054,Alison Bales,1611661330,Atlanta Dream,3,7,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,-31,1,1,20080716,IND,ATL,2008-09
+Shot Chart Detail,1020800147,287,201054,Alison Bales,1611661330,Atlanta Dream,3,2,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,0,1,1,20080716,IND,ATL,2008-09
+Shot Chart Detail,1020800154,12,201054,Alison Bales,1611661330,Atlanta Dream,1,8,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080718,SAC,ATL,2008-09
+Shot Chart Detail,1020800154,56,201054,Alison Bales,1611661330,Atlanta Dream,1,4,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-110,115,1,0,20080718,SAC,ATL,2008-09
+Shot Chart Detail,1020800154,244,201054,Alison Bales,1611661330,Atlanta Dream,3,9,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080718,SAC,ATL,2008-09
+Shot Chart Detail,1020800158,107,201054,Alison Bales,1611661330,Atlanta Dream,1,1,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,6,219,1,0,20080719,PHO,ATL,2008-09
+Shot Chart Detail,1020800158,316,201054,Alison Bales,1611661330,Atlanta Dream,3,4,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080719,PHO,ATL,2008-09
+Shot Chart Detail,1020800162,122,201054,Alison Bales,1611661330,Atlanta Dream,2,8,37,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080722,ATL,SAC,2008-09
+Shot Chart Detail,1020800162,169,201054,Alison Bales,1611661330,Atlanta Dream,2,4,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080722,ATL,SAC,2008-09
+Shot Chart Detail,1020800162,244,201054,Alison Bales,1611661330,Atlanta Dream,3,7,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080722,ATL,SAC,2008-09
+Shot Chart Detail,1020800162,264,201054,Alison Bales,1611661330,Atlanta Dream,3,5,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,15,1,0,20080722,ATL,SAC,2008-09
+Shot Chart Detail,1020800162,328,201054,Alison Bales,1611661330,Atlanta Dream,4,9,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-34,171,1,0,20080722,ATL,SAC,2008-09
+Shot Chart Detail,1020800162,350,201054,Alison Bales,1611661330,Atlanta Dream,4,7,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080722,ATL,SAC,2008-09
+Shot Chart Detail,1020800162,397,201054,Alison Bales,1611661330,Atlanta Dream,4,3,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080722,ATL,SAC,2008-09
+Shot Chart Detail,1020800174,138,201054,Alison Bales,1611661330,Atlanta Dream,2,7,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080725,ATL,WAS,2008-09
+Shot Chart Detail,1020800174,145,201054,Alison Bales,1611661330,Atlanta Dream,2,7,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,64,155,1,0,20080725,ATL,WAS,2008-09
+Shot Chart Detail,1020800174,156,201054,Alison Bales,1611661330,Atlanta Dream,2,5,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080725,ATL,WAS,2008-09
+Shot Chart Detail,1020800174,258,201054,Alison Bales,1611661330,Atlanta Dream,3,7,45,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,20,72,1,1,20080725,ATL,WAS,2008-09
+Shot Chart Detail,1020800174,409,201054,Alison Bales,1611661330,Atlanta Dream,4,4,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-25,133,1,0,20080725,ATL,WAS,2008-09
+Shot Chart Detail,1020800191,5,201054,Alison Bales,1611661330,Atlanta Dream,1,9,41,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080829,ATL,CON,2008-09
+Shot Chart Detail,1020800191,150,201054,Alison Bales,1611661330,Atlanta Dream,2,6,15,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080829,ATL,CON,2008-09
+Shot Chart Detail,1020800193,32,201054,Alison Bales,1611661330,Atlanta Dream,1,5,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,18,1,0,20080830,IND,ATL,2008-09
+Shot Chart Detail,1020800193,57,201054,Alison Bales,1611661330,Atlanta Dream,1,3,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-145,104,1,0,20080830,IND,ATL,2008-09
+Shot Chart Detail,1020800193,60,201054,Alison Bales,1611661330,Atlanta Dream,1,2,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,-9,1,1,20080830,IND,ATL,2008-09
+Shot Chart Detail,1020800193,139,201054,Alison Bales,1611661330,Atlanta Dream,2,4,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-9,1,1,20080830,IND,ATL,2008-09
+Shot Chart Detail,1020800193,344,201054,Alison Bales,1611661330,Atlanta Dream,4,3,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-99,92,1,0,20080830,IND,ATL,2008-09
+Shot Chart Detail,1020800201,99,201054,Alison Bales,1611661330,Atlanta Dream,1,0,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-72,155,1,0,20080902,ATL,SEA,2008-09
+Shot Chart Detail,1020800201,329,201054,Alison Bales,1611661330,Atlanta Dream,3,0,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-5,173,1,0,20080902,ATL,SEA,2008-09
+Shot Chart Detail,1020800206,24,201054,Alison Bales,1611661330,Atlanta Dream,1,6,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,52,164,1,1,20080905,NYL,ATL,2008-09
+Shot Chart Detail,1020800206,200,201054,Alison Bales,1611661330,Atlanta Dream,3,9,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080905,NYL,ATL,2008-09
+Shot Chart Detail,1020800206,207,201054,Alison Bales,1611661330,Atlanta Dream,3,7,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080905,NYL,ATL,2008-09
+Shot Chart Detail,1020800206,397,201054,Alison Bales,1611661330,Atlanta Dream,4,0,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080905,NYL,ATL,2008-09
+Shot Chart Detail,1020800217,12,201054,Alison Bales,1611661330,Atlanta Dream,1,8,34,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080908,ATL,IND,2008-09
+Shot Chart Detail,1020800217,27,201054,Alison Bales,1611661330,Atlanta Dream,1,6,50,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,33,1,1,20080908,ATL,IND,2008-09
+Shot Chart Detail,1020800217,70,201054,Alison Bales,1611661330,Atlanta Dream,1,2,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,72,145,1,1,20080908,ATL,IND,2008-09
+Shot Chart Detail,1020800217,204,201054,Alison Bales,1611661330,Atlanta Dream,2,0,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,71,35,1,0,20080908,ATL,IND,2008-09
+Shot Chart Detail,1020800217,248,201054,Alison Bales,1611661330,Atlanta Dream,3,6,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,16,161,1,0,20080908,ATL,IND,2008-09
+Shot Chart Detail,1020800217,345,201054,Alison Bales,1611661330,Atlanta Dream,4,6,21,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,13,1,0,20080908,ATL,IND,2008-09
+Shot Chart Detail,1020800217,379,201054,Alison Bales,1611661330,Atlanta Dream,4,3,58,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080908,ATL,IND,2008-09
+Shot Chart Detail,1020800227,9,201054,Alison Bales,1611661330,Atlanta Dream,1,8,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,172,166,1,1,20080911,LAS,ATL,2008-09
+Shot Chart Detail,1020800227,13,201054,Alison Bales,1611661330,Atlanta Dream,1,7,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,-3,1,1,20080911,LAS,ATL,2008-09
+Shot Chart Detail,1020800227,168,201054,Alison Bales,1611661330,Atlanta Dream,2,4,28,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-89,-1,1,0,20080911,LAS,ATL,2008-09
+Shot Chart Detail,1020800227,195,201054,Alison Bales,1611661330,Atlanta Dream,2,2,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-126,-3,1,0,20080911,LAS,ATL,2008-09
+Shot Chart Detail,1020800231,9,201054,Alison Bales,1611661330,Atlanta Dream,1,8,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,15,1,0,20080912,SEA,ATL,2008-09
+Shot Chart Detail,1020800231,22,201054,Alison Bales,1611661330,Atlanta Dream,1,6,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,151,84,1,1,20080912,SEA,ATL,2008-09
+Shot Chart Detail,1020800231,345,201054,Alison Bales,1611661330,Atlanta Dream,4,5,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,59,20,1,0,20080912,SEA,ATL,2008-09
+Shot Chart Detail,1020800004,156,201054,Alison Bales,1611661325,Indiana Fever,2,2,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,85,156,1,1,20080517,IND,WAS,2008-09
+Shot Chart Detail,1020800004,283,201054,Alison Bales,1611661325,Indiana Fever,4,9,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,72,199,1,1,20080517,IND,WAS,2008-09
+Shot Chart Detail,1020800004,332,201054,Alison Bales,1611661325,Indiana Fever,4,4,40,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,-11,1,0,20080517,IND,WAS,2008-09
+Shot Chart Detail,1020800004,336,201054,Alison Bales,1611661325,Indiana Fever,4,4,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-154,84,1,1,20080517,IND,WAS,2008-09
+Shot Chart Detail,1020800004,366,201054,Alison Bales,1611661325,Indiana Fever,4,1,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-108,146,1,0,20080517,IND,WAS,2008-09
+Shot Chart Detail,1020800004,371,201054,Alison Bales,1611661325,Indiana Fever,4,0,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-41,-23,1,0,20080517,IND,WAS,2008-09
+Shot Chart Detail,1020800011,154,201054,Alison Bales,1611661325,Indiana Fever,2,3,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,151,91,1,0,20080521,DET,IND,2008-09
+Shot Chart Detail,1020800011,160,201054,Alison Bales,1611661325,Indiana Fever,2,2,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080521,DET,IND,2008-09
+Shot Chart Detail,1020800011,287,201054,Alison Bales,1611661325,Indiana Fever,3,0,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080521,DET,IND,2008-09
+Shot Chart Detail,1020800011,314,201054,Alison Bales,1611661325,Indiana Fever,4,7,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-57,169,1,0,20080521,DET,IND,2008-09
+Shot Chart Detail,1020800011,325,201054,Alison Bales,1611661325,Indiana Fever,4,6,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,33,232,1,0,20080521,DET,IND,2008-09
+Shot Chart Detail,1020800021,109,201054,Alison Bales,1611661325,Indiana Fever,2,7,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,0,168,1,1,20080527,CON,IND,2008-09
+Shot Chart Detail,1020800021,127,201054,Alison Bales,1611661325,Indiana Fever,2,5,39,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,28,1,1,20080527,CON,IND,2008-09
+Shot Chart Detail,1020800021,245,201054,Alison Bales,1611661325,Indiana Fever,3,3,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-49,169,1,0,20080527,CON,IND,2008-09
+Shot Chart Detail,1020800030,178,201054,Alison Bales,1611661325,Indiana Fever,2,2,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-43,-8,1,0,20080531,IND,DET,2008-09
+Shot Chart Detail,1020800030,182,201054,Alison Bales,1611661325,Indiana Fever,2,2,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-108,-11,1,0,20080531,IND,DET,2008-09
+Shot Chart Detail,1020800030,195,201054,Alison Bales,1611661325,Indiana Fever,2,0,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,44,156,1,1,20080531,IND,DET,2008-09
+Shot Chart Detail,1020800030,311,201054,Alison Bales,1611661325,Indiana Fever,4,9,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-140,95,1,0,20080531,IND,DET,2008-09
+Shot Chart Detail,1020800030,324,201054,Alison Bales,1611661325,Indiana Fever,4,7,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,-5,1,0,20080531,IND,DET,2008-09
+Shot Chart Detail,1020800030,329,201054,Alison Bales,1611661325,Indiana Fever,4,7,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-5,1,0,20080531,IND,DET,2008-09
+Shot Chart Detail,1020800055,89,201054,Alison Bales,1611661325,Indiana Fever,1,0,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,7,1,0,20080611,SAN,IND,2008-09
+Shot Chart Detail,1020800055,338,201054,Alison Bales,1611661325,Indiana Fever,4,4,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,0,217,1,0,20080611,SAN,IND,2008-09
+Shot Chart Detail,1020800059,133,201054,Alison Bales,1611661325,Indiana Fever,2,6,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,98,133,1,1,20080613,ATL,IND,2008-09
+Shot Chart Detail,1020800059,301,201054,Alison Bales,1611661325,Indiana Fever,4,9,42,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080613,ATL,IND,2008-09
+Shot Chart Detail,1020800067,53,201054,Alison Bales,1611661325,Indiana Fever,1,2,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,87,163,1,0,20080615,IND,SAN,2008-09
+Shot Chart Detail,1020800067,131,201054,Alison Bales,1611661325,Indiana Fever,2,5,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,-1,1,1,20080615,IND,SAN,2008-09
+Shot Chart Detail,1020800067,145,201054,Alison Bales,1611661325,Indiana Fever,2,4,6,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-1,1,1,20080615,IND,SAN,2008-09
+Shot Chart Detail,1020800067,185,201054,Alison Bales,1611661325,Indiana Fever,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,-29,1,0,20080615,IND,SAN,2008-09
+Shot Chart Detail,1020800067,193,201054,Alison Bales,1611661325,Indiana Fever,3,9,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,-5,1,1,20080615,IND,SAN,2008-09
+Shot Chart Detail,1020800067,239,201054,Alison Bales,1611661325,Indiana Fever,3,3,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-3,1,0,20080615,IND,SAN,2008-09
+Shot Chart Detail,1020800067,315,201054,Alison Bales,1611661325,Indiana Fever,4,6,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,-26,1,0,20080615,IND,SAN,2008-09
+Shot Chart Detail,1020800067,341,201054,Alison Bales,1611661325,Indiana Fever,4,3,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-36,151,1,0,20080615,IND,SAN,2008-09
+Shot Chart Detail,1020800067,380,201054,Alison Bales,1611661325,Indiana Fever,4,0,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,-16,1,0,20080615,IND,SAN,2008-09
+Shot Chart Detail,1020800101,325,201054,Alison Bales,1611661325,Indiana Fever,3,0,22,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,31,1,1,20080628,HOU,IND,2008-09
+Shot Chart Detail,1020800101,333,201054,Alison Bales,1611661325,Indiana Fever,4,9,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-120,184,1,1,20080628,HOU,IND,2008-09
+Shot Chart Detail,1020800101,335,201054,Alison Bales,1611661325,Indiana Fever,4,8,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-126,194,1,0,20080628,HOU,IND,2008-09

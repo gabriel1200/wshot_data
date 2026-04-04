@@ -1,0 +1,69 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020500001,18,100740,Ayana Walker,1611661321,Detroit Shock,1,17,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050521,DET,CON,2005-06
+Shot Chart Detail,1020500001,40,100740,Ayana Walker,1611661321,Detroit Shock,1,15,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,89,123,1,0,20050521,DET,CON,2005-06
+Shot Chart Detail,1020500001,44,100740,Ayana Walker,1611661321,Detroit Shock,1,14,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,-3,1,1,20050521,DET,CON,2005-06
+Shot Chart Detail,1020500001,52,100740,Ayana Walker,1611661321,Detroit Shock,1,13,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,120,53,1,1,20050521,DET,CON,2005-06
+Shot Chart Detail,1020500001,61,100740,Ayana Walker,1611661321,Detroit Shock,1,11,24,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,71,8,1,1,20050521,DET,CON,2005-06
+Shot Chart Detail,1020500001,169,100740,Ayana Walker,1611661321,Detroit Shock,1,3,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-145,122,1,0,20050521,DET,CON,2005-06
+Shot Chart Detail,1020500001,186,100740,Ayana Walker,1611661321,Detroit Shock,1,2,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-158,64,1,0,20050521,DET,CON,2005-06
+Shot Chart Detail,1020500001,250,100740,Ayana Walker,1611661321,Detroit Shock,1,1,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050521,DET,CON,2005-06
+Shot Chart Detail,1020500001,285,100740,Ayana Walker,1611661321,Detroit Shock,2,15,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050521,DET,CON,2005-06
+Shot Chart Detail,1020500001,296,100740,Ayana Walker,1611661321,Detroit Shock,2,14,22,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-46,40,1,0,20050521,DET,CON,2005-06
+Shot Chart Detail,1020500006,17,100740,Ayana Walker,1611661321,Detroit Shock,1,18,9,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-118,17,1,1,20050522,NYL,DET,2005-06
+Shot Chart Detail,1020500006,23,100740,Ayana Walker,1611661321,Detroit Shock,1,17,22,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,13,81,1,0,20050522,NYL,DET,2005-06
+Shot Chart Detail,1020500006,131,100740,Ayana Walker,1611661321,Detroit Shock,1,7,48,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050522,NYL,DET,2005-06
+Shot Chart Detail,1020500006,154,100740,Ayana Walker,1611661321,Detroit Shock,1,6,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050522,NYL,DET,2005-06
+Shot Chart Detail,1020500006,252,100740,Ayana Walker,1611661321,Detroit Shock,1,1,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050522,NYL,DET,2005-06
+Shot Chart Detail,1020500006,222,100740,Ayana Walker,1611661321,Detroit Shock,1,0,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-145,41,1,0,20050522,NYL,DET,2005-06
+Shot Chart Detail,1020500010,32,100740,Ayana Walker,1611661321,Detroit Shock,1,17,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050524,DET,SAN,2005-06
+Shot Chart Detail,1020500010,57,100740,Ayana Walker,1611661321,Detroit Shock,1,14,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-126,15,1,0,20050524,DET,SAN,2005-06
+Shot Chart Detail,1020500029,11,100740,Ayana Walker,1611661321,Detroit Shock,1,18,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-85,45,1,0,20050603,DET,NYL,2005-06
+Shot Chart Detail,1020500029,275,100740,Ayana Walker,1611661321,Detroit Shock,2,12,27,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050603,DET,NYL,2005-06
+Shot Chart Detail,1020500029,277,100740,Ayana Walker,1611661321,Detroit Shock,2,12,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050603,DET,NYL,2005-06
+Shot Chart Detail,1020500040,16,100740,Ayana Walker,1611661321,Detroit Shock,1,17,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,22,1,1,20050608,DET,SEA,2005-06
+Shot Chart Detail,1020500040,53,100740,Ayana Walker,1611661321,Detroit Shock,1,13,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,0,105,1,0,20050608,DET,SEA,2005-06
+Shot Chart Detail,1020500040,247,100740,Ayana Walker,1611661321,Detroit Shock,2,16,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050608,DET,SEA,2005-06
+Shot Chart Detail,1020500040,270,100740,Ayana Walker,1611661321,Detroit Shock,2,13,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,36,156,1,0,20050608,DET,SEA,2005-06
+Shot Chart Detail,1020500042,44,100740,Ayana Walker,1611661321,Detroit Shock,1,15,19,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-26,100,1,1,20050610,DET,CHA,2005-06
+Shot Chart Detail,1020500042,56,100740,Ayana Walker,1611661321,Detroit Shock,1,13,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-10,49,1,1,20050610,DET,CHA,2005-06
+Shot Chart Detail,1020500042,77,100740,Ayana Walker,1611661321,Detroit Shock,1,11,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050610,DET,CHA,2005-06
+Shot Chart Detail,1020500042,242,100740,Ayana Walker,1611661321,Detroit Shock,2,15,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,59,26,1,0,20050610,DET,CHA,2005-06
+Shot Chart Detail,1020500042,245,100740,Ayana Walker,1611661321,Detroit Shock,2,15,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050610,DET,CHA,2005-06
+Shot Chart Detail,1020500042,389,100740,Ayana Walker,1611661321,Detroit Shock,2,2,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050610,DET,CHA,2005-06
+Shot Chart Detail,1020500049,15,100740,Ayana Walker,1611661321,Detroit Shock,1,17,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,6,87,1,1,20050612,NYL,DET,2005-06
+Shot Chart Detail,1020500049,17,100740,Ayana Walker,1611661321,Detroit Shock,1,16,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050612,NYL,DET,2005-06
+Shot Chart Detail,1020500049,39,100740,Ayana Walker,1611661321,Detroit Shock,1,13,52,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,23,77,1,1,20050612,NYL,DET,2005-06
+Shot Chart Detail,1020500049,123,100740,Ayana Walker,1611661321,Detroit Shock,1,3,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,52,26,1,0,20050612,NYL,DET,2005-06
+Shot Chart Detail,1020500054,14,100740,Ayana Walker,1611661321,Detroit Shock,1,18,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,7,1,0,20050615,IND,DET,2005-06
+Shot Chart Detail,1020500054,66,100740,Ayana Walker,1611661321,Detroit Shock,1,14,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,2,1,1,20050615,IND,DET,2005-06
+Shot Chart Detail,1020500054,241,100740,Ayana Walker,1611661321,Detroit Shock,2,16,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,47,146,1,1,20050615,IND,DET,2005-06
+Shot Chart Detail,1020500061,65,100740,Ayana Walker,1611661321,Detroit Shock,1,12,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,10,1,1,20050618,CON,DET,2005-06
+Shot Chart Detail,1020500061,122,100740,Ayana Walker,1611661321,Detroit Shock,1,8,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,18,1,1,20050618,CON,DET,2005-06
+Shot Chart Detail,1020500061,131,100740,Ayana Walker,1611661321,Detroit Shock,1,6,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,8,1,1,20050618,CON,DET,2005-06
+Shot Chart Detail,1020500061,137,100740,Ayana Walker,1611661321,Detroit Shock,1,6,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,10,1,1,20050618,CON,DET,2005-06
+Shot Chart Detail,1020500061,139,100740,Ayana Walker,1611661321,Detroit Shock,1,6,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,12,1,0,20050618,CON,DET,2005-06
+Shot Chart Detail,1020500061,175,100740,Ayana Walker,1611661321,Detroit Shock,1,2,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-138,-37,1,0,20050618,CON,DET,2005-06
+Shot Chart Detail,1020500061,251,100740,Ayana Walker,1611661321,Detroit Shock,2,15,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-13,58,1,0,20050618,CON,DET,2005-06
+Shot Chart Detail,1020500070,63,100740,Ayana Walker,1611661321,Detroit Shock,1,12,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050624,DET,WAS,2005-06
+Shot Chart Detail,1020500070,67,100740,Ayana Walker,1611661321,Detroit Shock,1,12,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,94,7,1,1,20050624,DET,WAS,2005-06
+Shot Chart Detail,1020500070,80,100740,Ayana Walker,1611661321,Detroit Shock,1,11,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,77,92,1,0,20050624,DET,WAS,2005-06
+Shot Chart Detail,1020500070,220,100740,Ayana Walker,1611661321,Detroit Shock,1,2,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,17,1,0,20050624,DET,WAS,2005-06
+Shot Chart Detail,1020500070,302,100740,Ayana Walker,1611661321,Detroit Shock,2,9,35,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,48,1,0,20050624,DET,WAS,2005-06
+Shot Chart Detail,1020500077,31,100740,Ayana Walker,1611661321,Detroit Shock,1,16,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-125,46,1,0,20050626,DET,LAS,2005-06
+Shot Chart Detail,1020500077,107,100740,Ayana Walker,1611661321,Detroit Shock,1,7,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-92,143,1,0,20050626,DET,LAS,2005-06
+Shot Chart Detail,1020500107,108,100740,Ayana Walker,1611661314,Charlotte Sting,1,6,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,67,41,1,0,20050713,PHO,CHA,2005-06
+Shot Chart Detail,1020500107,125,100740,Ayana Walker,1611661314,Charlotte Sting,1,3,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,8,1,0,20050713,PHO,CHA,2005-06
+Shot Chart Detail,1020500107,260,100740,Ayana Walker,1611661314,Charlotte Sting,2,8,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-112,17,1,0,20050713,PHO,CHA,2005-06
+Shot Chart Detail,1020500185,161,100740,Ayana Walker,1611661314,Charlotte Sting,1,0,0,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,12,1,1,20050814,NYL,CHA,2005-06
+Shot Chart Detail,1020500191,106,100740,Ayana Walker,1611661314,Charlotte Sting,1,8,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,0,1,0,20050818,CON,CHA,2005-06
+Shot Chart Detail,1020500191,108,100740,Ayana Walker,1611661314,Charlotte Sting,1,8,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,10,1,1,20050818,CON,CHA,2005-06
+Shot Chart Detail,1020500191,329,100740,Ayana Walker,1611661314,Charlotte Sting,2,7,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,5,1,1,20050818,CON,CHA,2005-06
+Shot Chart Detail,1020500191,346,100740,Ayana Walker,1611661314,Charlotte Sting,2,5,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,108,0,1,1,20050818,CON,CHA,2005-06
+Shot Chart Detail,1020500199,123,100740,Ayana Walker,1611661314,Charlotte Sting,1,4,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-54,-14,1,0,20050820,IND,CHA,2005-06
+Shot Chart Detail,1020500204,354,100740,Ayana Walker,1611661314,Charlotte Sting,2,2,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,33,156,1,0,20050823,CHA,DET,2005-06
+Shot Chart Detail,1020500211,115,100740,Ayana Walker,1611661314,Charlotte Sting,1,4,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-110,125,1,0,20050825,NYL,CHA,2005-06
+Shot Chart Detail,1020500211,133,100740,Ayana Walker,1611661314,Charlotte Sting,1,2,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050825,NYL,CHA,2005-06
+Shot Chart Detail,1020500211,143,100740,Ayana Walker,1611661314,Charlotte Sting,1,1,2,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050825,NYL,CHA,2005-06
+Shot Chart Detail,1020500216,130,100740,Ayana Walker,1611661314,Charlotte Sting,1,7,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050827,CHA,CON,2005-06
+Shot Chart Detail,1020500216,149,100740,Ayana Walker,1611661314,Charlotte Sting,1,5,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,36,156,1,0,20050827,CHA,CON,2005-06
+Shot Chart Detail,1020500216,397,100740,Ayana Walker,1611661314,Charlotte Sting,2,5,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050827,CHA,CON,2005-06

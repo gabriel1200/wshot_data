@@ -1,0 +1,11 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1042400132,16,1629496,Ezi Magbegor,1611661328,Seattle Storm,1,8,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,53,99,1,1,20240924,LVA,SEA,2024-25
+Shot Chart Detail,1042400132,42,1629496,Ezi Magbegor,1611661328,Seattle Storm,1,5,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,177,163,1,1,20240924,LVA,SEA,2024-25
+Shot Chart Detail,1042400132,54,1629496,Ezi Magbegor,1611661328,Seattle Storm,1,4,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-138,199,1,1,20240924,LVA,SEA,2024-25
+Shot Chart Detail,1042400132,94,1629496,Ezi Magbegor,1611661328,Seattle Storm,1,1,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-186,-5,1,0,20240924,LVA,SEA,2024-25
+Shot Chart Detail,1042400132,105,1629496,Ezi Magbegor,1611661328,Seattle Storm,1,1,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,40,107,1,1,20240924,LVA,SEA,2024-25
+Shot Chart Detail,1042400132,135,1629496,Ezi Magbegor,1611661328,Seattle Storm,2,9,12,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-121,18,1,0,20240924,LVA,SEA,2024-25
+Shot Chart Detail,1042400132,180,1629496,Ezi Magbegor,1611661328,Seattle Storm,2,5,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,205,122,1,0,20240924,LVA,SEA,2024-25
+Shot Chart Detail,1042400132,218,1629496,Ezi Magbegor,1611661328,Seattle Storm,2,2,21,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,35,45,1,1,20240924,LVA,SEA,2024-25
+Shot Chart Detail,1042400132,229,1629496,Ezi Magbegor,1611661328,Seattle Storm,2,1,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,59,106,1,0,20240924,LVA,SEA,2024-25
+Shot Chart Detail,1042400132,483,1629496,Ezi Magbegor,1611661328,Seattle Storm,4,1,36,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,6,1,1,20240924,LVA,SEA,2024-25

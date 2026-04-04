@@ -1,0 +1,81 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1021000004,59,201490,Natasha Lacy,1611661321,Tulsa Shock,1,4,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100515,TUL,MIN,2010-11
+Shot Chart Detail,1021000004,154,201490,Natasha Lacy,1611661321,Tulsa Shock,2,9,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100515,TUL,MIN,2010-11
+Shot Chart Detail,1021000004,166,201490,Natasha Lacy,1611661321,Tulsa Shock,2,7,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100515,TUL,MIN,2010-11
+Shot Chart Detail,1021000004,235,201490,Natasha Lacy,1611661321,Tulsa Shock,2,3,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100515,TUL,MIN,2010-11
+Shot Chart Detail,1021000004,262,201490,Natasha Lacy,1611661321,Tulsa Shock,2,0,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100515,TUL,MIN,2010-11
+Shot Chart Detail,1021000004,321,201490,Natasha Lacy,1611661321,Tulsa Shock,3,6,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100515,TUL,MIN,2010-11
+Shot Chart Detail,1021000011,91,201490,Natasha Lacy,1611661321,Tulsa Shock,1,0,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,73,30,1,0,20100520,TUL,SAN,2010-11
+Shot Chart Detail,1021000011,94,201490,Natasha Lacy,1611661321,Tulsa Shock,1,0,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,15,214,1,0,20100520,TUL,SAN,2010-11
+Shot Chart Detail,1021000011,174,201490,Natasha Lacy,1611661321,Tulsa Shock,2,2,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-123,-3,1,0,20100520,TUL,SAN,2010-11
+Shot Chart Detail,1021000011,347,201490,Natasha Lacy,1611661321,Tulsa Shock,4,4,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100520,TUL,SAN,2010-11
+Shot Chart Detail,1021000020,75,201490,Natasha Lacy,1611661321,Tulsa Shock,1,2,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100523,MIN,TUL,2010-11
+Shot Chart Detail,1021000020,198,201490,Natasha Lacy,1611661321,Tulsa Shock,2,2,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,162,119,1,1,20100523,MIN,TUL,2010-11
+Shot Chart Detail,1021000020,339,201490,Natasha Lacy,1611661321,Tulsa Shock,3,3,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,122,41,1,0,20100523,MIN,TUL,2010-11
+Shot Chart Detail,1021000020,349,201490,Natasha Lacy,1611661321,Tulsa Shock,3,3,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,22,1,0,20100523,MIN,TUL,2010-11
+Shot Chart Detail,1021000020,395,201490,Natasha Lacy,1611661321,Tulsa Shock,3,0,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100523,MIN,TUL,2010-11
+Shot Chart Detail,1021000020,413,201490,Natasha Lacy,1611661321,Tulsa Shock,3,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-35,154,1,0,20100523,MIN,TUL,2010-11
+Shot Chart Detail,1021000020,502,201490,Natasha Lacy,1611661321,Tulsa Shock,4,4,15,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100523,MIN,TUL,2010-11
+Shot Chart Detail,1021000020,561,201490,Natasha Lacy,1611661321,Tulsa Shock,4,1,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100523,MIN,TUL,2010-11
+Shot Chart Detail,1021000020,567,201490,Natasha Lacy,1611661321,Tulsa Shock,4,0,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-196,29,1,0,20100523,MIN,TUL,2010-11
+Shot Chart Detail,1021000021,65,201490,Natasha Lacy,1611661321,Tulsa Shock,1,3,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,6,192,1,0,20100525,TUL,PHO,2010-11
+Shot Chart Detail,1021000021,150,201490,Natasha Lacy,1611661321,Tulsa Shock,2,7,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100525,TUL,PHO,2010-11
+Shot Chart Detail,1021000021,203,201490,Natasha Lacy,1611661321,Tulsa Shock,2,3,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,95,53,1,1,20100525,TUL,PHO,2010-11
+Shot Chart Detail,1021000021,295,201490,Natasha Lacy,1611661321,Tulsa Shock,3,7,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100525,TUL,PHO,2010-11
+Shot Chart Detail,1021000021,372,201490,Natasha Lacy,1611661321,Tulsa Shock,3,2,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100525,TUL,PHO,2010-11
+Shot Chart Detail,1021000021,439,201490,Natasha Lacy,1611661321,Tulsa Shock,4,7,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100525,TUL,PHO,2010-11
+Shot Chart Detail,1021000021,441,201490,Natasha Lacy,1611661321,Tulsa Shock,4,7,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100525,TUL,PHO,2010-11
+Shot Chart Detail,1021000021,448,201490,Natasha Lacy,1611661321,Tulsa Shock,4,6,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-84,36,1,0,20100525,TUL,PHO,2010-11
+Shot Chart Detail,1021000029,103,201490,Natasha Lacy,1611661321,Tulsa Shock,1,0,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100529,TUL,IND,2010-11
+Shot Chart Detail,1021000029,123,201490,Natasha Lacy,1611661321,Tulsa Shock,2,9,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-125,6,1,0,20100529,TUL,IND,2010-11
+Shot Chart Detail,1021000029,173,201490,Natasha Lacy,1611661321,Tulsa Shock,2,3,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-163,137,1,0,20100529,TUL,IND,2010-11
+Shot Chart Detail,1021000029,305,201490,Natasha Lacy,1611661321,Tulsa Shock,3,2,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100529,TUL,IND,2010-11
+Shot Chart Detail,1021000029,322,201490,Natasha Lacy,1611661321,Tulsa Shock,3,1,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,94,41,1,0,20100529,TUL,IND,2010-11
+Shot Chart Detail,1021000029,325,201490,Natasha Lacy,1611661321,Tulsa Shock,3,1,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100529,TUL,IND,2010-11
+Shot Chart Detail,1021000029,337,201490,Natasha Lacy,1611661321,Tulsa Shock,3,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,40,154,372,1,1,20100529,TUL,IND,2010-11
+Shot Chart Detail,1021000029,356,201490,Natasha Lacy,1611661321,Tulsa Shock,4,8,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100529,TUL,IND,2010-11
+Shot Chart Detail,1021000029,376,201490,Natasha Lacy,1611661321,Tulsa Shock,4,6,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100529,TUL,IND,2010-11
+Shot Chart Detail,1021000029,415,201490,Natasha Lacy,1611661321,Tulsa Shock,4,1,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-142,17,1,0,20100529,TUL,IND,2010-11
+Shot Chart Detail,1021000029,427,201490,Natasha Lacy,1611661321,Tulsa Shock,4,0,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,26,179,1,1,20100529,TUL,IND,2010-11
+Shot Chart Detail,1021000038,25,201490,Natasha Lacy,1611661321,Tulsa Shock,1,7,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100604,TUL,MIN,2010-11
+Shot Chart Detail,1021000038,42,201490,Natasha Lacy,1611661321,Tulsa Shock,1,5,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100604,TUL,MIN,2010-11
+Shot Chart Detail,1021000038,125,201490,Natasha Lacy,1611661321,Tulsa Shock,2,7,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-155,145,1,1,20100604,TUL,MIN,2010-11
+Shot Chart Detail,1021000038,146,201490,Natasha Lacy,1611661321,Tulsa Shock,2,5,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-174,124,1,0,20100604,TUL,MIN,2010-11
+Shot Chart Detail,1021000038,210,201490,Natasha Lacy,1611661321,Tulsa Shock,2,4,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-93,189,1,0,20100604,TUL,MIN,2010-11
+Shot Chart Detail,1021000038,164,201490,Natasha Lacy,1611661321,Tulsa Shock,2,4,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,6,137,1,1,20100604,TUL,MIN,2010-11
+Shot Chart Detail,1021000038,179,201490,Natasha Lacy,1611661321,Tulsa Shock,2,2,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-146,151,1,0,20100604,TUL,MIN,2010-11
+Shot Chart Detail,1021000038,458,201490,Natasha Lacy,1611661321,Tulsa Shock,4,1,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,6,1,0,20100604,TUL,MIN,2010-11
+Shot Chart Detail,1021000042,28,201490,Natasha Lacy,1611661321,Tulsa Shock,1,6,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-153,86,1,0,20100605,CHI,TUL,2010-11
+Shot Chart Detail,1021000042,97,201490,Natasha Lacy,1611661321,Tulsa Shock,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,103,192,1,0,20100605,CHI,TUL,2010-11
+Shot Chart Detail,1021000042,102,201490,Natasha Lacy,1611661321,Tulsa Shock,2,9,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100605,CHI,TUL,2010-11
+Shot Chart Detail,1021000042,160,201490,Natasha Lacy,1611661321,Tulsa Shock,2,4,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,30,1,0,20100605,CHI,TUL,2010-11
+Shot Chart Detail,1021000052,16,201490,Natasha Lacy,1611661321,Tulsa Shock,1,7,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-2,1,0,20100611,SAN,TUL,2010-11
+Shot Chart Detail,1021000052,100,201490,Natasha Lacy,1611661321,Tulsa Shock,2,8,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,135,82,1,0,20100611,SAN,TUL,2010-11
+Shot Chart Detail,1021000052,114,201490,Natasha Lacy,1611661321,Tulsa Shock,2,7,52,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-2,1,1,20100611,SAN,TUL,2010-11
+Shot Chart Detail,1021000052,136,201490,Natasha Lacy,1611661321,Tulsa Shock,2,5,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,-14,1,0,20100611,SAN,TUL,2010-11
+Shot Chart Detail,1021000052,188,201490,Natasha Lacy,1611661321,Tulsa Shock,2,2,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,0,1,1,20100611,SAN,TUL,2010-11
+Shot Chart Detail,1021000052,197,201490,Natasha Lacy,1611661321,Tulsa Shock,2,1,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,9,1,1,20100611,SAN,TUL,2010-11
+Shot Chart Detail,1021000052,343,201490,Natasha Lacy,1611661321,Tulsa Shock,3,0,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,12,1,0,20100611,SAN,TUL,2010-11
+Shot Chart Detail,1021000052,355,201490,Natasha Lacy,1611661321,Tulsa Shock,4,9,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100611,SAN,TUL,2010-11
+Shot Chart Detail,1021000057,114,201490,Natasha Lacy,1611661321,Tulsa Shock,2,9,21,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-32,36,1,1,20100612,PHO,TUL,2010-11
+Shot Chart Detail,1021000057,344,201490,Natasha Lacy,1611661321,Tulsa Shock,4,8,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-45,28,1,0,20100612,PHO,TUL,2010-11
+Shot Chart Detail,1021000057,444,201490,Natasha Lacy,1611661321,Tulsa Shock,4,2,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,184,6,1,0,20100612,PHO,TUL,2010-11
+Shot Chart Detail,1021000057,459,201490,Natasha Lacy,1611661321,Tulsa Shock,4,1,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100612,PHO,TUL,2010-11
+Shot Chart Detail,1021000063,268,201490,Natasha Lacy,1611661321,Tulsa Shock,2,0,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,144,157,1,0,20100618,MIN,TUL,2010-11
+Shot Chart Detail,1021000068,164,201490,Natasha Lacy,1611661321,Tulsa Shock,2,5,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-147,172,1,1,20100619,TUL,MIN,2010-11
+Shot Chart Detail,1021000068,195,201490,Natasha Lacy,1611661321,Tulsa Shock,2,2,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100619,TUL,MIN,2010-11
+Shot Chart Detail,1021000068,355,201490,Natasha Lacy,1611661321,Tulsa Shock,4,6,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,31,184,1,1,20100619,TUL,MIN,2010-11
+Shot Chart Detail,1021000073,181,201490,Natasha Lacy,1611661321,Tulsa Shock,2,3,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-149,45,1,1,20100623,ATL,TUL,2010-11
+Shot Chart Detail,1021000076,149,201490,Natasha Lacy,1611661321,Tulsa Shock,2,3,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100625,TUL,NYL,2010-11
+Shot Chart Detail,1021000076,311,201490,Natasha Lacy,1611661321,Tulsa Shock,3,0,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100625,TUL,NYL,2010-11
+Shot Chart Detail,1021000076,327,201490,Natasha Lacy,1611661321,Tulsa Shock,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,39,69,386,1,0,20100625,TUL,NYL,2010-11
+Shot Chart Detail,1021000076,336,201490,Natasha Lacy,1611661321,Tulsa Shock,4,9,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,9,1,0,20100625,TUL,NYL,2010-11
+Shot Chart Detail,1021000083,204,201490,Natasha Lacy,1611661321,Tulsa Shock,2,1,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,157,9,1,1,20100627,TUL,SEA,2010-11
+Shot Chart Detail,1021000083,432,201490,Natasha Lacy,1611661321,Tulsa Shock,4,4,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100627,TUL,SEA,2010-11
+Shot Chart Detail,1021000087,114,201490,Natasha Lacy,1611661321,Tulsa Shock,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,39,81,386,1,0,20100629,TUL,CON,2010-11
+Shot Chart Detail,1021000087,179,201490,Natasha Lacy,1611661321,Tulsa Shock,2,4,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,11,1,0,20100629,TUL,CON,2010-11
+Shot Chart Detail,1021000087,192,201490,Natasha Lacy,1611661321,Tulsa Shock,2,3,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100629,TUL,CON,2010-11
+Shot Chart Detail,1021000087,206,201490,Natasha Lacy,1611661321,Tulsa Shock,2,1,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100629,TUL,CON,2010-11
+Shot Chart Detail,1021000087,215,201490,Natasha Lacy,1611661321,Tulsa Shock,2,1,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100629,TUL,CON,2010-11
+Shot Chart Detail,1021000096,72,201490,Natasha Lacy,1611661321,Tulsa Shock,1,2,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100703,TUL,WAS,2010-11
+Shot Chart Detail,1021000096,87,201490,Natasha Lacy,1611661321,Tulsa Shock,1,0,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100703,TUL,WAS,2010-11

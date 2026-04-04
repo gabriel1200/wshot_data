@@ -1,0 +1,19 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020900074,243,100493,Anna DeForge,1611661321,Detroit Shock,3,9,41,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,21,167,1,1,20090711,CON,DET,2009-10
+Shot Chart Detail,1020900074,250,100493,Anna DeForge,1611661321,Detroit Shock,3,8,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-138,89,1,0,20090711,CON,DET,2009-10
+Shot Chart Detail,1020900074,531,100493,Anna DeForge,1611661321,Detroit Shock,5,1,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-134,56,1,0,20090711,CON,DET,2009-10
+Shot Chart Detail,1020900085,15,100493,Anna DeForge,1611661321,Detroit Shock,1,8,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,31,142,1,0,20090715,SEA,DET,2009-10
+Shot Chart Detail,1020900085,64,100493,Anna DeForge,1611661321,Detroit Shock,1,3,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,53,183,1,1,20090715,SEA,DET,2009-10
+Shot Chart Detail,1020900085,172,100493,Anna DeForge,1611661321,Detroit Shock,2,2,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,32,175,1,1,20090715,SEA,DET,2009-10
+Shot Chart Detail,1020900085,225,100493,Anna DeForge,1611661321,Detroit Shock,3,7,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,0,192,1,1,20090715,SEA,DET,2009-10
+Shot Chart Detail,1020900091,5,100493,Anna DeForge,1611661321,Detroit Shock,1,9,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,92,153,1,0,20090718,PHO,DET,2009-10
+Shot Chart Detail,1020900091,31,100493,Anna DeForge,1611661321,Detroit Shock,1,6,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,65,30,1,0,20090718,PHO,DET,2009-10
+Shot Chart Detail,1020900091,255,100493,Anna DeForge,1611661321,Detroit Shock,3,9,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-152,156,1,0,20090718,PHO,DET,2009-10
+Shot Chart Detail,1020900096,10,100493,Anna DeForge,1611661321,Detroit Shock,1,9,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,124,56,1,0,20090719,SAC,DET,2009-10
+Shot Chart Detail,1020900096,31,100493,Anna DeForge,1611661321,Detroit Shock,1,7,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,1,159,1,0,20090719,SAC,DET,2009-10
+Shot Chart Detail,1020900096,42,100493,Anna DeForge,1611661321,Detroit Shock,1,6,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,133,119,1,0,20090719,SAC,DET,2009-10
+Shot Chart Detail,1020900096,252,100493,Anna DeForge,1611661321,Detroit Shock,3,6,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-2,102,1,0,20090719,SAC,DET,2009-10
+Shot Chart Detail,1020900098,26,100493,Anna DeForge,1611661321,Detroit Shock,1,7,4,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,20,1,0,20090722,DET,ATL,2009-10
+Shot Chart Detail,1020900117,20,100493,Anna DeForge,1611661321,Detroit Shock,1,7,49,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,14,1,0,20090731,DET,MIN,2009-10
+Shot Chart Detail,1020900124,22,100493,Anna DeForge,1611661321,Detroit Shock,1,7,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,217,42,1,0,20090802,DET,CON,2009-10
+Shot Chart Detail,1020900124,27,100493,Anna DeForge,1611661321,Detroit Shock,1,7,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090802,DET,CON,2009-10

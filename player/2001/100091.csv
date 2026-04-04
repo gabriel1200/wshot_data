@@ -1,0 +1,39 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020100103,112,100091,Eva Nemcova,1611661315,Cleveland Rockers,1,5,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,20,201,36,1,1,20010701,CLE,MIN,2001-02
+Shot Chart Detail,1020100103,299,100091,Eva Nemcova,1611661315,Cleveland Rockers,2,6,11,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-214,9,1,0,20010701,CLE,MIN,2001-02
+Shot Chart Detail,1020100103,303,100091,Eva Nemcova,1611661315,Cleveland Rockers,2,5,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,180,-17,1,0,20010701,CLE,MIN,2001-02
+Shot Chart Detail,1020100120,106,100091,Eva Nemcova,1611661315,Cleveland Rockers,1,8,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,-8,1,1,20010706,UTA,CLE,2001-02
+Shot Chart Detail,1020100120,111,100091,Eva Nemcova,1611661315,Cleveland Rockers,1,7,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,19,129,150,1,0,20010706,UTA,CLE,2001-02
+Shot Chart Detail,1020100120,122,100091,Eva Nemcova,1611661315,Cleveland Rockers,1,5,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,-27,1,1,20010706,UTA,CLE,2001-02
+Shot Chart Detail,1020100120,125,100091,Eva Nemcova,1611661315,Cleveland Rockers,1,5,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,7,184,1,0,20010706,UTA,CLE,2001-02
+Shot Chart Detail,1020100120,128,100091,Eva Nemcova,1611661315,Cleveland Rockers,1,4,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,180,-32,1,0,20010706,UTA,CLE,2001-02
+Shot Chart Detail,1020100120,320,100091,Eva Nemcova,1611661315,Cleveland Rockers,2,0,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,19,-27,198,1,1,20010706,UTA,CLE,2001-02
+Shot Chart Detail,1020100120,354,100091,Eva Nemcova,1611661315,Cleveland Rockers,2,0,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-27,177,1,1,20010706,UTA,CLE,2001-02
+Shot Chart Detail,1020100127,121,100091,Eva Nemcova,1611661315,Cleveland Rockers,1,7,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,159,144,1,0,20010708,HOU,CLE,2001-02
+Shot Chart Detail,1020100127,137,100091,Eva Nemcova,1611661315,Cleveland Rockers,1,5,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-63,179,1,1,20010708,HOU,CLE,2001-02
+Shot Chart Detail,1020100127,311,100091,Eva Nemcova,1611661315,Cleveland Rockers,2,7,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-84,104,1,1,20010708,HOU,CLE,2001-02
+Shot Chart Detail,1020100127,314,100091,Eva Nemcova,1611661315,Cleveland Rockers,2,6,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,-4,207,1,0,20010708,HOU,CLE,2001-02
+Shot Chart Detail,1020100132,4,100091,Eva Nemcova,1611661315,Cleveland Rockers,1,19,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-162,19,1,1,20010710,CLE,SEA,2001-02
+Shot Chart Detail,1020100132,38,100091,Eva Nemcova,1611661315,Cleveland Rockers,1,13,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-170,152,1,0,20010710,CLE,SEA,2001-02
+Shot Chart Detail,1020100132,141,100091,Eva Nemcova,1611661315,Cleveland Rockers,1,3,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-191,101,1,0,20010710,CLE,SEA,2001-02
+Shot Chart Detail,1020100132,157,100091,Eva Nemcova,1611661315,Cleveland Rockers,1,1,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-155,4,1,1,20010710,CLE,SEA,2001-02
+Shot Chart Detail,1020100132,160,100091,Eva Nemcova,1611661315,Cleveland Rockers,1,0,37,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,20,201,0,1,0,20010710,CLE,SEA,2001-02
+Shot Chart Detail,1020100132,168,100091,Eva Nemcova,1611661315,Cleveland Rockers,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-200,91,1,0,20010710,CLE,SEA,2001-02
+Shot Chart Detail,1020100132,215,100091,Eva Nemcova,1611661315,Cleveland Rockers,2,15,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,22,-221,53,1,0,20010710,CLE,SEA,2001-02
+Shot Chart Detail,1020100132,217,100091,Eva Nemcova,1611661315,Cleveland Rockers,2,15,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-155,15,1,0,20010710,CLE,SEA,2001-02
+Shot Chart Detail,1020100132,338,100091,Eva Nemcova,1611661315,Cleveland Rockers,2,3,53,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,1,108,1,1,20010710,CLE,SEA,2001-02
+Shot Chart Detail,1020100138,10,100091,Eva Nemcova,1611661315,Cleveland Rockers,1,18,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-178,13,1,1,20010711,IND,CLE,2001-02
+Shot Chart Detail,1020100138,23,100091,Eva Nemcova,1611661315,Cleveland Rockers,1,17,20,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,20,205,-13,1,0,20010711,IND,CLE,2001-02
+Shot Chart Detail,1020100138,130,100091,Eva Nemcova,1611661315,Cleveland Rockers,1,3,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-193,-23,1,1,20010711,IND,CLE,2001-02
+Shot Chart Detail,1020100138,165,100091,Eva Nemcova,1611661315,Cleveland Rockers,1,0,3,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,212,0,1,1,20010711,IND,CLE,2001-02
+Shot Chart Detail,1020100138,203,100091,Eva Nemcova,1611661315,Cleveland Rockers,2,14,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,167,-29,1,0,20010711,IND,CLE,2001-02
+Shot Chart Detail,1020100138,320,100091,Eva Nemcova,1611661315,Cleveland Rockers,2,2,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,24,165,1,0,20010711,IND,CLE,2001-02
+Shot Chart Detail,1020100145,80,100091,Eva Nemcova,1611661315,Cleveland Rockers,1,10,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-103,-8,1,0,20010713,CLE,PHO,2001-02
+Shot Chart Detail,1020100145,304,100091,Eva Nemcova,1611661315,Cleveland Rockers,2,7,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,157,-13,1,0,20010713,CLE,PHO,2001-02
+Shot Chart Detail,1020100158,65,100091,Eva Nemcova,1611661315,Cleveland Rockers,1,10,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,157,137,1,0,20010719,CLE,NYL,2001-02
+Shot Chart Detail,1020100158,207,100091,Eva Nemcova,1611661315,Cleveland Rockers,2,12,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-162,-13,1,0,20010719,CLE,NYL,2001-02
+Shot Chart Detail,1020100158,217,100091,Eva Nemcova,1611661315,Cleveland Rockers,2,11,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-16,93,1,0,20010719,CLE,NYL,2001-02
+Shot Chart Detail,1020100166,93,100091,Eva Nemcova,1611661315,Cleveland Rockers,1,8,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,7,1,0,20010721,CLE,CHA,2001-02
+Shot Chart Detail,1020100166,110,100091,Eva Nemcova,1611661315,Cleveland Rockers,1,7,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-212,28,1,0,20010721,CLE,CHA,2001-02
+Shot Chart Detail,1020100166,276,100091,Eva Nemcova,1611661315,Cleveland Rockers,2,8,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,-19,1,0,20010721,CLE,CHA,2001-02
+Shot Chart Detail,1020100166,305,100091,Eva Nemcova,1611661315,Cleveland Rockers,2,5,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,-13,1,0,20010721,CLE,CHA,2001-02

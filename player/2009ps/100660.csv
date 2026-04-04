@@ -1,0 +1,9 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1040900131,54,100660,Janell Burse,1611661328,Seattle Storm,1,4,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,125,-8,1,0,20090916,LAS,SEA,2009-10
+Shot Chart Detail,1040900131,360,100660,Janell Burse,1611661328,Seattle Storm,4,8,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-16,63,1,0,20090916,LAS,SEA,2009-10
+Shot Chart Detail,1040900131,362,100660,Janell Burse,1611661328,Seattle Storm,4,8,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,192,-16,1,0,20090916,LAS,SEA,2009-10
+Shot Chart Detail,1040900132,106,100660,Janell Burse,1611661328,Seattle Storm,2,8,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-56,178,1,0,20090918,SEA,LAS,2009-10
+Shot Chart Detail,1040900132,168,100660,Janell Burse,1611661328,Seattle Storm,2,2,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090918,SEA,LAS,2009-10
+Shot Chart Detail,1040900132,176,100660,Janell Burse,1611661328,Seattle Storm,2,1,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,31,1,0,20090918,SEA,LAS,2009-10
+Shot Chart Detail,1040900133,14,100660,Janell Burse,1611661328,Seattle Storm,1,8,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-38,36,1,0,20090920,SEA,LAS,2009-10
+Shot Chart Detail,1040900133,257,100660,Janell Burse,1611661328,Seattle Storm,2,0,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,56,36,1,0,20090920,SEA,LAS,2009-10

@@ -1,0 +1,11 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1041600111,57,1627668,Breanna Stewart,1611661328,Seattle Storm,1,5,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,25,-245,79,1,1,20160921,ATL,SEA,2016-17
+Shot Chart Detail,1041600111,76,1627668,Breanna Stewart,1611661328,Seattle Storm,1,3,17,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-16,37,1,1,20160921,ATL,SEA,2016-17
+Shot Chart Detail,1041600111,85,1627668,Breanna Stewart,1611661328,Seattle Storm,1,1,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,19,1,0,20160921,ATL,SEA,2016-17
+Shot Chart Detail,1041600111,86,1627668,Breanna Stewart,1611661328,Seattle Storm,1,1,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,6,1,1,20160921,ATL,SEA,2016-17
+Shot Chart Detail,1041600111,164,1627668,Breanna Stewart,1611661328,Seattle Storm,2,6,31,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,27,1,1,20160921,ATL,SEA,2016-17
+Shot Chart Detail,1041600111,173,1627668,Breanna Stewart,1611661328,Seattle Storm,2,5,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-88,172,1,0,20160921,ATL,SEA,2016-17
+Shot Chart Detail,1041600111,188,1627668,Breanna Stewart,1611661328,Seattle Storm,2,3,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-113,230,1,0,20160921,ATL,SEA,2016-17
+Shot Chart Detail,1041600111,205,1627668,Breanna Stewart,1611661328,Seattle Storm,2,2,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,42,35,1,0,20160921,ATL,SEA,2016-17
+Shot Chart Detail,1041600111,237,1627668,Breanna Stewart,1611661328,Seattle Storm,2,0,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-37,37,1,1,20160921,ATL,SEA,2016-17
+Shot Chart Detail,1041600111,305,1627668,Breanna Stewart,1611661328,Seattle Storm,3,4,16,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,19,-1,1,1,20160921,ATL,SEA,2016-17

@@ -1,0 +1,9 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020800025,317,200693,Brooke Queenan,1611661329,Chicago Sky,4,6,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,59,43,1,0,20080529,CHI,MIN,2008-09
+Shot Chart Detail,1020800096,100,200693,Brooke Queenan,1611661329,Chicago Sky,1,1,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,-8,1,0,20080626,CHI,PHO,2008-09
+Shot Chart Detail,1020800096,350,200693,Brooke Queenan,1611661329,Chicago Sky,3,0,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,135,176,1,0,20080626,CHI,PHO,2008-09
+Shot Chart Detail,1020800099,96,200693,Brooke Queenan,1611661329,Chicago Sky,2,9,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,35,1,0,20080628,CHI,DET,2008-09
+Shot Chart Detail,1020800146,154,200693,Brooke Queenan,1611661329,Chicago Sky,2,2,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-107,35,1,1,20080716,DET,CHI,2008-09
+Shot Chart Detail,1020800146,309,200693,Brooke Queenan,1611661329,Chicago Sky,4,7,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,43,1,0,20080716,DET,CHI,2008-09
+Shot Chart Detail,1020800153,80,200693,Brooke Queenan,1611661329,Chicago Sky,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-2,107,1,0,20080718,CHI,CON,2008-09
+Shot Chart Detail,1020800153,94,200693,Brooke Queenan,1611661329,Chicago Sky,2,8,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,169,174,1,0,20080718,CHI,CON,2008-09

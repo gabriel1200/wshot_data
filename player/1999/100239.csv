@@ -1,0 +1,284 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1029900009,93,100239,Margo Dydek,1611661319,Utah Starzz,1,10,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990612,UTA,ORL,1999-00
+Shot Chart Detail,1029900009,107,100239,Margo Dydek,1611661319,Utah Starzz,1,9,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,8,48,1,0,19990612,UTA,ORL,1999-00
+Shot Chart Detail,1029900009,111,100239,Margo Dydek,1611661319,Utah Starzz,1,8,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-63,25,1,1,19990612,UTA,ORL,1999-00
+Shot Chart Detail,1029900009,316,100239,Margo Dydek,1611661319,Utah Starzz,2,9,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,-10,1,0,19990612,UTA,ORL,1999-00
+Shot Chart Detail,1029900009,330,100239,Margo Dydek,1611661319,Utah Starzz,2,7,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990612,UTA,ORL,1999-00
+Shot Chart Detail,1029900009,400,100239,Margo Dydek,1611661319,Utah Starzz,2,0,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,8,212,1,1,19990612,UTA,ORL,1999-00
+Shot Chart Detail,1029900014,79,100239,Margo Dydek,1611661319,Utah Starzz,1,11,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990614,MIN,UTA,1999-00
+Shot Chart Detail,1029900014,246,100239,Margo Dydek,1611661319,Utah Starzz,2,15,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990614,MIN,UTA,1999-00
+Shot Chart Detail,1029900017,28,100239,Margo Dydek,1611661319,Utah Starzz,1,16,5,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-44,48,1,1,19990617,HOU,UTA,1999-00
+Shot Chart Detail,1029900017,224,100239,Margo Dydek,1611661319,Utah Starzz,2,16,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,40,59,1,0,19990617,HOU,UTA,1999-00
+Shot Chart Detail,1029900017,228,100239,Margo Dydek,1611661319,Utah Starzz,2,15,6,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990617,HOU,UTA,1999-00
+Shot Chart Detail,1029900024,333,100239,Margo Dydek,1611661319,Utah Starzz,2,7,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990619,UTA,SAC,1999-00
+Shot Chart Detail,1029900024,400,100239,Margo Dydek,1611661319,Utah Starzz,2,1,33,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-40,121,1,1,19990619,UTA,SAC,1999-00
+Shot Chart Detail,1029900036,99,100239,Margo Dydek,1611661319,Utah Starzz,1,11,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,1,1,1,19990624,SAC,UTA,1999-00
+Shot Chart Detail,1029900036,120,100239,Margo Dydek,1611661319,Utah Starzz,1,8,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-6,141,1,0,19990624,SAC,UTA,1999-00
+Shot Chart Detail,1029900036,377,100239,Margo Dydek,1611661319,Utah Starzz,2,8,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-57,46,1,0,19990624,SAC,UTA,1999-00
+Shot Chart Detail,1029900036,383,100239,Margo Dydek,1611661319,Utah Starzz,2,8,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,1,1,1,19990624,SAC,UTA,1999-00
+Shot Chart Detail,1029900036,423,100239,Margo Dydek,1611661319,Utah Starzz,2,4,47,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,72,61,1,1,19990624,SAC,UTA,1999-00
+Shot Chart Detail,1029900042,23,100239,Margo Dydek,1611661319,Utah Starzz,1,17,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,12,1,1,19990626,UTA,MIN,1999-00
+Shot Chart Detail,1029900042,48,100239,Margo Dydek,1611661319,Utah Starzz,1,14,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990626,UTA,MIN,1999-00
+Shot Chart Detail,1029900042,78,100239,Margo Dydek,1611661319,Utah Starzz,1,11,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,74,70,1,0,19990626,UTA,MIN,1999-00
+Shot Chart Detail,1029900042,141,100239,Margo Dydek,1611661319,Utah Starzz,1,4,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990626,UTA,MIN,1999-00
+Shot Chart Detail,1029900042,245,100239,Margo Dydek,1611661319,Utah Starzz,2,14,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990626,UTA,MIN,1999-00
+Shot Chart Detail,1029900042,277,100239,Margo Dydek,1611661319,Utah Starzz,2,10,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990626,UTA,MIN,1999-00
+Shot Chart Detail,1029900042,326,100239,Margo Dydek,1611661319,Utah Starzz,2,4,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,117,12,1,1,19990626,UTA,MIN,1999-00
+Shot Chart Detail,1029900048,11,100239,Margo Dydek,1611661319,Utah Starzz,1,18,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-18,59,1,0,19990628,LAS,UTA,1999-00
+Shot Chart Detail,1029900048,13,100239,Margo Dydek,1611661319,Utah Starzz,1,18,41,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-3,38,1,0,19990628,LAS,UTA,1999-00
+Shot Chart Detail,1029900048,37,100239,Margo Dydek,1611661319,Utah Starzz,1,16,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990628,LAS,UTA,1999-00
+Shot Chart Detail,1029900048,156,100239,Margo Dydek,1611661319,Utah Starzz,1,7,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-12,53,1,1,19990628,LAS,UTA,1999-00
+Shot Chart Detail,1029900048,255,100239,Margo Dydek,1611661319,Utah Starzz,1,3,10,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,10,76,1,1,19990628,LAS,UTA,1999-00
+Shot Chart Detail,1029900048,300,100239,Margo Dydek,1611661319,Utah Starzz,2,15,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-126,3,1,0,19990628,LAS,UTA,1999-00
+Shot Chart Detail,1029900051,2,100239,Margo Dydek,1611661319,Utah Starzz,1,19,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,111,-5,1,1,19990630,UTA,HOU,1999-00
+Shot Chart Detail,1029900051,26,100239,Margo Dydek,1611661319,Utah Starzz,1,16,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,10,207,1,0,19990630,UTA,HOU,1999-00
+Shot Chart Detail,1029900051,44,100239,Margo Dydek,1611661319,Utah Starzz,1,14,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,53,1,0,19990630,UTA,HOU,1999-00
+Shot Chart Detail,1029900051,202,100239,Margo Dydek,1611661319,Utah Starzz,1,2,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990630,UTA,HOU,1999-00
+Shot Chart Detail,1029900051,243,100239,Margo Dydek,1611661319,Utah Starzz,2,13,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,1,70,1,0,19990630,UTA,HOU,1999-00
+Shot Chart Detail,1029900051,254,100239,Margo Dydek,1611661319,Utah Starzz,2,12,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,147,-1,1,1,19990630,UTA,HOU,1999-00
+Shot Chart Detail,1029900057,23,100239,Margo Dydek,1611661319,Utah Starzz,1,16,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-83,-14,1,0,19990702,UTA,CLE,1999-00
+Shot Chart Detail,1029900057,43,100239,Margo Dydek,1611661319,Utah Starzz,1,14,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990702,UTA,CLE,1999-00
+Shot Chart Detail,1029900057,44,100239,Margo Dydek,1611661319,Utah Starzz,1,14,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990702,UTA,CLE,1999-00
+Shot Chart Detail,1029900057,101,100239,Margo Dydek,1611661319,Utah Starzz,1,8,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-134,-10,1,0,19990702,UTA,CLE,1999-00
+Shot Chart Detail,1029900057,123,100239,Margo Dydek,1611661319,Utah Starzz,1,6,37,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,5,1,1,19990702,UTA,CLE,1999-00
+Shot Chart Detail,1029900057,164,100239,Margo Dydek,1611661319,Utah Starzz,1,2,24,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,46,72,1,1,19990702,UTA,CLE,1999-00
+Shot Chart Detail,1029900057,197,100239,Margo Dydek,1611661319,Utah Starzz,1,1,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990702,UTA,CLE,1999-00
+Shot Chart Detail,1029900057,168,100239,Margo Dydek,1611661319,Utah Starzz,1,1,14,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-53,23,1,1,19990702,UTA,CLE,1999-00
+Shot Chart Detail,1029900057,216,100239,Margo Dydek,1611661319,Utah Starzz,2,16,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,1,203,1,0,19990702,UTA,CLE,1999-00
+Shot Chart Detail,1029900057,229,100239,Margo Dydek,1611661319,Utah Starzz,2,15,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990702,UTA,CLE,1999-00
+Shot Chart Detail,1029900057,231,100239,Margo Dydek,1611661319,Utah Starzz,2,14,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,117,16,1,1,19990702,UTA,CLE,1999-00
+Shot Chart Detail,1029900057,356,100239,Margo Dydek,1611661319,Utah Starzz,2,4,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,1,203,1,1,19990702,UTA,CLE,1999-00
+Shot Chart Detail,1029900057,371,100239,Margo Dydek,1611661319,Utah Starzz,2,2,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990702,UTA,CLE,1999-00
+Shot Chart Detail,1029900066,16,100239,Margo Dydek,1611661319,Utah Starzz,1,17,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,-29,203,1,0,19990706,UTA,DET,1999-00
+Shot Chart Detail,1029900066,53,100239,Margo Dydek,1611661319,Utah Starzz,1,13,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,48,48,1,0,19990706,UTA,DET,1999-00
+Shot Chart Detail,1029900066,54,100239,Margo Dydek,1611661319,Utah Starzz,1,13,36,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,16,1,0,19990706,UTA,DET,1999-00
+Shot Chart Detail,1029900066,76,100239,Margo Dydek,1611661319,Utah Starzz,1,11,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,5,63,1,1,19990706,UTA,DET,1999-00
+Shot Chart Detail,1029900066,89,100239,Margo Dydek,1611661319,Utah Starzz,1,10,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,78,87,1,0,19990706,UTA,DET,1999-00
+Shot Chart Detail,1029900066,97,100239,Margo Dydek,1611661319,Utah Starzz,1,9,20,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-74,21,1,1,19990706,UTA,DET,1999-00
+Shot Chart Detail,1029900066,100,100239,Margo Dydek,1611661319,Utah Starzz,1,8,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990706,UTA,DET,1999-00
+Shot Chart Detail,1029900066,177,100239,Margo Dydek,1611661319,Utah Starzz,1,2,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990706,UTA,DET,1999-00
+Shot Chart Detail,1029900066,213,100239,Margo Dydek,1611661319,Utah Starzz,1,2,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,21,1,0,19990706,UTA,DET,1999-00
+Shot Chart Detail,1029900066,260,100239,Margo Dydek,1611661319,Utah Starzz,2,13,8,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-23,21,1,1,19990706,UTA,DET,1999-00
+Shot Chart Detail,1029900066,297,100239,Margo Dydek,1611661319,Utah Starzz,2,9,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-1,218,1,0,19990706,UTA,DET,1999-00
+Shot Chart Detail,1029900066,303,100239,Margo Dydek,1611661319,Utah Starzz,2,9,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990706,UTA,DET,1999-00
+Shot Chart Detail,1029900066,381,100239,Margo Dydek,1611661319,Utah Starzz,2,1,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-104,48,1,1,19990706,UTA,DET,1999-00
+Shot Chart Detail,1029900066,396,100239,Margo Dydek,1611661319,Utah Starzz,2,0,22,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-29,63,1,0,19990706,UTA,DET,1999-00
+Shot Chart Detail,1029900066,421,100239,Margo Dydek,1611661319,Utah Starzz,3,4,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,-5,1,0,19990706,UTA,DET,1999-00
+Shot Chart Detail,1029900066,422,100239,Margo Dydek,1611661319,Utah Starzz,3,4,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990706,UTA,DET,1999-00
+Shot Chart Detail,1029900066,504,100239,Margo Dydek,1611661319,Utah Starzz,4,3,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,3,1,0,19990706,UTA,DET,1999-00
+Shot Chart Detail,1029900070,5,100239,Margo Dydek,1611661319,Utah Starzz,1,19,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-115,27,1,1,19990708,WAS,UTA,1999-00
+Shot Chart Detail,1029900070,8,100239,Margo Dydek,1611661319,Utah Starzz,1,18,34,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-42,89,1,1,19990708,WAS,UTA,1999-00
+Shot Chart Detail,1029900070,41,100239,Margo Dydek,1611661319,Utah Starzz,1,13,53,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-36,10,1,0,19990708,WAS,UTA,1999-00
+Shot Chart Detail,1029900070,48,100239,Margo Dydek,1611661319,Utah Starzz,1,12,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-51,21,1,0,19990708,WAS,UTA,1999-00
+Shot Chart Detail,1029900070,144,100239,Margo Dydek,1611661319,Utah Starzz,1,3,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-87,-3,1,0,19990708,WAS,UTA,1999-00
+Shot Chart Detail,1029900070,183,100239,Margo Dydek,1611661319,Utah Starzz,1,1,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,10,1,1,19990708,WAS,UTA,1999-00
+Shot Chart Detail,1029900070,248,100239,Margo Dydek,1611661319,Utah Starzz,2,11,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,31,83,1,0,19990708,WAS,UTA,1999-00
+Shot Chart Detail,1029900070,272,100239,Margo Dydek,1611661319,Utah Starzz,2,9,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-94,16,1,0,19990708,WAS,UTA,1999-00
+Shot Chart Detail,1029900070,276,100239,Margo Dydek,1611661319,Utah Starzz,2,8,31,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-36,38,1,1,19990708,WAS,UTA,1999-00
+Shot Chart Detail,1029900076,18,100239,Margo Dydek,1611661319,Utah Starzz,1,18,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-66,-3,1,0,19990710,ORL,UTA,1999-00
+Shot Chart Detail,1029900076,42,100239,Margo Dydek,1611661319,Utah Starzz,1,14,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-51,42,1,0,19990710,ORL,UTA,1999-00
+Shot Chart Detail,1029900076,48,100239,Margo Dydek,1611661319,Utah Starzz,1,13,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,63,-1,1,0,19990710,ORL,UTA,1999-00
+Shot Chart Detail,1029900076,62,100239,Margo Dydek,1611661319,Utah Starzz,1,12,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-8,76,1,1,19990710,ORL,UTA,1999-00
+Shot Chart Detail,1029900076,69,100239,Margo Dydek,1611661319,Utah Starzz,1,11,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,63,1,1,0,19990710,ORL,UTA,1999-00
+Shot Chart Detail,1029900076,171,100239,Margo Dydek,1611661319,Utah Starzz,1,2,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,3,93,1,0,19990710,ORL,UTA,1999-00
+Shot Chart Detail,1029900076,248,100239,Margo Dydek,1611661319,Utah Starzz,2,13,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-81,1,1,0,19990710,ORL,UTA,1999-00
+Shot Chart Detail,1029900076,263,100239,Margo Dydek,1611661319,Utah Starzz,2,11,22,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-59,-18,1,0,19990710,ORL,UTA,1999-00
+Shot Chart Detail,1029900085,9,100239,Margo Dydek,1611661319,Utah Starzz,1,19,16,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-29,0,1,1,19990712,UTA,PHO,1999-00
+Shot Chart Detail,1029900085,31,100239,Margo Dydek,1611661319,Utah Starzz,1,16,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990712,UTA,PHO,1999-00
+Shot Chart Detail,1029900085,56,100239,Margo Dydek,1611661319,Utah Starzz,1,14,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-1,128,1,0,19990712,UTA,PHO,1999-00
+Shot Chart Detail,1029900085,63,100239,Margo Dydek,1611661319,Utah Starzz,1,13,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,40,100,1,0,19990712,UTA,PHO,1999-00
+Shot Chart Detail,1029900085,143,100239,Margo Dydek,1611661319,Utah Starzz,1,5,10,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,48,128,1,1,19990712,UTA,PHO,1999-00
+Shot Chart Detail,1029900085,188,100239,Margo Dydek,1611661319,Utah Starzz,1,3,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,27,201,1,0,19990712,UTA,PHO,1999-00
+Shot Chart Detail,1029900085,161,100239,Margo Dydek,1611661319,Utah Starzz,1,2,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,40,139,1,1,19990712,UTA,PHO,1999-00
+Shot Chart Detail,1029900085,197,100239,Margo Dydek,1611661319,Utah Starzz,1,2,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-44,139,1,1,19990712,UTA,PHO,1999-00
+Shot Chart Detail,1029900085,225,100239,Margo Dydek,1611661319,Utah Starzz,2,16,22,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-38,72,1,0,19990712,UTA,PHO,1999-00
+Shot Chart Detail,1029900085,333,100239,Margo Dydek,1611661319,Utah Starzz,2,5,32,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,48,38,1,1,19990712,UTA,PHO,1999-00
+Shot Chart Detail,1029900085,349,100239,Margo Dydek,1611661319,Utah Starzz,2,3,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-117,27,1,1,19990712,UTA,PHO,1999-00
+Shot Chart Detail,1029900085,386,100239,Margo Dydek,1611661319,Utah Starzz,2,0,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990712,UTA,PHO,1999-00
+Shot Chart Detail,1029900085,394,100239,Margo Dydek,1611661319,Utah Starzz,2,0,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990712,UTA,PHO,1999-00
+Shot Chart Detail,1029900085,398,100239,Margo Dydek,1611661319,Utah Starzz,2,0,4,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,-16,1,1,19990712,UTA,PHO,1999-00
+Shot Chart Detail,1029900089,19,100239,Margo Dydek,1611661319,Utah Starzz,1,17,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-74,5,1,0,19990716,UTA,HOU,1999-00
+Shot Chart Detail,1029900089,50,100239,Margo Dydek,1611661319,Utah Starzz,1,13,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-96,0,1,0,19990716,UTA,HOU,1999-00
+Shot Chart Detail,1029900089,66,100239,Margo Dydek,1611661319,Utah Starzz,1,12,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990716,UTA,HOU,1999-00
+Shot Chart Detail,1029900089,157,100239,Margo Dydek,1611661319,Utah Starzz,1,2,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-44,10,1,1,19990716,UTA,HOU,1999-00
+Shot Chart Detail,1029900089,159,100239,Margo Dydek,1611661319,Utah Starzz,1,2,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990716,UTA,HOU,1999-00
+Shot Chart Detail,1029900089,247,100239,Margo Dydek,1611661319,Utah Starzz,2,13,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990716,UTA,HOU,1999-00
+Shot Chart Detail,1029900089,251,100239,Margo Dydek,1611661319,Utah Starzz,2,13,13,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,16,1,1,19990716,UTA,HOU,1999-00
+Shot Chart Detail,1029900089,280,100239,Margo Dydek,1611661319,Utah Starzz,2,9,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990716,UTA,HOU,1999-00
+Shot Chart Detail,1029900089,377,100239,Margo Dydek,1611661319,Utah Starzz,3,3,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,63,10,1,1,19990716,UTA,HOU,1999-00
+Shot Chart Detail,1029900089,379,100239,Margo Dydek,1611661319,Utah Starzz,3,2,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,33,48,1,0,19990716,UTA,HOU,1999-00
+Shot Chart Detail,1029900089,382,100239,Margo Dydek,1611661319,Utah Starzz,3,2,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,5,61,1,1,19990716,UTA,HOU,1999-00
+Shot Chart Detail,1029900089,392,100239,Margo Dydek,1611661319,Utah Starzz,3,0,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,-1,205,1,0,19990716,UTA,HOU,1999-00
+Shot Chart Detail,1029900089,408,100239,Margo Dydek,1611661319,Utah Starzz,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-212,5,1,0,19990716,UTA,HOU,1999-00
+Shot Chart Detail,1029900095,7,100239,Margo Dydek,1611661319,Utah Starzz,1,18,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,68,14,1,1,19990718,NYL,UTA,1999-00
+Shot Chart Detail,1029900095,187,100239,Margo Dydek,1611661319,Utah Starzz,1,3,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990718,NYL,UTA,1999-00
+Shot Chart Detail,1029900095,150,100239,Margo Dydek,1611661319,Utah Starzz,1,2,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990718,NYL,UTA,1999-00
+Shot Chart Detail,1029900095,175,100239,Margo Dydek,1611661319,Utah Starzz,1,0,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990718,NYL,UTA,1999-00
+Shot Chart Detail,1029900095,199,100239,Margo Dydek,1611661319,Utah Starzz,1,0,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-85,0,1,1,19990718,NYL,UTA,1999-00
+Shot Chart Detail,1029900095,242,100239,Margo Dydek,1611661319,Utah Starzz,2,13,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990718,NYL,UTA,1999-00
+Shot Chart Detail,1029900098,24,100239,Margo Dydek,1611661319,Utah Starzz,1,16,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-83,0,1,1,19990719,CHA,UTA,1999-00
+Shot Chart Detail,1029900098,109,100239,Margo Dydek,1611661319,Utah Starzz,1,7,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,91,-5,1,1,19990719,CHA,UTA,1999-00
+Shot Chart Detail,1029900098,117,100239,Margo Dydek,1611661319,Utah Starzz,1,5,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990719,CHA,UTA,1999-00
+Shot Chart Detail,1029900098,180,100239,Margo Dydek,1611661319,Utah Starzz,1,3,13,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,14,-27,1,0,19990719,CHA,UTA,1999-00
+Shot Chart Detail,1029900098,148,100239,Margo Dydek,1611661319,Utah Starzz,1,2,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-91,0,1,1,19990719,CHA,UTA,1999-00
+Shot Chart Detail,1029900098,201,100239,Margo Dydek,1611661319,Utah Starzz,1,0,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,20,70,1,0,19990719,CHA,UTA,1999-00
+Shot Chart Detail,1029900098,229,100239,Margo Dydek,1611661319,Utah Starzz,2,14,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,57,16,1,0,19990719,CHA,UTA,1999-00
+Shot Chart Detail,1029900098,254,100239,Margo Dydek,1611661319,Utah Starzz,2,12,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-91,33,1,0,19990719,CHA,UTA,1999-00
+Shot Chart Detail,1029900098,263,100239,Margo Dydek,1611661319,Utah Starzz,2,11,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,8,220,1,0,19990719,CHA,UTA,1999-00
+Shot Chart Detail,1029900098,270,100239,Margo Dydek,1611661319,Utah Starzz,2,10,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-76,27,1,0,19990719,CHA,UTA,1999-00
+Shot Chart Detail,1029900098,316,100239,Margo Dydek,1611661319,Utah Starzz,2,4,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,42,38,1,1,19990719,CHA,UTA,1999-00
+Shot Chart Detail,1029900098,362,100239,Margo Dydek,1611661319,Utah Starzz,2,0,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990719,CHA,UTA,1999-00
+Shot Chart Detail,1029900103,12,100239,Margo Dydek,1611661319,Utah Starzz,1,18,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-3,136,1,1,19990721,DET,UTA,1999-00
+Shot Chart Detail,1029900103,16,100239,Margo Dydek,1611661319,Utah Starzz,1,17,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,25,91,1,1,19990721,DET,UTA,1999-00
+Shot Chart Detail,1029900103,40,100239,Margo Dydek,1611661319,Utah Starzz,1,13,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,53,87,1,0,19990721,DET,UTA,1999-00
+Shot Chart Detail,1029900103,43,100239,Margo Dydek,1611661319,Utah Starzz,1,13,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-61,38,1,1,19990721,DET,UTA,1999-00
+Shot Chart Detail,1029900103,98,100239,Margo Dydek,1611661319,Utah Starzz,1,9,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990721,DET,UTA,1999-00
+Shot Chart Detail,1029900103,113,100239,Margo Dydek,1611661319,Utah Starzz,1,8,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990721,DET,UTA,1999-00
+Shot Chart Detail,1029900103,137,100239,Margo Dydek,1611661319,Utah Starzz,1,4,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990721,DET,UTA,1999-00
+Shot Chart Detail,1029900103,148,100239,Margo Dydek,1611661319,Utah Starzz,1,3,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,16,147,1,0,19990721,DET,UTA,1999-00
+Shot Chart Detail,1029900103,236,100239,Margo Dydek,1611661319,Utah Starzz,2,14,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990721,DET,UTA,1999-00
+Shot Chart Detail,1029900103,347,100239,Margo Dydek,1611661319,Utah Starzz,2,1,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-12,76,1,0,19990721,DET,UTA,1999-00
+Shot Chart Detail,1029900103,369,100239,Margo Dydek,1611661319,Utah Starzz,2,0,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,68,76,1,1,19990721,DET,UTA,1999-00
+Shot Chart Detail,1029900103,388,100239,Margo Dydek,1611661319,Utah Starzz,2,0,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-3,126,1,0,19990721,DET,UTA,1999-00
+Shot Chart Detail,1029900110,8,100239,Margo Dydek,1611661319,Utah Starzz,1,18,31,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-3,134,1,1,19990724,CLE,UTA,1999-00
+Shot Chart Detail,1029900110,11,100239,Margo Dydek,1611661319,Utah Starzz,1,18,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-12,124,1,0,19990724,CLE,UTA,1999-00
+Shot Chart Detail,1029900110,41,100239,Margo Dydek,1611661319,Utah Starzz,1,14,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-156,12,1,1,19990724,CLE,UTA,1999-00
+Shot Chart Detail,1029900110,115,100239,Margo Dydek,1611661319,Utah Starzz,1,6,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,46,33,1,0,19990724,CLE,UTA,1999-00
+Shot Chart Detail,1029900110,177,100239,Margo Dydek,1611661319,Utah Starzz,1,3,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,16,1,0,19990724,CLE,UTA,1999-00
+Shot Chart Detail,1029900110,178,100239,Margo Dydek,1611661319,Utah Starzz,1,3,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,12,1,1,19990724,CLE,UTA,1999-00
+Shot Chart Detail,1029900110,182,100239,Margo Dydek,1611661319,Utah Starzz,1,2,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-113,33,1,0,19990724,CLE,UTA,1999-00
+Shot Chart Detail,1029900110,186,100239,Margo Dydek,1611661319,Utah Starzz,1,1,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,68,12,1,0,19990724,CLE,UTA,1999-00
+Shot Chart Detail,1029900110,217,100239,Margo Dydek,1611661319,Utah Starzz,2,14,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-89,46,1,0,19990724,CLE,UTA,1999-00
+Shot Chart Detail,1029900110,219,100239,Margo Dydek,1611661319,Utah Starzz,2,14,30,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,16,1,0,19990724,CLE,UTA,1999-00
+Shot Chart Detail,1029900110,223,100239,Margo Dydek,1611661319,Utah Starzz,2,14,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,12,1,1,19990724,CLE,UTA,1999-00
+Shot Chart Detail,1029900110,234,100239,Margo Dydek,1611661319,Utah Starzz,2,12,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,10,57,1,0,19990724,CLE,UTA,1999-00
+Shot Chart Detail,1029900110,241,100239,Margo Dydek,1611661319,Utah Starzz,2,11,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-3,23,1,1,19990724,CLE,UTA,1999-00
+Shot Chart Detail,1029900110,320,100239,Margo Dydek,1611661319,Utah Starzz,2,3,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,27,1,0,19990724,CLE,UTA,1999-00
+Shot Chart Detail,1029900117,7,100239,Margo Dydek,1611661319,Utah Starzz,1,19,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-51,10,1,1,19990726,UTA,WAS,1999-00
+Shot Chart Detail,1029900117,220,100239,Margo Dydek,1611661319,Utah Starzz,2,15,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-66,21,1,0,19990726,UTA,WAS,1999-00
+Shot Chart Detail,1029900117,231,100239,Margo Dydek,1611661319,Utah Starzz,2,14,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-51,27,1,1,19990726,UTA,WAS,1999-00
+Shot Chart Detail,1029900117,249,100239,Margo Dydek,1611661319,Utah Starzz,2,12,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-175,-10,1,0,19990726,UTA,WAS,1999-00
+Shot Chart Detail,1029900117,348,100239,Margo Dydek,1611661319,Utah Starzz,2,0,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-8,72,1,0,19990726,UTA,WAS,1999-00
+Shot Chart Detail,1029900119,20,100239,Margo Dydek,1611661319,Utah Starzz,1,16,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,78,89,1,0,19990727,PHO,UTA,1999-00
+Shot Chart Detail,1029900119,44,100239,Margo Dydek,1611661319,Utah Starzz,1,14,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-42,104,1,1,19990727,PHO,UTA,1999-00
+Shot Chart Detail,1029900119,46,100239,Margo Dydek,1611661319,Utah Starzz,1,13,55,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-70,33,1,1,19990727,PHO,UTA,1999-00
+Shot Chart Detail,1029900119,49,100239,Margo Dydek,1611661319,Utah Starzz,1,13,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990727,PHO,UTA,1999-00
+Shot Chart Detail,1029900119,356,100239,Margo Dydek,1611661319,Utah Starzz,2,6,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,57,55,1,0,19990727,PHO,UTA,1999-00
+Shot Chart Detail,1029900119,359,100239,Margo Dydek,1611661319,Utah Starzz,2,5,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,20,139,1,0,19990727,PHO,UTA,1999-00
+Shot Chart Detail,1029900119,361,100239,Margo Dydek,1611661319,Utah Starzz,2,5,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990727,PHO,UTA,1999-00
+Shot Chart Detail,1029900128,4,100239,Margo Dydek,1611661319,Utah Starzz,1,19,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,96,53,1,0,19990730,LAS,UTA,1999-00
+Shot Chart Detail,1029900128,18,100239,Margo Dydek,1611661319,Utah Starzz,1,18,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-46,104,1,1,19990730,LAS,UTA,1999-00
+Shot Chart Detail,1029900128,33,100239,Margo Dydek,1611661319,Utah Starzz,1,16,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-3,42,1,0,19990730,LAS,UTA,1999-00
+Shot Chart Detail,1029900128,38,100239,Margo Dydek,1611661319,Utah Starzz,1,15,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-40,63,1,0,19990730,LAS,UTA,1999-00
+Shot Chart Detail,1029900128,40,100239,Margo Dydek,1611661319,Utah Starzz,1,15,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,53,1,1,19990730,LAS,UTA,1999-00
+Shot Chart Detail,1029900128,52,100239,Margo Dydek,1611661319,Utah Starzz,1,15,5,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-46,25,1,1,19990730,LAS,UTA,1999-00
+Shot Chart Detail,1029900128,117,100239,Margo Dydek,1611661319,Utah Starzz,1,7,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-31,179,1,1,19990730,LAS,UTA,1999-00
+Shot Chart Detail,1029900128,192,100239,Margo Dydek,1611661319,Utah Starzz,1,3,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,53,1,0,19990730,LAS,UTA,1999-00
+Shot Chart Detail,1029900128,164,100239,Margo Dydek,1611661319,Utah Starzz,1,2,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-89,242,1,0,19990730,LAS,UTA,1999-00
+Shot Chart Detail,1029900128,331,100239,Margo Dydek,1611661319,Utah Starzz,2,4,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-134,-18,1,1,19990730,LAS,UTA,1999-00
+Shot Chart Detail,1029900128,349,100239,Margo Dydek,1611661319,Utah Starzz,2,2,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,18,1,0,19990730,LAS,UTA,1999-00
+Shot Chart Detail,1029900128,355,100239,Margo Dydek,1611661319,Utah Starzz,2,2,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-12,59,1,1,19990730,LAS,UTA,1999-00
+Shot Chart Detail,1029900128,362,100239,Margo Dydek,1611661319,Utah Starzz,2,1,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-46,3,1,1,19990730,LAS,UTA,1999-00
+Shot Chart Detail,1029900132,35,100239,Margo Dydek,1611661319,Utah Starzz,1,16,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-68,151,1,1,19990731,UTA,SAC,1999-00
+Shot Chart Detail,1029900132,37,100239,Margo Dydek,1611661319,Utah Starzz,1,15,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-31,212,1,1,19990731,UTA,SAC,1999-00
+Shot Chart Detail,1029900132,48,100239,Margo Dydek,1611661319,Utah Starzz,1,14,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-119,-8,1,0,19990731,UTA,SAC,1999-00
+Shot Chart Detail,1029900132,186,100239,Margo Dydek,1611661319,Utah Starzz,1,2,59,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-46,31,1,1,19990731,UTA,SAC,1999-00
+Shot Chart Detail,1029900132,191,100239,Margo Dydek,1611661319,Utah Starzz,1,1,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-113,46,1,0,19990731,UTA,SAC,1999-00
+Shot Chart Detail,1029900132,212,100239,Margo Dydek,1611661319,Utah Starzz,2,16,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990731,UTA,SAC,1999-00
+Shot Chart Detail,1029900132,292,100239,Margo Dydek,1611661319,Utah Starzz,2,9,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,8,1,1,19990731,UTA,SAC,1999-00
+Shot Chart Detail,1029900132,294,100239,Margo Dydek,1611661319,Utah Starzz,2,9,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-134,-12,1,0,19990731,UTA,SAC,1999-00
+Shot Chart Detail,1029900132,319,100239,Margo Dydek,1611661319,Utah Starzz,2,6,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,96,8,1,1,19990731,UTA,SAC,1999-00
+Shot Chart Detail,1029900132,340,100239,Margo Dydek,1611661319,Utah Starzz,2,4,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,10,124,1,0,19990731,UTA,SAC,1999-00
+Shot Chart Detail,1029900132,369,100239,Margo Dydek,1611661319,Utah Starzz,2,2,4,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-40,63,1,1,19990731,UTA,SAC,1999-00
+Shot Chart Detail,1029900139,8,100239,Margo Dydek,1611661319,Utah Starzz,1,19,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990803,UTA,NYL,1999-00
+Shot Chart Detail,1029900139,14,100239,Margo Dydek,1611661319,Utah Starzz,1,18,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,-5,1,0,19990803,UTA,NYL,1999-00
+Shot Chart Detail,1029900139,96,100239,Margo Dydek,1611661319,Utah Starzz,1,10,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,48,1,0,19990803,UTA,NYL,1999-00
+Shot Chart Detail,1029900139,99,100239,Margo Dydek,1611661319,Utah Starzz,1,10,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,72,70,1,0,19990803,UTA,NYL,1999-00
+Shot Chart Detail,1029900139,114,100239,Margo Dydek,1611661319,Utah Starzz,1,7,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,3,1,0,19990803,UTA,NYL,1999-00
+Shot Chart Detail,1029900139,121,100239,Margo Dydek,1611661319,Utah Starzz,1,7,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,-1,1,0,19990803,UTA,NYL,1999-00
+Shot Chart Detail,1029900139,260,100239,Margo Dydek,1611661319,Utah Starzz,2,13,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-36,70,1,0,19990803,UTA,NYL,1999-00
+Shot Chart Detail,1029900139,265,100239,Margo Dydek,1611661319,Utah Starzz,2,13,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-36,115,1,0,19990803,UTA,NYL,1999-00
+Shot Chart Detail,1029900139,279,100239,Margo Dydek,1611661319,Utah Starzz,2,11,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,-1,1,0,19990803,UTA,NYL,1999-00
+Shot Chart Detail,1029900139,302,100239,Margo Dydek,1611661319,Utah Starzz,2,9,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990803,UTA,NYL,1999-00
+Shot Chart Detail,1029900139,311,100239,Margo Dydek,1611661319,Utah Starzz,2,8,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-145,179,1,0,19990803,UTA,NYL,1999-00
+Shot Chart Detail,1029900139,349,100239,Margo Dydek,1611661319,Utah Starzz,2,3,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,108,-1,1,0,19990803,UTA,NYL,1999-00
+Shot Chart Detail,1029900139,369,100239,Margo Dydek,1611661319,Utah Starzz,2,1,10,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,66,25,1,0,19990803,UTA,NYL,1999-00
+Shot Chart Detail,1029900144,152,100239,Margo Dydek,1611661319,Utah Starzz,1,5,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,66,57,1,0,19990805,UTA,LAS,1999-00
+Shot Chart Detail,1029900144,184,100239,Margo Dydek,1611661319,Utah Starzz,1,3,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990805,UTA,LAS,1999-00
+Shot Chart Detail,1029900144,226,100239,Margo Dydek,1611661319,Utah Starzz,1,2,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990805,UTA,LAS,1999-00
+Shot Chart Detail,1029900144,233,100239,Margo Dydek,1611661319,Utah Starzz,1,1,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,108,-14,1,0,19990805,UTA,LAS,1999-00
+Shot Chart Detail,1029900144,208,100239,Margo Dydek,1611661319,Utah Starzz,1,0,41,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,51,51,1,1,19990805,UTA,LAS,1999-00
+Shot Chart Detail,1029900144,273,100239,Margo Dydek,1611661319,Utah Starzz,2,13,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-51,46,1,0,19990805,UTA,LAS,1999-00
+Shot Chart Detail,1029900144,279,100239,Margo Dydek,1611661319,Utah Starzz,2,12,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-6,218,1,1,19990805,UTA,LAS,1999-00
+Shot Chart Detail,1029900144,312,100239,Margo Dydek,1611661319,Utah Starzz,2,9,42,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,27,1,0,19990805,UTA,LAS,1999-00
+Shot Chart Detail,1029900144,320,100239,Margo Dydek,1611661319,Utah Starzz,2,8,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990805,UTA,LAS,1999-00
+Shot Chart Detail,1029900144,332,100239,Margo Dydek,1611661319,Utah Starzz,2,7,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,81,51,1,1,19990805,UTA,LAS,1999-00
+Shot Chart Detail,1029900144,360,100239,Margo Dydek,1611661319,Utah Starzz,2,3,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,16,1,0,19990805,UTA,LAS,1999-00
+Shot Chart Detail,1029900151,12,100239,Margo Dydek,1611661319,Utah Starzz,1,18,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,15,100239,Margo Dydek,1611661319,Utah Starzz,1,18,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,115,87,1,1,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,32,100239,Margo Dydek,1611661319,Utah Starzz,1,16,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,27,38,1,0,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,40,100239,Margo Dydek,1611661319,Utah Starzz,1,15,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-89,-1,1,0,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,138,100239,Margo Dydek,1611661319,Utah Starzz,1,4,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,194,100239,Margo Dydek,1611661319,Utah Starzz,1,3,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-44,10,1,1,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,206,100239,Margo Dydek,1611661319,Utah Starzz,1,1,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-44,25,1,1,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,249,100239,Margo Dydek,1611661319,Utah Starzz,2,12,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-38,59,1,1,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,254,100239,Margo Dydek,1611661319,Utah Starzz,2,11,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,271,100239,Margo Dydek,1611661319,Utah Starzz,2,10,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-81,171,1,0,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,273,100239,Margo Dydek,1611661319,Utah Starzz,2,9,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,93,3,1,1,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,324,100239,Margo Dydek,1611661319,Utah Starzz,2,4,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900156,7,100239,Margo Dydek,1611661319,Utah Starzz,1,19,17,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,14,-79,119,1,1,19990809,UTA,CHA,1999-00
+Shot Chart Detail,1029900156,39,100239,Margo Dydek,1611661319,Utah Starzz,1,14,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,36,1,0,19990809,UTA,CHA,1999-00
+Shot Chart Detail,1029900156,60,100239,Margo Dydek,1611661319,Utah Starzz,1,13,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990809,UTA,CHA,1999-00
+Shot Chart Detail,1029900156,62,100239,Margo Dydek,1611661319,Utah Starzz,1,12,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,8,1,1,19990809,UTA,CHA,1999-00
+Shot Chart Detail,1029900156,246,100239,Margo Dydek,1611661319,Utah Starzz,2,12,53,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-42,14,1,1,19990809,UTA,CHA,1999-00
+Shot Chart Detail,1029900156,253,100239,Margo Dydek,1611661319,Utah Starzz,2,11,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,8,145,1,1,19990809,UTA,CHA,1999-00
+Shot Chart Detail,1029900156,260,100239,Margo Dydek,1611661319,Utah Starzz,2,11,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,59,25,1,1,19990809,UTA,CHA,1999-00
+Shot Chart Detail,1029900156,310,100239,Margo Dydek,1611661319,Utah Starzz,2,7,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990809,UTA,CHA,1999-00
+Shot Chart Detail,1029900156,343,100239,Margo Dydek,1611661319,Utah Starzz,2,3,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,3,1,0,19990809,UTA,CHA,1999-00
+Shot Chart Detail,1029900161,225,100239,Margo Dydek,1611661319,Utah Starzz,1,2,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-74,12,1,0,19990811,MIN,UTA,1999-00
+Shot Chart Detail,1029900166,22,100239,Margo Dydek,1611661319,Utah Starzz,1,17,59,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,51,53,1,1,19990813,UTA,PHO,1999-00
+Shot Chart Detail,1029900166,30,100239,Margo Dydek,1611661319,Utah Starzz,1,16,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990813,UTA,PHO,1999-00
+Shot Chart Detail,1029900166,194,100239,Margo Dydek,1611661319,Utah Starzz,1,2,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,8,207,1,1,19990813,UTA,PHO,1999-00
+Shot Chart Detail,1029900166,223,100239,Margo Dydek,1611661319,Utah Starzz,2,16,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,35,199,1,1,19990813,UTA,PHO,1999-00
+Shot Chart Detail,1029900166,251,100239,Margo Dydek,1611661319,Utah Starzz,2,12,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-51,53,1,0,19990813,UTA,PHO,1999-00
+Shot Chart Detail,1029900166,310,100239,Margo Dydek,1611661319,Utah Starzz,2,6,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-27,214,1,0,19990813,UTA,PHO,1999-00
+Shot Chart Detail,1029900166,314,100239,Margo Dydek,1611661319,Utah Starzz,2,6,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,-10,1,1,19990813,UTA,PHO,1999-00
+Shot Chart Detail,1029900171,3,100239,Margo Dydek,1611661319,Utah Starzz,1,19,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,108,1,1,1,19990814,SAC,UTA,1999-00
+Shot Chart Detail,1029900171,5,100239,Margo Dydek,1611661319,Utah Starzz,1,19,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-87,1,1,0,19990814,SAC,UTA,1999-00
+Shot Chart Detail,1029900171,11,100239,Margo Dydek,1611661319,Utah Starzz,1,18,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-57,27,1,0,19990814,SAC,UTA,1999-00
+Shot Chart Detail,1029900171,18,100239,Margo Dydek,1611661319,Utah Starzz,1,18,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,5,1,1,19990814,SAC,UTA,1999-00
+Shot Chart Detail,1029900171,25,100239,Margo Dydek,1611661319,Utah Starzz,1,17,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-94,1,1,0,19990814,SAC,UTA,1999-00
+Shot Chart Detail,1029900171,46,100239,Margo Dydek,1611661319,Utah Starzz,1,15,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,14,134,1,1,19990814,SAC,UTA,1999-00
+Shot Chart Detail,1029900171,61,100239,Margo Dydek,1611661319,Utah Starzz,1,14,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,102,57,1,1,19990814,SAC,UTA,1999-00
+Shot Chart Detail,1029900171,63,100239,Margo Dydek,1611661319,Utah Starzz,1,13,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,1,1,1,19990814,SAC,UTA,1999-00
+Shot Chart Detail,1029900171,165,100239,Margo Dydek,1611661319,Utah Starzz,1,3,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,117,1,1,1,19990814,SAC,UTA,1999-00
+Shot Chart Detail,1029900171,170,100239,Margo Dydek,1611661319,Utah Starzz,1,2,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990814,SAC,UTA,1999-00
+Shot Chart Detail,1029900171,216,100239,Margo Dydek,1611661319,Utah Starzz,1,1,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,23,46,1,1,19990814,SAC,UTA,1999-00
+Shot Chart Detail,1029900171,184,100239,Margo Dydek,1611661319,Utah Starzz,1,1,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,108,27,1,0,19990814,SAC,UTA,1999-00
+Shot Chart Detail,1029900171,198,100239,Margo Dydek,1611661319,Utah Starzz,1,0,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,23,40,1,0,19990814,SAC,UTA,1999-00
+Shot Chart Detail,1029900176,203,100239,Margo Dydek,1611661319,Utah Starzz,1,3,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,5,115,1,0,19990816,HOU,UTA,1999-00
+Shot Chart Detail,1029900176,215,100239,Margo Dydek,1611661319,Utah Starzz,1,1,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990816,HOU,UTA,1999-00
+Shot Chart Detail,1029900176,217,100239,Margo Dydek,1611661319,Utah Starzz,1,1,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990816,HOU,UTA,1999-00
+Shot Chart Detail,1029900176,219,100239,Margo Dydek,1611661319,Utah Starzz,1,1,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990816,HOU,UTA,1999-00
+Shot Chart Detail,1029900176,351,100239,Margo Dydek,1611661319,Utah Starzz,2,4,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-44,18,1,0,19990816,HOU,UTA,1999-00
+Shot Chart Detail,1029900176,360,100239,Margo Dydek,1611661319,Utah Starzz,2,4,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-8,179,1,0,19990816,HOU,UTA,1999-00
+Shot Chart Detail,1029900186,2,100239,Margo Dydek,1611661319,Utah Starzz,1,19,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-85,16,1,0,19990820,PHO,UTA,1999-00
+Shot Chart Detail,1029900186,59,100239,Margo Dydek,1611661319,Utah Starzz,1,14,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-6,229,1,0,19990820,PHO,UTA,1999-00
+Shot Chart Detail,1029900186,211,100239,Margo Dydek,1611661319,Utah Starzz,1,3,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-98,33,1,1,19990820,PHO,UTA,1999-00
+Shot Chart Detail,1029900186,214,100239,Margo Dydek,1611661319,Utah Starzz,1,2,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-48,48,1,0,19990820,PHO,UTA,1999-00
+Shot Chart Detail,1029900186,229,100239,Margo Dydek,1611661319,Utah Starzz,2,16,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-76,66,1,0,19990820,PHO,UTA,1999-00
+Shot Chart Detail,1029900186,257,100239,Margo Dydek,1611661319,Utah Starzz,2,13,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,108,16,1,1,19990820,PHO,UTA,1999-00
+Shot Chart Detail,1029900186,289,100239,Margo Dydek,1611661319,Utah Starzz,2,8,16,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,63,10,1,1,19990820,PHO,UTA,1999-00
+Shot Chart Detail,1029900186,299,100239,Margo Dydek,1611661319,Utah Starzz,2,7,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990820,PHO,UTA,1999-00
+Shot Chart Detail,1029900186,345,100239,Margo Dydek,1611661319,Utah Starzz,2,1,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990820,PHO,UTA,1999-00
+Shot Chart Detail,1029900186,354,100239,Margo Dydek,1611661319,Utah Starzz,2,0,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990820,PHO,UTA,1999-00
+Shot Chart Detail,1029900191,3,100239,Margo Dydek,1611661319,Utah Starzz,1,19,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,-57,192,1,1,19990821,UTA,LAS,1999-00
+Shot Chart Detail,1029900191,6,100239,Margo Dydek,1611661319,Utah Starzz,1,19,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,23,1,0,19990821,UTA,LAS,1999-00
+Shot Chart Detail,1029900191,37,100239,Margo Dydek,1611661319,Utah Starzz,1,15,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,5,1,1,19990821,UTA,LAS,1999-00
+Shot Chart Detail,1029900191,39,100239,Margo Dydek,1611661319,Utah Starzz,1,14,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,117,16,1,1,19990821,UTA,LAS,1999-00
+Shot Chart Detail,1029900191,56,100239,Margo Dydek,1611661319,Utah Starzz,1,12,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-115,-3,1,1,19990821,UTA,LAS,1999-00
+Shot Chart Detail,1029900191,83,100239,Margo Dydek,1611661319,Utah Starzz,1,9,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-42,145,1,0,19990821,UTA,LAS,1999-00
+Shot Chart Detail,1029900191,104,100239,Margo Dydek,1611661319,Utah Starzz,1,7,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,8,46,1,0,19990821,UTA,LAS,1999-00
+Shot Chart Detail,1029900191,190,100239,Margo Dydek,1611661319,Utah Starzz,1,2,33,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-72,16,1,1,19990821,UTA,LAS,1999-00
+Shot Chart Detail,1029900191,220,100239,Margo Dydek,1611661319,Utah Starzz,2,16,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,87,16,1,0,19990821,UTA,LAS,1999-00
+Shot Chart Detail,1029900191,223,100239,Margo Dydek,1611661319,Utah Starzz,2,15,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,51,196,1,0,19990821,UTA,LAS,1999-00

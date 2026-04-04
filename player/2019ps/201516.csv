@@ -1,0 +1,22 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1041900101,215,201516,Allie Quigley,1611661329,Chicago Sky,2,3,42,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,37,4,1,1,20190911,CHI,PHO,2019-20
+Shot Chart Detail,1041900101,219,201516,Allie Quigley,1611661329,Chicago Sky,2,3,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,31,161,1,1,20190911,CHI,PHO,2019-20
+Shot Chart Detail,1041900101,248,201516,Allie Quigley,1611661329,Chicago Sky,2,0,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-96,122,1,0,20190911,CHI,PHO,2019-20
+Shot Chart Detail,1041900101,283,201516,Allie Quigley,1611661329,Chicago Sky,3,8,48,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,65,0,1,1,20190911,CHI,PHO,2019-20
+Shot Chart Detail,1041900101,305,201516,Allie Quigley,1611661329,Chicago Sky,3,6,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-165,178,1,0,20190911,CHI,PHO,2019-20
+Shot Chart Detail,1041900101,353,201516,Allie Quigley,1611661329,Chicago Sky,3,3,37,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-7,113,1,0,20190911,CHI,PHO,2019-20
+Shot Chart Detail,1041900101,446,201516,Allie Quigley,1611661329,Chicago Sky,4,8,30,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-13,154,1,1,20190911,CHI,PHO,2019-20
+Shot Chart Detail,1041900101,450,201516,Allie Quigley,1611661329,Chicago Sky,4,8,2,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-24,240,1,1,20190911,CHI,PHO,2019-20
+Shot Chart Detail,1041900101,487,201516,Allie Quigley,1611661329,Chicago Sky,4,5,57,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,35,156,1,1,20190911,CHI,PHO,2019-20
+Shot Chart Detail,1041900101,514,201516,Allie Quigley,1611661329,Chicago Sky,4,4,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-102,164,1,1,20190911,CHI,PHO,2019-20
+Shot Chart Detail,1041900211,49,201516,Allie Quigley,1611661329,Chicago Sky,1,6,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-47,269,1,0,20190915,LVA,CHI,2019-20
+Shot Chart Detail,1041900211,64,201516,Allie Quigley,1611661329,Chicago Sky,1,5,14,Missed Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,119,30,1,0,20190915,LVA,CHI,2019-20
+Shot Chart Detail,1041900211,78,201516,Allie Quigley,1611661329,Chicago Sky,1,4,29,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,13,1,1,20190915,LVA,CHI,2019-20
+Shot Chart Detail,1041900211,322,201516,Allie Quigley,1611661329,Chicago Sky,2,0,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-173,176,1,0,20190915,LVA,CHI,2019-20
+Shot Chart Detail,1041900211,358,201516,Allie Quigley,1611661329,Chicago Sky,3,7,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,143,221,1,0,20190915,LVA,CHI,2019-20
+Shot Chart Detail,1041900211,382,201516,Allie Quigley,1611661329,Chicago Sky,3,6,15,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,17,1,0,20190915,LVA,CHI,2019-20
+Shot Chart Detail,1041900211,393,201516,Allie Quigley,1611661329,Chicago Sky,3,5,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-54,235,1,0,20190915,LVA,CHI,2019-20
+Shot Chart Detail,1041900211,397,201516,Allie Quigley,1611661329,Chicago Sky,3,5,18,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,53,53,1,0,20190915,LVA,CHI,2019-20
+Shot Chart Detail,1041900211,546,201516,Allie Quigley,1611661329,Chicago Sky,4,6,24,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,25,151,1,1,20190915,LVA,CHI,2019-20
+Shot Chart Detail,1041900211,574,201516,Allie Quigley,1611661329,Chicago Sky,4,4,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-100,114,1,0,20190915,LVA,CHI,2019-20
+Shot Chart Detail,1041900211,613,201516,Allie Quigley,1611661329,Chicago Sky,4,1,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-80,233,1,0,20190915,LVA,CHI,2019-20

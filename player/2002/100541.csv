@@ -1,0 +1,35 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020200029,120,100541,Jamie Redd,1611661328,Seattle Storm,1,5,4,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,216,21,1,0,20020606,SEA,CHA,2002-03
+Shot Chart Detail,1020200029,255,100541,Jamie Redd,1611661328,Seattle Storm,2,9,45,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020606,SEA,CHA,2002-03
+Shot Chart Detail,1020200029,290,100541,Jamie Redd,1611661328,Seattle Storm,2,6,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,180,148,1,0,20020606,SEA,CHA,2002-03
+Shot Chart Detail,1020200029,304,100541,Jamie Redd,1611661328,Seattle Storm,2,4,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,138,106,1,1,20020606,SEA,CHA,2002-03
+Shot Chart Detail,1020200029,313,100541,Jamie Redd,1611661328,Seattle Storm,2,3,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-143,49,1,1,20020606,SEA,CHA,2002-03
+Shot Chart Detail,1020200029,321,100541,Jamie Redd,1611661328,Seattle Storm,2,2,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,142,217,1,1,20020606,SEA,CHA,2002-03
+Shot Chart Detail,1020200040,164,100541,Jamie Redd,1611661328,Seattle Storm,1,2,14,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,20,-208,26,1,1,20020609,SEA,UTA,2002-03
+Shot Chart Detail,1020200040,174,100541,Jamie Redd,1611661328,Seattle Storm,1,0,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-202,59,1,1,20020609,SEA,UTA,2002-03
+Shot Chart Detail,1020200040,176,100541,Jamie Redd,1611661328,Seattle Storm,1,0,34,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,214,15,1,0,20020609,SEA,UTA,2002-03
+Shot Chart Detail,1020200040,336,100541,Jamie Redd,1611661328,Seattle Storm,2,6,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,178,131,1,1,20020609,SEA,UTA,2002-03
+Shot Chart Detail,1020200040,347,100541,Jamie Redd,1611661328,Seattle Storm,2,5,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,199,114,1,1,20020609,SEA,UTA,2002-03
+Shot Chart Detail,1020200040,370,100541,Jamie Redd,1611661328,Seattle Storm,2,2,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,62,63,1,0,20020609,SEA,UTA,2002-03
+Shot Chart Detail,1020200047,71,100541,Jamie Redd,1611661328,Seattle Storm,1,11,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020611,SEA,POR,2002-03
+Shot Chart Detail,1020200047,147,100541,Jamie Redd,1611661328,Seattle Storm,1,3,56,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,0,1,0,20020611,SEA,POR,2002-03
+Shot Chart Detail,1020200047,154,100541,Jamie Redd,1611661328,Seattle Storm,1,3,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020611,SEA,POR,2002-03
+Shot Chart Detail,1020200047,193,100541,Jamie Redd,1611661328,Seattle Storm,1,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,32,172,270,1,0,20020611,SEA,POR,2002-03
+Shot Chart Detail,1020200047,260,100541,Jamie Redd,1611661328,Seattle Storm,2,12,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,144,21,1,1,20020611,SEA,POR,2002-03
+Shot Chart Detail,1020200047,284,100541,Jamie Redd,1611661328,Seattle Storm,2,10,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,28,1,0,20020611,SEA,POR,2002-03
+Shot Chart Detail,1020200047,341,100541,Jamie Redd,1611661328,Seattle Storm,2,4,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),24+ ft.,23,231,28,1,0,20020611,SEA,POR,2002-03
+Shot Chart Detail,1020200047,351,100541,Jamie Redd,1611661328,Seattle Storm,2,2,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-134,21,1,0,20020611,SEA,POR,2002-03
+Shot Chart Detail,1020200047,395,100541,Jamie Redd,1611661328,Seattle Storm,2,0,10,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-54,38,1,1,20020611,SEA,POR,2002-03
+Shot Chart Detail,1020200058,84,100541,Jamie Redd,1611661328,Seattle Storm,1,11,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020615,UTA,SEA,2002-03
+Shot Chart Detail,1020200058,163,100541,Jamie Redd,1611661328,Seattle Storm,1,2,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,129,163,1,1,20020615,UTA,SEA,2002-03
+Shot Chart Detail,1020200058,169,100541,Jamie Redd,1611661328,Seattle Storm,1,1,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-71,148,1,1,20020615,UTA,SEA,2002-03
+Shot Chart Detail,1020200058,309,100541,Jamie Redd,1611661328,Seattle Storm,2,6,22,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,30,91,1,0,20020615,UTA,SEA,2002-03
+Shot Chart Detail,1020200071,76,100541,Jamie Redd,1611661328,Seattle Storm,1,10,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-208,45,1,1,20020620,SAC,SEA,2002-03
+Shot Chart Detail,1020200085,78,100541,Jamie Redd,1611661328,Seattle Storm,1,9,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,193,95,1,0,20020623,SEA,SAC,2002-03
+Shot Chart Detail,1020200085,97,100541,Jamie Redd,1611661328,Seattle Storm,1,8,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,22,38,1,0,20020623,SEA,SAC,2002-03
+Shot Chart Detail,1020200085,340,100541,Jamie Redd,1611661328,Seattle Storm,2,3,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,216,49,1,1,20020623,SEA,SAC,2002-03
+Shot Chart Detail,1020200085,353,100541,Jamie Redd,1611661328,Seattle Storm,2,2,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020623,SEA,SAC,2002-03
+Shot Chart Detail,1020200093,149,100541,Jamie Redd,1611661328,Seattle Storm,1,3,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,142,163,1,1,20020626,PHO,SEA,2002-03
+Shot Chart Detail,1020200093,158,100541,Jamie Redd,1611661328,Seattle Storm,1,2,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,148,169,1,0,20020626,PHO,SEA,2002-03
+Shot Chart Detail,1020200093,286,100541,Jamie Redd,1611661328,Seattle Storm,2,7,58,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-212,0,1,0,20020626,PHO,SEA,2002-03
+Shot Chart Detail,1020200113,296,100541,Jamie Redd,1611661328,Seattle Storm,2,7,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,134,-11,1,0,20020702,NYL,SEA,2002-03

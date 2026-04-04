@@ -1,0 +1,112 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020200010,22,100231,Adia Barnes,1611661328,Seattle Storm,1,17,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-212,11,1,1,20020530,SEA,NYL,2002-03
+Shot Chart Detail,1020200010,66,100231,Adia Barnes,1611661328,Seattle Storm,1,13,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,21,1,0,20020530,SEA,NYL,2002-03
+Shot Chart Detail,1020200010,71,100231,Adia Barnes,1611661328,Seattle Storm,1,13,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020530,SEA,NYL,2002-03
+Shot Chart Detail,1020200010,140,100231,Adia Barnes,1611661328,Seattle Storm,1,5,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020530,SEA,NYL,2002-03
+Shot Chart Detail,1020200010,222,100231,Adia Barnes,1611661328,Seattle Storm,1,2,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-98,99,1,0,20020530,SEA,NYL,2002-03
+Shot Chart Detail,1020200010,283,100231,Adia Barnes,1611661328,Seattle Storm,2,12,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,144,0,1,0,20020530,SEA,NYL,2002-03
+Shot Chart Detail,1020200010,366,100231,Adia Barnes,1611661328,Seattle Storm,2,6,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-98,148,1,0,20020530,SEA,NYL,2002-03
+Shot Chart Detail,1020200019,151,100231,Adia Barnes,1611661328,Seattle Storm,1,4,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-79,-4,1,0,20020602,POR,SEA,2002-03
+Shot Chart Detail,1020200019,222,100231,Adia Barnes,1611661328,Seattle Storm,2,16,38,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-8,68,1,1,20020602,POR,SEA,2002-03
+Shot Chart Detail,1020200019,334,100231,Adia Barnes,1611661328,Seattle Storm,2,4,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,-21,1,0,20020602,POR,SEA,2002-03
+Shot Chart Detail,1020200024,53,100231,Adia Barnes,1611661328,Seattle Storm,1,13,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020604,SEA,MIN,2002-03
+Shot Chart Detail,1020200024,146,100231,Adia Barnes,1611661328,Seattle Storm,1,5,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020604,SEA,MIN,2002-03
+Shot Chart Detail,1020200024,256,100231,Adia Barnes,1611661328,Seattle Storm,2,14,2,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,28,95,1,1,20020604,SEA,MIN,2002-03
+Shot Chart Detail,1020200024,314,100231,Adia Barnes,1611661328,Seattle Storm,2,6,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020604,SEA,MIN,2002-03
+Shot Chart Detail,1020200024,328,100231,Adia Barnes,1611661328,Seattle Storm,2,5,4,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-6,95,1,1,20020604,SEA,MIN,2002-03
+Shot Chart Detail,1020200024,334,100231,Adia Barnes,1611661328,Seattle Storm,2,4,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,21,1,1,20020604,SEA,MIN,2002-03
+Shot Chart Detail,1020200024,339,100231,Adia Barnes,1611661328,Seattle Storm,2,3,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020604,SEA,MIN,2002-03
+Shot Chart Detail,1020200024,398,100231,Adia Barnes,1611661328,Seattle Storm,3,2,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020604,SEA,MIN,2002-03
+Shot Chart Detail,1020200029,70,100231,Adia Barnes,1611661328,Seattle Storm,1,10,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-113,0,1,0,20020606,SEA,CHA,2002-03
+Shot Chart Detail,1020200029,86,100231,Adia Barnes,1611661328,Seattle Storm,1,8,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,49,4,1,0,20020606,SEA,CHA,2002-03
+Shot Chart Detail,1020200029,92,100231,Adia Barnes,1611661328,Seattle Storm,1,7,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,58,21,1,0,20020606,SEA,CHA,2002-03
+Shot Chart Detail,1020200029,104,100231,Adia Barnes,1611661328,Seattle Storm,1,6,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,35,61,1,0,20020606,SEA,CHA,2002-03
+Shot Chart Detail,1020200029,144,100231,Adia Barnes,1611661328,Seattle Storm,1,2,29,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-33,11,1,0,20020606,SEA,CHA,2002-03
+Shot Chart Detail,1020200029,215,100231,Adia Barnes,1611661328,Seattle Storm,2,12,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,14,61,1,0,20020606,SEA,CHA,2002-03
+Shot Chart Detail,1020200029,227,100231,Adia Barnes,1611661328,Seattle Storm,2,11,31,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,11,1,0,20020606,SEA,CHA,2002-03
+Shot Chart Detail,1020200029,264,100231,Adia Barnes,1611661328,Seattle Storm,2,8,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,102,66,1,0,20020606,SEA,CHA,2002-03
+Shot Chart Detail,1020200029,287,100231,Adia Barnes,1611661328,Seattle Storm,2,6,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-134,82,1,0,20020606,SEA,CHA,2002-03
+Shot Chart Detail,1020200029,308,100231,Adia Barnes,1611661328,Seattle Storm,2,4,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020606,SEA,CHA,2002-03
+Shot Chart Detail,1020200029,316,100231,Adia Barnes,1611661328,Seattle Storm,2,3,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,49,4,1,0,20020606,SEA,CHA,2002-03
+Shot Chart Detail,1020200040,84,100231,Adia Barnes,1611661328,Seattle Storm,1,10,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-115,40,1,0,20020609,SEA,UTA,2002-03
+Shot Chart Detail,1020200040,137,100231,Adia Barnes,1611661328,Seattle Storm,1,5,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,142,15,1,0,20020609,SEA,UTA,2002-03
+Shot Chart Detail,1020200047,60,100231,Adia Barnes,1611661328,Seattle Storm,1,12,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-143,21,1,1,20020611,SEA,POR,2002-03
+Shot Chart Detail,1020200054,43,100231,Adia Barnes,1611661328,Seattle Storm,1,14,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,4,1,0,20020614,PHO,SEA,2002-03
+Shot Chart Detail,1020200054,109,100231,Adia Barnes,1611661328,Seattle Storm,1,8,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,98,78,1,0,20020614,PHO,SEA,2002-03
+Shot Chart Detail,1020200054,184,100231,Adia Barnes,1611661328,Seattle Storm,1,0,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020614,PHO,SEA,2002-03
+Shot Chart Detail,1020200058,16,100231,Adia Barnes,1611661328,Seattle Storm,1,18,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,15,1,0,20020615,UTA,SEA,2002-03
+Shot Chart Detail,1020200058,196,100231,Adia Barnes,1611661328,Seattle Storm,1,2,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,108,148,1,0,20020615,UTA,SEA,2002-03
+Shot Chart Detail,1020200058,208,100231,Adia Barnes,1611661328,Seattle Storm,1,0,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020615,UTA,SEA,2002-03
+Shot Chart Detail,1020200097,87,100231,Adia Barnes,1611661328,Seattle Storm,1,9,58,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-48,21,1,0,20020627,SEA,ORL,2002-03
+Shot Chart Detail,1020200097,114,100231,Adia Barnes,1611661328,Seattle Storm,1,6,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,108,21,1,0,20020627,SEA,ORL,2002-03
+Shot Chart Detail,1020200097,169,100231,Adia Barnes,1611661328,Seattle Storm,1,1,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-178,17,1,0,20020627,SEA,ORL,2002-03
+Shot Chart Detail,1020200113,174,100231,Adia Barnes,1611661328,Seattle Storm,1,1,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-82,11,1,0,20020702,NYL,SEA,2002-03
+Shot Chart Detail,1020200137,93,100231,Adia Barnes,1611661328,Seattle Storm,1,7,41,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-79,61,1,1,20020709,HOU,SEA,2002-03
+Shot Chart Detail,1020200137,107,100231,Adia Barnes,1611661328,Seattle Storm,1,6,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020709,HOU,SEA,2002-03
+Shot Chart Detail,1020200137,126,100231,Adia Barnes,1611661328,Seattle Storm,1,4,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020709,HOU,SEA,2002-03
+Shot Chart Detail,1020200137,149,100231,Adia Barnes,1611661328,Seattle Storm,1,2,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020709,HOU,SEA,2002-03
+Shot Chart Detail,1020200137,274,100231,Adia Barnes,1611661328,Seattle Storm,2,5,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020709,HOU,SEA,2002-03
+Shot Chart Detail,1020200143,20,100231,Adia Barnes,1611661328,Seattle Storm,1,16,27,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,35,0,1,0,20020711,SEA,LAS,2002-03
+Shot Chart Detail,1020200143,203,100231,Adia Barnes,1611661328,Seattle Storm,1,2,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-48,-11,1,0,20020711,SEA,LAS,2002-03
+Shot Chart Detail,1020200143,221,100231,Adia Barnes,1611661328,Seattle Storm,1,0,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020711,SEA,LAS,2002-03
+Shot Chart Detail,1020200143,241,100231,Adia Barnes,1611661328,Seattle Storm,2,14,56,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-69,-4,1,1,20020711,SEA,LAS,2002-03
+Shot Chart Detail,1020200143,277,100231,Adia Barnes,1611661328,Seattle Storm,2,11,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,4,1,0,20020711,SEA,LAS,2002-03
+Shot Chart Detail,1020200143,375,100231,Adia Barnes,1611661328,Seattle Storm,2,1,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,73,38,1,0,20020711,SEA,LAS,2002-03
+Shot Chart Detail,1020200149,52,100231,Adia Barnes,1611661328,Seattle Storm,1,12,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-42,4,1,0,20020712,SEA,CLE,2002-03
+Shot Chart Detail,1020200149,120,100231,Adia Barnes,1611661328,Seattle Storm,1,5,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,0,1,0,20020712,SEA,CLE,2002-03
+Shot Chart Detail,1020200149,205,100231,Adia Barnes,1611661328,Seattle Storm,2,15,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-42,11,1,0,20020712,SEA,CLE,2002-03
+Shot Chart Detail,1020200149,207,100231,Adia Barnes,1611661328,Seattle Storm,2,15,40,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-33,17,1,0,20020712,SEA,CLE,2002-03
+Shot Chart Detail,1020200149,210,100231,Adia Barnes,1611661328,Seattle Storm,2,14,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,28,32,1,0,20020712,SEA,CLE,2002-03
+Shot Chart Detail,1020200167,67,100231,Adia Barnes,1611661328,Seattle Storm,1,12,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020719,SEA,PHO,2002-03
+Shot Chart Detail,1020200167,87,100231,Adia Barnes,1611661328,Seattle Storm,1,10,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020719,SEA,PHO,2002-03
+Shot Chart Detail,1020200167,152,100231,Adia Barnes,1611661328,Seattle Storm,1,3,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,144,-4,1,0,20020719,SEA,PHO,2002-03
+Shot Chart Detail,1020200167,155,100231,Adia Barnes,1611661328,Seattle Storm,1,3,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020719,SEA,PHO,2002-03
+Shot Chart Detail,1020200167,208,100231,Adia Barnes,1611661328,Seattle Storm,1,1,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,43,42,1,0,20020719,SEA,PHO,2002-03
+Shot Chart Detail,1020200167,222,100231,Adia Barnes,1611661328,Seattle Storm,1,0,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-69,49,1,0,20020719,SEA,PHO,2002-03
+Shot Chart Detail,1020200167,226,100231,Adia Barnes,1611661328,Seattle Storm,1,0,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020719,SEA,PHO,2002-03
+Shot Chart Detail,1020200167,243,100231,Adia Barnes,1611661328,Seattle Storm,2,15,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020719,SEA,PHO,2002-03
+Shot Chart Detail,1020200167,246,100231,Adia Barnes,1611661328,Seattle Storm,2,15,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020719,SEA,PHO,2002-03
+Shot Chart Detail,1020200171,11,100231,Adia Barnes,1611661328,Seattle Storm,1,18,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-191,89,1,0,20020720,SEA,HOU,2002-03
+Shot Chart Detail,1020200171,121,100231,Adia Barnes,1611661328,Seattle Storm,1,4,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,129,38,1,0,20020720,SEA,HOU,2002-03
+Shot Chart Detail,1020200171,182,100231,Adia Barnes,1611661328,Seattle Storm,1,1,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020720,SEA,HOU,2002-03
+Shot Chart Detail,1020200171,187,100231,Adia Barnes,1611661328,Seattle Storm,1,0,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,11,1,0,20020720,SEA,HOU,2002-03
+Shot Chart Detail,1020200171,161,100231,Adia Barnes,1611661328,Seattle Storm,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,61,129,602,1,0,20020720,SEA,HOU,2002-03
+Shot Chart Detail,1020200171,266,100231,Adia Barnes,1611661328,Seattle Storm,2,8,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-191,106,1,0,20020720,SEA,HOU,2002-03
+Shot Chart Detail,1020200179,17,100231,Adia Barnes,1611661328,Seattle Storm,1,17,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,144,-17,1,0,20020723,HOU,SEA,2002-03
+Shot Chart Detail,1020200179,26,100231,Adia Barnes,1611661328,Seattle Storm,1,16,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-56,36,1,0,20020723,HOU,SEA,2002-03
+Shot Chart Detail,1020200179,113,100231,Adia Barnes,1611661328,Seattle Storm,1,6,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020723,HOU,SEA,2002-03
+Shot Chart Detail,1020200179,189,100231,Adia Barnes,1611661328,Seattle Storm,1,3,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020723,HOU,SEA,2002-03
+Shot Chart Detail,1020200179,194,100231,Adia Barnes,1611661328,Seattle Storm,1,1,55,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,47,1,0,20020723,HOU,SEA,2002-03
+Shot Chart Detail,1020200184,19,100231,Adia Barnes,1611661328,Seattle Storm,1,17,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020725,ORL,SEA,2002-03
+Shot Chart Detail,1020200184,28,100231,Adia Barnes,1611661328,Seattle Storm,1,16,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020725,ORL,SEA,2002-03
+Shot Chart Detail,1020200184,58,100231,Adia Barnes,1611661328,Seattle Storm,1,12,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020725,ORL,SEA,2002-03
+Shot Chart Detail,1020200184,194,100231,Adia Barnes,1611661328,Seattle Storm,1,2,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020725,ORL,SEA,2002-03
+Shot Chart Detail,1020200190,30,100231,Adia Barnes,1611661328,Seattle Storm,1,16,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-174,70,1,0,20020727,WAS,SEA,2002-03
+Shot Chart Detail,1020200190,41,100231,Adia Barnes,1611661328,Seattle Storm,1,15,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,-6,1,0,20020727,WAS,SEA,2002-03
+Shot Chart Detail,1020200190,98,100231,Adia Barnes,1611661328,Seattle Storm,1,9,25,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,21,1,1,20020727,WAS,SEA,2002-03
+Shot Chart Detail,1020200190,225,100231,Adia Barnes,1611661328,Seattle Storm,1,0,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,21,1,1,20020727,WAS,SEA,2002-03
+Shot Chart Detail,1020200195,47,100231,Adia Barnes,1611661328,Seattle Storm,1,13,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020728,DET,SEA,2002-03
+Shot Chart Detail,1020200195,205,100231,Adia Barnes,1611661328,Seattle Storm,1,2,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,32,1,0,20020728,DET,SEA,2002-03
+Shot Chart Detail,1020200206,16,100231,Adia Barnes,1611661328,Seattle Storm,1,17,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,58,28,1,0,20020731,SEA,MIN,2002-03
+Shot Chart Detail,1020200206,56,100231,Adia Barnes,1611661328,Seattle Storm,1,13,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-48,28,1,0,20020731,SEA,MIN,2002-03
+Shot Chart Detail,1020200206,358,100231,Adia Barnes,1611661328,Seattle Storm,2,5,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,-11,1,0,20020731,SEA,MIN,2002-03
+Shot Chart Detail,1020200209,24,100231,Adia Barnes,1611661328,Seattle Storm,1,16,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020801,LAS,SEA,2002-03
+Shot Chart Detail,1020200209,33,100231,Adia Barnes,1611661328,Seattle Storm,1,16,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,40,1,1,20020801,LAS,SEA,2002-03
+Shot Chart Detail,1020200209,37,100231,Adia Barnes,1611661328,Seattle Storm,1,15,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020801,LAS,SEA,2002-03
+Shot Chart Detail,1020200222,33,100231,Adia Barnes,1611661328,Seattle Storm,1,16,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-126,21,1,1,20020804,MIN,SEA,2002-03
+Shot Chart Detail,1020200222,40,100231,Adia Barnes,1611661328,Seattle Storm,1,15,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,17,1,0,20020804,MIN,SEA,2002-03
+Shot Chart Detail,1020200222,137,100231,Adia Barnes,1611661328,Seattle Storm,1,5,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,150,17,1,0,20020804,MIN,SEA,2002-03
+Shot Chart Detail,1020200240,16,100231,Adia Barnes,1611661328,Seattle Storm,1,16,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020809,SEA,POR,2002-03
+Shot Chart Detail,1020200240,22,100231,Adia Barnes,1611661328,Seattle Storm,1,16,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020809,SEA,POR,2002-03
+Shot Chart Detail,1020200240,355,100231,Adia Barnes,1611661328,Seattle Storm,2,6,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,0,1,0,20020809,SEA,POR,2002-03
+Shot Chart Detail,1020200240,383,100231,Adia Barnes,1611661328,Seattle Storm,2,4,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-134,-4,1,0,20020809,SEA,POR,2002-03
+Shot Chart Detail,1020200240,387,100231,Adia Barnes,1611661328,Seattle Storm,2,3,57,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,35,0,1,0,20020809,SEA,POR,2002-03
+Shot Chart Detail,1020200248,8,100231,Adia Barnes,1611661328,Seattle Storm,1,19,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020811,SEA,UTA,2002-03
+Shot Chart Detail,1020200248,44,100231,Adia Barnes,1611661328,Seattle Storm,1,13,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,43,11,1,0,20020811,SEA,UTA,2002-03
+Shot Chart Detail,1020200248,143,100231,Adia Barnes,1611661328,Seattle Storm,1,2,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-113,-11,1,0,20020811,SEA,UTA,2002-03
+Shot Chart Detail,1020200248,147,100231,Adia Barnes,1611661328,Seattle Storm,1,2,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020811,SEA,UTA,2002-03
+Shot Chart Detail,1020200248,234,100231,Adia Barnes,1611661328,Seattle Storm,2,13,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020811,SEA,UTA,2002-03
+Shot Chart Detail,1020200248,325,100231,Adia Barnes,1611661328,Seattle Storm,2,6,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020811,SEA,UTA,2002-03
+Shot Chart Detail,1020200248,337,100231,Adia Barnes,1611661328,Seattle Storm,2,4,56,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,43,4,1,0,20020811,SEA,UTA,2002-03
+Shot Chart Detail,1020200248,339,100231,Adia Barnes,1611661328,Seattle Storm,2,4,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020811,SEA,UTA,2002-03
+Shot Chart Detail,1020200256,239,100231,Adia Barnes,1611661328,Seattle Storm,2,16,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-65,4,1,0,20020813,SAC,SEA,2002-03

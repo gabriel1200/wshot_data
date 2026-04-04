@@ -1,0 +1,20 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1042100201,100,203838,Astou Ndour-Fall,1611661329,Chicago Sky,1,1,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,22,1,1,20210926,MIN,CHI,2021-22
+Shot Chart Detail,1042100201,142,203838,Astou Ndour-Fall,1611661329,Chicago Sky,2,8,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,24,1,1,20210926,MIN,CHI,2021-22
+Shot Chart Detail,1042100201,158,203838,Astou Ndour-Fall,1611661329,Chicago Sky,2,6,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,11,1,1,20210926,MIN,CHI,2021-22
+Shot Chart Detail,1042100301,188,203838,Astou Ndour-Fall,1611661329,Chicago Sky,2,7,28,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,120,-3,1,0,20210928,CON,CHI,2021-22
+Shot Chart Detail,1042100301,192,203838,Astou Ndour-Fall,1611661329,Chicago Sky,2,7,3,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,13,1,1,20210928,CON,CHI,2021-22
+Shot Chart Detail,1042100301,372,203838,Astou Ndour-Fall,1611661329,Chicago Sky,3,2,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-7,259,1,1,20210928,CON,CHI,2021-22
+Shot Chart Detail,1042100301,436,203838,Astou Ndour-Fall,1611661329,Chicago Sky,4,8,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,183,22,1,1,20210928,CON,CHI,2021-22
+Shot Chart Detail,1042100301,498,203838,Astou Ndour-Fall,1611661329,Chicago Sky,4,3,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,30,17,1,1,20210928,CON,CHI,2021-22
+Shot Chart Detail,1042100301,536,203838,Astou Ndour-Fall,1611661329,Chicago Sky,4,1,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,1,251,1,0,20210928,CON,CHI,2021-22
+Shot Chart Detail,1042100301,581,203838,Astou Ndour-Fall,1611661329,Chicago Sky,5,4,45,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,9,1,0,20210928,CON,CHI,2021-22
+Shot Chart Detail,1042100302,121,203838,Astou Ndour-Fall,1611661329,Chicago Sky,1,2,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-182,140,1,0,20210930,CON,CHI,2021-22
+Shot Chart Detail,1042100302,165,203838,Astou Ndour-Fall,1611661329,Chicago Sky,2,8,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,177,86,1,0,20210930,CON,CHI,2021-22
+Shot Chart Detail,1042100303,88,203838,Astou Ndour-Fall,1611661329,Chicago Sky,1,2,24,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-85,11,1,0,20211003,CHI,CON,2021-22
+Shot Chart Detail,1042100304,151,203838,Astou Ndour-Fall,1611661329,Chicago Sky,2,7,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-106,1,1,0,20211006,CHI,CON,2021-22
+Shot Chart Detail,1042100304,173,203838,Astou Ndour-Fall,1611661329,Chicago Sky,2,6,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-29,1,1,0,20211006,CHI,CON,2021-22
+Shot Chart Detail,1042100304,448,203838,Astou Ndour-Fall,1611661329,Chicago Sky,4,4,41,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,9,1,1,20211006,CHI,CON,2021-22
+Shot Chart Detail,1042100403,133,203838,Astou Ndour-Fall,1611661329,Chicago Sky,1,0,0,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,0,1,0,20211015,CHI,PHO,2021-22
+Shot Chart Detail,1042100404,123,203838,Astou Ndour-Fall,1611661329,Chicago Sky,1,0,42,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-32,1,0,20211017,CHI,PHO,2021-22
+Shot Chart Detail,1042100404,176,203838,Astou Ndour-Fall,1611661329,Chicago Sky,2,6,55,Missed Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,23,1,0,20211017,CHI,PHO,2021-22

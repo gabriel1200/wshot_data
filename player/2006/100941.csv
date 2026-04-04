@@ -1,0 +1,10 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020600154,112,100941,Chandi Jones,1611661324,Minnesota Lynx,2,9,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-125,25,1,0,20060719,MIN,CHI,2006-07
+Shot Chart Detail,1020600154,116,100941,Chandi Jones,1611661324,Minnesota Lynx,2,9,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,20,-181,105,1,0,20060719,MIN,CHI,2006-07
+Shot Chart Detail,1020600154,122,100941,Chandi Jones,1611661324,Minnesota Lynx,2,8,32,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-212,13,1,1,20060719,MIN,CHI,2006-07
+Shot Chart Detail,1020600154,132,100941,Chandi Jones,1611661324,Minnesota Lynx,2,7,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-118,168,1,1,20060719,MIN,CHI,2006-07
+Shot Chart Detail,1020600182,91,100941,Chandi Jones,1611661324,Minnesota Lynx,2,9,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,120,105,1,1,20060728,CHI,MIN,2006-07
+Shot Chart Detail,1020600215,125,100941,Chandi Jones,1611661324,Minnesota Lynx,2,6,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060806,MIN,SAN,2006-07
+Shot Chart Detail,1020600227,105,100941,Chandi Jones,1611661324,Minnesota Lynx,2,7,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,13,1,0,20060810,SAC,MIN,2006-07
+Shot Chart Detail,1020600227,118,100941,Chandi Jones,1611661324,Minnesota Lynx,2,6,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,20,-205,43,1,1,20060810,SAC,MIN,2006-07
+Shot Chart Detail,1020600227,143,100941,Chandi Jones,1611661324,Minnesota Lynx,2,3,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-74,18,1,0,20060810,SAC,MIN,2006-07

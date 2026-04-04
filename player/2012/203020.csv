@@ -1,0 +1,19 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1021200058,74,203020,Kelley Cain,1611661313,New York Liberty,1,1,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,-5,1,1,20120619,ATL,NYL,2012-13
+Shot Chart Detail,1021200063,105,203020,Kelley Cain,1611661313,New York Liberty,1,0,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,3,1,0,20120621,MIN,NYL,2012-13
+Shot Chart Detail,1021200063,107,203020,Kelley Cain,1611661313,New York Liberty,1,0,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,9,1,0,20120621,MIN,NYL,2012-13
+Shot Chart Detail,1021200068,370,203020,Kelley Cain,1611661313,New York Liberty,3,0,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,-2,1,1,20120624,NYL,ATL,2012-13
+Shot Chart Detail,1021200090,61,203020,Kelley Cain,1611661313,New York Liberty,1,4,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,6,1,0,20120706,CHI,NYL,2012-13
+Shot Chart Detail,1021200096,232,203020,Kelley Cain,1611661313,New York Liberty,3,3,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-17,17,1,1,20120708,NYL,SAN,2012-13
+Shot Chart Detail,1021200101,53,203020,Kelley Cain,1611661313,New York Liberty,1,4,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,-2,1,0,20120710,IND,NYL,2012-13
+Shot Chart Detail,1021200101,84,203020,Kelley Cain,1611661313,New York Liberty,1,1,11,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,4,-32,1,0,20120710,IND,NYL,2012-13
+Shot Chart Detail,1021200101,157,203020,Kelley Cain,1611661313,New York Liberty,2,3,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,-13,1,0,20120710,IND,NYL,2012-13
+Shot Chart Detail,1021200101,159,203020,Kelley Cain,1611661313,New York Liberty,2,3,52,Made Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,2,33,1,1,20120710,IND,NYL,2012-13
+Shot Chart Detail,1021200101,353,203020,Kelley Cain,1611661313,New York Liberty,4,2,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,-5,1,0,20120710,IND,NYL,2012-13
+Shot Chart Detail,1021200101,355,203020,Kelley Cain,1611661313,New York Liberty,4,2,45,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,6,-36,1,0,20120710,IND,NYL,2012-13
+Shot Chart Detail,1021200140,275,203020,Kelley Cain,1611661313,New York Liberty,3,3,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,12,1,1,20120826,SEA,NYL,2012-13
+Shot Chart Detail,1021200140,284,203020,Kelley Cain,1611661313,New York Liberty,3,2,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,6,1,1,20120826,SEA,NYL,2012-13
+Shot Chart Detail,1021200159,347,203020,Kelley Cain,1611661313,New York Liberty,3,1,5,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-52,39,1,1,20120905,NYL,PHO,2012-13
+Shot Chart Detail,1021200159,448,203020,Kelley Cain,1611661313,New York Liberty,4,1,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-4,26,1,1,20120905,NYL,PHO,2012-13
+Shot Chart Detail,1021200163,353,203020,Kelley Cain,1611661313,New York Liberty,3,0,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,14,1,0,20120907,NYL,CHI,2012-13
+Shot Chart Detail,1021200194,379,203020,Kelley Cain,1611661313,New York Liberty,4,0,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-23,25,1,0,20120920,TUL,NYL,2012-13

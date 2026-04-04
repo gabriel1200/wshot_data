@@ -1,0 +1,142 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020100002,3,100250,Korie Hlede,1611661319,Utah Starzz,1,19,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010530,PHO,UTA,2001-02
+Shot Chart Detail,1020100002,48,100250,Korie Hlede,1611661319,Utah Starzz,1,14,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-103,2,1,1,20010530,PHO,UTA,2001-02
+Shot Chart Detail,1020100002,188,100250,Korie Hlede,1611661319,Utah Starzz,1,2,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,70,40,1,0,20010530,PHO,UTA,2001-02
+Shot Chart Detail,1020100002,196,100250,Korie Hlede,1611661319,Utah Starzz,1,1,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,7,1,1,20010530,PHO,UTA,2001-02
+Shot Chart Detail,1020100002,239,100250,Korie Hlede,1611661319,Utah Starzz,1,1,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-117,28,1,1,20010530,PHO,UTA,2001-02
+Shot Chart Detail,1020100002,200,100250,Korie Hlede,1611661319,Utah Starzz,1,0,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,13,1,0,20010530,PHO,UTA,2001-02
+Shot Chart Detail,1020100002,267,100250,Korie Hlede,1611661319,Utah Starzz,2,15,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,35,125,1,1,20010530,PHO,UTA,2001-02
+Shot Chart Detail,1020100002,322,100250,Korie Hlede,1611661319,Utah Starzz,2,9,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010530,PHO,UTA,2001-02
+Shot Chart Detail,1020100002,380,100250,Korie Hlede,1611661319,Utah Starzz,2,4,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010530,PHO,UTA,2001-02
+Shot Chart Detail,1020100013,14,100250,Korie Hlede,1611661319,Utah Starzz,1,19,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-101,133,1,1,20010602,UTA,POR,2001-02
+Shot Chart Detail,1020100013,106,100250,Korie Hlede,1611661319,Utah Starzz,1,11,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-145,154,1,0,20010602,UTA,POR,2001-02
+Shot Chart Detail,1020100013,125,100250,Korie Hlede,1611661319,Utah Starzz,1,10,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010602,UTA,POR,2001-02
+Shot Chart Detail,1020100013,171,100250,Korie Hlede,1611661319,Utah Starzz,1,5,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,153,78,1,1,20010602,UTA,POR,2001-02
+Shot Chart Detail,1020100013,177,100250,Korie Hlede,1611661319,Utah Starzz,1,4,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010602,UTA,POR,2001-02
+Shot Chart Detail,1020100013,186,100250,Korie Hlede,1611661319,Utah Starzz,1,4,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-50,78,1,0,20010602,UTA,POR,2001-02
+Shot Chart Detail,1020100013,276,100250,Korie Hlede,1611661319,Utah Starzz,1,1,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-79,61,1,0,20010602,UTA,POR,2001-02
+Shot Chart Detail,1020100013,282,100250,Korie Hlede,1611661319,Utah Starzz,1,1,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-1,127,1,1,20010602,UTA,POR,2001-02
+Shot Chart Detail,1020100013,291,100250,Korie Hlede,1611661319,Utah Starzz,1,0,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-1,112,1,0,20010602,UTA,POR,2001-02
+Shot Chart Detail,1020100013,440,100250,Korie Hlede,1611661319,Utah Starzz,2,2,10,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-16,72,1,0,20010602,UTA,POR,2001-02
+Shot Chart Detail,1020100013,480,100250,Korie Hlede,1611661319,Utah Starzz,2,0,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-151,144,1,1,20010602,UTA,POR,2001-02
+Shot Chart Detail,1020100013,484,100250,Korie Hlede,1611661319,Utah Starzz,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,167,122,1,0,20010602,UTA,POR,2001-02
+Shot Chart Detail,1020100021,16,100250,Korie Hlede,1611661319,Utah Starzz,1,18,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010605,UTA,HOU,2001-02
+Shot Chart Detail,1020100021,24,100250,Korie Hlede,1611661319,Utah Starzz,1,16,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-1,177,1,0,20010605,UTA,HOU,2001-02
+Shot Chart Detail,1020100021,36,100250,Korie Hlede,1611661319,Utah Starzz,1,15,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010605,UTA,HOU,2001-02
+Shot Chart Detail,1020100021,160,100250,Korie Hlede,1611661319,Utah Starzz,1,3,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-166,78,1,1,20010605,UTA,HOU,2001-02
+Shot Chart Detail,1020100021,214,100250,Korie Hlede,1611661319,Utah Starzz,1,1,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010605,UTA,HOU,2001-02
+Shot Chart Detail,1020100021,299,100250,Korie Hlede,1611661319,Utah Starzz,2,9,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010605,UTA,HOU,2001-02
+Shot Chart Detail,1020100025,2,100250,Korie Hlede,1611661319,Utah Starzz,1,19,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010607,UTA,ORL,2001-02
+Shot Chart Detail,1020100025,39,100250,Korie Hlede,1611661319,Utah Starzz,1,16,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,37,89,1,0,20010607,UTA,ORL,2001-02
+Shot Chart Detail,1020100025,47,100250,Korie Hlede,1611661319,Utah Starzz,1,15,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,188,99,1,1,20010607,UTA,ORL,2001-02
+Shot Chart Detail,1020100025,66,100250,Korie Hlede,1611661319,Utah Starzz,1,13,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,123,99,1,0,20010607,UTA,ORL,2001-02
+Shot Chart Detail,1020100025,201,100250,Korie Hlede,1611661319,Utah Starzz,1,2,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,138,152,1,0,20010607,UTA,ORL,2001-02
+Shot Chart Detail,1020100025,253,100250,Korie Hlede,1611661319,Utah Starzz,1,1,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,47,1,0,20010607,UTA,ORL,2001-02
+Shot Chart Detail,1020100025,272,100250,Korie Hlede,1611661319,Utah Starzz,1,0,10,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,20,-200,-17,1,1,20010607,UTA,ORL,2001-02
+Shot Chart Detail,1020100025,275,100250,Korie Hlede,1611661319,Utah Starzz,2,16,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010607,UTA,ORL,2001-02
+Shot Chart Detail,1020100025,288,100250,Korie Hlede,1611661319,Utah Starzz,2,15,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,-6,1,0,20010607,UTA,ORL,2001-02
+Shot Chart Detail,1020100025,295,100250,Korie Hlede,1611661319,Utah Starzz,2,14,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,1,114,1,1,20010607,UTA,ORL,2001-02
+Shot Chart Detail,1020100025,309,100250,Korie Hlede,1611661319,Utah Starzz,2,13,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-92,125,1,1,20010607,UTA,ORL,2001-02
+Shot Chart Detail,1020100025,317,100250,Korie Hlede,1611661319,Utah Starzz,2,13,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-149,63,1,1,20010607,UTA,ORL,2001-02
+Shot Chart Detail,1020100025,327,100250,Korie Hlede,1611661319,Utah Starzz,2,12,10,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-214,-6,1,0,20010607,UTA,ORL,2001-02
+Shot Chart Detail,1020100025,349,100250,Korie Hlede,1611661319,Utah Starzz,2,10,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010607,UTA,ORL,2001-02
+Shot Chart Detail,1020100025,509,100250,Korie Hlede,1611661319,Utah Starzz,2,0,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010607,UTA,ORL,2001-02
+Shot Chart Detail,1020100033,4,100250,Korie Hlede,1611661319,Utah Starzz,1,19,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-113,53,1,0,20010609,UTA,SEA,2001-02
+Shot Chart Detail,1020100033,125,100250,Korie Hlede,1611661319,Utah Starzz,1,4,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,-17,1,0,20010609,UTA,SEA,2001-02
+Shot Chart Detail,1020100033,181,100250,Korie Hlede,1611661319,Utah Starzz,1,1,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,-23,1,1,20010609,UTA,SEA,2001-02
+Shot Chart Detail,1020100033,186,100250,Korie Hlede,1611661319,Utah Starzz,1,1,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010609,UTA,SEA,2001-02
+Shot Chart Detail,1020100033,211,100250,Korie Hlede,1611661319,Utah Starzz,2,14,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,16,152,1,0,20010609,UTA,SEA,2001-02
+Shot Chart Detail,1020100044,5,100250,Korie Hlede,1611661319,Utah Starzz,1,19,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010614,CHA,UTA,2001-02
+Shot Chart Detail,1020100044,54,100250,Korie Hlede,1611661319,Utah Starzz,1,13,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010614,CHA,UTA,2001-02
+Shot Chart Detail,1020100044,57,100250,Korie Hlede,1611661319,Utah Starzz,1,13,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,51,66,1,1,20010614,CHA,UTA,2001-02
+Shot Chart Detail,1020100044,162,100250,Korie Hlede,1611661319,Utah Starzz,1,2,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,13,1,1,20010614,CHA,UTA,2001-02
+Shot Chart Detail,1020100044,196,100250,Korie Hlede,1611661319,Utah Starzz,1,2,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-105,78,1,1,20010614,CHA,UTA,2001-02
+Shot Chart Detail,1020100044,184,100250,Korie Hlede,1611661319,Utah Starzz,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,30,230,1,0,20010614,CHA,UTA,2001-02
+Shot Chart Detail,1020100044,221,100250,Korie Hlede,1611661319,Utah Starzz,2,15,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,23,-214,93,1,1,20010614,CHA,UTA,2001-02
+Shot Chart Detail,1020100044,308,100250,Korie Hlede,1611661319,Utah Starzz,2,6,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010614,CHA,UTA,2001-02
+Shot Chart Detail,1020100044,339,100250,Korie Hlede,1611661319,Utah Starzz,2,3,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010614,CHA,UTA,2001-02
+Shot Chart Detail,1020100060,123,100250,Korie Hlede,1611661319,Utah Starzz,1,5,22,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-42,87,1,0,20010801,HOU,UTA,2001-02
+Shot Chart Detail,1020100060,132,100250,Korie Hlede,1611661319,Utah Starzz,1,4,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-27,120,1,0,20010801,HOU,UTA,2001-02
+Shot Chart Detail,1020100060,147,100250,Korie Hlede,1611661319,Utah Starzz,1,3,1,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010801,HOU,UTA,2001-02
+Shot Chart Detail,1020100060,154,100250,Korie Hlede,1611661319,Utah Starzz,1,2,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,58,144,1,0,20010801,HOU,UTA,2001-02
+Shot Chart Detail,1020100069,2,100250,Korie Hlede,1611661319,Utah Starzz,1,19,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,22,129,1,0,20010621,UTA,SAC,2001-02
+Shot Chart Detail,1020100069,13,100250,Korie Hlede,1611661319,Utah Starzz,1,18,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010621,UTA,SAC,2001-02
+Shot Chart Detail,1020100069,23,100250,Korie Hlede,1611661319,Utah Starzz,1,17,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-155,-13,1,1,20010621,UTA,SAC,2001-02
+Shot Chart Detail,1020100069,31,100250,Korie Hlede,1611661319,Utah Starzz,1,15,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-63,152,1,0,20010621,UTA,SAC,2001-02
+Shot Chart Detail,1020100069,48,100250,Korie Hlede,1611661319,Utah Starzz,1,14,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010621,UTA,SAC,2001-02
+Shot Chart Detail,1020100069,130,100250,Korie Hlede,1611661319,Utah Starzz,1,6,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010621,UTA,SAC,2001-02
+Shot Chart Detail,1020100069,145,100250,Korie Hlede,1611661319,Utah Starzz,1,4,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,51,97,1,0,20010621,UTA,SAC,2001-02
+Shot Chart Detail,1020100069,158,100250,Korie Hlede,1611661319,Utah Starzz,1,2,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,-17,1,0,20010621,UTA,SAC,2001-02
+Shot Chart Detail,1020100069,162,100250,Korie Hlede,1611661319,Utah Starzz,1,2,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,58,36,1,1,20010621,UTA,SAC,2001-02
+Shot Chart Detail,1020100069,181,100250,Korie Hlede,1611661319,Utah Starzz,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-92,186,1,0,20010621,UTA,SAC,2001-02
+Shot Chart Detail,1020100069,228,100250,Korie Hlede,1611661319,Utah Starzz,2,15,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-92,57,1,0,20010621,UTA,SAC,2001-02
+Shot Chart Detail,1020100069,272,100250,Korie Hlede,1611661319,Utah Starzz,2,11,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010621,UTA,SAC,2001-02
+Shot Chart Detail,1020100069,303,100250,Korie Hlede,1611661319,Utah Starzz,2,8,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,58,196,1,0,20010621,UTA,SAC,2001-02
+Shot Chart Detail,1020100069,310,100250,Korie Hlede,1611661319,Utah Starzz,2,7,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010621,UTA,SAC,2001-02
+Shot Chart Detail,1020100069,329,100250,Korie Hlede,1611661319,Utah Starzz,2,5,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-134,76,1,1,20010621,UTA,SAC,2001-02
+Shot Chart Detail,1020100079,22,100250,Korie Hlede,1611661319,Utah Starzz,1,17,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-105,135,1,0,20010623,UTA,MIN,2001-02
+Shot Chart Detail,1020100079,38,100250,Korie Hlede,1611661319,Utah Starzz,1,15,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010623,UTA,MIN,2001-02
+Shot Chart Detail,1020100079,44,100250,Korie Hlede,1611661319,Utah Starzz,1,15,12,Missed Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-27,26,1,0,20010623,UTA,MIN,2001-02
+Shot Chart Detail,1020100079,59,100250,Korie Hlede,1611661319,Utah Starzz,1,13,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,-63,196,1,1,20010623,UTA,MIN,2001-02
+Shot Chart Detail,1020100079,233,100250,Korie Hlede,1611661319,Utah Starzz,1,0,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-149,91,1,1,20010623,UTA,MIN,2001-02
+Shot Chart Detail,1020100079,293,100250,Korie Hlede,1611661319,Utah Starzz,2,11,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010623,UTA,MIN,2001-02
+Shot Chart Detail,1020100079,358,100250,Korie Hlede,1611661319,Utah Starzz,2,5,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,7,148,1,0,20010623,UTA,MIN,2001-02
+Shot Chart Detail,1020100085,36,100250,Korie Hlede,1611661319,Utah Starzz,1,15,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-143,91,1,0,20010625,UTA,SEA,2001-02
+Shot Chart Detail,1020100085,111,100250,Korie Hlede,1611661319,Utah Starzz,1,8,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-130,114,1,1,20010625,UTA,SEA,2001-02
+Shot Chart Detail,1020100085,125,100250,Korie Hlede,1611661319,Utah Starzz,1,6,58,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-44,36,1,0,20010625,UTA,SEA,2001-02
+Shot Chart Detail,1020100085,164,100250,Korie Hlede,1611661319,Utah Starzz,1,2,22,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,26,1,0,20010625,UTA,SEA,2001-02
+Shot Chart Detail,1020100085,251,100250,Korie Hlede,1611661319,Utah Starzz,2,15,25,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-216,-17,1,0,20010625,UTA,SEA,2001-02
+Shot Chart Detail,1020100085,255,100250,Korie Hlede,1611661319,Utah Starzz,2,15,22,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-6,110,1,0,20010625,UTA,SEA,2001-02
+Shot Chart Detail,1020100085,258,100250,Korie Hlede,1611661319,Utah Starzz,2,15,8,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010625,UTA,SEA,2001-02
+Shot Chart Detail,1020100085,263,100250,Korie Hlede,1611661319,Utah Starzz,2,14,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010625,UTA,SEA,2001-02
+Shot Chart Detail,1020100090,11,100250,Korie Hlede,1611661319,Utah Starzz,1,17,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,22,34,1,0,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,37,100250,Korie Hlede,1611661319,Utah Starzz,1,14,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,121,118,1,0,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,49,100250,Korie Hlede,1611661319,Utah Starzz,1,13,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-132,23,1,0,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100129,87,100250,Korie Hlede,1611661319,Utah Starzz,1,11,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,85,133,1,0,20010708,POR,UTA,2001-02
+Shot Chart Detail,1020100129,95,100250,Korie Hlede,1611661319,Utah Starzz,1,10,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-162,51,1,0,20010708,POR,UTA,2001-02
+Shot Chart Detail,1020100134,92,100250,Korie Hlede,1611661319,Utah Starzz,1,8,10,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,47,133,1,1,20010710,UTA,LAS,2001-02
+Shot Chart Detail,1020100141,75,100250,Korie Hlede,1611661319,Utah Starzz,1,11,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-56,55,1,0,20010712,SAC,UTA,2001-02
+Shot Chart Detail,1020100141,167,100250,Korie Hlede,1611661319,Utah Starzz,1,1,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-27,19,1,0,20010712,SAC,UTA,2001-02
+Shot Chart Detail,1020100141,238,100250,Korie Hlede,1611661319,Utah Starzz,2,13,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010712,SAC,UTA,2001-02
+Shot Chart Detail,1020100152,72,100250,Korie Hlede,1611661319,Utah Starzz,1,11,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,125,116,1,0,20010714,UTA,SAC,2001-02
+Shot Chart Detail,1020100152,102,100250,Korie Hlede,1611661319,Utah Starzz,1,7,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010714,UTA,SAC,2001-02
+Shot Chart Detail,1020100152,217,100250,Korie Hlede,1611661319,Utah Starzz,2,15,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,18,122,1,0,20010714,UTA,SAC,2001-02
+Shot Chart Detail,1020100152,228,100250,Korie Hlede,1611661319,Utah Starzz,2,12,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,3,127,1,0,20010714,UTA,SAC,2001-02
+Shot Chart Detail,1020100156,246,100250,Korie Hlede,1611661319,Utah Starzz,2,12,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,11,152,1,0,20010718,IND,UTA,2001-02
+Shot Chart Detail,1020100156,248,100250,Korie Hlede,1611661319,Utah Starzz,2,12,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,4,1,0,20010718,IND,UTA,2001-02
+Shot Chart Detail,1020100176,81,100250,Korie Hlede,1611661319,Utah Starzz,1,9,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-77,150,1,1,20010724,HOU,UTA,2001-02
+Shot Chart Detail,1020100176,194,100250,Korie Hlede,1611661319,Utah Starzz,2,16,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,45,53,1,0,20010724,HOU,UTA,2001-02
+Shot Chart Detail,1020100176,214,100250,Korie Hlede,1611661319,Utah Starzz,2,14,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010724,HOU,UTA,2001-02
+Shot Chart Detail,1020100176,341,100250,Korie Hlede,1611661319,Utah Starzz,2,0,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010724,HOU,UTA,2001-02
+Shot Chart Detail,1020100182,50,100250,Korie Hlede,1611661319,Utah Starzz,1,13,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-16,150,1,1,20010726,UTA,NYL,2001-02
+Shot Chart Detail,1020100182,229,100250,Korie Hlede,1611661319,Utah Starzz,2,10,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-178,21,1,1,20010726,UTA,NYL,2001-02
+Shot Chart Detail,1020100182,243,100250,Korie Hlede,1611661319,Utah Starzz,2,9,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,125,165,1,0,20010726,UTA,NYL,2001-02
+Shot Chart Detail,1020100192,126,100250,Korie Hlede,1611661319,Utah Starzz,1,7,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,-8,1,1,20010728,UTA,MIN,2001-02
+Shot Chart Detail,1020100192,135,100250,Korie Hlede,1611661319,Utah Starzz,1,6,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,77,150,1,0,20010728,UTA,MIN,2001-02
+Shot Chart Detail,1020100192,227,100250,Korie Hlede,1611661319,Utah Starzz,2,16,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,0,1,1,20010728,UTA,MIN,2001-02
+Shot Chart Detail,1020100192,264,100250,Korie Hlede,1611661319,Utah Starzz,2,13,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-115,165,1,1,20010728,UTA,MIN,2001-02
+Shot Chart Detail,1020100192,291,100250,Korie Hlede,1611661319,Utah Starzz,2,10,35,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010728,UTA,MIN,2001-02
+Shot Chart Detail,1020100200,103,100250,Korie Hlede,1611661319,Utah Starzz,1,8,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-96,13,1,1,20010730,POR,UTA,2001-02
+Shot Chart Detail,1020100212,115,100250,Korie Hlede,1611661319,Utah Starzz,1,3,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-82,-6,1,1,20010803,SEA,UTA,2001-02
+Shot Chart Detail,1020100212,277,100250,Korie Hlede,1611661319,Utah Starzz,2,6,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-204,101,1,0,20010803,SEA,UTA,2001-02
+Shot Chart Detail,1020100216,86,100250,Korie Hlede,1611661319,Utah Starzz,1,10,16,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,73,74,1,1,20010804,UTA,IND,2001-02
+Shot Chart Detail,1020100216,102,100250,Korie Hlede,1611661319,Utah Starzz,1,8,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010804,UTA,IND,2001-02
+Shot Chart Detail,1020100216,117,100250,Korie Hlede,1611661319,Utah Starzz,1,6,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,85,125,1,0,20010804,UTA,IND,2001-02
+Shot Chart Detail,1020100216,217,100250,Korie Hlede,1611661319,Utah Starzz,2,15,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,7,1,1,20010804,UTA,IND,2001-02
+Shot Chart Detail,1020100216,237,100250,Korie Hlede,1611661319,Utah Starzz,2,12,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,20,-191,68,1,0,20010804,UTA,IND,2001-02
+Shot Chart Detail,1020100227,151,100250,Korie Hlede,1611661319,Utah Starzz,1,3,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010808,NYL,UTA,2001-02
+Shot Chart Detail,1020100227,170,100250,Korie Hlede,1611661319,Utah Starzz,1,1,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-111,125,1,0,20010808,NYL,UTA,2001-02
+Shot Chart Detail,1020100227,190,100250,Korie Hlede,1611661319,Utah Starzz,1,0,42,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,3,106,1,1,20010808,NYL,UTA,2001-02
+Shot Chart Detail,1020100227,339,100250,Korie Hlede,1611661319,Utah Starzz,2,5,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-105,118,1,0,20010808,NYL,UTA,2001-02
+Shot Chart Detail,1020100246,99,100250,Korie Hlede,1611661319,Utah Starzz,1,9,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-94,152,1,0,20010812,MIN,UTA,2001-02
+Shot Chart Detail,1020100246,104,100250,Korie Hlede,1611661319,Utah Starzz,1,9,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-178,4,1,1,20010812,MIN,UTA,2001-02
+Shot Chart Detail,1020100246,130,100250,Korie Hlede,1611661319,Utah Starzz,1,6,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,83,97,1,1,20010812,MIN,UTA,2001-02
+Shot Chart Detail,1020100246,141,100250,Korie Hlede,1611661319,Utah Starzz,1,5,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,24,80,1,0,20010812,MIN,UTA,2001-02
+Shot Chart Detail,1020100246,178,100250,Korie Hlede,1611661319,Utah Starzz,1,1,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,23,197,125,1,0,20010812,MIN,UTA,2001-02
+Shot Chart Detail,1020100246,278,100250,Korie Hlede,1611661319,Utah Starzz,2,12,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-130,101,1,0,20010812,MIN,UTA,2001-02
+Shot Chart Detail,1020100246,305,100250,Korie Hlede,1611661319,Utah Starzz,2,10,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,11,219,1,0,20010812,MIN,UTA,2001-02
+Shot Chart Detail,1020100246,431,100250,Korie Hlede,1611661319,Utah Starzz,2,0,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,24,230,1,1,20010812,MIN,UTA,2001-02
+Shot Chart Detail,1020100246,448,100250,Korie Hlede,1611661319,Utah Starzz,2,0,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-172,158,1,0,20010812,MIN,UTA,2001-02
+Shot Chart Detail,1020100249,69,100250,Korie Hlede,1611661319,Utah Starzz,1,11,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-132,154,1,1,20010813,UTA,LAS,2001-02
+Shot Chart Detail,1020100249,76,100250,Korie Hlede,1611661319,Utah Starzz,1,9,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,-8,1,0,20010813,UTA,LAS,2001-02
+Shot Chart Detail,1020100249,274,100250,Korie Hlede,1611661319,Utah Starzz,2,7,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-153,133,1,0,20010813,UTA,LAS,2001-02

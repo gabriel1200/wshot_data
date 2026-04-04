@@ -1,0 +1,6 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020000001,31,100425,Venus Lacy,1611661313,New York Liberty,1,16,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,44,16,1,0,20000529,HOU,NYL,2000-01
+Shot Chart Detail,1020000001,160,100425,Venus Lacy,1611661313,New York Liberty,1,4,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,35,33,1,1,20000529,HOU,NYL,2000-01
+Shot Chart Detail,1020000001,204,100425,Venus Lacy,1611661313,New York Liberty,1,2,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-6,51,1,0,20000529,HOU,NYL,2000-01
+Shot Chart Detail,1020000001,225,100425,Venus Lacy,1611661313,New York Liberty,2,16,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000529,HOU,NYL,2000-01
+Shot Chart Detail,1020000004,12,100425,Venus Lacy,1611661313,New York Liberty,1,18,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000531,PHO,NYL,2000-01

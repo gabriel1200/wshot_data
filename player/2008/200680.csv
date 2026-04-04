@@ -1,0 +1,66 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020800042,138,200680,Tye'sha Fluker,1611661329,Chicago Sky,2,8,10,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-156,7,1,1,20080606,ATL,CHI,2008-09
+Shot Chart Detail,1020800042,359,200680,Tye'sha Fluker,1611661329,Chicago Sky,4,8,52,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-115,26,1,1,20080606,ATL,CHI,2008-09
+Shot Chart Detail,1020800047,192,200680,Tye'sha Fluker,1611661329,Chicago Sky,2,0,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080607,CHI,ATL,2008-09
+Shot Chart Detail,1020800047,289,200680,Tye'sha Fluker,1611661329,Chicago Sky,3,1,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080607,CHI,ATL,2008-09
+Shot Chart Detail,1020800047,394,200680,Tye'sha Fluker,1611661329,Chicago Sky,4,2,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080607,CHI,ATL,2008-09
+Shot Chart Detail,1020800061,98,200680,Tye'sha Fluker,1611661329,Chicago Sky,2,7,52,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-20,100,1,1,20080613,CHI,WAS,2008-09
+Shot Chart Detail,1020800074,48,200680,Tye'sha Fluker,1611661329,Chicago Sky,1,4,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080618,LAS,CHI,2008-09
+Shot Chart Detail,1020800074,71,200680,Tye'sha Fluker,1611661329,Chicago Sky,1,2,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,117,107,1,1,20080618,LAS,CHI,2008-09
+Shot Chart Detail,1020800074,75,200680,Tye'sha Fluker,1611661329,Chicago Sky,1,1,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,23,1,0,20080618,LAS,CHI,2008-09
+Shot Chart Detail,1020800074,102,200680,Tye'sha Fluker,1611661329,Chicago Sky,2,9,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080618,LAS,CHI,2008-09
+Shot Chart Detail,1020800074,295,200680,Tye'sha Fluker,1611661329,Chicago Sky,4,8,49,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,31,92,1,0,20080618,LAS,CHI,2008-09
+Shot Chart Detail,1020800074,309,200680,Tye'sha Fluker,1611661329,Chicago Sky,4,6,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-3,224,1,1,20080618,LAS,CHI,2008-09
+Shot Chart Detail,1020800078,21,200680,Tye'sha Fluker,1611661329,Chicago Sky,1,7,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-56,68,1,0,20080620,PHO,CHI,2008-09
+Shot Chart Detail,1020800078,33,200680,Tye'sha Fluker,1611661329,Chicago Sky,1,5,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080620,PHO,CHI,2008-09
+Shot Chart Detail,1020800078,57,200680,Tye'sha Fluker,1611661329,Chicago Sky,1,3,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,16,181,1,1,20080620,PHO,CHI,2008-09
+Shot Chart Detail,1020800078,227,200680,Tye'sha Fluker,1611661329,Chicago Sky,3,7,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080620,PHO,CHI,2008-09
+Shot Chart Detail,1020800084,217,200680,Tye'sha Fluker,1611661329,Chicago Sky,3,9,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080622,SAC,CHI,2008-09
+Shot Chart Detail,1020800084,332,200680,Tye'sha Fluker,1611661329,Chicago Sky,4,7,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,51,43,1,0,20080622,SAC,CHI,2008-09
+Shot Chart Detail,1020800096,118,200680,Tye'sha Fluker,1611661329,Chicago Sky,1,0,19,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-15,107,1,1,20080626,CHI,PHO,2008-09
+Shot Chart Detail,1020800096,266,200680,Tye'sha Fluker,1611661329,Chicago Sky,3,8,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080626,CHI,PHO,2008-09
+Shot Chart Detail,1020800096,286,200680,Tye'sha Fluker,1611661329,Chicago Sky,3,5,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,3,82,1,0,20080626,CHI,PHO,2008-09
+Shot Chart Detail,1020800096,301,200680,Tye'sha Fluker,1611661329,Chicago Sky,3,3,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080626,CHI,PHO,2008-09
+Shot Chart Detail,1020800099,62,200680,Tye'sha Fluker,1611661329,Chicago Sky,1,1,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,51,74,1,0,20080628,CHI,DET,2008-09
+Shot Chart Detail,1020800108,91,200680,Tye'sha Fluker,1611661329,Chicago Sky,1,1,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,30,1,0,20080701,MIN,CHI,2008-09
+Shot Chart Detail,1020800108,132,200680,Tye'sha Fluker,1611661329,Chicago Sky,2,8,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-5,158,1,0,20080701,MIN,CHI,2008-09
+Shot Chart Detail,1020800108,318,200680,Tye'sha Fluker,1611661329,Chicago Sky,4,9,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,20,1,0,20080701,MIN,CHI,2008-09
+Shot Chart Detail,1020800112,77,200680,Tye'sha Fluker,1611661329,Chicago Sky,1,0,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,71,41,1,0,20080702,IND,CHI,2008-09
+Shot Chart Detail,1020800112,83,200680,Tye'sha Fluker,1611661329,Chicago Sky,1,0,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,-6,1,0,20080702,IND,CHI,2008-09
+Shot Chart Detail,1020800112,261,200680,Tye'sha Fluker,1611661329,Chicago Sky,3,2,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,0,1,0,20080702,IND,CHI,2008-09
+Shot Chart Detail,1020800112,275,200680,Tye'sha Fluker,1611661329,Chicago Sky,3,1,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,107,45,1,0,20080702,IND,CHI,2008-09
+Shot Chart Detail,1020800112,287,200680,Tye'sha Fluker,1611661329,Chicago Sky,3,0,32,Made Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-3,1,1,20080702,IND,CHI,2008-09
+Shot Chart Detail,1020800112,307,200680,Tye'sha Fluker,1611661329,Chicago Sky,4,8,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,89,137,1,0,20080702,IND,CHI,2008-09
+Shot Chart Detail,1020800112,318,200680,Tye'sha Fluker,1611661329,Chicago Sky,4,8,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-79,8,1,0,20080702,IND,CHI,2008-09
+Shot Chart Detail,1020800112,326,200680,Tye'sha Fluker,1611661329,Chicago Sky,4,7,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,131,-34,1,1,20080702,IND,CHI,2008-09
+Shot Chart Detail,1020800119,91,200680,Tye'sha Fluker,1611661329,Chicago Sky,1,1,20,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,136,92,1,1,20080705,ATL,CHI,2008-09
+Shot Chart Detail,1020800119,195,200680,Tye'sha Fluker,1611661329,Chicago Sky,2,1,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,164,25,1,0,20080705,ATL,CHI,2008-09
+Shot Chart Detail,1020800119,368,200680,Tye'sha Fluker,1611661329,Chicago Sky,4,6,20,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-64,49,1,1,20080705,ATL,CHI,2008-09
+Shot Chart Detail,1020800132,155,200680,Tye'sha Fluker,1611661329,Chicago Sky,2,1,0,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080710,CHI,SAN,2008-09
+Shot Chart Detail,1020800132,244,200680,Tye'sha Fluker,1611661329,Chicago Sky,3,0,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,47,94,1,1,20080710,CHI,SAN,2008-09
+Shot Chart Detail,1020800132,275,200680,Tye'sha Fluker,1611661329,Chicago Sky,4,8,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-108,110,1,0,20080710,CHI,SAN,2008-09
+Shot Chart Detail,1020800142,169,200680,Tye'sha Fluker,1611661329,Chicago Sky,2,2,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080713,CHI,ATL,2008-09
+Shot Chart Detail,1020800142,258,200680,Tye'sha Fluker,1611661329,Chicago Sky,3,3,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-126,202,1,0,20080713,CHI,ATL,2008-09
+Shot Chart Detail,1020800142,262,200680,Tye'sha Fluker,1611661329,Chicago Sky,3,2,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-166,43,1,0,20080713,CHI,ATL,2008-09
+Shot Chart Detail,1020800142,284,200680,Tye'sha Fluker,1611661329,Chicago Sky,3,0,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-138,36,1,0,20080713,CHI,ATL,2008-09
+Shot Chart Detail,1020800142,299,200680,Tye'sha Fluker,1611661329,Chicago Sky,3,0,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080713,CHI,ATL,2008-09
+Shot Chart Detail,1020800142,384,200680,Tye'sha Fluker,1611661329,Chicago Sky,4,3,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,15,1,0,20080713,CHI,ATL,2008-09
+Shot Chart Detail,1020800142,422,200680,Tye'sha Fluker,1611661329,Chicago Sky,4,0,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,-9,1,1,20080713,CHI,ATL,2008-09
+Shot Chart Detail,1020800146,89,200680,Tye'sha Fluker,1611661329,Chicago Sky,1,0,15,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,41,89,1,1,20080716,DET,CHI,2008-09
+Shot Chart Detail,1020800146,147,200680,Tye'sha Fluker,1611661329,Chicago Sky,2,3,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-146,36,1,0,20080716,DET,CHI,2008-09
+Shot Chart Detail,1020800146,295,200680,Tye'sha Fluker,1611661329,Chicago Sky,4,8,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,30,1,1,20080716,DET,CHI,2008-09
+Shot Chart Detail,1020800153,306,200680,Tye'sha Fluker,1611661329,Chicago Sky,4,9,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,22,1,0,20080718,CHI,CON,2008-09
+Shot Chart Detail,1020800159,100,200680,Tye'sha Fluker,1611661329,Chicago Sky,2,8,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,120,38,1,0,20080720,CON,CHI,2008-09
+Shot Chart Detail,1020800177,155,200680,Tye'sha Fluker,1611661329,Chicago Sky,2,4,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,148,-19,1,0,20080726,HOU,CHI,2008-09
+Shot Chart Detail,1020800186,103,200680,Tye'sha Fluker,1611661329,Chicago Sky,2,9,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,118,-13,1,1,20080828,NYL,CHI,2008-09
+Shot Chart Detail,1020800186,106,200680,Tye'sha Fluker,1611661329,Chicago Sky,2,8,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-136,191,1,0,20080828,NYL,CHI,2008-09
+Shot Chart Detail,1020800190,118,200680,Tye'sha Fluker,1611661329,Chicago Sky,1,0,8,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-11,33,1,0,20080829,WAS,CHI,2008-09
+Shot Chart Detail,1020800190,355,200680,Tye'sha Fluker,1611661329,Chicago Sky,4,9,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,100,89,1,1,20080829,WAS,CHI,2008-09
+Shot Chart Detail,1020800204,103,200680,Tye'sha Fluker,1611661329,Chicago Sky,2,8,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,5,1,0,20080904,CHI,SEA,2008-09
+Shot Chart Detail,1020800204,113,200680,Tye'sha Fluker,1611661329,Chicago Sky,2,7,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-102,20,1,0,20080904,CHI,SEA,2008-09
+Shot Chart Detail,1020800204,121,200680,Tye'sha Fluker,1611661329,Chicago Sky,2,6,57,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080904,CHI,SEA,2008-09
+Shot Chart Detail,1020800204,302,200680,Tye'sha Fluker,1611661329,Chicago Sky,4,8,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-61,56,1,0,20080904,CHI,SEA,2008-09
+Shot Chart Detail,1020800205,279,200680,Tye'sha Fluker,1611661329,Chicago Sky,4,9,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,103,0,1,0,20080905,CON,CHI,2008-09
+Shot Chart Detail,1020800214,282,200680,Tye'sha Fluker,1611661329,Chicago Sky,4,8,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080907,NYL,CHI,2008-09
+Shot Chart Detail,1020800220,118,200680,Tye'sha Fluker,1611661329,Chicago Sky,1,0,5,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080909,CHI,WAS,2008-09
+Shot Chart Detail,1020800237,201,200680,Tye'sha Fluker,1611661329,Chicago Sky,2,2,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-50,113,1,0,20080914,CHI,HOU,2008-09

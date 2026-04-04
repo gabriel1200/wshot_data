@@ -1,0 +1,8 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1040700112,235,101053,Jamie Carey,1611661323,Connecticut Sun,3,4,24,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,0,1,0,20070825,IND,CON,2007-08
+Shot Chart Detail,1040700112,268,101053,Jamie Carey,1611661323,Connecticut Sun,3,0,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,149,174,1,0,20070825,IND,CON,2007-08
+Shot Chart Detail,1040700112,304,101053,Jamie Carey,1611661323,Connecticut Sun,4,7,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,135,189,1,1,20070825,IND,CON,2007-08
+Shot Chart Detail,1040700112,329,101053,Jamie Carey,1611661323,Connecticut Sun,4,4,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,-6,1,0,20070825,IND,CON,2007-08
+Shot Chart Detail,1040700112,335,101053,Jamie Carey,1611661323,Connecticut Sun,4,4,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,89,202,1,0,20070825,IND,CON,2007-08
+Shot Chart Detail,1040700113,66,101053,Jamie Carey,1611661323,Connecticut Sun,1,2,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-151,173,1,0,20070827,IND,CON,2007-08
+Shot Chart Detail,1040700113,74,101053,Jamie Carey,1611661323,Connecticut Sun,1,1,17,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,-19,1,1,20070827,IND,CON,2007-08

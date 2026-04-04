@@ -1,0 +1,71 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1021200005,227,201884,Chante Black,1611661321,Tulsa Shock,3,8,15,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-29,94,1,1,20120519,TUL,SAN,2012-13
+Shot Chart Detail,1021200005,231,201884,Chante Black,1611661321,Tulsa Shock,3,7,28,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,22,1,0,20120519,TUL,SAN,2012-13
+Shot Chart Detail,1021200010,6,201884,Chante Black,1611661321,Tulsa Shock,1,9,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,0,1,1,20120522,TUL,PHO,2012-13
+Shot Chart Detail,1021200010,257,201884,Chante Black,1611661321,Tulsa Shock,3,9,23,Made Shot,Jump Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,20,1,1,20120522,TUL,PHO,2012-13
+Shot Chart Detail,1021200010,267,201884,Chante Black,1611661321,Tulsa Shock,3,7,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-4,124,1,0,20120522,TUL,PHO,2012-13
+Shot Chart Detail,1021200015,28,201884,Chante Black,1611661321,Tulsa Shock,1,6,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,-11,1,1,20120526,WAS,TUL,2012-13
+Shot Chart Detail,1021200015,270,201884,Chante Black,1611661321,Tulsa Shock,3,9,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-75,25,1,0,20120526,WAS,TUL,2012-13
+Shot Chart Detail,1021200015,275,201884,Chante Black,1611661321,Tulsa Shock,3,9,17,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,-11,1,1,20120526,WAS,TUL,2012-13
+Shot Chart Detail,1021200019,8,201884,Chante Black,1611661321,Tulsa Shock,1,8,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,26,64,1,0,20120529,LAS,TUL,2012-13
+Shot Chart Detail,1021200019,204,201884,Chante Black,1611661321,Tulsa Shock,2,5,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,28,1,0,20120529,LAS,TUL,2012-13
+Shot Chart Detail,1021200026,30,201884,Chante Black,1611661321,Tulsa Shock,1,5,43,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,13,44,1,0,20120601,SEA,TUL,2012-13
+Shot Chart Detail,1021200026,35,201884,Chante Black,1611661321,Tulsa Shock,1,5,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,11,1,0,20120601,SEA,TUL,2012-13
+Shot Chart Detail,1021200026,46,201884,Chante Black,1611661321,Tulsa Shock,1,4,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,20,1,0,20120601,SEA,TUL,2012-13
+Shot Chart Detail,1021200030,86,201884,Chante Black,1611661321,Tulsa Shock,1,3,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,0,1,1,20120603,PHO,TUL,2012-13
+Shot Chart Detail,1021200030,102,201884,Chante Black,1611661321,Tulsa Shock,1,1,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,-25,1,0,20120603,PHO,TUL,2012-13
+Shot Chart Detail,1021200039,140,201884,Chante Black,1611661321,Tulsa Shock,2,9,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,0,1,0,20120608,CHI,TUL,2012-13
+Shot Chart Detail,1021200039,375,201884,Chante Black,1611661321,Tulsa Shock,4,8,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,7,1,0,20120608,CHI,TUL,2012-13
+Shot Chart Detail,1021200039,383,201884,Chante Black,1611661321,Tulsa Shock,4,7,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,-3,1,1,20120608,CHI,TUL,2012-13
+Shot Chart Detail,1021200042,248,201884,Chante Black,1611661321,Tulsa Shock,3,5,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-5,31,1,1,20120609,TUL,MIN,2012-13
+Shot Chart Detail,1021200042,250,201884,Chante Black,1611661321,Tulsa Shock,3,5,10,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,58,89,1,0,20120609,TUL,MIN,2012-13
+Shot Chart Detail,1021200067,330,201884,Chante Black,1611661321,Tulsa Shock,4,5,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,9,1,0,20120623,TUL,IND,2012-13
+Shot Chart Detail,1021200067,331,201884,Chante Black,1611661321,Tulsa Shock,4,5,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,17,1,1,20120623,TUL,IND,2012-13
+Shot Chart Detail,1021200073,164,201884,Chante Black,1611661321,Tulsa Shock,2,4,30,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,43,20,1,1,20120626,TUL,LAS,2012-13
+Shot Chart Detail,1021200073,285,201884,Chante Black,1611661321,Tulsa Shock,3,4,25,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,6,1,1,20120626,TUL,LAS,2012-13
+Shot Chart Detail,1021200073,399,201884,Chante Black,1611661321,Tulsa Shock,4,2,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,9,1,1,20120626,TUL,LAS,2012-13
+Shot Chart Detail,1021200078,107,201884,Chante Black,1611661321,Tulsa Shock,2,9,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,11,1,0,20120629,TUL,ATL,2012-13
+Shot Chart Detail,1021200089,110,201884,Chante Black,1611661321,Tulsa Shock,2,8,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,11,1,1,20120706,TUL,CON,2012-13
+Shot Chart Detail,1021200089,142,201884,Chante Black,1611661321,Tulsa Shock,2,5,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-13,86,1,0,20120706,TUL,CON,2012-13
+Shot Chart Detail,1021200089,152,201884,Chante Black,1611661321,Tulsa Shock,2,4,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,19,1,1,20120706,TUL,CON,2012-13
+Shot Chart Detail,1021200089,291,201884,Chante Black,1611661321,Tulsa Shock,3,1,0,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,23,1,0,20120706,TUL,CON,2012-13
+Shot Chart Detail,1021200095,93,201884,Chante Black,1611661321,Tulsa Shock,1,0,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,15,1,0,20120708,TUL,WAS,2012-13
+Shot Chart Detail,1021200095,320,201884,Chante Black,1611661321,Tulsa Shock,4,8,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,12,1,1,20120708,TUL,WAS,2012-13
+Shot Chart Detail,1021200095,375,201884,Chante Black,1611661321,Tulsa Shock,4,3,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,15,1,0,20120708,TUL,WAS,2012-13
+Shot Chart Detail,1021200100,117,201884,Chante Black,1611661321,Tulsa Shock,2,8,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,14,1,1,20120710,TUL,MIN,2012-13
+Shot Chart Detail,1021200100,248,201884,Chante Black,1611661321,Tulsa Shock,3,5,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,24,20,1,0,20120710,TUL,MIN,2012-13
+Shot Chart Detail,1021200100,259,201884,Chante Black,1611661321,Tulsa Shock,3,4,51,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,4,1,1,20120710,TUL,MIN,2012-13
+Shot Chart Detail,1021200106,443,201884,Chante Black,1611661321,Tulsa Shock,4,4,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,4,1,1,20120712,MIN,TUL,2012-13
+Shot Chart Detail,1021200116,54,201884,Chante Black,1611661321,Tulsa Shock,1,3,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,24,22,1,0,20120817,TUL,SAN,2012-13
+Shot Chart Detail,1021200123,111,201884,Chante Black,1611661321,Tulsa Shock,2,7,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,24,39,1,0,20120819,MIN,TUL,2012-13
+Shot Chart Detail,1021200123,253,201884,Chante Black,1611661321,Tulsa Shock,3,3,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-49,22,1,0,20120819,MIN,TUL,2012-13
+Shot Chart Detail,1021200123,379,201884,Chante Black,1611661321,Tulsa Shock,4,4,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-35,20,1,0,20120819,MIN,TUL,2012-13
+Shot Chart Detail,1021200123,402,201884,Chante Black,1611661321,Tulsa Shock,4,2,41,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,21,36,1,1,20120819,MIN,TUL,2012-13
+Shot Chart Detail,1021200124,27,201884,Chante Black,1611661321,Tulsa Shock,1,7,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-2,1,0,20120821,CON,TUL,2012-13
+Shot Chart Detail,1021200124,31,201884,Chante Black,1611661321,Tulsa Shock,1,7,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,1,1,1,20120821,CON,TUL,2012-13
+Shot Chart Detail,1021200124,177,201884,Chante Black,1611661321,Tulsa Shock,2,3,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,-3,1,1,20120821,CON,TUL,2012-13
+Shot Chart Detail,1021200124,198,201884,Chante Black,1611661321,Tulsa Shock,2,2,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,12,1,0,20120821,CON,TUL,2012-13
+Shot Chart Detail,1021200124,284,201884,Chante Black,1611661321,Tulsa Shock,3,5,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-78,107,1,1,20120821,CON,TUL,2012-13
+Shot Chart Detail,1021200124,376,201884,Chante Black,1611661321,Tulsa Shock,4,6,11,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,1,20120821,CON,TUL,2012-13
+Shot Chart Detail,1021200134,36,201884,Chante Black,1611661321,Tulsa Shock,1,6,0,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,19,1,1,20120824,TUL,CHI,2012-13
+Shot Chart Detail,1021200134,277,201884,Chante Black,1611661321,Tulsa Shock,3,0,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-93,4,1,0,20120824,TUL,CHI,2012-13
+Shot Chart Detail,1021200136,19,201884,Chante Black,1611661321,Tulsa Shock,1,7,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,44,1,1,20120825,SAN,TUL,2012-13
+Shot Chart Detail,1021200136,232,201884,Chante Black,1611661321,Tulsa Shock,3,8,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,9,1,0,20120825,SAN,TUL,2012-13
+Shot Chart Detail,1021200136,242,201884,Chante Black,1611661321,Tulsa Shock,3,6,46,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,26,1,1,20120825,SAN,TUL,2012-13
+Shot Chart Detail,1021200136,388,201884,Chante Black,1611661321,Tulsa Shock,4,2,8,Missed Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,78,17,1,0,20120825,SAN,TUL,2012-13
+Shot Chart Detail,1021200141,14,201884,Chante Black,1611661321,Tulsa Shock,1,7,48,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,6,1,0,20120828,ATL,TUL,2012-13
+Shot Chart Detail,1021200141,17,201884,Chante Black,1611661321,Tulsa Shock,1,7,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,0,1,1,20120828,ATL,TUL,2012-13
+Shot Chart Detail,1021200141,259,201884,Chante Black,1611661321,Tulsa Shock,3,5,56,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,-2,1,0,20120828,ATL,TUL,2012-13
+Shot Chart Detail,1021200148,142,201884,Chante Black,1611661321,Tulsa Shock,2,4,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,9,1,1,20120830,TUL,LAS,2012-13
+Shot Chart Detail,1021200148,163,201884,Chante Black,1611661321,Tulsa Shock,2,2,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,20,1,1,20120830,TUL,LAS,2012-13
+Shot Chart Detail,1021200148,250,201884,Chante Black,1611661321,Tulsa Shock,3,5,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,4,1,1,20120830,TUL,LAS,2012-13
+Shot Chart Detail,1021200148,363,201884,Chante Black,1611661321,Tulsa Shock,4,4,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,15,149,1,0,20120830,TUL,LAS,2012-13
+Shot Chart Detail,1021200148,407,201884,Chante Black,1611661321,Tulsa Shock,4,1,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,15,1,0,20120830,TUL,LAS,2012-13
+Shot Chart Detail,1021200150,11,201884,Chante Black,1611661321,Tulsa Shock,1,9,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,30,1,1,20120831,MIN,TUL,2012-13
+Shot Chart Detail,1021200160,51,201884,Chante Black,1611661321,Tulsa Shock,1,4,12,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,21,33,1,0,20120906,SEA,TUL,2012-13
+Shot Chart Detail,1021200160,239,201884,Chante Black,1611661321,Tulsa Shock,3,8,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,6,1,1,20120906,SEA,TUL,2012-13
+Shot Chart Detail,1021200166,297,201884,Chante Black,1611661321,Tulsa Shock,3,3,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,23,53,1,0,20120908,TUL,SEA,2012-13
+Shot Chart Detail,1021200182,92,201884,Chante Black,1611661321,Tulsa Shock,1,0,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,17,1,1,20120914,PHO,TUL,2012-13
+Shot Chart Detail,1021200182,176,201884,Chante Black,1611661321,Tulsa Shock,2,3,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,23,1,0,20120914,PHO,TUL,2012-13
+Shot Chart Detail,1021200199,132,201884,Chante Black,1611661321,Tulsa Shock,2,6,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,3,1,1,20120922,NYL,TUL,2012-13
+Shot Chart Detail,1021200204,401,201884,Chante Black,1611661321,Tulsa Shock,4,2,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,-5,1,1,20120923,IND,TUL,2012-13

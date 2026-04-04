@@ -1,0 +1,14 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1041000121,101,202239,Jana Vesela,1611661328,Seattle Storm,2,9,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-180,137,1,1,20100825,SEA,LAS,2010-11
+Shot Chart Detail,1041000121,110,202239,Jana Vesela,1611661328,Seattle Storm,2,8,12,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-43,55,1,1,20100825,SEA,LAS,2010-11
+Shot Chart Detail,1041000121,124,202239,Jana Vesela,1611661328,Seattle Storm,2,6,20,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,6,1,1,20100825,SEA,LAS,2010-11
+Shot Chart Detail,1041000121,149,202239,Jana Vesela,1611661328,Seattle Storm,2,3,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,124,179,1,1,20100825,SEA,LAS,2010-11
+Shot Chart Detail,1041000122,149,202239,Jana Vesela,1611661328,Seattle Storm,2,3,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,31,1,0,20100828,LAS,SEA,2010-11
+Shot Chart Detail,1041000122,158,202239,Jana Vesela,1611661328,Seattle Storm,2,1,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-180,138,1,1,20100828,LAS,SEA,2010-11
+Shot Chart Detail,1041000122,161,202239,Jana Vesela,1611661328,Seattle Storm,2,1,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-204,127,1,0,20100828,LAS,SEA,2010-11
+Shot Chart Detail,1041000212,108,202239,Jana Vesela,1611661328,Seattle Storm,2,9,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,95,203,1,0,20100905,PHO,SEA,2010-11
+Shot Chart Detail,1041000212,284,202239,Jana Vesela,1611661328,Seattle Storm,3,3,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100905,PHO,SEA,2010-11
+Shot Chart Detail,1041000301,111,202239,Jana Vesela,1611661328,Seattle Storm,2,9,41,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100912,SEA,ATL,2010-11
+Shot Chart Detail,1041000302,142,202239,Jana Vesela,1611661328,Seattle Storm,1,1,0,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,26,1,1,20100914,SEA,ATL,2010-11
+Shot Chart Detail,1041000303,121,202239,Jana Vesela,1611661328,Seattle Storm,2,9,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,3,1,0,20100916,ATL,SEA,2010-11
+Shot Chart Detail,1041000303,133,202239,Jana Vesela,1611661328,Seattle Storm,2,7,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-29,228,1,1,20100916,ATL,SEA,2010-11

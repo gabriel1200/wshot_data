@@ -1,0 +1,43 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020700003,94,201054,Alison Bales,1611661325,Indiana Fever,1,0,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,0,1,1,20070519,IND,MIN,2007-08
+Shot Chart Detail,1020700003,147,201054,Alison Bales,1611661325,Indiana Fever,2,4,42,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,22,1,0,20070519,IND,MIN,2007-08
+Shot Chart Detail,1020700003,276,201054,Alison Bales,1611661325,Indiana Fever,3,1,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,5,1,1,20070519,IND,MIN,2007-08
+Shot Chart Detail,1020700014,120,201054,Alison Bales,1611661325,Indiana Fever,2,5,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,15,1,0,20070524,IND,LAS,2007-08
+Shot Chart Detail,1020700014,152,201054,Alison Bales,1611661325,Indiana Fever,2,3,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,118,84,1,0,20070524,IND,LAS,2007-08
+Shot Chart Detail,1020700014,282,201054,Alison Bales,1611661325,Indiana Fever,3,0,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,10,1,1,20070524,IND,LAS,2007-08
+Shot Chart Detail,1020700014,290,201054,Alison Bales,1611661325,Indiana Fever,4,9,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,69,158,1,0,20070524,IND,LAS,2007-08
+Shot Chart Detail,1020700014,310,201054,Alison Bales,1611661325,Indiana Fever,4,7,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,-19,1,1,20070524,IND,LAS,2007-08
+Shot Chart Detail,1020700019,98,201054,Alison Bales,1611661325,Indiana Fever,2,8,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-67,146,1,0,20070529,MIN,IND,2007-08
+Shot Chart Detail,1020700019,118,201054,Alison Bales,1611661325,Indiana Fever,2,6,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-102,31,1,0,20070529,MIN,IND,2007-08
+Shot Chart Detail,1020700019,405,201054,Alison Bales,1611661325,Indiana Fever,4,0,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-118,115,1,1,20070529,MIN,IND,2007-08
+Shot Chart Detail,1020700034,59,201054,Alison Bales,1611661325,Indiana Fever,1,2,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,35,1,1,20070605,NYL,IND,2007-08
+Shot Chart Detail,1020700037,334,201054,Alison Bales,1611661325,Indiana Fever,4,6,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-6,1,0,20070606,IND,HOU,2007-08
+Shot Chart Detail,1020700037,353,201054,Alison Bales,1611661325,Indiana Fever,4,4,13,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,84,-14,1,1,20070606,IND,HOU,2007-08
+Shot Chart Detail,1020700053,330,201054,Alison Bales,1611661325,Indiana Fever,4,5,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,-3,1,1,20070613,IND,SEA,2007-08
+Shot Chart Detail,1020700116,389,201054,Alison Bales,1611661325,Indiana Fever,4,1,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,-23,1,1,20070708,IND,CHI,2007-08
+Shot Chart Detail,1020700116,392,201054,Alison Bales,1611661325,Indiana Fever,4,1,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-138,-9,1,1,20070708,IND,CHI,2007-08
+Shot Chart Detail,1020700157,342,201054,Alison Bales,1611661325,Indiana Fever,4,8,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,-11,1,0,20070727,SEA,IND,2007-08
+Shot Chart Detail,1020700157,352,201054,Alison Bales,1611661325,Indiana Fever,4,7,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-15,105,1,1,20070727,SEA,IND,2007-08
+Shot Chart Detail,1020700157,380,201054,Alison Bales,1611661325,Indiana Fever,4,5,7,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,24,137,1,1,20070727,SEA,IND,2007-08
+Shot Chart Detail,1020700157,412,201054,Alison Bales,1611661325,Indiana Fever,4,1,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070727,SEA,IND,2007-08
+Shot Chart Detail,1020700157,432,201054,Alison Bales,1611661325,Indiana Fever,4,0,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070727,SEA,IND,2007-08
+Shot Chart Detail,1020700162,131,201054,Alison Bales,1611661325,Indiana Fever,2,6,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070729,PHO,IND,2007-08
+Shot Chart Detail,1020700162,180,201054,Alison Bales,1611661325,Indiana Fever,2,2,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-95,123,1,0,20070729,PHO,IND,2007-08
+Shot Chart Detail,1020700162,271,201054,Alison Bales,1611661325,Indiana Fever,3,4,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,18,184,1,0,20070729,PHO,IND,2007-08
+Shot Chart Detail,1020700178,101,201054,Alison Bales,1611661325,Indiana Fever,2,8,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,35,1,1,20070804,CON,IND,2007-08
+Shot Chart Detail,1020700178,109,201054,Alison Bales,1611661325,Indiana Fever,2,7,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-138,3,1,0,20070804,CON,IND,2007-08
+Shot Chart Detail,1020700178,341,201054,Alison Bales,1611661325,Indiana Fever,4,4,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,15,1,0,20070804,CON,IND,2007-08
+Shot Chart Detail,1020700178,350,201054,Alison Bales,1611661325,Indiana Fever,4,3,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,20,1,0,20070804,CON,IND,2007-08
+Shot Chart Detail,1020700178,361,201054,Alison Bales,1611661325,Indiana Fever,4,2,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,5,1,0,20070804,CON,IND,2007-08
+Shot Chart Detail,1020700186,289,201054,Alison Bales,1611661325,Indiana Fever,4,7,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,11,194,1,1,20070807,CHI,IND,2007-08
+Shot Chart Detail,1020700186,304,201054,Alison Bales,1611661325,Indiana Fever,4,5,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070807,CHI,IND,2007-08
+Shot Chart Detail,1020700186,314,201054,Alison Bales,1611661325,Indiana Fever,4,4,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070807,CHI,IND,2007-08
+Shot Chart Detail,1020700186,332,201054,Alison Bales,1611661325,Indiana Fever,4,2,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-90,151,1,1,20070807,CHI,IND,2007-08
+Shot Chart Detail,1020700194,92,201054,Alison Bales,1611661325,Indiana Fever,1,1,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,118,109,1,1,20070811,DET,IND,2007-08
+Shot Chart Detail,1020700194,137,201054,Alison Bales,1611661325,Indiana Fever,2,6,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,-14,1,0,20070811,DET,IND,2007-08
+Shot Chart Detail,1020700215,105,201054,Alison Bales,1611661325,Indiana Fever,2,9,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-3,1,1,20070817,SAN,IND,2007-08
+Shot Chart Detail,1020700215,287,201054,Alison Bales,1611661325,Indiana Fever,3,0,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-39,22,1,1,20070817,SAN,IND,2007-08
+Shot Chart Detail,1020700220,65,201054,Alison Bales,1611661325,Indiana Fever,1,3,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,-6,1,1,20070819,IND,DET,2007-08
+Shot Chart Detail,1020700220,116,201054,Alison Bales,1611661325,Indiana Fever,2,9,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,72,137,1,0,20070819,IND,DET,2007-08
+Shot Chart Detail,1020700220,220,201054,Alison Bales,1611661325,Indiana Fever,2,0,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,164,-19,1,1,20070819,IND,DET,2007-08
+Shot Chart Detail,1020700220,315,201054,Alison Bales,1611661325,Indiana Fever,4,8,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,-21,1,0,20070819,IND,DET,2007-08

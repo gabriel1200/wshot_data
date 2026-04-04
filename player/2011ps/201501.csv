@@ -1,0 +1,9 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1041100123,382,201501,Charde Houston,1611661324,Minnesota Lynx,4,2,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,7,1,0,20110920,MIN,SAN,2011-12
+Shot Chart Detail,1041100123,393,201501,Charde Houston,1611661324,Minnesota Lynx,4,1,39,Missed Shot,Tip Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,45,8,1,0,20110920,MIN,SAN,2011-12
+Shot Chart Detail,1041100123,395,201501,Charde Houston,1611661324,Minnesota Lynx,4,1,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,8,1,1,20110920,MIN,SAN,2011-12
+Shot Chart Detail,1041100211,178,201501,Charde Houston,1611661324,Minnesota Lynx,2,5,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,20,1,0,20110922,MIN,PHO,2011-12
+Shot Chart Detail,1041100211,419,201501,Charde Houston,1611661324,Minnesota Lynx,4,5,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,6,1,1,20110922,MIN,PHO,2011-12
+Shot Chart Detail,1041100211,422,201501,Charde Houston,1611661324,Minnesota Lynx,4,4,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-138,172,1,0,20110922,MIN,PHO,2011-12
+Shot Chart Detail,1041100211,439,201501,Charde Houston,1611661324,Minnesota Lynx,4,3,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,129,25,1,0,20110922,MIN,PHO,2011-12
+Shot Chart Detail,1041100211,452,201501,Charde Houston,1611661324,Minnesota Lynx,4,1,47,Made Shot,Jump Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,12,1,1,20110922,MIN,PHO,2011-12

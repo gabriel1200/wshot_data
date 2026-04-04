@@ -1,0 +1,7 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020200073,238,100427,Trisha Stafford-Odom,1611661326,Miami Sol,2,13,11,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020621,MIA,WAS,2002-03
+Shot Chart Detail,1020200117,392,100427,Trisha Stafford-Odom,1611661326,Miami Sol,2,1,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020703,MIA,PHO,2002-03
+Shot Chart Detail,1020200202,178,100427,Trisha Stafford-Odom,1611661326,Miami Sol,1,2,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-37,63,1,0,20020730,LAS,MIA,2002-03
+Shot Chart Detail,1020200236,231,100427,Trisha Stafford-Odom,1611661326,Miami Sol,2,12,54,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020809,MIA,CLE,2002-03
+Shot Chart Detail,1020200236,276,100427,Trisha Stafford-Odom,1611661326,Miami Sol,2,8,18,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020809,MIA,CLE,2002-03
+Shot Chart Detail,1020200245,307,100427,Trisha Stafford-Odom,1611661326,Miami Sol,2,6,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,-8,1,0,20020811,IND,MIA,2002-03

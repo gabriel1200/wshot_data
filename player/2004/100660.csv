@@ -1,0 +1,120 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020400003,112,100660,Janell Burse,1611661328,Seattle Storm,1,9,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-3,174,1,0,20040520,SEA,MIN,2004-05
+Shot Chart Detail,1020400010,294,100660,Janell Burse,1611661328,Seattle Storm,2,12,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040522,SEA,LAS,2004-05
+Shot Chart Detail,1020400010,310,100660,Janell Burse,1611661328,Seattle Storm,2,11,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040522,SEA,LAS,2004-05
+Shot Chart Detail,1020400010,326,100660,Janell Burse,1611661328,Seattle Storm,2,10,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040522,SEA,LAS,2004-05
+Shot Chart Detail,1020400010,349,100660,Janell Burse,1611661328,Seattle Storm,2,8,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040522,SEA,LAS,2004-05
+Shot Chart Detail,1020400010,388,100660,Janell Burse,1611661328,Seattle Storm,2,5,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040522,SEA,LAS,2004-05
+Shot Chart Detail,1020400010,428,100660,Janell Burse,1611661328,Seattle Storm,2,2,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040522,SEA,LAS,2004-05
+Shot Chart Detail,1020400010,430,100660,Janell Burse,1611661328,Seattle Storm,2,1,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-5,171,1,0,20040522,SEA,LAS,2004-05
+Shot Chart Detail,1020400021,159,100660,Janell Burse,1611661328,Seattle Storm,1,1,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040528,PHO,SEA,2004-05
+Shot Chart Detail,1020400021,239,100660,Janell Burse,1611661328,Seattle Storm,2,13,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040528,PHO,SEA,2004-05
+Shot Chart Detail,1020400021,316,100660,Janell Burse,1611661328,Seattle Storm,2,6,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040528,PHO,SEA,2004-05
+Shot Chart Detail,1020400021,317,100660,Janell Burse,1611661328,Seattle Storm,2,6,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040528,PHO,SEA,2004-05
+Shot Chart Detail,1020400021,324,100660,Janell Burse,1611661328,Seattle Storm,2,5,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040528,PHO,SEA,2004-05
+Shot Chart Detail,1020400021,360,100660,Janell Burse,1611661328,Seattle Storm,2,1,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040528,PHO,SEA,2004-05
+Shot Chart Detail,1020400028,87,100660,Janell Burse,1611661328,Seattle Storm,1,11,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040601,LAS,SEA,2004-05
+Shot Chart Detail,1020400028,121,100660,Janell Burse,1611661328,Seattle Storm,1,8,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040601,LAS,SEA,2004-05
+Shot Chart Detail,1020400028,306,100660,Janell Burse,1611661328,Seattle Storm,2,11,52,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040601,LAS,SEA,2004-05
+Shot Chart Detail,1020400028,308,100660,Janell Burse,1611661328,Seattle Storm,2,11,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,10,46,1,0,20040601,LAS,SEA,2004-05
+Shot Chart Detail,1020400028,385,100660,Janell Burse,1611661328,Seattle Storm,2,7,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,49,76,1,0,20040601,LAS,SEA,2004-05
+Shot Chart Detail,1020400028,387,100660,Janell Burse,1611661328,Seattle Storm,2,6,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040601,LAS,SEA,2004-05
+Shot Chart Detail,1020400034,51,100660,Janell Burse,1611661328,Seattle Storm,1,13,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,10,1,0,20040603,SEA,PHO,2004-05
+Shot Chart Detail,1020400034,53,100660,Janell Burse,1611661328,Seattle Storm,1,13,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,18,1,0,20040603,SEA,PHO,2004-05
+Shot Chart Detail,1020400034,267,100660,Janell Burse,1611661328,Seattle Storm,2,10,38,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,20,1,1,20040603,SEA,PHO,2004-05
+Shot Chart Detail,1020400034,277,100660,Janell Burse,1611661328,Seattle Storm,2,9,30,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-49,40,1,1,20040603,SEA,PHO,2004-05
+Shot Chart Detail,1020400034,339,100660,Janell Burse,1611661328,Seattle Storm,2,3,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040603,SEA,PHO,2004-05
+Shot Chart Detail,1020400049,68,100660,Janell Burse,1611661328,Seattle Storm,1,10,22,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,10,1,0,20040611,SEA,CON,2004-05
+Shot Chart Detail,1020400049,83,100660,Janell Burse,1611661328,Seattle Storm,1,8,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,10,1,0,20040611,SEA,CON,2004-05
+Shot Chart Detail,1020400049,133,100660,Janell Burse,1611661328,Seattle Storm,1,4,32,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,5,38,1,1,20040611,SEA,CON,2004-05
+Shot Chart Detail,1020400049,142,100660,Janell Burse,1611661328,Seattle Storm,1,3,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,44,-3,1,0,20040611,SEA,CON,2004-05
+Shot Chart Detail,1020400049,155,100660,Janell Burse,1611661328,Seattle Storm,1,1,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,13,1,0,20040611,SEA,CON,2004-05
+Shot Chart Detail,1020400049,157,100660,Janell Burse,1611661328,Seattle Storm,1,1,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,5,1,0,20040611,SEA,CON,2004-05
+Shot Chart Detail,1020400057,88,100660,Janell Burse,1611661328,Seattle Storm,1,9,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,94,141,1,0,20040615,NYL,SEA,2004-05
+Shot Chart Detail,1020400057,90,100660,Janell Burse,1611661328,Seattle Storm,1,9,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040615,NYL,SEA,2004-05
+Shot Chart Detail,1020400057,105,100660,Janell Burse,1611661328,Seattle Storm,1,8,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040615,NYL,SEA,2004-05
+Shot Chart Detail,1020400057,142,100660,Janell Burse,1611661328,Seattle Storm,1,3,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040615,NYL,SEA,2004-05
+Shot Chart Detail,1020400057,251,100660,Janell Burse,1611661328,Seattle Storm,2,14,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040615,NYL,SEA,2004-05
+Shot Chart Detail,1020400057,260,100660,Janell Burse,1611661328,Seattle Storm,2,13,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040615,NYL,SEA,2004-05
+Shot Chart Detail,1020400057,327,100660,Janell Burse,1611661328,Seattle Storm,2,5,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040615,NYL,SEA,2004-05
+Shot Chart Detail,1020400057,354,100660,Janell Burse,1611661328,Seattle Storm,2,3,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040615,NYL,SEA,2004-05
+Shot Chart Detail,1020400057,372,100660,Janell Burse,1611661328,Seattle Storm,2,2,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040615,NYL,SEA,2004-05
+Shot Chart Detail,1020400057,376,100660,Janell Burse,1611661328,Seattle Storm,2,1,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040615,NYL,SEA,2004-05
+Shot Chart Detail,1020400062,113,100660,Janell Burse,1611661328,Seattle Storm,1,7,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040618,HOU,SEA,2004-05
+Shot Chart Detail,1020400062,145,100660,Janell Burse,1611661328,Seattle Storm,1,3,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040618,HOU,SEA,2004-05
+Shot Chart Detail,1020400062,164,100660,Janell Burse,1611661328,Seattle Storm,1,1,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040618,HOU,SEA,2004-05
+Shot Chart Detail,1020400067,82,100660,Janell Burse,1611661328,Seattle Storm,1,8,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,0,1,1,20040619,SAN,SEA,2004-05
+Shot Chart Detail,1020400067,95,100660,Janell Burse,1611661328,Seattle Storm,1,6,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-1,1,0,20040619,SAN,SEA,2004-05
+Shot Chart Detail,1020400067,97,100660,Janell Burse,1611661328,Seattle Storm,1,6,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-3,1,0,20040619,SAN,SEA,2004-05
+Shot Chart Detail,1020400067,292,100660,Janell Burse,1611661328,Seattle Storm,2,3,52,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,20,1,1,20040619,SAN,SEA,2004-05
+Shot Chart Detail,1020400096,174,100660,Janell Burse,1611661328,Seattle Storm,1,2,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040701,SEA,SAN,2004-05
+Shot Chart Detail,1020400096,271,100660,Janell Burse,1611661328,Seattle Storm,2,11,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040701,SEA,SAN,2004-05
+Shot Chart Detail,1020400096,369,100660,Janell Burse,1611661328,Seattle Storm,2,1,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040701,SEA,SAN,2004-05
+Shot Chart Detail,1020400101,166,100660,Janell Burse,1611661328,Seattle Storm,1,2,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,7,1,1,20040703,SEA,SAC,2004-05
+Shot Chart Detail,1020400101,386,100660,Janell Burse,1611661328,Seattle Storm,2,1,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040703,SEA,SAC,2004-05
+Shot Chart Detail,1020400101,389,100660,Janell Burse,1611661328,Seattle Storm,2,1,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040703,SEA,SAC,2004-05
+Shot Chart Detail,1020400105,59,100660,Janell Burse,1611661328,Seattle Storm,1,12,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,15,80,138,1,0,20040707,WAS,SEA,2004-05
+Shot Chart Detail,1020400105,306,100660,Janell Burse,1611661328,Seattle Storm,2,5,10,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,38,13,1,0,20040707,WAS,SEA,2004-05
+Shot Chart Detail,1020400105,308,100660,Janell Burse,1611661328,Seattle Storm,2,5,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,5,1,1,20040707,WAS,SEA,2004-05
+Shot Chart Detail,1020400105,337,100660,Janell Burse,1611661328,Seattle Storm,2,2,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,-14,1,1,20040707,WAS,SEA,2004-05
+Shot Chart Detail,1020400113,128,100660,Janell Burse,1611661328,Seattle Storm,1,8,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040710,DET,SEA,2004-05
+Shot Chart Detail,1020400113,201,100660,Janell Burse,1611661328,Seattle Storm,1,1,44,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,31,53,1,1,20040710,DET,SEA,2004-05
+Shot Chart Detail,1020400113,213,100660,Janell Burse,1611661328,Seattle Storm,1,0,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,102,46,1,0,20040710,DET,SEA,2004-05
+Shot Chart Detail,1020400113,284,100660,Janell Burse,1611661328,Seattle Storm,2,12,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040710,DET,SEA,2004-05
+Shot Chart Detail,1020400113,286,100660,Janell Burse,1611661328,Seattle Storm,2,12,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-87,13,1,0,20040710,DET,SEA,2004-05
+Shot Chart Detail,1020400113,352,100660,Janell Burse,1611661328,Seattle Storm,2,6,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040710,DET,SEA,2004-05
+Shot Chart Detail,1020400113,445,100660,Janell Burse,1611661328,Seattle Storm,2,0,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,90,49,1,0,20040710,DET,SEA,2004-05
+Shot Chart Detail,1020400120,74,100660,Janell Burse,1611661328,Seattle Storm,1,10,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040712,SEA,SAN,2004-05
+Shot Chart Detail,1020400120,164,100660,Janell Burse,1611661328,Seattle Storm,1,0,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040712,SEA,SAN,2004-05
+Shot Chart Detail,1020400120,240,100660,Janell Burse,1611661328,Seattle Storm,2,13,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-54,30,1,0,20040712,SEA,SAN,2004-05
+Shot Chart Detail,1020400120,254,100660,Janell Burse,1611661328,Seattle Storm,2,12,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040712,SEA,SAN,2004-05
+Shot Chart Detail,1020400120,303,100660,Janell Burse,1611661328,Seattle Storm,2,6,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040712,SEA,SAN,2004-05
+Shot Chart Detail,1020400120,359,100660,Janell Burse,1611661328,Seattle Storm,2,0,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-21,95,1,0,20040712,SEA,SAN,2004-05
+Shot Chart Detail,1020400124,275,100660,Janell Burse,1611661328,Seattle Storm,2,10,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040715,SAC,SEA,2004-05
+Shot Chart Detail,1020400124,316,100660,Janell Burse,1611661328,Seattle Storm,2,6,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-108,91,1,1,20040715,SAC,SEA,2004-05
+Shot Chart Detail,1020400130,71,100660,Janell Burse,1611661328,Seattle Storm,1,11,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040717,SEA,WAS,2004-05
+Shot Chart Detail,1020400130,223,100660,Janell Burse,1611661328,Seattle Storm,2,16,3,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,56,104,1,1,20040717,SEA,WAS,2004-05
+Shot Chart Detail,1020400130,233,100660,Janell Burse,1611661328,Seattle Storm,2,14,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,-6,1,1,20040717,SEA,WAS,2004-05
+Shot Chart Detail,1020400130,237,100660,Janell Burse,1611661328,Seattle Storm,2,14,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040717,SEA,WAS,2004-05
+Shot Chart Detail,1020400173,74,100660,Janell Burse,1611661328,Seattle Storm,1,12,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-59,-3,1,0,20040901,SEA,SAC,2004-05
+Shot Chart Detail,1020400173,94,100660,Janell Burse,1611661328,Seattle Storm,1,10,31,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,17,1,0,20040901,SEA,SAC,2004-05
+Shot Chart Detail,1020400173,141,100660,Janell Burse,1611661328,Seattle Storm,1,4,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,0,1,1,20040901,SEA,SAC,2004-05
+Shot Chart Detail,1020400180,98,100660,Janell Burse,1611661328,Seattle Storm,1,10,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-138,26,1,0,20040903,LAS,SEA,2004-05
+Shot Chart Detail,1020400180,123,100660,Janell Burse,1611661328,Seattle Storm,1,9,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040903,LAS,SEA,2004-05
+Shot Chart Detail,1020400180,149,100660,Janell Burse,1611661328,Seattle Storm,1,6,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040903,LAS,SEA,2004-05
+Shot Chart Detail,1020400180,278,100660,Janell Burse,1611661328,Seattle Storm,2,11,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040903,LAS,SEA,2004-05
+Shot Chart Detail,1020400180,285,100660,Janell Burse,1611661328,Seattle Storm,2,10,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040903,LAS,SEA,2004-05
+Shot Chart Detail,1020400180,297,100660,Janell Burse,1611661328,Seattle Storm,2,9,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040903,LAS,SEA,2004-05
+Shot Chart Detail,1020400180,301,100660,Janell Burse,1611661328,Seattle Storm,2,8,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,8,68,1,0,20040903,LAS,SEA,2004-05
+Shot Chart Detail,1020400184,232,100660,Janell Burse,1611661328,Seattle Storm,2,14,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040904,PHO,SEA,2004-05
+Shot Chart Detail,1020400184,252,100660,Janell Burse,1611661328,Seattle Storm,2,13,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040904,PHO,SEA,2004-05
+Shot Chart Detail,1020400184,307,100660,Janell Burse,1611661328,Seattle Storm,2,7,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040904,PHO,SEA,2004-05
+Shot Chart Detail,1020400184,309,100660,Janell Burse,1611661328,Seattle Storm,2,6,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040904,PHO,SEA,2004-05
+Shot Chart Detail,1020400184,342,100660,Janell Burse,1611661328,Seattle Storm,2,4,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040904,PHO,SEA,2004-05
+Shot Chart Detail,1020400184,353,100660,Janell Burse,1611661328,Seattle Storm,2,3,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040904,PHO,SEA,2004-05
+Shot Chart Detail,1020400188,77,100660,Janell Burse,1611661328,Seattle Storm,1,13,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040908,SEA,DET,2004-05
+Shot Chart Detail,1020400188,95,100660,Janell Burse,1611661328,Seattle Storm,1,12,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-29,130,1,0,20040908,SEA,DET,2004-05
+Shot Chart Detail,1020400188,98,100660,Janell Burse,1611661328,Seattle Storm,1,12,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040908,SEA,DET,2004-05
+Shot Chart Detail,1020400188,116,100660,Janell Burse,1611661328,Seattle Storm,1,10,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-18,143,1,1,20040908,SEA,DET,2004-05
+Shot Chart Detail,1020400188,277,100660,Janell Burse,1611661328,Seattle Storm,2,16,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040908,SEA,DET,2004-05
+Shot Chart Detail,1020400195,38,100660,Janell Burse,1611661328,Seattle Storm,1,15,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,82,168,1,1,20040910,MIN,SEA,2004-05
+Shot Chart Detail,1020400195,127,100660,Janell Burse,1611661328,Seattle Storm,1,6,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040910,MIN,SEA,2004-05
+Shot Chart Detail,1020400195,149,100660,Janell Burse,1611661328,Seattle Storm,1,4,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040910,MIN,SEA,2004-05
+Shot Chart Detail,1020400199,51,100660,Janell Burse,1611661328,Seattle Storm,1,14,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,2,1,0,20040912,CON,SEA,2004-05
+Shot Chart Detail,1020400199,181,100660,Janell Burse,1611661328,Seattle Storm,1,0,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,3,1,0,20040912,CON,SEA,2004-05
+Shot Chart Detail,1020400199,186,100660,Janell Burse,1611661328,Seattle Storm,1,0,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,8,1,0,20040912,CON,SEA,2004-05
+Shot Chart Detail,1020400199,300,100660,Janell Burse,1611661328,Seattle Storm,2,8,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,2,1,1,20040912,CON,SEA,2004-05
+Shot Chart Detail,1020400199,311,100660,Janell Burse,1611661328,Seattle Storm,2,7,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,5,1,1,20040912,CON,SEA,2004-05
+Shot Chart Detail,1020400202,40,100660,Janell Burse,1611661328,Seattle Storm,1,13,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,1,20040913,IND,SEA,2004-05
+Shot Chart Detail,1020400202,56,100660,Janell Burse,1611661328,Seattle Storm,1,11,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,-14,1,1,20040913,IND,SEA,2004-05
+Shot Chart Detail,1020400202,126,100660,Janell Burse,1611661328,Seattle Storm,1,4,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-102,137,1,0,20040913,IND,SEA,2004-05
+Shot Chart Detail,1020400202,226,100660,Janell Burse,1611661328,Seattle Storm,2,14,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,167,-24,1,1,20040913,IND,SEA,2004-05
+Shot Chart Detail,1020400202,233,100660,Janell Burse,1611661328,Seattle Storm,2,14,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-5,171,1,0,20040913,IND,SEA,2004-05
+Shot Chart Detail,1020400202,282,100660,Janell Burse,1611661328,Seattle Storm,2,9,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,17,1,0,20040913,IND,SEA,2004-05
+Shot Chart Detail,1020400202,341,100660,Janell Burse,1611661328,Seattle Storm,2,3,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,82,160,1,1,20040913,IND,SEA,2004-05
+Shot Chart Detail,1020400208,75,100660,Janell Burse,1611661328,Seattle Storm,1,11,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,13,118,1,0,20040915,SEA,PHO,2004-05
+Shot Chart Detail,1020400208,85,100660,Janell Burse,1611661328,Seattle Storm,1,10,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,8,1,0,20040915,SEA,PHO,2004-05
+Shot Chart Detail,1020400208,308,100660,Janell Burse,1611661328,Seattle Storm,2,7,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040915,SEA,PHO,2004-05
+Shot Chart Detail,1020400216,51,100660,Janell Burse,1611661328,Seattle Storm,1,14,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,52,158,1,0,20040918,SEA,LAS,2004-05
+Shot Chart Detail,1020400216,58,100660,Janell Burse,1611661328,Seattle Storm,1,13,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040918,SEA,LAS,2004-05
+Shot Chart Detail,1020400216,72,100660,Janell Burse,1611661328,Seattle Storm,1,11,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-8,160,1,0,20040918,SEA,LAS,2004-05

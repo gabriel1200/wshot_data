@@ -1,0 +1,15 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1041700111,14,204319,Jewell Loyd,1611661328,Seattle Storm,1,8,20,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,-5,1,0,20170906,PHO,SEA,2017-18
+Shot Chart Detail,1041700111,18,204319,Jewell Loyd,1611661328,Seattle Storm,1,7,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-48,47,1,0,20170906,PHO,SEA,2017-18
+Shot Chart Detail,1041700111,26,204319,Jewell Loyd,1611661328,Seattle Storm,1,7,25,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-171,175,1,0,20170906,PHO,SEA,2017-18
+Shot Chart Detail,1041700111,46,204319,Jewell Loyd,1611661328,Seattle Storm,1,5,12,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,7,1,0,20170906,PHO,SEA,2017-18
+Shot Chart Detail,1041700111,158,204319,Jewell Loyd,1611661328,Seattle Storm,2,5,6,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,8,1,0,20170906,PHO,SEA,2017-18
+Shot Chart Detail,1041700111,200,204319,Jewell Loyd,1611661328,Seattle Storm,2,1,14,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,6,120,1,0,20170906,PHO,SEA,2017-18
+Shot Chart Detail,1041700111,214,204319,Jewell Loyd,1611661328,Seattle Storm,2,0,2,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-78,151,1,0,20170906,PHO,SEA,2017-18
+Shot Chart Detail,1041700111,237,204319,Jewell Loyd,1611661328,Seattle Storm,3,8,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,138,174,1,0,20170906,PHO,SEA,2017-18
+Shot Chart Detail,1041700111,321,204319,Jewell Loyd,1611661328,Seattle Storm,3,0,42,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,31,1,1,20170906,PHO,SEA,2017-18
+Shot Chart Detail,1041700111,325,204319,Jewell Loyd,1611661328,Seattle Storm,3,0,18,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,23,-227,75,1,1,20170906,PHO,SEA,2017-18
+Shot Chart Detail,1041700111,359,204319,Jewell Loyd,1611661328,Seattle Storm,4,6,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-168,160,1,1,20170906,PHO,SEA,2017-18
+Shot Chart Detail,1041700111,377,204319,Jewell Loyd,1611661328,Seattle Storm,4,5,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-183,144,1,0,20170906,PHO,SEA,2017-18
+Shot Chart Detail,1041700111,390,204319,Jewell Loyd,1611661328,Seattle Storm,4,4,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,3,1,1,20170906,PHO,SEA,2017-18
+Shot Chart Detail,1041700111,416,204319,Jewell Loyd,1611661328,Seattle Storm,4,2,49,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,18,1,0,20170906,PHO,SEA,2017-18

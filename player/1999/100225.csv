@@ -1,0 +1,367 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1029900007,7,100225,Brandy Reed,1611661324,Minnesota Lynx,1,19,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900007,21,100225,Brandy Reed,1611661324,Minnesota Lynx,1,17,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,83,25,1,0,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900007,29,100225,Brandy Reed,1611661324,Minnesota Lynx,1,16,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,-8,1,0,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900007,47,100225,Brandy Reed,1611661324,Minnesota Lynx,1,15,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-87,25,1,1,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900007,50,100225,Brandy Reed,1611661324,Minnesota Lynx,1,14,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-72,70,1,1,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900007,55,100225,Brandy Reed,1611661324,Minnesota Lynx,1,14,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900007,60,100225,Brandy Reed,1611661324,Minnesota Lynx,1,13,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-121,1,1,0,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900007,66,100225,Brandy Reed,1611661324,Minnesota Lynx,1,13,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,117,63,1,0,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900007,72,100225,Brandy Reed,1611661324,Minnesota Lynx,1,12,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900007,122,100225,Brandy Reed,1611661324,Minnesota Lynx,1,7,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,83,85,1,1,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900007,127,100225,Brandy Reed,1611661324,Minnesota Lynx,1,7,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,70,160,1,0,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900007,131,100225,Brandy Reed,1611661324,Minnesota Lynx,1,6,40,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900007,174,100225,Brandy Reed,1611661324,Minnesota Lynx,1,3,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,76,164,1,0,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900007,207,100225,Brandy Reed,1611661324,Minnesota Lynx,1,2,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900007,209,100225,Brandy Reed,1611661324,Minnesota Lynx,1,1,55,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-51,91,1,1,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900007,257,100225,Brandy Reed,1611661324,Minnesota Lynx,2,13,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,-18,1,1,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900007,267,100225,Brandy Reed,1611661324,Minnesota Lynx,2,12,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900007,390,100225,Brandy Reed,1611661324,Minnesota Lynx,2,1,23,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,31,126,1,1,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900007,402,100225,Brandy Reed,1611661324,Minnesota Lynx,2,0,10,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990612,MIN,DET,1999-00
+Shot Chart Detail,1029900014,20,100225,Brandy Reed,1611661324,Minnesota Lynx,1,17,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,-14,1,0,19990614,MIN,UTA,1999-00
+Shot Chart Detail,1029900014,171,100225,Brandy Reed,1611661324,Minnesota Lynx,1,3,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,111,78,1,1,19990614,MIN,UTA,1999-00
+Shot Chart Detail,1029900014,177,100225,Brandy Reed,1611661324,Minnesota Lynx,1,2,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,14,-74,128,1,1,19990614,MIN,UTA,1999-00
+Shot Chart Detail,1029900014,180,100225,Brandy Reed,1611661324,Minnesota Lynx,1,1,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-89,199,1,0,19990614,MIN,UTA,1999-00
+Shot Chart Detail,1029900014,188,100225,Brandy Reed,1611661324,Minnesota Lynx,1,1,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,138,40,1,0,19990614,MIN,UTA,1999-00
+Shot Chart Detail,1029900014,224,100225,Brandy Reed,1611661324,Minnesota Lynx,1,0,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990614,MIN,UTA,1999-00
+Shot Chart Detail,1029900014,253,100225,Brandy Reed,1611661324,Minnesota Lynx,2,15,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-162,5,1,0,19990614,MIN,UTA,1999-00
+Shot Chart Detail,1029900014,257,100225,Brandy Reed,1611661324,Minnesota Lynx,2,14,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-31,156,1,0,19990614,MIN,UTA,1999-00
+Shot Chart Detail,1029900014,273,100225,Brandy Reed,1611661324,Minnesota Lynx,2,13,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990614,MIN,UTA,1999-00
+Shot Chart Detail,1029900014,300,100225,Brandy Reed,1611661324,Minnesota Lynx,2,11,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990614,MIN,UTA,1999-00
+Shot Chart Detail,1029900014,382,100225,Brandy Reed,1611661324,Minnesota Lynx,2,5,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-156,40,1,0,19990614,MIN,UTA,1999-00
+Shot Chart Detail,1029900014,414,100225,Brandy Reed,1611661324,Minnesota Lynx,2,2,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,46,106,1,0,19990614,MIN,UTA,1999-00
+Shot Chart Detail,1029900023,7,100225,Brandy Reed,1611661324,Minnesota Lynx,1,19,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-8,51,1,0,19990619,MIN,HOU,1999-00
+Shot Chart Detail,1029900023,15,100225,Brandy Reed,1611661324,Minnesota Lynx,1,18,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,100,106,1,0,19990619,MIN,HOU,1999-00
+Shot Chart Detail,1029900023,34,100225,Brandy Reed,1611661324,Minnesota Lynx,1,16,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-126,40,1,0,19990619,MIN,HOU,1999-00
+Shot Chart Detail,1029900023,39,100225,Brandy Reed,1611661324,Minnesota Lynx,1,16,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-104,119,1,0,19990619,MIN,HOU,1999-00
+Shot Chart Detail,1029900023,120,100225,Brandy Reed,1611661324,Minnesota Lynx,1,9,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-81,113,1,1,19990619,MIN,HOU,1999-00
+Shot Chart Detail,1029900023,234,100225,Brandy Reed,1611661324,Minnesota Lynx,1,2,39,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990619,MIN,HOU,1999-00
+Shot Chart Detail,1029900023,187,100225,Brandy Reed,1611661324,Minnesota Lynx,1,2,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-126,51,1,0,19990619,MIN,HOU,1999-00
+Shot Chart Detail,1029900023,216,100225,Brandy Reed,1611661324,Minnesota Lynx,1,0,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,63,214,1,0,19990619,MIN,HOU,1999-00
+Shot Chart Detail,1029900023,219,100225,Brandy Reed,1611661324,Minnesota Lynx,1,0,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990619,MIN,HOU,1999-00
+Shot Chart Detail,1029900023,340,100225,Brandy Reed,1611661324,Minnesota Lynx,2,8,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990619,MIN,HOU,1999-00
+Shot Chart Detail,1029900023,392,100225,Brandy Reed,1611661324,Minnesota Lynx,2,3,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990619,MIN,HOU,1999-00
+Shot Chart Detail,1029900023,397,100225,Brandy Reed,1611661324,Minnesota Lynx,2,1,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990619,MIN,HOU,1999-00
+Shot Chart Detail,1029900032,25,100225,Brandy Reed,1611661324,Minnesota Lynx,1,16,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-173,27,1,0,19990622,SAC,MIN,1999-00
+Shot Chart Detail,1029900032,245,100225,Brandy Reed,1611661324,Minnesota Lynx,2,12,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,46,1,1,19990622,SAC,MIN,1999-00
+Shot Chart Detail,1029900035,28,100225,Brandy Reed,1611661324,Minnesota Lynx,1,16,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-12,104,1,0,19990624,LAS,MIN,1999-00
+Shot Chart Detail,1029900035,48,100225,Brandy Reed,1611661324,Minnesota Lynx,1,14,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,53,156,1,0,19990624,LAS,MIN,1999-00
+Shot Chart Detail,1029900035,141,100225,Brandy Reed,1611661324,Minnesota Lynx,1,5,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,117,-14,1,1,19990624,LAS,MIN,1999-00
+Shot Chart Detail,1029900035,158,100225,Brandy Reed,1611661324,Minnesota Lynx,1,4,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,102,53,1,1,19990624,LAS,MIN,1999-00
+Shot Chart Detail,1029900035,241,100225,Brandy Reed,1611661324,Minnesota Lynx,1,2,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,117,18,1,0,19990624,LAS,MIN,1999-00
+Shot Chart Detail,1029900035,251,100225,Brandy Reed,1611661324,Minnesota Lynx,1,2,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990624,LAS,MIN,1999-00
+Shot Chart Detail,1029900035,257,100225,Brandy Reed,1611661324,Minnesota Lynx,1,1,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,102,128,1,1,19990624,LAS,MIN,1999-00
+Shot Chart Detail,1029900035,225,100225,Brandy Reed,1611661324,Minnesota Lynx,1,0,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,18,1,1,19990624,LAS,MIN,1999-00
+Shot Chart Detail,1029900035,232,100225,Brandy Reed,1611661324,Minnesota Lynx,1,0,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,117,53,1,0,19990624,LAS,MIN,1999-00
+Shot Chart Detail,1029900035,264,100225,Brandy Reed,1611661324,Minnesota Lynx,2,16,15,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990624,LAS,MIN,1999-00
+Shot Chart Detail,1029900035,274,100225,Brandy Reed,1611661324,Minnesota Lynx,2,15,33,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990624,LAS,MIN,1999-00
+Shot Chart Detail,1029900035,279,100225,Brandy Reed,1611661324,Minnesota Lynx,2,14,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-113,63,1,1,19990624,LAS,MIN,1999-00
+Shot Chart Detail,1029900035,296,100225,Brandy Reed,1611661324,Minnesota Lynx,2,13,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,3,1,1,19990624,LAS,MIN,1999-00
+Shot Chart Detail,1029900035,347,100225,Brandy Reed,1611661324,Minnesota Lynx,2,7,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-18,166,1,0,19990624,LAS,MIN,1999-00
+Shot Chart Detail,1029900035,365,100225,Brandy Reed,1611661324,Minnesota Lynx,2,5,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-96,100,1,1,19990624,LAS,MIN,1999-00
+Shot Chart Detail,1029900035,378,100225,Brandy Reed,1611661324,Minnesota Lynx,2,3,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990624,LAS,MIN,1999-00
+Shot Chart Detail,1029900035,381,100225,Brandy Reed,1611661324,Minnesota Lynx,2,3,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,3,1,0,19990624,LAS,MIN,1999-00
+Shot Chart Detail,1029900042,40,100225,Brandy Reed,1611661324,Minnesota Lynx,1,15,13,Missed Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,36,1,0,19990626,UTA,MIN,1999-00
+Shot Chart Detail,1029900042,44,100225,Brandy Reed,1611661324,Minnesota Lynx,1,14,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-40,66,1,0,19990626,UTA,MIN,1999-00
+Shot Chart Detail,1029900042,60,100225,Brandy Reed,1611661324,Minnesota Lynx,1,13,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-3,212,1,0,19990626,UTA,MIN,1999-00
+Shot Chart Detail,1029900042,68,100225,Brandy Reed,1611661324,Minnesota Lynx,1,12,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-61,31,1,0,19990626,UTA,MIN,1999-00
+Shot Chart Detail,1029900042,73,100225,Brandy Reed,1611661324,Minnesota Lynx,1,12,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-89,188,1,0,19990626,UTA,MIN,1999-00
+Shot Chart Detail,1029900042,88,100225,Brandy Reed,1611661324,Minnesota Lynx,1,10,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990626,UTA,MIN,1999-00
+Shot Chart Detail,1029900042,91,100225,Brandy Reed,1611661324,Minnesota Lynx,1,10,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,102,147,1,0,19990626,UTA,MIN,1999-00
+Shot Chart Detail,1029900042,102,100225,Brandy Reed,1611661324,Minnesota Lynx,1,9,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-96,154,1,0,19990626,UTA,MIN,1999-00
+Shot Chart Detail,1029900042,136,100225,Brandy Reed,1611661324,Minnesota Lynx,1,5,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-104,124,1,0,19990626,UTA,MIN,1999-00
+Shot Chart Detail,1029900042,140,100225,Brandy Reed,1611661324,Minnesota Lynx,1,4,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-74,147,1,1,19990626,UTA,MIN,1999-00
+Shot Chart Detail,1029900042,169,100225,Brandy Reed,1611661324,Minnesota Lynx,1,2,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-119,124,1,0,19990626,UTA,MIN,1999-00
+Shot Chart Detail,1029900042,221,100225,Brandy Reed,1611661324,Minnesota Lynx,1,0,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,-3,1,0,19990626,UTA,MIN,1999-00
+Shot Chart Detail,1029900042,262,100225,Brandy Reed,1611661324,Minnesota Lynx,2,12,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,40,113,1,0,19990626,UTA,MIN,1999-00
+Shot Chart Detail,1029900042,284,100225,Brandy Reed,1611661324,Minnesota Lynx,2,9,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-119,-21,1,0,19990626,UTA,MIN,1999-00
+Shot Chart Detail,1029900042,287,100225,Brandy Reed,1611661324,Minnesota Lynx,2,9,11,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-68,59,1,1,19990626,UTA,MIN,1999-00
+Shot Chart Detail,1029900042,311,100225,Brandy Reed,1611661324,Minnesota Lynx,2,6,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,-14,1,0,19990626,UTA,MIN,1999-00
+Shot Chart Detail,1029900042,319,100225,Brandy Reed,1611661324,Minnesota Lynx,2,5,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-46,164,1,1,19990626,UTA,MIN,1999-00
+Shot Chart Detail,1029900042,327,100225,Brandy Reed,1611661324,Minnesota Lynx,2,3,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-12,83,1,0,19990626,UTA,MIN,1999-00
+Shot Chart Detail,1029900049,13,100225,Brandy Reed,1611661324,Minnesota Lynx,1,18,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,128,100,1,1,19990629,MIN,SAC,1999-00
+Shot Chart Detail,1029900049,49,100225,Brandy Reed,1611661324,Minnesota Lynx,1,14,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,70,145,1,0,19990629,MIN,SAC,1999-00
+Shot Chart Detail,1029900049,53,100225,Brandy Reed,1611661324,Minnesota Lynx,1,13,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-44,51,1,0,19990629,MIN,SAC,1999-00
+Shot Chart Detail,1029900049,60,100225,Brandy Reed,1611661324,Minnesota Lynx,1,12,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,106,113,1,0,19990629,MIN,SAC,1999-00
+Shot Chart Detail,1029900049,129,100225,Brandy Reed,1611661324,Minnesota Lynx,1,6,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,78,141,1,0,19990629,MIN,SAC,1999-00
+Shot Chart Detail,1029900049,214,100225,Brandy Reed,1611661324,Minnesota Lynx,1,2,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990629,MIN,SAC,1999-00
+Shot Chart Detail,1029900049,244,100225,Brandy Reed,1611661324,Minnesota Lynx,2,15,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990629,MIN,SAC,1999-00
+Shot Chart Detail,1029900049,299,100225,Brandy Reed,1611661324,Minnesota Lynx,2,12,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,48,214,1,1,19990629,MIN,SAC,1999-00
+Shot Chart Detail,1029900049,323,100225,Brandy Reed,1611661324,Minnesota Lynx,2,10,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-126,78,1,0,19990629,MIN,SAC,1999-00
+Shot Chart Detail,1029900049,330,100225,Brandy Reed,1611661324,Minnesota Lynx,2,9,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990629,MIN,SAC,1999-00
+Shot Chart Detail,1029900049,335,100225,Brandy Reed,1611661324,Minnesota Lynx,2,8,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-96,119,1,0,19990629,MIN,SAC,1999-00
+Shot Chart Detail,1029900049,398,100225,Brandy Reed,1611661324,Minnesota Lynx,2,1,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990629,MIN,SAC,1999-00
+Shot Chart Detail,1029900049,417,100225,Brandy Reed,1611661324,Minnesota Lynx,2,1,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990629,MIN,SAC,1999-00
+Shot Chart Detail,1029900053,22,100225,Brandy Reed,1611661324,Minnesota Lynx,1,17,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,16,1,0,19990701,MIN,LAS,1999-00
+Shot Chart Detail,1029900053,26,100225,Brandy Reed,1611661324,Minnesota Lynx,1,17,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-96,5,1,0,19990701,MIN,LAS,1999-00
+Shot Chart Detail,1029900053,38,100225,Brandy Reed,1611661324,Minnesota Lynx,1,16,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990701,MIN,LAS,1999-00
+Shot Chart Detail,1029900053,73,100225,Brandy Reed,1611661324,Minnesota Lynx,1,12,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-126,72,1,1,19990701,MIN,LAS,1999-00
+Shot Chart Detail,1029900053,104,100225,Brandy Reed,1611661324,Minnesota Lynx,1,10,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990701,MIN,LAS,1999-00
+Shot Chart Detail,1029900053,148,100225,Brandy Reed,1611661324,Minnesota Lynx,1,5,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,78,40,1,0,19990701,MIN,LAS,1999-00
+Shot Chart Detail,1029900053,191,100225,Brandy Reed,1611661324,Minnesota Lynx,1,2,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990701,MIN,LAS,1999-00
+Shot Chart Detail,1029900053,243,100225,Brandy Reed,1611661324,Minnesota Lynx,1,2,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990701,MIN,LAS,1999-00
+Shot Chart Detail,1029900053,282,100225,Brandy Reed,1611661324,Minnesota Lynx,2,15,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,1,1,1,19990701,MIN,LAS,1999-00
+Shot Chart Detail,1029900053,285,100225,Brandy Reed,1611661324,Minnesota Lynx,2,14,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990701,MIN,LAS,1999-00
+Shot Chart Detail,1029900053,292,100225,Brandy Reed,1611661324,Minnesota Lynx,2,13,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-38,214,1,1,19990701,MIN,LAS,1999-00
+Shot Chart Detail,1029900053,298,100225,Brandy Reed,1611661324,Minnesota Lynx,2,12,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-89,40,1,1,19990701,MIN,LAS,1999-00
+Shot Chart Detail,1029900053,329,100225,Brandy Reed,1611661324,Minnesota Lynx,2,8,46,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990701,MIN,LAS,1999-00
+Shot Chart Detail,1029900053,376,100225,Brandy Reed,1611661324,Minnesota Lynx,2,4,45,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990701,MIN,LAS,1999-00
+Shot Chart Detail,1029900053,514,100225,Brandy Reed,1611661324,Minnesota Lynx,4,2,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,70,151,1,1,19990701,MIN,LAS,1999-00
+Shot Chart Detail,1029900053,516,100225,Brandy Reed,1611661324,Minnesota Lynx,4,1,31,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,0,1,1,19990701,MIN,LAS,1999-00
+Shot Chart Detail,1029900053,521,100225,Brandy Reed,1611661324,Minnesota Lynx,4,0,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,1,1,0,19990701,MIN,LAS,1999-00
+Shot Chart Detail,1029900053,536,100225,Brandy Reed,1611661324,Minnesota Lynx,4,0,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-169,23,1,0,19990701,MIN,LAS,1999-00
+Shot Chart Detail,1029900059,28,100225,Brandy Reed,1611661324,Minnesota Lynx,1,17,2,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990703,MIN,PHO,1999-00
+Shot Chart Detail,1029900059,37,100225,Brandy Reed,1611661324,Minnesota Lynx,1,16,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990703,MIN,PHO,1999-00
+Shot Chart Detail,1029900059,47,100225,Brandy Reed,1611661324,Minnesota Lynx,1,14,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-96,169,1,1,19990703,MIN,PHO,1999-00
+Shot Chart Detail,1029900059,55,100225,Brandy Reed,1611661324,Minnesota Lynx,1,13,46,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990703,MIN,PHO,1999-00
+Shot Chart Detail,1029900059,65,100225,Brandy Reed,1611661324,Minnesota Lynx,1,12,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-1,145,1,0,19990703,MIN,PHO,1999-00
+Shot Chart Detail,1029900059,69,100225,Brandy Reed,1611661324,Minnesota Lynx,1,11,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-1,72,1,1,19990703,MIN,PHO,1999-00
+Shot Chart Detail,1029900059,184,100225,Brandy Reed,1611661324,Minnesota Lynx,1,3,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,93,141,1,0,19990703,MIN,PHO,1999-00
+Shot Chart Detail,1029900059,167,100225,Brandy Reed,1611661324,Minnesota Lynx,1,1,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-29,113,1,1,19990703,MIN,PHO,1999-00
+Shot Chart Detail,1029900059,208,100225,Brandy Reed,1611661324,Minnesota Lynx,2,16,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990703,MIN,PHO,1999-00
+Shot Chart Detail,1029900059,226,100225,Brandy Reed,1611661324,Minnesota Lynx,2,15,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-132,12,1,0,19990703,MIN,PHO,1999-00
+Shot Chart Detail,1029900059,238,100225,Brandy Reed,1611661324,Minnesota Lynx,2,14,16,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-38,72,1,1,19990703,MIN,PHO,1999-00
+Shot Chart Detail,1029900059,246,100225,Brandy Reed,1611661324,Minnesota Lynx,2,13,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,70,16,1,0,19990703,MIN,PHO,1999-00
+Shot Chart Detail,1029900059,320,100225,Brandy Reed,1611661324,Minnesota Lynx,2,6,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990703,MIN,PHO,1999-00
+Shot Chart Detail,1029900059,357,100225,Brandy Reed,1611661324,Minnesota Lynx,2,2,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,27,78,1,1,19990703,MIN,PHO,1999-00
+Shot Chart Detail,1029900059,369,100225,Brandy Reed,1611661324,Minnesota Lynx,2,1,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-8,68,1,0,19990703,MIN,PHO,1999-00
+Shot Chart Detail,1029900065,8,100225,Brandy Reed,1611661324,Minnesota Lynx,1,18,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,1,1,1,19990706,HOU,MIN,1999-00
+Shot Chart Detail,1029900065,39,100225,Brandy Reed,1611661324,Minnesota Lynx,1,15,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,85,98,1,0,19990706,HOU,MIN,1999-00
+Shot Chart Detail,1029900065,45,100225,Brandy Reed,1611661324,Minnesota Lynx,1,14,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,40,81,1,0,19990706,HOU,MIN,1999-00
+Shot Chart Detail,1029900065,55,100225,Brandy Reed,1611661324,Minnesota Lynx,1,13,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-8,160,1,0,19990706,HOU,MIN,1999-00
+Shot Chart Detail,1029900065,69,100225,Brandy Reed,1611661324,Minnesota Lynx,1,12,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,121,109,1,0,19990706,HOU,MIN,1999-00
+Shot Chart Detail,1029900065,71,100225,Brandy Reed,1611661324,Minnesota Lynx,1,11,57,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990706,HOU,MIN,1999-00
+Shot Chart Detail,1029900065,113,100225,Brandy Reed,1611661324,Minnesota Lynx,1,8,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990706,HOU,MIN,1999-00
+Shot Chart Detail,1029900065,120,100225,Brandy Reed,1611661324,Minnesota Lynx,1,8,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990706,HOU,MIN,1999-00
+Shot Chart Detail,1029900065,123,100225,Brandy Reed,1611661324,Minnesota Lynx,1,7,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,158,85,1,0,19990706,HOU,MIN,1999-00
+Shot Chart Detail,1029900065,236,100225,Brandy Reed,1611661324,Minnesota Lynx,2,16,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-147,154,1,0,19990706,HOU,MIN,1999-00
+Shot Chart Detail,1029900065,249,100225,Brandy Reed,1611661324,Minnesota Lynx,2,15,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,100,109,1,1,19990706,HOU,MIN,1999-00
+Shot Chart Detail,1029900068,17,100225,Brandy Reed,1611661324,Minnesota Lynx,1,16,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,18,48,1,0,19990707,ORL,MIN,1999-00
+Shot Chart Detail,1029900068,34,100225,Brandy Reed,1611661324,Minnesota Lynx,1,14,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-154,-23,1,1,19990707,ORL,MIN,1999-00
+Shot Chart Detail,1029900068,45,100225,Brandy Reed,1611661324,Minnesota Lynx,1,13,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990707,ORL,MIN,1999-00
+Shot Chart Detail,1029900068,89,100225,Brandy Reed,1611661324,Minnesota Lynx,1,9,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,128,-16,1,0,19990707,ORL,MIN,1999-00
+Shot Chart Detail,1029900068,151,100225,Brandy Reed,1611661324,Minnesota Lynx,1,4,0,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990707,ORL,MIN,1999-00
+Shot Chart Detail,1029900068,175,100225,Brandy Reed,1611661324,Minnesota Lynx,1,3,19,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,33,134,1,1,19990707,ORL,MIN,1999-00
+Shot Chart Detail,1029900068,210,100225,Brandy Reed,1611661324,Minnesota Lynx,1,3,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990707,ORL,MIN,1999-00
+Shot Chart Detail,1029900068,180,100225,Brandy Reed,1611661324,Minnesota Lynx,1,2,10,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,12,117,1,1,19990707,ORL,MIN,1999-00
+Shot Chart Detail,1029900068,215,100225,Brandy Reed,1611661324,Minnesota Lynx,1,2,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,106,27,1,0,19990707,ORL,MIN,1999-00
+Shot Chart Detail,1029900068,186,100225,Brandy Reed,1611661324,Minnesota Lynx,1,1,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990707,ORL,MIN,1999-00
+Shot Chart Detail,1029900068,198,100225,Brandy Reed,1611661324,Minnesota Lynx,1,0,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-117,166,1,0,19990707,ORL,MIN,1999-00
+Shot Chart Detail,1029900068,202,100225,Brandy Reed,1611661324,Minnesota Lynx,1,0,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990707,ORL,MIN,1999-00
+Shot Chart Detail,1029900068,234,100225,Brandy Reed,1611661324,Minnesota Lynx,2,16,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-87,16,1,1,19990707,ORL,MIN,1999-00
+Shot Chart Detail,1029900068,265,100225,Brandy Reed,1611661324,Minnesota Lynx,2,11,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-124,173,1,0,19990707,ORL,MIN,1999-00
+Shot Chart Detail,1029900068,366,100225,Brandy Reed,1611661324,Minnesota Lynx,2,0,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990707,ORL,MIN,1999-00
+Shot Chart Detail,1029900079,20,100225,Brandy Reed,1611661324,Minnesota Lynx,1,17,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-132,0,1,0,19990711,NYL,MIN,1999-00
+Shot Chart Detail,1029900079,22,100225,Brandy Reed,1611661324,Minnesota Lynx,1,17,3,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,66,66,1,1,19990711,NYL,MIN,1999-00
+Shot Chart Detail,1029900079,51,100225,Brandy Reed,1611661324,Minnesota Lynx,1,13,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990711,NYL,MIN,1999-00
+Shot Chart Detail,1029900079,59,100225,Brandy Reed,1611661324,Minnesota Lynx,1,12,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-98,177,1,1,19990711,NYL,MIN,1999-00
+Shot Chart Detail,1029900079,155,100225,Brandy Reed,1611661324,Minnesota Lynx,1,3,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-70,0,1,0,19990711,NYL,MIN,1999-00
+Shot Chart Detail,1029900079,173,100225,Brandy Reed,1611661324,Minnesota Lynx,1,1,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-14,187,1,0,19990711,NYL,MIN,1999-00
+Shot Chart Detail,1029900079,181,100225,Brandy Reed,1611661324,Minnesota Lynx,2,16,30,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,104,10,1,1,19990711,NYL,MIN,1999-00
+Shot Chart Detail,1029900079,202,100225,Brandy Reed,1611661324,Minnesota Lynx,2,14,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-61,14,1,1,19990711,NYL,MIN,1999-00
+Shot Chart Detail,1029900079,240,100225,Brandy Reed,1611661324,Minnesota Lynx,2,11,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990711,NYL,MIN,1999-00
+Shot Chart Detail,1029900079,246,100225,Brandy Reed,1611661324,Minnesota Lynx,2,10,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-33,184,1,0,19990711,NYL,MIN,1999-00
+Shot Chart Detail,1029900079,280,100225,Brandy Reed,1611661324,Minnesota Lynx,2,6,10,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-18,48,1,0,19990711,NYL,MIN,1999-00
+Shot Chart Detail,1029900079,332,100225,Brandy Reed,1611661324,Minnesota Lynx,2,0,32,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,72,42,1,1,19990711,NYL,MIN,1999-00
+Shot Chart Detail,1029900079,335,100225,Brandy Reed,1611661324,Minnesota Lynx,2,0,0,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,16,128,1,1,19990711,NYL,MIN,1999-00
+Shot Chart Detail,1029900084,10,100225,Brandy Reed,1611661324,Minnesota Lynx,1,19,9,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,12,61,1,1,19990712,CLE,MIN,1999-00
+Shot Chart Detail,1029900084,32,100225,Brandy Reed,1611661324,Minnesota Lynx,1,15,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-92,82,1,0,19990712,CLE,MIN,1999-00
+Shot Chart Detail,1029900084,91,100225,Brandy Reed,1611661324,Minnesota Lynx,1,8,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,115,48,1,1,19990712,CLE,MIN,1999-00
+Shot Chart Detail,1029900084,114,100225,Brandy Reed,1611661324,Minnesota Lynx,1,6,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,27,121,1,0,19990712,CLE,MIN,1999-00
+Shot Chart Detail,1029900084,116,100225,Brandy Reed,1611661324,Minnesota Lynx,1,6,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-8,121,1,0,19990712,CLE,MIN,1999-00
+Shot Chart Detail,1029900084,132,100225,Brandy Reed,1611661324,Minnesota Lynx,1,4,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,5,162,1,0,19990712,CLE,MIN,1999-00
+Shot Chart Detail,1029900084,171,100225,Brandy Reed,1611661324,Minnesota Lynx,1,1,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,21,1,0,19990712,CLE,MIN,1999-00
+Shot Chart Detail,1029900084,210,100225,Brandy Reed,1611661324,Minnesota Lynx,1,0,41,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,0,1,0,19990712,CLE,MIN,1999-00
+Shot Chart Detail,1029900084,243,100225,Brandy Reed,1611661324,Minnesota Lynx,2,14,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-1,171,1,0,19990712,CLE,MIN,1999-00
+Shot Chart Detail,1029900084,276,100225,Brandy Reed,1611661324,Minnesota Lynx,2,10,52,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,16,1,0,19990712,CLE,MIN,1999-00
+Shot Chart Detail,1029900084,295,100225,Brandy Reed,1611661324,Minnesota Lynx,2,8,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,40,61,1,1,19990712,CLE,MIN,1999-00
+Shot Chart Detail,1029900084,324,100225,Brandy Reed,1611661324,Minnesota Lynx,2,5,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,40,205,1,0,19990712,CLE,MIN,1999-00
+Shot Chart Detail,1029900084,339,100225,Brandy Reed,1611661324,Minnesota Lynx,2,3,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,106,181,1,0,19990712,CLE,MIN,1999-00
+Shot Chart Detail,1029900084,356,100225,Brandy Reed,1611661324,Minnesota Lynx,2,2,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-111,201,1,0,19990712,CLE,MIN,1999-00
+Shot Chart Detail,1029900093,6,100225,Brandy Reed,1611661324,Minnesota Lynx,1,18,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,5,1,0,19990717,MIN,NYL,1999-00
+Shot Chart Detail,1029900093,56,100225,Brandy Reed,1611661324,Minnesota Lynx,1,14,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990717,MIN,NYL,1999-00
+Shot Chart Detail,1029900093,134,100225,Brandy Reed,1611661324,Minnesota Lynx,1,8,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990717,MIN,NYL,1999-00
+Shot Chart Detail,1029900093,165,100225,Brandy Reed,1611661324,Minnesota Lynx,1,5,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,16,1,1,19990717,MIN,NYL,1999-00
+Shot Chart Detail,1029900093,175,100225,Brandy Reed,1611661324,Minnesota Lynx,1,3,55,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,27,72,1,1,19990717,MIN,NYL,1999-00
+Shot Chart Detail,1029900093,198,100225,Brandy Reed,1611661324,Minnesota Lynx,1,1,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990717,MIN,NYL,1999-00
+Shot Chart Detail,1029900093,234,100225,Brandy Reed,1611661324,Minnesota Lynx,1,1,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-147,40,1,0,19990717,MIN,NYL,1999-00
+Shot Chart Detail,1029900093,210,100225,Brandy Reed,1611661324,Minnesota Lynx,1,0,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-59,151,1,0,19990717,MIN,NYL,1999-00
+Shot Chart Detail,1029900093,269,100225,Brandy Reed,1611661324,Minnesota Lynx,2,14,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,1,1,1,19990717,MIN,NYL,1999-00
+Shot Chart Detail,1029900093,328,100225,Brandy Reed,1611661324,Minnesota Lynx,2,8,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-14,89,1,1,19990717,MIN,NYL,1999-00
+Shot Chart Detail,1029900093,336,100225,Brandy Reed,1611661324,Minnesota Lynx,2,7,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,115,40,1,0,19990717,MIN,NYL,1999-00
+Shot Chart Detail,1029900093,338,100225,Brandy Reed,1611661324,Minnesota Lynx,2,7,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-126,27,1,1,19990717,MIN,NYL,1999-00
+Shot Chart Detail,1029900093,360,100225,Brandy Reed,1611661324,Minnesota Lynx,2,5,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,18,158,1,1,19990717,MIN,NYL,1999-00
+Shot Chart Detail,1029900099,7,100225,Brandy Reed,1611661324,Minnesota Lynx,1,19,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-111,5,1,0,19990719,MIN,SAC,1999-00
+Shot Chart Detail,1029900099,38,100225,Brandy Reed,1611661324,Minnesota Lynx,1,15,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990719,MIN,SAC,1999-00
+Shot Chart Detail,1029900099,54,100225,Brandy Reed,1611661324,Minnesota Lynx,1,14,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,15,78,134,1,0,19990719,MIN,SAC,1999-00
+Shot Chart Detail,1029900099,57,100225,Brandy Reed,1611661324,Minnesota Lynx,1,14,4,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990719,MIN,SAC,1999-00
+Shot Chart Detail,1029900099,68,100225,Brandy Reed,1611661324,Minnesota Lynx,1,12,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-126,23,1,1,19990719,MIN,SAC,1999-00
+Shot Chart Detail,1029900099,133,100225,Brandy Reed,1611661324,Minnesota Lynx,1,6,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-96,162,1,0,19990719,MIN,SAC,1999-00
+Shot Chart Detail,1029900099,146,100225,Brandy Reed,1611661324,Minnesota Lynx,1,5,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,40,51,1,1,19990719,MIN,SAC,1999-00
+Shot Chart Detail,1029900099,149,100225,Brandy Reed,1611661324,Minnesota Lynx,1,5,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990719,MIN,SAC,1999-00
+Shot Chart Detail,1029900099,155,100225,Brandy Reed,1611661324,Minnesota Lynx,1,4,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-89,145,1,0,19990719,MIN,SAC,1999-00
+Shot Chart Detail,1029900099,187,100225,Brandy Reed,1611661324,Minnesota Lynx,1,1,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,143,46,1,1,19990719,MIN,SAC,1999-00
+Shot Chart Detail,1029900099,195,100225,Brandy Reed,1611661324,Minnesota Lynx,1,0,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-197,100,1,1,19990719,MIN,SAC,1999-00
+Shot Chart Detail,1029900099,233,100225,Brandy Reed,1611661324,Minnesota Lynx,1,0,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,85,130,1,0,19990719,MIN,SAC,1999-00
+Shot Chart Detail,1029900099,237,100225,Brandy Reed,1611661324,Minnesota Lynx,1,0,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990719,MIN,SAC,1999-00
+Shot Chart Detail,1029900099,279,100225,Brandy Reed,1611661324,Minnesota Lynx,2,12,10,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-74,40,1,0,19990719,MIN,SAC,1999-00
+Shot Chart Detail,1029900099,322,100225,Brandy Reed,1611661324,Minnesota Lynx,2,8,8,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990719,MIN,SAC,1999-00
+Shot Chart Detail,1029900099,348,100225,Brandy Reed,1611661324,Minnesota Lynx,2,5,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-14,162,1,0,19990719,MIN,SAC,1999-00
+Shot Chart Detail,1029900099,372,100225,Brandy Reed,1611661324,Minnesota Lynx,2,3,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,158,23,1,1,19990719,MIN,SAC,1999-00
+Shot Chart Detail,1029900099,375,100225,Brandy Reed,1611661324,Minnesota Lynx,2,2,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-96,1,1,0,19990719,MIN,SAC,1999-00
+Shot Chart Detail,1029900102,3,100225,Brandy Reed,1611661324,Minnesota Lynx,1,19,34,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-76,132,1,1,19990721,CHA,MIN,1999-00
+Shot Chart Detail,1029900102,19,100225,Brandy Reed,1611661324,Minnesota Lynx,1,17,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-83,160,1,0,19990721,CHA,MIN,1999-00
+Shot Chart Detail,1029900102,23,100225,Brandy Reed,1611661324,Minnesota Lynx,1,16,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,91,194,1,1,19990721,CHA,MIN,1999-00
+Shot Chart Detail,1029900102,71,100225,Brandy Reed,1611661324,Minnesota Lynx,1,10,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,70,128,1,0,19990721,CHA,MIN,1999-00
+Shot Chart Detail,1029900102,87,100225,Brandy Reed,1611661324,Minnesota Lynx,1,8,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-6,93,1,0,19990721,CHA,MIN,1999-00
+Shot Chart Detail,1029900102,101,100225,Brandy Reed,1611661324,Minnesota Lynx,1,6,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-154,-16,1,1,19990721,CHA,MIN,1999-00
+Shot Chart Detail,1029900102,145,100225,Brandy Reed,1611661324,Minnesota Lynx,1,2,56,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-61,98,1,0,19990721,CHA,MIN,1999-00
+Shot Chart Detail,1029900102,163,100225,Brandy Reed,1611661324,Minnesota Lynx,1,1,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,8,181,1,1,19990721,CHA,MIN,1999-00
+Shot Chart Detail,1029900102,173,100225,Brandy Reed,1611661324,Minnesota Lynx,1,0,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,91,83,1,0,19990721,CHA,MIN,1999-00
+Shot Chart Detail,1029900102,238,100225,Brandy Reed,1611661324,Minnesota Lynx,2,12,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-55,149,1,0,19990721,CHA,MIN,1999-00
+Shot Chart Detail,1029900102,249,100225,Brandy Reed,1611661324,Minnesota Lynx,2,11,4,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-6,104,1,1,19990721,CHA,MIN,1999-00
+Shot Chart Detail,1029900102,271,100225,Brandy Reed,1611661324,Minnesota Lynx,2,8,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-61,171,1,1,19990721,CHA,MIN,1999-00
+Shot Chart Detail,1029900102,273,100225,Brandy Reed,1611661324,Minnesota Lynx,2,7,59,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,20,207,0,1,1,19990721,CHA,MIN,1999-00
+Shot Chart Detail,1029900102,305,100225,Brandy Reed,1611661324,Minnesota Lynx,2,5,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,14,-76,128,1,1,19990721,CHA,MIN,1999-00
+Shot Chart Detail,1029900102,308,100225,Brandy Reed,1611661324,Minnesota Lynx,2,4,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,48,164,1,1,19990721,CHA,MIN,1999-00
+Shot Chart Detail,1029900102,331,100225,Brandy Reed,1611661324,Minnesota Lynx,2,2,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-76,115,1,1,19990721,CHA,MIN,1999-00
+Shot Chart Detail,1029900108,18,100225,Brandy Reed,1611661324,Minnesota Lynx,1,17,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,93,46,1,1,19990723,MIN,WAS,1999-00
+Shot Chart Detail,1029900108,21,100225,Brandy Reed,1611661324,Minnesota Lynx,1,17,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,85,124,1,0,19990723,MIN,WAS,1999-00
+Shot Chart Detail,1029900108,39,100225,Brandy Reed,1611661324,Minnesota Lynx,1,15,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,1,1,1,19990723,MIN,WAS,1999-00
+Shot Chart Detail,1029900108,42,100225,Brandy Reed,1611661324,Minnesota Lynx,1,15,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-126,68,1,0,19990723,MIN,WAS,1999-00
+Shot Chart Detail,1029900108,108,100225,Brandy Reed,1611661324,Minnesota Lynx,1,7,56,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990723,MIN,WAS,1999-00
+Shot Chart Detail,1029900108,117,100225,Brandy Reed,1611661324,Minnesota Lynx,1,7,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-154,16,1,1,19990723,MIN,WAS,1999-00
+Shot Chart Detail,1029900108,120,100225,Brandy Reed,1611661324,Minnesota Lynx,1,6,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,70,145,1,0,19990723,MIN,WAS,1999-00
+Shot Chart Detail,1029900108,198,100225,Brandy Reed,1611661324,Minnesota Lynx,1,2,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,106,27,1,0,19990723,MIN,WAS,1999-00
+Shot Chart Detail,1029900108,215,100225,Brandy Reed,1611661324,Minnesota Lynx,1,0,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-8,113,1,0,19990723,MIN,WAS,1999-00
+Shot Chart Detail,1029900108,287,100225,Brandy Reed,1611661324,Minnesota Lynx,2,9,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,136,40,1,1,19990723,MIN,WAS,1999-00
+Shot Chart Detail,1029900108,292,100225,Brandy Reed,1611661324,Minnesota Lynx,2,8,28,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990723,MIN,WAS,1999-00
+Shot Chart Detail,1029900108,317,100225,Brandy Reed,1611661324,Minnesota Lynx,2,7,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,5,214,1,1,19990723,MIN,WAS,1999-00
+Shot Chart Detail,1029900108,330,100225,Brandy Reed,1611661324,Minnesota Lynx,2,6,12,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,70,33,1,1,19990723,MIN,WAS,1999-00
+Shot Chart Detail,1029900108,336,100225,Brandy Reed,1611661324,Minnesota Lynx,2,5,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990723,MIN,WAS,1999-00
+Shot Chart Detail,1029900108,344,100225,Brandy Reed,1611661324,Minnesota Lynx,2,5,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,136,130,1,1,19990723,MIN,WAS,1999-00
+Shot Chart Detail,1029900108,354,100225,Brandy Reed,1611661324,Minnesota Lynx,2,2,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,136,85,1,1,19990723,MIN,WAS,1999-00
+Shot Chart Detail,1029900108,375,100225,Brandy Reed,1611661324,Minnesota Lynx,2,0,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,143,57,1,1,19990723,MIN,WAS,1999-00
+Shot Chart Detail,1029900108,380,100225,Brandy Reed,1611661324,Minnesota Lynx,2,0,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,121,61,1,0,19990723,MIN,WAS,1999-00
+Shot Chart Detail,1029900114,15,100225,Brandy Reed,1611661324,Minnesota Lynx,1,17,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,12,119,1,0,19990725,MIN,HOU,1999-00
+Shot Chart Detail,1029900114,26,100225,Brandy Reed,1611661324,Minnesota Lynx,1,16,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-74,196,1,0,19990725,MIN,HOU,1999-00
+Shot Chart Detail,1029900114,98,100225,Brandy Reed,1611661324,Minnesota Lynx,1,8,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-38,141,1,0,19990725,MIN,HOU,1999-00
+Shot Chart Detail,1029900114,191,100225,Brandy Reed,1611661324,Minnesota Lynx,1,3,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-104,61,1,0,19990725,MIN,HOU,1999-00
+Shot Chart Detail,1029900114,163,100225,Brandy Reed,1611661324,Minnesota Lynx,1,1,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-126,16,1,0,19990725,MIN,HOU,1999-00
+Shot Chart Detail,1029900114,211,100225,Brandy Reed,1611661324,Minnesota Lynx,1,0,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-154,96,1,1,19990725,MIN,HOU,1999-00
+Shot Chart Detail,1029900114,215,100225,Brandy Reed,1611661324,Minnesota Lynx,2,16,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,158,158,1,0,19990725,MIN,HOU,1999-00
+Shot Chart Detail,1029900114,229,100225,Brandy Reed,1611661324,Minnesota Lynx,2,15,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990725,MIN,HOU,1999-00
+Shot Chart Detail,1029900114,236,100225,Brandy Reed,1611661324,Minnesota Lynx,2,14,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-104,203,1,0,19990725,MIN,HOU,1999-00
+Shot Chart Detail,1029900114,268,100225,Brandy Reed,1611661324,Minnesota Lynx,2,11,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,121,57,1,1,19990725,MIN,HOU,1999-00
+Shot Chart Detail,1029900114,279,100225,Brandy Reed,1611661324,Minnesota Lynx,2,10,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-89,27,1,0,19990725,MIN,HOU,1999-00
+Shot Chart Detail,1029900114,323,100225,Brandy Reed,1611661324,Minnesota Lynx,2,6,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-44,218,1,0,19990725,MIN,HOU,1999-00
+Shot Chart Detail,1029900114,389,100225,Brandy Reed,1611661324,Minnesota Lynx,2,0,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,207,72,1,0,19990725,MIN,HOU,1999-00
+Shot Chart Detail,1029900125,23,100225,Brandy Reed,1611661324,Minnesota Lynx,1,15,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,38,1,0,19990729,PHO,MIN,1999-00
+Shot Chart Detail,1029900125,171,100225,Brandy Reed,1611661324,Minnesota Lynx,1,1,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,63,128,1,0,19990729,PHO,MIN,1999-00
+Shot Chart Detail,1029900125,184,100225,Brandy Reed,1611661324,Minnesota Lynx,1,1,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-119,27,1,0,19990729,PHO,MIN,1999-00
+Shot Chart Detail,1029900125,205,100225,Brandy Reed,1611661324,Minnesota Lynx,2,15,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,108,128,1,1,19990729,PHO,MIN,1999-00
+Shot Chart Detail,1029900125,208,100225,Brandy Reed,1611661324,Minnesota Lynx,2,15,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,100,76,1,1,19990729,PHO,MIN,1999-00
+Shot Chart Detail,1029900125,216,100225,Brandy Reed,1611661324,Minnesota Lynx,2,14,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,-27,229,1,1,19990729,PHO,MIN,1999-00
+Shot Chart Detail,1029900125,228,100225,Brandy Reed,1611661324,Minnesota Lynx,2,13,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-158,177,1,0,19990729,PHO,MIN,1999-00
+Shot Chart Detail,1029900125,236,100225,Brandy Reed,1611661324,Minnesota Lynx,2,12,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-27,111,1,0,19990729,PHO,MIN,1999-00
+Shot Chart Detail,1029900125,240,100225,Brandy Reed,1611661324,Minnesota Lynx,2,11,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,93,188,1,1,19990729,PHO,MIN,1999-00
+Shot Chart Detail,1029900125,257,100225,Brandy Reed,1611661324,Minnesota Lynx,2,10,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,78,93,1,0,19990729,PHO,MIN,1999-00
+Shot Chart Detail,1029900125,298,100225,Brandy Reed,1611661324,Minnesota Lynx,2,6,15,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,0,1,0,19990729,PHO,MIN,1999-00
+Shot Chart Detail,1029900125,325,100225,Brandy Reed,1611661324,Minnesota Lynx,2,3,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990729,PHO,MIN,1999-00
+Shot Chart Detail,1029900125,326,100225,Brandy Reed,1611661324,Minnesota Lynx,2,3,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990729,PHO,MIN,1999-00
+Shot Chart Detail,1029900125,328,100225,Brandy Reed,1611661324,Minnesota Lynx,2,3,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990729,PHO,MIN,1999-00
+Shot Chart Detail,1029900125,332,100225,Brandy Reed,1611661324,Minnesota Lynx,2,3,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,100,55,1,1,19990729,PHO,MIN,1999-00
+Shot Chart Detail,1029900125,340,100225,Brandy Reed,1611661324,Minnesota Lynx,2,2,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-171,162,1,0,19990729,PHO,MIN,1999-00
+Shot Chart Detail,1029900125,342,100225,Brandy Reed,1611661324,Minnesota Lynx,2,1,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,85,132,1,0,19990729,PHO,MIN,1999-00
+Shot Chart Detail,1029900125,367,100225,Brandy Reed,1611661324,Minnesota Lynx,2,0,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-113,72,1,0,19990729,PHO,MIN,1999-00
+Shot Chart Detail,1029900130,21,100225,Brandy Reed,1611661324,Minnesota Lynx,1,17,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,106,96,1,0,19990731,MIN,CHA,1999-00
+Shot Chart Detail,1029900130,32,100225,Brandy Reed,1611661324,Minnesota Lynx,1,16,36,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990731,MIN,CHA,1999-00
+Shot Chart Detail,1029900130,37,100225,Brandy Reed,1611661324,Minnesota Lynx,1,16,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,20,-182,100,1,0,19990731,MIN,CHA,1999-00
+Shot Chart Detail,1029900130,55,100225,Brandy Reed,1611661324,Minnesota Lynx,1,14,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-139,40,1,0,19990731,MIN,CHA,1999-00
+Shot Chart Detail,1029900130,76,100225,Brandy Reed,1611661324,Minnesota Lynx,1,12,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,100,196,1,0,19990731,MIN,CHA,1999-00
+Shot Chart Detail,1029900130,79,100225,Brandy Reed,1611661324,Minnesota Lynx,1,12,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,40,68,1,0,19990731,MIN,CHA,1999-00
+Shot Chart Detail,1029900130,125,100225,Brandy Reed,1611661324,Minnesota Lynx,1,7,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990731,MIN,CHA,1999-00
+Shot Chart Detail,1029900130,154,100225,Brandy Reed,1611661324,Minnesota Lynx,1,4,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,63,162,1,0,19990731,MIN,CHA,1999-00
+Shot Chart Detail,1029900130,159,100225,Brandy Reed,1611661324,Minnesota Lynx,1,4,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,121,173,1,1,19990731,MIN,CHA,1999-00
+Shot Chart Detail,1029900130,173,100225,Brandy Reed,1611661324,Minnesota Lynx,1,2,56,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,40,113,1,0,19990731,MIN,CHA,1999-00
+Shot Chart Detail,1029900130,183,100225,Brandy Reed,1611661324,Minnesota Lynx,1,2,7,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-46,61,1,1,19990731,MIN,CHA,1999-00
+Shot Chart Detail,1029900130,188,100225,Brandy Reed,1611661324,Minnesota Lynx,1,0,53,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990731,MIN,CHA,1999-00
+Shot Chart Detail,1029900130,223,100225,Brandy Reed,1611661324,Minnesota Lynx,2,16,3,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-212,-10,1,1,19990731,MIN,CHA,1999-00
+Shot Chart Detail,1029900130,265,100225,Brandy Reed,1611661324,Minnesota Lynx,2,12,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-29,151,1,1,19990731,MIN,CHA,1999-00
+Shot Chart Detail,1029900130,267,100225,Brandy Reed,1611661324,Minnesota Lynx,2,11,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,23,1,1,19990731,MIN,CHA,1999-00
+Shot Chart Detail,1029900130,270,100225,Brandy Reed,1611661324,Minnesota Lynx,2,11,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,16,1,0,19990731,MIN,CHA,1999-00
+Shot Chart Detail,1029900130,278,100225,Brandy Reed,1611661324,Minnesota Lynx,2,10,51,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990731,MIN,CHA,1999-00
+Shot Chart Detail,1029900130,292,100225,Brandy Reed,1611661324,Minnesota Lynx,2,9,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-44,218,1,1,19990731,MIN,CHA,1999-00
+Shot Chart Detail,1029900130,298,100225,Brandy Reed,1611661324,Minnesota Lynx,2,9,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,121,186,1,0,19990731,MIN,CHA,1999-00
+Shot Chart Detail,1029900130,305,100225,Brandy Reed,1611661324,Minnesota Lynx,2,8,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,18,89,1,0,19990731,MIN,CHA,1999-00
+Shot Chart Detail,1029900130,335,100225,Brandy Reed,1611661324,Minnesota Lynx,2,4,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,78,46,1,1,19990731,MIN,CHA,1999-00
+Shot Chart Detail,1029900130,353,100225,Brandy Reed,1611661324,Minnesota Lynx,2,1,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-1,218,1,0,19990731,MIN,CHA,1999-00
+Shot Chart Detail,1029900130,365,100225,Brandy Reed,1611661324,Minnesota Lynx,2,0,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,85,113,1,0,19990731,MIN,CHA,1999-00
+Shot Chart Detail,1029900137,19,100225,Brandy Reed,1611661324,Minnesota Lynx,1,16,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-117,16,1,1,19990802,MIN,PHO,1999-00
+Shot Chart Detail,1029900137,23,100225,Brandy Reed,1611661324,Minnesota Lynx,1,15,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-126,46,1,1,19990802,MIN,PHO,1999-00
+Shot Chart Detail,1029900137,86,100225,Brandy Reed,1611661324,Minnesota Lynx,1,9,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-111,173,1,0,19990802,MIN,PHO,1999-00
+Shot Chart Detail,1029900137,96,100225,Brandy Reed,1611661324,Minnesota Lynx,1,8,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,33,57,1,0,19990802,MIN,PHO,1999-00
+Shot Chart Detail,1029900137,99,100225,Brandy Reed,1611661324,Minnesota Lynx,1,8,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,39,93,1,0,19990802,MIN,PHO,1999-00
+Shot Chart Detail,1029900137,129,100225,Brandy Reed,1611661324,Minnesota Lynx,1,5,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,20,-203,33,1,0,19990802,MIN,PHO,1999-00
+Shot Chart Detail,1029900137,133,100225,Brandy Reed,1611661324,Minnesota Lynx,1,5,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-139,1,1,1,19990802,MIN,PHO,1999-00
+Shot Chart Detail,1029900137,257,100225,Brandy Reed,1611661324,Minnesota Lynx,2,13,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,5,162,1,1,19990802,MIN,PHO,1999-00
+Shot Chart Detail,1029900137,321,100225,Brandy Reed,1611661324,Minnesota Lynx,2,6,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,171,33,1,0,19990802,MIN,PHO,1999-00
+Shot Chart Detail,1029900137,331,100225,Brandy Reed,1611661324,Minnesota Lynx,2,5,51,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990802,MIN,PHO,1999-00
+Shot Chart Detail,1029900142,8,100225,Brandy Reed,1611661324,Minnesota Lynx,1,19,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-147,51,1,0,19990804,DET,MIN,1999-00
+Shot Chart Detail,1029900142,114,100225,Brandy Reed,1611661324,Minnesota Lynx,1,9,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-126,33,1,1,19990804,DET,MIN,1999-00
+Shot Chart Detail,1029900142,133,100225,Brandy Reed,1611661324,Minnesota Lynx,1,7,56,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-31,124,1,1,19990804,DET,MIN,1999-00
+Shot Chart Detail,1029900142,139,100225,Brandy Reed,1611661324,Minnesota Lynx,1,6,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-126,173,1,1,19990804,DET,MIN,1999-00
+Shot Chart Detail,1029900142,145,100225,Brandy Reed,1611661324,Minnesota Lynx,1,5,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-12,134,1,1,19990804,DET,MIN,1999-00
+Shot Chart Detail,1029900142,205,100225,Brandy Reed,1611661324,Minnesota Lynx,1,2,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,96,130,1,1,19990804,DET,MIN,1999-00
+Shot Chart Detail,1029900142,178,100225,Brandy Reed,1611661324,Minnesota Lynx,1,1,52,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,40,124,1,1,19990804,DET,MIN,1999-00
+Shot Chart Detail,1029900142,211,100225,Brandy Reed,1611661324,Minnesota Lynx,1,1,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-104,61,1,1,19990804,DET,MIN,1999-00
+Shot Chart Detail,1029900142,215,100225,Brandy Reed,1611661324,Minnesota Lynx,1,0,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-104,72,1,1,19990804,DET,MIN,1999-00
+Shot Chart Detail,1029900142,194,100225,Brandy Reed,1611661324,Minnesota Lynx,1,0,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990804,DET,MIN,1999-00
+Shot Chart Detail,1029900142,217,100225,Brandy Reed,1611661324,Minnesota Lynx,2,16,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-104,119,1,0,19990804,DET,MIN,1999-00
+Shot Chart Detail,1029900142,275,100225,Brandy Reed,1611661324,Minnesota Lynx,2,9,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,96,46,1,1,19990804,DET,MIN,1999-00
+Shot Chart Detail,1029900142,329,100225,Brandy Reed,1611661324,Minnesota Lynx,2,3,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990804,DET,MIN,1999-00
+Shot Chart Detail,1029900142,332,100225,Brandy Reed,1611661324,Minnesota Lynx,2,2,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-96,130,1,0,19990804,DET,MIN,1999-00
+Shot Chart Detail,1029900145,6,100225,Brandy Reed,1611661324,Minnesota Lynx,1,18,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-126,12,1,0,19990806,MIN,LAS,1999-00
+Shot Chart Detail,1029900145,15,100225,Brandy Reed,1611661324,Minnesota Lynx,1,17,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-111,72,1,0,19990806,MIN,LAS,1999-00
+Shot Chart Detail,1029900145,23,100225,Brandy Reed,1611661324,Minnesota Lynx,1,16,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,115,72,1,1,19990806,MIN,LAS,1999-00
+Shot Chart Detail,1029900145,53,100225,Brandy Reed,1611661324,Minnesota Lynx,1,12,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-8,218,1,0,19990806,MIN,LAS,1999-00
+Shot Chart Detail,1029900145,78,100225,Brandy Reed,1611661324,Minnesota Lynx,1,10,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,121,100,1,1,19990806,MIN,LAS,1999-00
+Shot Chart Detail,1029900145,86,100225,Brandy Reed,1611661324,Minnesota Lynx,1,9,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,12,158,1,0,19990806,MIN,LAS,1999-00
+Shot Chart Detail,1029900145,88,100225,Brandy Reed,1611661324,Minnesota Lynx,1,9,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,40,106,1,1,19990806,MIN,LAS,1999-00
+Shot Chart Detail,1029900145,166,100225,Brandy Reed,1611661324,Minnesota Lynx,1,2,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,93,106,1,1,19990806,MIN,LAS,1999-00
+Shot Chart Detail,1029900145,206,100225,Brandy Reed,1611661324,Minnesota Lynx,1,1,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,78,145,1,0,19990806,MIN,LAS,1999-00
+Shot Chart Detail,1029900145,187,100225,Brandy Reed,1611661324,Minnesota Lynx,1,0,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,12,1,1,19990806,MIN,LAS,1999-00
+Shot Chart Detail,1029900145,259,100225,Brandy Reed,1611661324,Minnesota Lynx,2,11,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,143,68,1,1,19990806,MIN,LAS,1999-00
+Shot Chart Detail,1029900145,269,100225,Brandy Reed,1611661324,Minnesota Lynx,2,10,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-154,5,1,0,19990806,MIN,LAS,1999-00
+Shot Chart Detail,1029900145,279,100225,Brandy Reed,1611661324,Minnesota Lynx,2,9,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,23,1,0,19990806,MIN,LAS,1999-00
+Shot Chart Detail,1029900145,291,100225,Brandy Reed,1611661324,Minnesota Lynx,2,8,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,136,72,1,0,19990806,MIN,LAS,1999-00
+Shot Chart Detail,1029900145,324,100225,Brandy Reed,1611661324,Minnesota Lynx,2,4,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-74,169,1,0,19990806,MIN,LAS,1999-00
+Shot Chart Detail,1029900151,52,100225,Brandy Reed,1611661324,Minnesota Lynx,1,13,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-154,-10,1,0,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,55,100225,Brandy Reed,1611661324,Minnesota Lynx,1,12,54,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,33,31,1,1,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,73,100225,Brandy Reed,1611661324,Minnesota Lynx,1,10,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,116,100225,Brandy Reed,1611661324,Minnesota Lynx,1,7,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,158,25,1,0,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,136,100225,Brandy Reed,1611661324,Minnesota Lynx,1,4,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-117,119,1,0,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,197,100225,Brandy Reed,1611661324,Minnesota Lynx,1,2,15,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-8,31,1,0,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,207,100225,Brandy Reed,1611661324,Minnesota Lynx,1,0,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,48,119,1,1,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,253,100225,Brandy Reed,1611661324,Minnesota Lynx,2,12,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,260,100225,Brandy Reed,1611661324,Minnesota Lynx,2,11,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-1,171,1,1,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,295,100225,Brandy Reed,1611661324,Minnesota Lynx,2,7,49,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-59,48,1,1,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,322,100225,Brandy Reed,1611661324,Minnesota Lynx,2,4,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,149,3,1,0,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,358,100225,Brandy Reed,1611661324,Minnesota Lynx,2,1,17,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,366,100225,Brandy Reed,1611661324,Minnesota Lynx,2,0,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,377,100225,Brandy Reed,1611661324,Minnesota Lynx,2,0,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900157,10,100225,Brandy Reed,1611661324,Minnesota Lynx,1,18,34,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,14,48,1,1,19990809,PHO,MIN,1999-00
+Shot Chart Detail,1029900157,32,100225,Brandy Reed,1611661324,Minnesota Lynx,1,14,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990809,PHO,MIN,1999-00
+Shot Chart Detail,1029900157,86,100225,Brandy Reed,1611661324,Minnesota Lynx,1,8,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,112,-7,1,0,19990809,PHO,MIN,1999-00
+Shot Chart Detail,1029900157,85,100225,Brandy Reed,1611661324,Minnesota Lynx,1,8,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,1,111,1,0,19990809,PHO,MIN,1999-00
+Shot Chart Detail,1029900157,203,100225,Brandy Reed,1611661324,Minnesota Lynx,2,15,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-48,162,1,1,19990809,PHO,MIN,1999-00
+Shot Chart Detail,1029900157,223,100225,Brandy Reed,1611661324,Minnesota Lynx,2,13,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,108,-3,1,0,19990809,PHO,MIN,1999-00
+Shot Chart Detail,1029900157,233,100225,Brandy Reed,1611661324,Minnesota Lynx,2,11,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990809,PHO,MIN,1999-00
+Shot Chart Detail,1029900157,247,100225,Brandy Reed,1611661324,Minnesota Lynx,2,10,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990809,PHO,MIN,1999-00
+Shot Chart Detail,1029900157,254,100225,Brandy Reed,1611661324,Minnesota Lynx,2,9,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,29,33,1,0,19990809,PHO,MIN,1999-00
+Shot Chart Detail,1029900157,261,100225,Brandy Reed,1611661324,Minnesota Lynx,2,9,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,78,104,1,0,19990809,PHO,MIN,1999-00
+Shot Chart Detail,1029900157,267,100225,Brandy Reed,1611661324,Minnesota Lynx,2,8,38,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-6,121,1,1,19990809,PHO,MIN,1999-00
+Shot Chart Detail,1029900157,319,100225,Brandy Reed,1611661324,Minnesota Lynx,2,2,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990809,PHO,MIN,1999-00
+Shot Chart Detail,1029900157,320,100225,Brandy Reed,1611661324,Minnesota Lynx,2,2,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990809,PHO,MIN,1999-00
+Shot Chart Detail,1029900157,332,100225,Brandy Reed,1611661324,Minnesota Lynx,2,1,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-143,76,1,1,19990809,PHO,MIN,1999-00
+Shot Chart Detail,1029900157,341,100225,Brandy Reed,1611661324,Minnesota Lynx,2,0,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,8,115,1,0,19990809,PHO,MIN,1999-00

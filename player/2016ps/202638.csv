@@ -1,0 +1,46 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1041600211,2,202638,Jessica Breland,1611661329,Chicago Sky,1,9,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,77,149,1,1,20160925,CHI,ATL,2016-17
+Shot Chart Detail,1041600211,20,202638,Jessica Breland,1611661329,Chicago Sky,1,7,16,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,17,1,1,20160925,CHI,ATL,2016-17
+Shot Chart Detail,1041600211,56,202638,Jessica Breland,1611661329,Chicago Sky,1,3,59,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,105,15,1,0,20160925,CHI,ATL,2016-17
+Shot Chart Detail,1041600211,65,202638,Jessica Breland,1611661329,Chicago Sky,1,3,3,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,60,1,1,20160925,CHI,ATL,2016-17
+Shot Chart Detail,1041600211,127,202638,Jessica Breland,1611661329,Chicago Sky,2,7,58,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,19,1,0,20160925,CHI,ATL,2016-17
+Shot Chart Detail,1041600211,152,202638,Jessica Breland,1611661329,Chicago Sky,2,5,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,23,1,1,20160925,CHI,ATL,2016-17
+Shot Chart Detail,1041600211,257,202638,Jessica Breland,1611661329,Chicago Sky,3,6,41,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,0,126,1,1,20160925,CHI,ATL,2016-17
+Shot Chart Detail,1041600211,273,202638,Jessica Breland,1611661329,Chicago Sky,3,5,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-125,148,1,1,20160925,CHI,ATL,2016-17
+Shot Chart Detail,1041600211,284,202638,Jessica Breland,1611661329,Chicago Sky,3,4,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,103,28,1,1,20160925,CHI,ATL,2016-17
+Shot Chart Detail,1041600211,348,202638,Jessica Breland,1611661329,Chicago Sky,3,1,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-177,159,1,0,20160925,CHI,ATL,2016-17
+Shot Chart Detail,1041600211,410,202638,Jessica Breland,1611661329,Chicago Sky,4,7,35,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,7,1,1,20160925,CHI,ATL,2016-17
+Shot Chart Detail,1041600211,413,202638,Jessica Breland,1611661329,Chicago Sky,4,7,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,2,159,1,1,20160925,CHI,ATL,2016-17
+Shot Chart Detail,1041600211,448,202638,Jessica Breland,1611661329,Chicago Sky,4,5,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,7,1,1,20160925,CHI,ATL,2016-17
+Shot Chart Detail,1041600211,491,202638,Jessica Breland,1611661329,Chicago Sky,4,1,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-161,44,1,0,20160925,CHI,ATL,2016-17
+Shot Chart Detail,1041600311,9,202638,Jessica Breland,1611661329,Chicago Sky,1,8,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-48,187,1,0,20160928,LAS,CHI,2016-17
+Shot Chart Detail,1041600311,44,202638,Jessica Breland,1611661329,Chicago Sky,1,7,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-5,183,1,0,20160928,LAS,CHI,2016-17
+Shot Chart Detail,1041600311,90,202638,Jessica Breland,1611661329,Chicago Sky,1,2,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,7,1,0,20160928,LAS,CHI,2016-17
+Shot Chart Detail,1041600311,170,202638,Jessica Breland,1611661329,Chicago Sky,2,4,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,97,131,1,0,20160928,LAS,CHI,2016-17
+Shot Chart Detail,1041600311,173,202638,Jessica Breland,1611661329,Chicago Sky,2,4,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,4,1,1,20160928,LAS,CHI,2016-17
+Shot Chart Detail,1041600311,232,202638,Jessica Breland,1611661329,Chicago Sky,3,8,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,3,1,1,20160928,LAS,CHI,2016-17
+Shot Chart Detail,1041600311,248,202638,Jessica Breland,1611661329,Chicago Sky,3,7,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,99,126,1,0,20160928,LAS,CHI,2016-17
+Shot Chart Detail,1041600311,274,202638,Jessica Breland,1611661329,Chicago Sky,3,4,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,70,170,1,0,20160928,LAS,CHI,2016-17
+Shot Chart Detail,1041600311,469,202638,Jessica Breland,1611661329,Chicago Sky,4,0,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,12,172,1,0,20160928,LAS,CHI,2016-17
+Shot Chart Detail,1041600312,17,202638,Jessica Breland,1611661329,Chicago Sky,1,8,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,9,67,1,0,20160930,LAS,CHI,2016-17
+Shot Chart Detail,1041600312,43,202638,Jessica Breland,1611661329,Chicago Sky,1,6,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-128,104,1,1,20160930,LAS,CHI,2016-17
+Shot Chart Detail,1041600312,59,202638,Jessica Breland,1611661329,Chicago Sky,1,5,6,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-51,178,1,0,20160930,LAS,CHI,2016-17
+Shot Chart Detail,1041600312,186,202638,Jessica Breland,1611661329,Chicago Sky,2,4,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,15,1,0,20160930,LAS,CHI,2016-17
+Shot Chart Detail,1041600312,291,202638,Jessica Breland,1611661329,Chicago Sky,3,5,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,20,1,0,20160930,LAS,CHI,2016-17
+Shot Chart Detail,1041600312,292,202638,Jessica Breland,1611661329,Chicago Sky,3,5,35,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,0,20160930,LAS,CHI,2016-17
+Shot Chart Detail,1041600313,4,202638,Jessica Breland,1611661329,Chicago Sky,1,9,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,3,1,1,20161002,CHI,LAS,2016-17
+Shot Chart Detail,1041600313,27,202638,Jessica Breland,1611661329,Chicago Sky,1,6,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-64,201,1,0,20161002,CHI,LAS,2016-17
+Shot Chart Detail,1041600313,210,202638,Jessica Breland,1611661329,Chicago Sky,3,9,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,14,1,1,20161002,CHI,LAS,2016-17
+Shot Chart Detail,1041600313,213,202638,Jessica Breland,1611661329,Chicago Sky,3,8,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,39,190,1,0,20161002,CHI,LAS,2016-17
+Shot Chart Detail,1041600313,237,202638,Jessica Breland,1611661329,Chicago Sky,3,6,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,36,1,1,20161002,CHI,LAS,2016-17
+Shot Chart Detail,1041600313,279,202638,Jessica Breland,1611661329,Chicago Sky,3,2,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,12,1,1,20161002,CHI,LAS,2016-17
+Shot Chart Detail,1041600313,308,202638,Jessica Breland,1611661329,Chicago Sky,4,9,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,154,48,1,0,20161002,CHI,LAS,2016-17
+Shot Chart Detail,1041600314,10,202638,Jessica Breland,1611661329,Chicago Sky,1,9,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-10,96,1,0,20161004,CHI,LAS,2016-17
+Shot Chart Detail,1041600314,18,202638,Jessica Breland,1611661329,Chicago Sky,1,7,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-51,15,1,1,20161004,CHI,LAS,2016-17
+Shot Chart Detail,1041600314,49,202638,Jessica Breland,1611661329,Chicago Sky,1,3,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,81,179,1,1,20161004,CHI,LAS,2016-17
+Shot Chart Detail,1041600314,167,202638,Jessica Breland,1611661329,Chicago Sky,2,2,40,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-70,134,1,1,20161004,CHI,LAS,2016-17
+Shot Chart Detail,1041600314,222,202638,Jessica Breland,1611661329,Chicago Sky,3,8,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-4,48,1,0,20161004,CHI,LAS,2016-17
+Shot Chart Detail,1041600314,246,202638,Jessica Breland,1611661329,Chicago Sky,3,6,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,47,187,1,1,20161004,CHI,LAS,2016-17
+Shot Chart Detail,1041600314,266,202638,Jessica Breland,1611661329,Chicago Sky,3,4,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,32,149,1,1,20161004,CHI,LAS,2016-17
+Shot Chart Detail,1041600314,270,202638,Jessica Breland,1611661329,Chicago Sky,3,4,5,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,14,1,1,20161004,CHI,LAS,2016-17
+Shot Chart Detail,1041600314,373,202638,Jessica Breland,1611661329,Chicago Sky,4,6,6,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,17,1,0,20161004,CHI,LAS,2016-17

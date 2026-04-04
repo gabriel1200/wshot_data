@@ -1,0 +1,23 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1040800101,73,100666,Katie Douglas,1611661325,Indiana Fever,1,1,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-28,2,1,0,20080919,IND,DET,2008-09
+Shot Chart Detail,1040800101,82,100666,Katie Douglas,1611661325,Indiana Fever,1,0,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-199,92,1,0,20080919,IND,DET,2008-09
+Shot Chart Detail,1040800101,156,100666,Katie Douglas,1611661325,Indiana Fever,2,1,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,22,-225,36,1,0,20080919,IND,DET,2008-09
+Shot Chart Detail,1040800101,300,100666,Katie Douglas,1611661325,Indiana Fever,4,5,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,0,1,0,20080919,IND,DET,2008-09
+Shot Chart Detail,1040800102,16,100666,Katie Douglas,1611661325,Indiana Fever,1,7,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,161,77,1,1,20080921,DET,IND,2008-09
+Shot Chart Detail,1040800102,19,100666,Katie Douglas,1611661325,Indiana Fever,1,6,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,207,74,1,1,20080921,DET,IND,2008-09
+Shot Chart Detail,1040800102,91,100666,Katie Douglas,1611661325,Indiana Fever,2,8,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080921,DET,IND,2008-09
+Shot Chart Detail,1040800102,115,100666,Katie Douglas,1611661325,Indiana Fever,2,6,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,77,151,1,0,20080921,DET,IND,2008-09
+Shot Chart Detail,1040800102,347,100666,Katie Douglas,1611661325,Indiana Fever,4,2,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-187,127,1,0,20080921,DET,IND,2008-09
+Shot Chart Detail,1040800103,47,100666,Katie Douglas,1611661325,Indiana Fever,1,3,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-51,173,1,0,20080923,DET,IND,2008-09
+Shot Chart Detail,1040800103,61,100666,Katie Douglas,1611661325,Indiana Fever,1,1,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-149,43,1,0,20080923,DET,IND,2008-09
+Shot Chart Detail,1040800103,177,100666,Katie Douglas,1611661325,Indiana Fever,2,0,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-94,133,1,0,20080923,DET,IND,2008-09
+Shot Chart Detail,1040800103,196,100666,Katie Douglas,1611661325,Indiana Fever,3,8,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080923,DET,IND,2008-09
+Shot Chart Detail,1040800103,201,100666,Katie Douglas,1611661325,Indiana Fever,3,7,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080923,DET,IND,2008-09
+Shot Chart Detail,1040800103,237,100666,Katie Douglas,1611661325,Indiana Fever,3,4,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-158,161,1,0,20080923,DET,IND,2008-09
+Shot Chart Detail,1040800103,243,100666,Katie Douglas,1611661325,Indiana Fever,3,3,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080923,DET,IND,2008-09
+Shot Chart Detail,1040800103,246,100666,Katie Douglas,1611661325,Indiana Fever,3,3,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080923,DET,IND,2008-09
+Shot Chart Detail,1040800103,249,100666,Katie Douglas,1611661325,Indiana Fever,3,3,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080923,DET,IND,2008-09
+Shot Chart Detail,1040800103,252,100666,Katie Douglas,1611661325,Indiana Fever,3,2,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080923,DET,IND,2008-09
+Shot Chart Detail,1040800103,300,100666,Katie Douglas,1611661325,Indiana Fever,4,9,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-89,209,1,0,20080923,DET,IND,2008-09
+Shot Chart Detail,1040800103,332,100666,Katie Douglas,1611661325,Indiana Fever,4,5,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-146,186,1,0,20080923,DET,IND,2008-09
+Shot Chart Detail,1040800103,341,100666,Katie Douglas,1611661325,Indiana Fever,4,4,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-161,174,1,0,20080923,DET,IND,2008-09

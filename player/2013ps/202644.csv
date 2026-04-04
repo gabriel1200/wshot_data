@@ -1,0 +1,7 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1041300211,379,202644,Amber Harris,1611661324,Minnesota Lynx,4,4,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-56,172,1,1,20130926,MIN,PHO,2013-14
+Shot Chart Detail,1041300301,368,202644,Amber Harris,1611661324,Minnesota Lynx,4,4,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,4,1,0,20131006,MIN,ATL,2013-14
+Shot Chart Detail,1041300301,370,202644,Amber Harris,1611661324,Minnesota Lynx,4,4,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,19,1,0,20131006,MIN,ATL,2013-14
+Shot Chart Detail,1041300301,400,202644,Amber Harris,1611661324,Minnesota Lynx,4,1,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,20,1,0,20131006,MIN,ATL,2013-14
+Shot Chart Detail,1041300301,421,202644,Amber Harris,1611661324,Minnesota Lynx,4,0,41,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,9,1,0,20131006,MIN,ATL,2013-14
+Shot Chart Detail,1041300302,454,202644,Amber Harris,1611661324,Minnesota Lynx,4,1,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,0,183,1,1,20131008,MIN,ATL,2013-14

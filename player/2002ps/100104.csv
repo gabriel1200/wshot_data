@@ -1,0 +1,15 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1040200102,239,100104,Sue Wicks,1611661313,New York Liberty,2,10,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,3,61,1,0,20020818,NYL,IND,2002-03
+Shot Chart Detail,1040200103,221,100104,Sue Wicks,1611661313,New York Liberty,2,13,47,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-1,66,1,1,20020820,NYL,IND,2002-03
+Shot Chart Detail,1040200201,261,100104,Sue Wicks,1611661313,New York Liberty,2,7,4,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-25,40,1,1,20020822,WAS,NYL,2002-03
+Shot Chart Detail,1040200202,220,100104,Sue Wicks,1611661313,New York Liberty,2,12,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-23,72,1,1,20020824,NYL,WAS,2002-03
+Shot Chart Detail,1040200202,293,100104,Sue Wicks,1611661313,New York Liberty,2,5,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020824,NYL,WAS,2002-03
+Shot Chart Detail,1040200203,87,100104,Sue Wicks,1611661313,New York Liberty,1,10,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020825,NYL,WAS,2002-03
+Shot Chart Detail,1040200203,139,100104,Sue Wicks,1611661313,New York Liberty,1,4,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-107,7,1,0,20020825,NYL,WAS,2002-03
+Shot Chart Detail,1040200301,90,100104,Sue Wicks,1611661313,New York Liberty,1,8,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020829,NYL,LAS,2002-03
+Shot Chart Detail,1040200301,321,100104,Sue Wicks,1611661313,New York Liberty,2,2,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020829,NYL,LAS,2002-03
+Shot Chart Detail,1040200301,324,100104,Sue Wicks,1611661313,New York Liberty,2,1,35,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,218,-13,1,1,20020829,NYL,LAS,2002-03
+Shot Chart Detail,1040200302,102,100104,Sue Wicks,1611661313,New York Liberty,1,8,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020831,LAS,NYL,2002-03
+Shot Chart Detail,1040200302,174,100104,Sue Wicks,1611661313,New York Liberty,1,2,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-88,106,1,0,20020831,LAS,NYL,2002-03
+Shot Chart Detail,1040200302,176,100104,Sue Wicks,1611661313,New York Liberty,1,2,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020831,LAS,NYL,2002-03
+Shot Chart Detail,1040200302,308,100104,Sue Wicks,1611661313,New York Liberty,2,9,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-58,55,1,0,20020831,LAS,NYL,2002-03

@@ -1,0 +1,26 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1040900131,117,201067,Camille Smith,1611661328,Seattle Storm,1,0,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,110,80,1,1,20090916,LAS,SEA,2009-10
+Shot Chart Detail,1040900131,123,201067,Camille Smith,1611661328,Seattle Storm,2,9,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090916,LAS,SEA,2009-10
+Shot Chart Detail,1040900131,148,201067,Camille Smith,1611661328,Seattle Storm,2,7,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090916,LAS,SEA,2009-10
+Shot Chart Detail,1040900131,234,201067,Camille Smith,1611661328,Seattle Storm,3,9,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090916,LAS,SEA,2009-10
+Shot Chart Detail,1040900131,369,201067,Camille Smith,1611661328,Seattle Storm,4,7,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090916,LAS,SEA,2009-10
+Shot Chart Detail,1040900131,411,201067,Camille Smith,1611661328,Seattle Storm,4,2,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,20,228,1,0,20090916,LAS,SEA,2009-10
+Shot Chart Detail,1040900132,4,201067,Camille Smith,1611661328,Seattle Storm,1,9,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,173,39,1,0,20090918,SEA,LAS,2009-10
+Shot Chart Detail,1040900132,121,201067,Camille Smith,1611661328,Seattle Storm,2,7,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090918,SEA,LAS,2009-10
+Shot Chart Detail,1040900132,138,201067,Camille Smith,1611661328,Seattle Storm,2,5,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090918,SEA,LAS,2009-10
+Shot Chart Detail,1040900132,299,201067,Camille Smith,1611661328,Seattle Storm,3,0,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090918,SEA,LAS,2009-10
+Shot Chart Detail,1040900132,362,201067,Camille Smith,1611661328,Seattle Storm,4,2,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-54,25,1,0,20090918,SEA,LAS,2009-10
+Shot Chart Detail,1040900132,408,201067,Camille Smith,1611661328,Seattle Storm,4,0,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090918,SEA,LAS,2009-10
+Shot Chart Detail,1040900133,2,201067,Camille Smith,1611661328,Seattle Storm,1,9,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-153,115,1,0,20090920,SEA,LAS,2009-10
+Shot Chart Detail,1040900133,5,201067,Camille Smith,1611661328,Seattle Storm,1,9,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090920,SEA,LAS,2009-10
+Shot Chart Detail,1040900133,91,201067,Camille Smith,1611661328,Seattle Storm,1,2,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-75,14,1,0,20090920,SEA,LAS,2009-10
+Shot Chart Detail,1040900133,138,201067,Camille Smith,1611661328,Seattle Storm,1,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-65,211,1,0,20090920,SEA,LAS,2009-10
+Shot Chart Detail,1040900133,148,201067,Camille Smith,1611661328,Seattle Storm,2,8,59,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-70,23,1,1,20090920,SEA,LAS,2009-10
+Shot Chart Detail,1040900133,159,201067,Camille Smith,1611661328,Seattle Storm,2,7,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090920,SEA,LAS,2009-10
+Shot Chart Detail,1040900133,280,201067,Camille Smith,1611661328,Seattle Storm,3,9,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-155,145,1,0,20090920,SEA,LAS,2009-10
+Shot Chart Detail,1040900133,301,201067,Camille Smith,1611661328,Seattle Storm,3,6,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,97,208,1,0,20090920,SEA,LAS,2009-10
+Shot Chart Detail,1040900133,317,201067,Camille Smith,1611661328,Seattle Storm,3,4,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090920,SEA,LAS,2009-10
+Shot Chart Detail,1040900133,344,201067,Camille Smith,1611661328,Seattle Storm,3,1,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,48,30,1,0,20090920,SEA,LAS,2009-10
+Shot Chart Detail,1040900133,411,201067,Camille Smith,1611661328,Seattle Storm,4,4,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,4,235,1,1,20090920,SEA,LAS,2009-10
+Shot Chart Detail,1040900133,416,201067,Camille Smith,1611661328,Seattle Storm,4,3,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090920,SEA,LAS,2009-10
+Shot Chart Detail,1040900133,440,201067,Camille Smith,1611661328,Seattle Storm,4,2,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-18,225,1,0,20090920,SEA,LAS,2009-10

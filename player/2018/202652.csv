@@ -1,0 +1,20 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1021800002,271,202652,Alex Montgomery,1611661329,Chicago Sky,2,0,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),24+ ft.,23,231,43,1,0,20180519,IND,CHI,2018-19
+Shot Chart Detail,1021800007,235,202652,Alex Montgomery,1611661329,Chicago Sky,2,3,21,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-152,95,1,0,20180520,CHI,NYL,2018-19
+Shot Chart Detail,1021800007,384,202652,Alex Montgomery,1611661329,Chicago Sky,3,2,18,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-14,90,1,0,20180520,CHI,NYL,2018-19
+Shot Chart Detail,1021800011,85,202652,Alex Montgomery,1611661329,Chicago Sky,1,3,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,17,27,1,0,20180523,CHI,ATL,2018-19
+Shot Chart Detail,1021800011,114,202652,Alex Montgomery,1611661329,Chicago Sky,1,2,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,98,73,1,0,20180523,CHI,ATL,2018-19
+Shot Chart Detail,1021800011,135,202652,Alex Montgomery,1611661329,Chicago Sky,1,1,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-3,36,1,0,20180523,CHI,ATL,2018-19
+Shot Chart Detail,1021800011,143,202652,Alex Montgomery,1611661329,Chicago Sky,1,0,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-168,33,1,0,20180523,CHI,ATL,2018-19
+Shot Chart Detail,1021800011,437,202652,Alex Montgomery,1611661329,Chicago Sky,3,0,45,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-22,155,1,0,20180523,CHI,ATL,2018-19
+Shot Chart Detail,1021800029,100,202652,Alex Montgomery,1611661329,Chicago Sky,1,2,58,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,0,1,1,20180601,CHI,CON,2018-19
+Shot Chart Detail,1021800029,122,202652,Alex Montgomery,1611661329,Chicago Sky,1,1,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-3,54,1,0,20180601,CHI,CON,2018-19
+Shot Chart Detail,1021800029,414,202652,Alex Montgomery,1611661329,Chicago Sky,3,2,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,41,82,1,0,20180601,CHI,CON,2018-19
+Shot Chart Detail,1021800029,430,202652,Alex Montgomery,1611661329,Chicago Sky,3,1,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-207,4,1,1,20180601,CHI,CON,2018-19
+Shot Chart Detail,1021800036,166,202652,Alex Montgomery,1611661329,Chicago Sky,2,9,3,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,35,59,1,0,20180603,CHI,LVA,2018-19
+Shot Chart Detail,1021800047,535,202652,Alex Montgomery,1611661329,Chicago Sky,4,2,36,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-39,15,1,0,20180610,LAS,CHI,2018-19
+Shot Chart Detail,1021800066,274,202652,Alex Montgomery,1611661329,Chicago Sky,2,2,58,Missed Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,39,1,0,20180619,WAS,CHI,2018-19
+Shot Chart Detail,1021800066,283,202652,Alex Montgomery,1611661329,Chicago Sky,2,2,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,207,92,1,0,20180619,WAS,CHI,2018-19
+Shot Chart Detail,1021800107,67,202652,Alex Montgomery,1611661329,Chicago Sky,1,3,49,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,55,51,1,1,20180705,LVA,CHI,2018-19
+Shot Chart Detail,1021800111,428,202652,Alex Montgomery,1611661329,Chicago Sky,4,9,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,12,1,1,20180707,CHI,MIN,2018-19
+Shot Chart Detail,1021800129,530,202652,Alex Montgomery,1611661329,Chicago Sky,4,3,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-144,38,1,1,20180715,NYL,CHI,2018-19

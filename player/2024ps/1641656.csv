@@ -1,0 +1,6 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1042400101,420,1641656,Laeticia Amihere,1611661330,Atlanta Dream,4,8,42,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-35,0,1,0,20240922,NYL,ATL,2024-25
+Shot Chart Detail,1042400101,444,1641656,Laeticia Amihere,1611661330,Atlanta Dream,4,7,32,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,13,1,1,20240922,NYL,ATL,2024-25
+Shot Chart Detail,1042400101,460,1641656,Laeticia Amihere,1611661330,Atlanta Dream,4,6,59,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,32,27,1,0,20240922,NYL,ATL,2024-25
+Shot Chart Detail,1042400101,528,1641656,Laeticia Amihere,1611661330,Atlanta Dream,4,2,19,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,20,1,1,20240922,NYL,ATL,2024-25
+Shot Chart Detail,1042400101,541,1641656,Laeticia Amihere,1611661330,Atlanta Dream,4,1,0,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,24,36,1,1,20240922,NYL,ATL,2024-25

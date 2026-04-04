@@ -1,0 +1,111 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020800001,82,100416,Sheri Sam,1611661321,Detroit Shock,1,1,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,26,179,1,0,20080517,DET,HOU,2008-09
+Shot Chart Detail,1020800001,84,100416,Sheri Sam,1611661321,Detroit Shock,1,1,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080517,DET,HOU,2008-09
+Shot Chart Detail,1020800001,105,100416,Sheri Sam,1611661321,Detroit Shock,1,0,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080517,DET,HOU,2008-09
+Shot Chart Detail,1020800001,126,100416,Sheri Sam,1611661321,Detroit Shock,2,7,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,118,112,1,0,20080517,DET,HOU,2008-09
+Shot Chart Detail,1020800001,364,100416,Sheri Sam,1611661321,Detroit Shock,4,6,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080517,DET,HOU,2008-09
+Shot Chart Detail,1020800001,403,100416,Sheri Sam,1611661321,Detroit Shock,4,2,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,136,64,1,1,20080517,DET,HOU,2008-09
+Shot Chart Detail,1020800008,415,100416,Sheri Sam,1611661321,Detroit Shock,4,3,10,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080518,MIN,DET,2008-09
+Shot Chart Detail,1020800008,419,100416,Sheri Sam,1611661321,Detroit Shock,4,2,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,131,30,1,0,20080518,MIN,DET,2008-09
+Shot Chart Detail,1020800008,428,100416,Sheri Sam,1611661321,Detroit Shock,4,2,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-103,128,1,0,20080518,MIN,DET,2008-09
+Shot Chart Detail,1020800011,88,100416,Sheri Sam,1611661321,Detroit Shock,1,0,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-136,53,1,0,20080521,DET,IND,2008-09
+Shot Chart Detail,1020800011,98,100416,Sheri Sam,1611661321,Detroit Shock,2,8,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,36,173,1,0,20080521,DET,IND,2008-09
+Shot Chart Detail,1020800011,101,100416,Sheri Sam,1611661321,Detroit Shock,2,8,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,-69,220,1,0,20080521,DET,IND,2008-09
+Shot Chart Detail,1020800011,184,100416,Sheri Sam,1611661321,Detroit Shock,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-20,99,1,0,20080521,DET,IND,2008-09
+Shot Chart Detail,1020800011,323,100416,Sheri Sam,1611661321,Detroit Shock,4,6,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-6,174,1,0,20080521,DET,IND,2008-09
+Shot Chart Detail,1020800015,162,100416,Sheri Sam,1611661321,Detroit Shock,2,6,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-136,56,1,0,20080523,ATL,DET,2008-09
+Shot Chart Detail,1020800015,231,100416,Sheri Sam,1611661321,Detroit Shock,2,2,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,29,71,1,0,20080523,ATL,DET,2008-09
+Shot Chart Detail,1020800015,256,100416,Sheri Sam,1611661321,Detroit Shock,2,0,8,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-2,112,1,1,20080523,ATL,DET,2008-09
+Shot Chart Detail,1020800020,84,100416,Sheri Sam,1611661321,Detroit Shock,1,0,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-123,82,1,0,20080525,DET,NYL,2008-09
+Shot Chart Detail,1020800020,128,100416,Sheri Sam,1611661321,Detroit Shock,2,4,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-94,161,1,0,20080525,DET,NYL,2008-09
+Shot Chart Detail,1020800020,134,100416,Sheri Sam,1611661321,Detroit Shock,2,4,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,75,224,1,0,20080525,DET,NYL,2008-09
+Shot Chart Detail,1020800020,291,100416,Sheri Sam,1611661321,Detroit Shock,4,9,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,126,43,1,0,20080525,DET,NYL,2008-09
+Shot Chart Detail,1020800044,108,100416,Sheri Sam,1611661321,Detroit Shock,2,8,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,-1,1,0,20080606,SAC,DET,2008-09
+Shot Chart Detail,1020800048,120,100416,Sheri Sam,1611661321,Detroit Shock,2,8,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080607,SEA,DET,2008-09
+Shot Chart Detail,1020800048,141,100416,Sheri Sam,1611661321,Detroit Shock,2,7,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,149,160,1,1,20080607,SEA,DET,2008-09
+Shot Chart Detail,1020800048,148,100416,Sheri Sam,1611661321,Detroit Shock,2,6,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,133,123,1,0,20080607,SEA,DET,2008-09
+Shot Chart Detail,1020800057,147,100416,Sheri Sam,1611661321,Detroit Shock,2,8,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080611,LAS,DET,2008-09
+Shot Chart Detail,1020800063,13,100416,Sheri Sam,1611661321,Detroit Shock,1,8,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-159,145,1,0,20080614,PHO,DET,2008-09
+Shot Chart Detail,1020800063,33,100416,Sheri Sam,1611661321,Detroit Shock,1,6,13,Missed Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-67,35,1,0,20080614,PHO,DET,2008-09
+Shot Chart Detail,1020800063,110,100416,Sheri Sam,1611661321,Detroit Shock,1,0,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,131,41,1,0,20080614,PHO,DET,2008-09
+Shot Chart Detail,1020800063,123,100416,Sheri Sam,1611661321,Detroit Shock,2,9,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,166,87,1,1,20080614,PHO,DET,2008-09
+Shot Chart Detail,1020800063,129,100416,Sheri Sam,1611661321,Detroit Shock,2,8,55,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-217,17,1,0,20080614,PHO,DET,2008-09
+Shot Chart Detail,1020800063,251,100416,Sheri Sam,1611661321,Detroit Shock,3,8,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-6,43,1,0,20080614,PHO,DET,2008-09
+Shot Chart Detail,1020800063,258,100416,Sheri Sam,1611661321,Detroit Shock,3,7,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,195,91,1,0,20080614,PHO,DET,2008-09
+Shot Chart Detail,1020800076,15,100416,Sheri Sam,1611661321,Detroit Shock,1,7,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,56,135,1,0,20080620,DET,MIN,2008-09
+Shot Chart Detail,1020800082,13,100416,Sheri Sam,1611661321,Detroit Shock,1,8,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,-5,1,0,20080622,ATL,DET,2008-09
+Shot Chart Detail,1020800082,137,100416,Sheri Sam,1611661321,Detroit Shock,2,7,6,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,71,53,1,1,20080622,ATL,DET,2008-09
+Shot Chart Detail,1020800082,403,100416,Sheri Sam,1611661321,Detroit Shock,4,5,22,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080622,ATL,DET,2008-09
+Shot Chart Detail,1020800082,414,100416,Sheri Sam,1611661321,Detroit Shock,4,4,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080622,ATL,DET,2008-09
+Shot Chart Detail,1020800087,7,100416,Sheri Sam,1611661321,Detroit Shock,1,9,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,130,176,1,1,20080624,CON,DET,2008-09
+Shot Chart Detail,1020800087,25,100416,Sheri Sam,1611661321,Detroit Shock,1,6,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,120,33,1,0,20080624,CON,DET,2008-09
+Shot Chart Detail,1020800087,140,100416,Sheri Sam,1611661321,Detroit Shock,2,7,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-29,51,1,0,20080624,CON,DET,2008-09
+Shot Chart Detail,1020800087,193,100416,Sheri Sam,1611661321,Detroit Shock,2,2,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-163,153,1,1,20080624,CON,DET,2008-09
+Shot Chart Detail,1020800087,307,100416,Sheri Sam,1611661321,Detroit Shock,3,0,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,2,1,1,20080624,CON,DET,2008-09
+Shot Chart Detail,1020800087,375,100416,Sheri Sam,1611661321,Detroit Shock,4,4,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,90,166,1,0,20080624,CON,DET,2008-09
+Shot Chart Detail,1020800087,384,100416,Sheri Sam,1611661321,Detroit Shock,4,3,0,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,15,1,0,20080624,CON,DET,2008-09
+Shot Chart Detail,1020800093,6,100416,Sheri Sam,1611661321,Detroit Shock,1,7,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,79,86,1,0,20080626,DET,CON,2008-09
+Shot Chart Detail,1020800093,134,100416,Sheri Sam,1611661321,Detroit Shock,2,6,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-28,132,1,0,20080626,DET,CON,2008-09
+Shot Chart Detail,1020800093,142,100416,Sheri Sam,1611661321,Detroit Shock,2,5,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080626,DET,CON,2008-09
+Shot Chart Detail,1020800093,253,100416,Sheri Sam,1611661321,Detroit Shock,3,6,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,11,176,1,1,20080626,DET,CON,2008-09
+Shot Chart Detail,1020800093,402,100416,Sheri Sam,1611661321,Detroit Shock,4,3,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,1,99,1,0,20080626,DET,CON,2008-09
+Shot Chart Detail,1020800099,6,100416,Sheri Sam,1611661321,Detroit Shock,1,8,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-51,156,1,0,20080628,CHI,DET,2008-09
+Shot Chart Detail,1020800099,154,100416,Sheri Sam,1611661321,Detroit Shock,2,4,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,102,186,1,0,20080628,CHI,DET,2008-09
+Shot Chart Detail,1020800099,388,100416,Sheri Sam,1611661321,Detroit Shock,4,3,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-141,183,1,1,20080628,CHI,DET,2008-09
+Shot Chart Detail,1020800104,90,100416,Sheri Sam,1611661321,Detroit Shock,1,0,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,67,69,1,1,20080629,DET,ATL,2008-09
+Shot Chart Detail,1020800104,160,100416,Sheri Sam,1611661321,Detroit Shock,2,4,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080629,DET,ATL,2008-09
+Shot Chart Detail,1020800104,334,100416,Sheri Sam,1611661321,Detroit Shock,3,1,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,158,151,1,0,20080629,DET,ATL,2008-09
+Shot Chart Detail,1020800109,21,100416,Sheri Sam,1611661321,Detroit Shock,1,7,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-77,58,1,1,20080701,SAN,DET,2008-09
+Shot Chart Detail,1020800109,28,100416,Sheri Sam,1611661321,Detroit Shock,1,6,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,118,-3,1,0,20080701,SAN,DET,2008-09
+Shot Chart Detail,1020800109,173,100416,Sheri Sam,1611661321,Detroit Shock,2,2,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,61,54,1,1,20080701,SAN,DET,2008-09
+Shot Chart Detail,1020800109,175,100416,Sheri Sam,1611661321,Detroit Shock,2,2,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,13,1,0,20080701,SAN,DET,2008-09
+Shot Chart Detail,1020800126,47,100416,Sheri Sam,1611661321,Detroit Shock,1,5,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080708,DET,CON,2008-09
+Shot Chart Detail,1020800126,51,100416,Sheri Sam,1611661321,Detroit Shock,1,4,56,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,3,51,1,0,20080708,DET,CON,2008-09
+Shot Chart Detail,1020800126,54,100416,Sheri Sam,1611661321,Detroit Shock,1,4,24,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,80,43,1,1,20080708,DET,CON,2008-09
+Shot Chart Detail,1020800126,113,100416,Sheri Sam,1611661321,Detroit Shock,2,10,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080708,DET,CON,2008-09
+Shot Chart Detail,1020800126,121,100416,Sheri Sam,1611661321,Detroit Shock,2,9,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080708,DET,CON,2008-09
+Shot Chart Detail,1020800126,201,100416,Sheri Sam,1611661321,Detroit Shock,2,0,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,103,43,1,0,20080708,DET,CON,2008-09
+Shot Chart Detail,1020800126,329,100416,Sheri Sam,1611661321,Detroit Shock,4,9,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,54,135,1,0,20080708,DET,CON,2008-09
+Shot Chart Detail,1020800134,131,100416,Sheri Sam,1611661321,Detroit Shock,2,5,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-72,169,1,0,20080711,DET,WAS,2008-09
+Shot Chart Detail,1020800134,207,100416,Sheri Sam,1611661321,Detroit Shock,3,9,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-161,15,1,0,20080711,DET,WAS,2008-09
+Shot Chart Detail,1020800134,344,100416,Sheri Sam,1611661321,Detroit Shock,4,4,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-149,105,1,0,20080711,DET,WAS,2008-09
+Shot Chart Detail,1020800137,4,100416,Sheri Sam,1611661321,Detroit Shock,1,9,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,13,1,0,20080712,NYL,DET,2008-09
+Shot Chart Detail,1020800137,206,100416,Sheri Sam,1611661321,Detroit Shock,2,0,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-138,122,1,0,20080712,NYL,DET,2008-09
+Shot Chart Detail,1020800146,74,100416,Sheri Sam,1611661321,Detroit Shock,1,1,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-164,89,1,0,20080716,DET,CHI,2008-09
+Shot Chart Detail,1020800146,77,100416,Sheri Sam,1611661321,Detroit Shock,1,1,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,20,-171,118,1,0,20080716,DET,CHI,2008-09
+Shot Chart Detail,1020800146,90,100416,Sheri Sam,1611661321,Detroit Shock,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-143,61,1,0,20080716,DET,CHI,2008-09
+Shot Chart Detail,1020800146,166,100416,Sheri Sam,1611661321,Detroit Shock,2,1,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,45,1,0,20080716,DET,CHI,2008-09
+Shot Chart Detail,1020800151,17,100416,Sheri Sam,1611661321,Detroit Shock,1,7,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-130,64,1,1,20080718,WAS,DET,2008-09
+Shot Chart Detail,1020800151,165,100416,Sheri Sam,1611661321,Detroit Shock,2,5,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,154,179,1,0,20080718,WAS,DET,2008-09
+Shot Chart Detail,1020800151,251,100416,Sheri Sam,1611661321,Detroit Shock,3,9,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,163,186,1,0,20080718,WAS,DET,2008-09
+Shot Chart Detail,1020800172,11,100416,Sheri Sam,1611661321,Detroit Shock,1,8,41,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,3,125,1,1,20080724,HOU,DET,2008-09
+Shot Chart Detail,1020800172,14,100416,Sheri Sam,1611661321,Detroit Shock,1,8,20,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080724,HOU,DET,2008-09
+Shot Chart Detail,1020800172,27,100416,Sheri Sam,1611661321,Detroit Shock,1,6,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-120,148,1,1,20080724,HOU,DET,2008-09
+Shot Chart Detail,1020800172,30,100416,Sheri Sam,1611661321,Detroit Shock,1,6,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,135,169,1,0,20080724,HOU,DET,2008-09
+Shot Chart Detail,1020800172,40,100416,Sheri Sam,1611661321,Detroit Shock,1,5,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080724,HOU,DET,2008-09
+Shot Chart Detail,1020800172,67,100416,Sheri Sam,1611661321,Detroit Shock,1,2,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,0,219,1,0,20080724,HOU,DET,2008-09
+Shot Chart Detail,1020800172,166,100416,Sheri Sam,1611661321,Detroit Shock,2,1,54,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080724,HOU,DET,2008-09
+Shot Chart Detail,1020800172,195,100416,Sheri Sam,1611661321,Detroit Shock,3,9,12,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080724,HOU,DET,2008-09
+Shot Chart Detail,1020800172,245,100416,Sheri Sam,1611661321,Detroit Shock,3,3,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-110,87,1,0,20080724,HOU,DET,2008-09
+Shot Chart Detail,1020800172,339,100416,Sheri Sam,1611661321,Detroit Shock,4,5,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-46,89,1,1,20080724,HOU,DET,2008-09
+Shot Chart Detail,1020800172,354,100416,Sheri Sam,1611661321,Detroit Shock,4,3,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,112,0,1,0,20080724,HOU,DET,2008-09
+Shot Chart Detail,1020800192,13,100416,Sheri Sam,1611661321,Detroit Shock,1,8,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,22,1,0,20080829,DET,NYL,2008-09
+Shot Chart Detail,1020800192,156,100416,Sheri Sam,1611661321,Detroit Shock,2,4,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,123,76,1,0,20080829,DET,NYL,2008-09
+Shot Chart Detail,1020800207,159,100416,Sheri Sam,1611661321,Detroit Shock,2,2,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,2,1,1,20080905,DET,IND,2008-09
+Shot Chart Detail,1020800207,298,100416,Sheri Sam,1611661321,Detroit Shock,4,9,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,125,99,1,0,20080905,DET,IND,2008-09
+Shot Chart Detail,1020800207,312,100416,Sheri Sam,1611661321,Detroit Shock,4,7,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-171,156,1,1,20080905,DET,IND,2008-09
+Shot Chart Detail,1020800207,363,100416,Sheri Sam,1611661321,Detroit Shock,4,3,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080905,DET,IND,2008-09
+Shot Chart Detail,1020800225,124,100416,Sheri Sam,1611661321,Detroit Shock,2,7,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,217,72,1,1,20080911,DET,WAS,2008-09
+Shot Chart Detail,1020800225,137,100416,Sheri Sam,1611661321,Detroit Shock,2,6,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),24+ ft.,23,232,49,1,0,20080911,DET,WAS,2008-09
+Shot Chart Detail,1020800225,165,100416,Sheri Sam,1611661321,Detroit Shock,2,3,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,45,1,0,20080911,DET,WAS,2008-09
+Shot Chart Detail,1020800225,347,100416,Sheri Sam,1611661321,Detroit Shock,4,7,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080911,DET,WAS,2008-09
+Shot Chart Detail,1020800225,432,100416,Sheri Sam,1611661321,Detroit Shock,4,0,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,41,1,0,20080911,DET,WAS,2008-09
+Shot Chart Detail,1020800235,90,100416,Sheri Sam,1611661321,Detroit Shock,1,0,1,Missed Shot,Jump Shot,2PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,52,-155,497,1,0,20080914,NYL,DET,2008-09
+Shot Chart Detail,1020800235,276,100416,Sheri Sam,1611661321,Detroit Shock,3,4,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,66,1,0,20080914,NYL,DET,2008-09
+Shot Chart Detail,1020800235,291,100416,Sheri Sam,1611661321,Detroit Shock,3,4,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,61,128,1,0,20080914,NYL,DET,2008-09
+Shot Chart Detail,1020800235,310,100416,Sheri Sam,1611661321,Detroit Shock,3,1,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,123,215,1,0,20080914,NYL,DET,2008-09
+Shot Chart Detail,1020800235,312,100416,Sheri Sam,1611661321,Detroit Shock,3,1,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080914,NYL,DET,2008-09
+Shot Chart Detail,1020800235,319,100416,Sheri Sam,1611661321,Detroit Shock,3,0,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080914,NYL,DET,2008-09
+Shot Chart Detail,1020800235,372,100416,Sheri Sam,1611661321,Detroit Shock,4,4,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,156,7,1,1,20080914,NYL,DET,2008-09
+Shot Chart Detail,1020800235,383,100416,Sheri Sam,1611661321,Detroit Shock,4,3,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080914,NYL,DET,2008-09
+Shot Chart Detail,1020800235,401,100416,Sheri Sam,1611661321,Detroit Shock,4,1,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,52,156,1,0,20080914,NYL,DET,2008-09

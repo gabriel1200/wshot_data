@@ -1,0 +1,12 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020500015,156,100849,DeTrina White,1611661313,New York Liberty,1,1,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050526,NYL,IND,2005-06
+Shot Chart Detail,1020500015,158,100849,DeTrina White,1611661313,New York Liberty,1,0,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,131,59,1,0,20050526,NYL,IND,2005-06
+Shot Chart Detail,1020500023,105,100849,DeTrina White,1611661313,New York Liberty,1,7,6,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-25,23,1,0,20050601,WAS,NYL,2005-06
+Shot Chart Detail,1020500029,73,100849,DeTrina White,1611661313,New York Liberty,1,11,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050603,DET,NYL,2005-06
+Shot Chart Detail,1020500029,302,100849,DeTrina White,1611661313,New York Liberty,2,9,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050603,DET,NYL,2005-06
+Shot Chart Detail,1020500043,99,100849,DeTrina White,1611661313,New York Liberty,1,8,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,8,1,0,20050610,IND,NYL,2005-06
+Shot Chart Detail,1020500049,84,100849,DeTrina White,1611661313,New York Liberty,1,8,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050612,NYL,DET,2005-06
+Shot Chart Detail,1020500110,82,100849,DeTrina White,1611661313,New York Liberty,1,7,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050715,NYL,MIN,2005-06
+Shot Chart Detail,1020500220,102,100849,DeTrina White,1611661313,New York Liberty,1,5,4,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,-16,1,0,20050827,IND,NYL,2005-06
+Shot Chart Detail,1020500220,107,100849,DeTrina White,1611661313,New York Liberty,1,4,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,171,-28,1,0,20050827,IND,NYL,2005-06
+Shot Chart Detail,1020500220,238,100849,DeTrina White,1611661313,New York Liberty,2,6,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,3,1,1,20050827,IND,NYL,2005-06

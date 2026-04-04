@@ -1,0 +1,61 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1029700003,20,100053,Karen Booker,1611661319,Utah Starzz,1,16,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,1,166,1,1,19970621,UTA,SAC,1997-98
+Shot Chart Detail,1029700003,190,100053,Karen Booker,1611661319,Utah Starzz,1,3,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970621,UTA,SAC,1997-98
+Shot Chart Detail,1029700003,238,100053,Karen Booker,1611661319,Utah Starzz,2,14,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,81,80,1,0,19970621,UTA,SAC,1997-98
+Shot Chart Detail,1029700003,274,100053,Karen Booker,1611661319,Utah Starzz,2,11,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-118,60,1,0,19970621,UTA,SAC,1997-98
+Shot Chart Detail,1029700005,296,100053,Karen Booker,1611661319,Utah Starzz,2,13,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970623,UTA,LAS,1997-98
+Shot Chart Detail,1029700005,298,100053,Karen Booker,1611661319,Utah Starzz,2,13,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970623,UTA,LAS,1997-98
+Shot Chart Detail,1029700005,351,100053,Karen Booker,1611661319,Utah Starzz,2,9,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970623,UTA,LAS,1997-98
+Shot Chart Detail,1029700005,373,100053,Karen Booker,1611661319,Utah Starzz,2,7,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,127,82,1,1,19970623,UTA,LAS,1997-98
+Shot Chart Detail,1029700009,56,100053,Karen Booker,1611661319,Utah Starzz,1,14,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,8,1,0,19970626,CLE,UTA,1997-98
+Shot Chart Detail,1029700009,81,100053,Karen Booker,1611661319,Utah Starzz,1,11,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,3,21,1,1,19970626,CLE,UTA,1997-98
+Shot Chart Detail,1029700009,236,100053,Karen Booker,1611661319,Utah Starzz,2,13,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,38,30,1,0,19970626,CLE,UTA,1997-98
+Shot Chart Detail,1029700009,264,100053,Karen Booker,1611661319,Utah Starzz,2,9,59,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,2,1,1,19970626,CLE,UTA,1997-98
+Shot Chart Detail,1029700009,266,100053,Karen Booker,1611661319,Utah Starzz,2,9,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,0,162,1,0,19970626,CLE,UTA,1997-98
+Shot Chart Detail,1029700013,81,100053,Karen Booker,1611661319,Utah Starzz,1,9,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970628,UTA,HOU,1997-98
+Shot Chart Detail,1029700013,188,100053,Karen Booker,1611661319,Utah Starzz,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Back Court(BC),Back Court Shot,40,-3,405,1,0,19970628,UTA,HOU,1997-98
+Shot Chart Detail,1029700013,262,100053,Karen Booker,1611661319,Utah Starzz,2,12,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970628,UTA,HOU,1997-98
+Shot Chart Detail,1029700013,365,100053,Karen Booker,1611661319,Utah Starzz,2,2,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970628,UTA,HOU,1997-98
+Shot Chart Detail,1029700013,389,100053,Karen Booker,1611661319,Utah Starzz,2,0,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970628,UTA,HOU,1997-98
+Shot Chart Detail,1029700018,127,100053,Karen Booker,1611661319,Utah Starzz,1,5,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970702,SAC,UTA,1997-98
+Shot Chart Detail,1029700018,280,100053,Karen Booker,1611661319,Utah Starzz,2,8,42,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,13,1,0,19970702,SAC,UTA,1997-98
+Shot Chart Detail,1029700018,339,100053,Karen Booker,1611661319,Utah Starzz,2,2,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-3,1,1,19970702,SAC,UTA,1997-98
+Shot Chart Detail,1029700021,61,100053,Karen Booker,1611661319,Utah Starzz,1,12,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,13,1,0,19970703,UTA,PHO,1997-98
+Shot Chart Detail,1029700021,161,100053,Karen Booker,1611661319,Utah Starzz,1,3,30,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,38,-5,1,0,19970703,UTA,PHO,1997-98
+Shot Chart Detail,1029700021,431,100053,Karen Booker,1611661319,Utah Starzz,2,1,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970703,UTA,PHO,1997-98
+Shot Chart Detail,1029700024,12,100053,Karen Booker,1611661319,Utah Starzz,1,17,58,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970705,UTA,NYL,1997-98
+Shot Chart Detail,1029700024,28,100053,Karen Booker,1611661319,Utah Starzz,1,16,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,146,97,1,0,19970705,UTA,NYL,1997-98
+Shot Chart Detail,1029700024,43,100053,Karen Booker,1611661319,Utah Starzz,1,15,21,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970705,UTA,NYL,1997-98
+Shot Chart Detail,1029700024,55,100053,Karen Booker,1611661319,Utah Starzz,1,13,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-57,10,1,0,19970705,UTA,NYL,1997-98
+Shot Chart Detail,1029700024,235,100053,Karen Booker,1611661319,Utah Starzz,1,2,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970705,UTA,NYL,1997-98
+Shot Chart Detail,1029700028,23,100053,Karen Booker,1611661319,Utah Starzz,1,16,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-133,106,1,0,19970707,UTA,SAC,1997-98
+Shot Chart Detail,1029700028,201,100053,Karen Booker,1611661319,Utah Starzz,1,1,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970707,UTA,SAC,1997-98
+Shot Chart Detail,1029700028,202,100053,Karen Booker,1611661319,Utah Starzz,1,1,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970707,UTA,SAC,1997-98
+Shot Chart Detail,1029700028,238,100053,Karen Booker,1611661319,Utah Starzz,2,14,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,157,138,1,0,19970707,UTA,SAC,1997-98
+Shot Chart Detail,1029700028,259,100053,Karen Booker,1611661319,Utah Starzz,2,12,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,99,99,1,0,19970707,UTA,SAC,1997-98
+Shot Chart Detail,1029700034,191,100053,Karen Booker,1611661319,Utah Starzz,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,62,196,595,1,0,19970711,LAS,UTA,1997-98
+Shot Chart Detail,1029700037,90,100053,Karen Booker,1611661319,Utah Starzz,1,8,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,101,82,1,0,19970712,UTA,PHO,1997-98
+Shot Chart Detail,1029700037,99,100053,Karen Booker,1611661319,Utah Starzz,1,7,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970712,UTA,PHO,1997-98
+Shot Chart Detail,1029700040,320,100053,Karen Booker,1611661319,Utah Starzz,2,5,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970714,HOU,UTA,1997-98
+Shot Chart Detail,1029700044,54,100053,Karen Booker,1611661319,Utah Starzz,1,12,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970716,CHA,UTA,1997-98
+Shot Chart Detail,1029700047,82,100053,Karen Booker,1611661319,Utah Starzz,1,10,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970717,NYL,UTA,1997-98
+Shot Chart Detail,1029700047,382,100053,Karen Booker,1611661319,Utah Starzz,2,4,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970717,NYL,UTA,1997-98
+Shot Chart Detail,1029700047,388,100053,Karen Booker,1611661319,Utah Starzz,2,2,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-81,136,1,0,19970717,NYL,UTA,1997-98
+Shot Chart Detail,1029700050,294,100053,Karen Booker,1611661319,Utah Starzz,2,9,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,10,1,0,19970719,CLE,UTA,1997-98
+Shot Chart Detail,1029700066,119,100053,Karen Booker,1611661319,Utah Starzz,1,7,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970730,LAS,UTA,1997-98
+Shot Chart Detail,1029700066,140,100053,Karen Booker,1611661319,Utah Starzz,1,5,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970730,LAS,UTA,1997-98
+Shot Chart Detail,1029700066,146,100053,Karen Booker,1611661319,Utah Starzz,1,4,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970730,LAS,UTA,1997-98
+Shot Chart Detail,1029700075,132,100053,Karen Booker,1611661319,Utah Starzz,1,5,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,185,-12,1,0,19970804,UTA,CHA,1997-98
+Shot Chart Detail,1029700078,369,100053,Karen Booker,1611661319,Utah Starzz,2,2,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-42,36,1,0,19970806,PHO,UTA,1997-98
+Shot Chart Detail,1029700078,394,100053,Karen Booker,1611661319,Utah Starzz,2,1,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970806,PHO,UTA,1997-98
+Shot Chart Detail,1029700087,51,100053,Karen Booker,1611661319,Utah Starzz,1,12,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970811,UTA,CLE,1997-98
+Shot Chart Detail,1029700087,215,100053,Karen Booker,1611661319,Utah Starzz,2,13,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,47,149,1,1,19970811,UTA,CLE,1997-98
+Shot Chart Detail,1029700087,225,100053,Karen Booker,1611661319,Utah Starzz,2,12,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970811,UTA,CLE,1997-98
+Shot Chart Detail,1029700087,239,100053,Karen Booker,1611661319,Utah Starzz,2,10,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970811,UTA,CLE,1997-98
+Shot Chart Detail,1029700087,242,100053,Karen Booker,1611661319,Utah Starzz,2,9,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970811,UTA,CLE,1997-98
+Shot Chart Detail,1029700087,244,100053,Karen Booker,1611661319,Utah Starzz,2,9,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970811,UTA,CLE,1997-98
+Shot Chart Detail,1029700095,251,100053,Karen Booker,1611661319,Utah Starzz,2,14,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970816,UTA,LAS,1997-98
+Shot Chart Detail,1029700095,259,100053,Karen Booker,1611661319,Utah Starzz,2,13,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970816,UTA,LAS,1997-98
+Shot Chart Detail,1029700097,93,100053,Karen Booker,1611661319,Utah Starzz,1,10,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970817,PHO,UTA,1997-98
+Shot Chart Detail,1029700097,290,100053,Karen Booker,1611661319,Utah Starzz,2,12,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970817,PHO,UTA,1997-98
+Shot Chart Detail,1029700105,147,100053,Karen Booker,1611661319,Utah Starzz,1,3,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970821,UTA,CHA,1997-98

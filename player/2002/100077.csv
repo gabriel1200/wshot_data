@@ -1,0 +1,9 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020200227,336,100077,Tammy Jackson,1611661316,Houston Comets,2,0,28,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020806,HOU,CLE,2002-03
+Shot Chart Detail,1020200234,70,100077,Tammy Jackson,1611661316,Houston Comets,1,11,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020808,LAS,HOU,2002-03
+Shot Chart Detail,1020200241,55,100077,Tammy Jackson,1611661316,Houston Comets,1,12,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020810,HOU,SAC,2002-03
+Shot Chart Detail,1020200241,257,100077,Tammy Jackson,1611661316,Houston Comets,2,9,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020810,HOU,SAC,2002-03
+Shot Chart Detail,1020200254,13,100077,Tammy Jackson,1611661316,Houston Comets,1,18,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,7,152,1,0,20020813,HOU,MIN,2002-03
+Shot Chart Detail,1020200254,44,100077,Tammy Jackson,1611661316,Houston Comets,1,13,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020813,HOU,MIN,2002-03
+Shot Chart Detail,1020200254,164,100077,Tammy Jackson,1611661316,Houston Comets,1,0,49,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020813,HOU,MIN,2002-03
+Shot Chart Detail,1020200254,215,100077,Tammy Jackson,1611661316,Houston Comets,2,14,21,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-33,47,1,0,20020813,HOU,MIN,2002-03

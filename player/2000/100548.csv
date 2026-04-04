@@ -1,0 +1,16 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020000005,109,100548,Katryna Gaither,1611661319,Utah Starzz,1,9,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-100,68,1,0,20000531,LAS,UTA,2000-01
+Shot Chart Detail,1020000012,317,100548,Katryna Gaither,1611661319,Utah Starzz,2,8,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-38,124,1,0,20000603,NYL,UTA,2000-01
+Shot Chart Detail,1020000012,325,100548,Katryna Gaither,1611661319,Utah Starzz,2,7,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000603,NYL,UTA,2000-01
+Shot Chart Detail,1020000082,195,100548,Katryna Gaither,1611661319,Utah Starzz,1,1,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,23,1,0,20000622,MIN,UTA,2000-01
+Shot Chart Detail,1020000082,382,100548,Katryna Gaither,1611661319,Utah Starzz,2,6,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000622,MIN,UTA,2000-01
+Shot Chart Detail,1020000111,386,100548,Katryna Gaither,1611661319,Utah Starzz,2,2,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000630,SAC,UTA,2000-01
+Shot Chart Detail,1020000111,395,100548,Katryna Gaither,1611661319,Utah Starzz,2,1,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000630,SAC,UTA,2000-01
+Shot Chart Detail,1020000166,336,100548,Katryna Gaither,1611661325,Indiana Fever,2,3,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,12,1,1,20000715,CLE,IND,2000-01
+Shot Chart Detail,1020000166,343,100548,Katryna Gaither,1611661325,Indiana Fever,2,2,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,8,70,1,0,20000715,CLE,IND,2000-01
+Shot Chart Detail,1020000191,305,100548,Katryna Gaither,1611661325,Indiana Fever,2,7,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-53,68,1,0,20000724,CHA,IND,2000-01
+Shot Chart Detail,1020000191,316,100548,Katryna Gaither,1611661325,Indiana Fever,2,5,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000724,CHA,IND,2000-01
+Shot Chart Detail,1020000207,319,100548,Katryna Gaither,1611661325,Indiana Fever,2,3,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,16,38,1,1,20000728,POR,IND,2000-01
+Shot Chart Detail,1020000207,368,100548,Katryna Gaither,1611661325,Indiana Fever,2,0,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000728,POR,IND,2000-01
+Shot Chart Detail,1020000222,278,100548,Katryna Gaither,1611661325,Indiana Fever,2,7,16,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,23,1,0,20000801,SEA,IND,2000-01
+Shot Chart Detail,1020000252,379,100548,Katryna Gaither,1611661325,Indiana Fever,2,1,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,14,27,1,0,20000809,IND,CHA,2000-01

@@ -1,0 +1,24 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020000002,21,100048,Jessie Hicks,1611661323,Orlando Miracle,1,17,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,1,130,1,0,20000531,WAS,ORL,2000-01
+Shot Chart Detail,1020000016,102,100048,Jessie Hicks,1611661323,Orlando Miracle,1,8,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,46,143,1,1,20000603,IND,ORL,2000-01
+Shot Chart Detail,1020000022,97,100048,Jessie Hicks,1611661323,Orlando Miracle,1,10,6,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,51,1,1,20000605,ORL,SAC,2000-01
+Shot Chart Detail,1020000022,303,100048,Jessie Hicks,1611661323,Orlando Miracle,2,10,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000605,ORL,SAC,2000-01
+Shot Chart Detail,1020000038,105,100048,Jessie Hicks,1611661323,Orlando Miracle,1,9,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000610,CHA,ORL,2000-01
+Shot Chart Detail,1020000038,128,100048,Jessie Hicks,1611661323,Orlando Miracle,1,6,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000610,CHA,ORL,2000-01
+Shot Chart Detail,1020000038,321,100048,Jessie Hicks,1611661323,Orlando Miracle,2,5,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000610,CHA,ORL,2000-01
+Shot Chart Detail,1020000050,82,100048,Jessie Hicks,1611661323,Orlando Miracle,1,10,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000613,UTA,ORL,2000-01
+Shot Chart Detail,1020000081,92,100048,Jessie Hicks,1611661323,Orlando Miracle,1,10,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,20,151,1,1,20000622,ORL,CLE,2000-01
+Shot Chart Detail,1020000081,100,100048,Jessie Hicks,1611661323,Orlando Miracle,1,9,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000622,ORL,CLE,2000-01
+Shot Chart Detail,1020000102,231,100048,Jessie Hicks,1611661323,Orlando Miracle,2,12,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000628,ORL,MIA,2000-01
+Shot Chart Detail,1020000129,373,100048,Jessie Hicks,1611661323,Orlando Miracle,2,1,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000706,ORL,IND,2000-01
+Shot Chart Detail,1020000140,132,100048,Jessie Hicks,1611661323,Orlando Miracle,1,5,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000708,ORL,SEA,2000-01
+Shot Chart Detail,1020000159,123,100048,Jessie Hicks,1611661323,Orlando Miracle,1,4,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000714,ORL,NYL,2000-01
+Shot Chart Detail,1020000159,130,100048,Jessie Hicks,1611661323,Orlando Miracle,1,4,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000714,ORL,NYL,2000-01
+Shot Chart Detail,1020000202,212,100048,Jessie Hicks,1611661323,Orlando Miracle,2,13,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-8,51,1,0,20000727,SAC,ORL,2000-01
+Shot Chart Detail,1020000220,61,100048,Jessie Hicks,1611661323,Orlando Miracle,1,11,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000801,PHO,ORL,2000-01
+Shot Chart Detail,1020000228,90,100048,Jessie Hicks,1611661323,Orlando Miracle,1,7,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-55,115,1,0,20000804,NYL,ORL,2000-01
+Shot Chart Detail,1020000236,330,100048,Jessie Hicks,1611661323,Orlando Miracle,2,6,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-14,38,1,0,20000806,ORL,DET,2000-01
+Shot Chart Detail,1020000236,348,100048,Jessie Hicks,1611661323,Orlando Miracle,2,5,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-59,0,1,0,20000806,ORL,DET,2000-01
+Shot Chart Detail,1020000236,382,100048,Jessie Hicks,1611661323,Orlando Miracle,2,2,12,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-8,29,1,0,20000806,ORL,DET,2000-01
+Shot Chart Detail,1020000236,393,100048,Jessie Hicks,1611661323,Orlando Miracle,2,1,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-44,-10,1,1,20000806,ORL,DET,2000-01
+Shot Chart Detail,1020000236,397,100048,Jessie Hicks,1611661323,Orlando Miracle,2,0,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-96,78,1,0,20000806,ORL,DET,2000-01

@@ -1,0 +1,9 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020900019,202,201516,Allie Quigley,1611661317,Phoenix Mercury,2,2,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,154,159,1,1,20090612,SAC,PHO,2009-10
+Shot Chart Detail,1020900026,489,201516,Allie Quigley,1611661317,Phoenix Mercury,4,2,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-146,107,1,0,20090617,PHO,MIN,2009-10
+Shot Chart Detail,1020900026,497,201516,Allie Quigley,1611661317,Phoenix Mercury,4,1,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,152,42,1,1,20090617,PHO,MIN,2009-10
+Shot Chart Detail,1020900050,412,201516,Allie Quigley,1611661317,Phoenix Mercury,4,9,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090627,MIN,PHO,2009-10
+Shot Chart Detail,1020900069,441,201516,Allie Quigley,1611661317,Phoenix Mercury,4,2,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-64,206,1,1,20090708,PHO,CHI,2009-10
+Shot Chart Detail,1020900069,477,201516,Allie Quigley,1611661317,Phoenix Mercury,4,0,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-207,67,1,0,20090708,PHO,CHI,2009-10
+Shot Chart Detail,1020900077,206,201516,Allie Quigley,1611661317,Phoenix Mercury,2,3,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090711,SAC,PHO,2009-10
+Shot Chart Detail,1020900077,222,201516,Allie Quigley,1611661317,Phoenix Mercury,2,2,31,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,218,9,1,0,20090711,SAC,PHO,2009-10

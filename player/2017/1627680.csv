@@ -1,0 +1,7 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1021700011,235,1627680,Rachel Hollivay,1611661330,Atlanta Dream,2,0,42,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8.0,-2.0,82.0,1,1,20170519,CHI,ATL,2017-18
+Shot Chart Detail,1021700040,319,1627680,Rachel Hollivay,1611661330,Atlanta Dream,3,2,6,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9.0,74.0,56.0,1,1,20170604,WAS,ATL,2017-18
+Shot Chart Detail,1021700049,97,1627680,Rachel Hollivay,1611661330,Atlanta Dream,1,1,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5.0,48.0,23.0,1,0,20170610,CON,ATL,2017-18
+Shot Chart Detail,1021700049,443,1627680,Rachel Hollivay,1611661330,Atlanta Dream,4,5,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2.0,27.0,13.0,1,1,20170610,CON,ATL,2017-18
+Shot Chart Detail,1021700055,107,1627680,Rachel Hollivay,1611661330,Atlanta Dream,2,9,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1.0,-12.0,-1.0,1,1,20170613,SEA,ATL,2017-18
+Shot Chart Detail,1021700069,21,1627680,Rachel Hollivay,1611661330,Atlanta Dream,1,8,5,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10.0,84.0,56.0,1,0,20170623,ATL,CHI,2017-18

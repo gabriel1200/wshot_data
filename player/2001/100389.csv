@@ -1,0 +1,91 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020100006,395,100389,Val Whiting,1611661324,Minnesota Lynx,2,2,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010531,POR,MIN,2001-02
+Shot Chart Detail,1020100012,84,100389,Val Whiting,1611661324,Minnesota Lynx,1,12,35,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010602,MIN,PHO,2001-02
+Shot Chart Detail,1020100012,247,100389,Val Whiting,1611661324,Minnesota Lynx,1,2,40,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-65,74,1,1,20010602,MIN,PHO,2001-02
+Shot Chart Detail,1020100012,280,100389,Val Whiting,1611661324,Minnesota Lynx,2,15,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-29,57,1,0,20010602,MIN,PHO,2001-02
+Shot Chart Detail,1020100012,360,100389,Val Whiting,1611661324,Minnesota Lynx,2,7,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,57,1,0,20010602,MIN,PHO,2001-02
+Shot Chart Detail,1020100012,373,100389,Val Whiting,1611661324,Minnesota Lynx,2,6,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010602,MIN,PHO,2001-02
+Shot Chart Detail,1020100031,4,100389,Val Whiting,1611661324,Minnesota Lynx,1,19,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010609,MIN,LAS,2001-02
+Shot Chart Detail,1020100031,11,100389,Val Whiting,1611661324,Minnesota Lynx,1,18,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010609,MIN,LAS,2001-02
+Shot Chart Detail,1020100031,17,100389,Val Whiting,1611661324,Minnesota Lynx,1,17,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-84,82,1,1,20010609,MIN,LAS,2001-02
+Shot Chart Detail,1020100031,313,100389,Val Whiting,1611661324,Minnesota Lynx,2,7,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,45,85,1,0,20010609,MIN,LAS,2001-02
+Shot Chart Detail,1020100031,315,100389,Val Whiting,1611661324,Minnesota Lynx,2,7,25,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,7,1,0,20010609,MIN,LAS,2001-02
+Shot Chart Detail,1020100031,358,100389,Val Whiting,1611661324,Minnesota Lynx,2,2,8,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-10,34,1,0,20010609,MIN,LAS,2001-02
+Shot Chart Detail,1020100040,28,100389,Val Whiting,1611661324,Minnesota Lynx,1,15,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010612,MIN,IND,2001-02
+Shot Chart Detail,1020100040,31,100389,Val Whiting,1611661324,Minnesota Lynx,1,14,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,66,106,1,1,20010612,MIN,IND,2001-02
+Shot Chart Detail,1020100040,130,100389,Val Whiting,1611661324,Minnesota Lynx,1,5,19,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010612,MIN,IND,2001-02
+Shot Chart Detail,1020100040,142,100389,Val Whiting,1611661324,Minnesota Lynx,1,4,10,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-73,-2,1,1,20010612,MIN,IND,2001-02
+Shot Chart Detail,1020100040,163,100389,Val Whiting,1611661324,Minnesota Lynx,1,2,11,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-4,34,1,1,20010612,MIN,IND,2001-02
+Shot Chart Detail,1020100040,267,100389,Val Whiting,1611661324,Minnesota Lynx,2,12,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010612,MIN,IND,2001-02
+Shot Chart Detail,1020100040,352,100389,Val Whiting,1611661324,Minnesota Lynx,2,5,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010612,MIN,IND,2001-02
+Shot Chart Detail,1020100040,385,100389,Val Whiting,1611661324,Minnesota Lynx,2,2,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,1,122,1,0,20010612,MIN,IND,2001-02
+Shot Chart Detail,1020100040,412,100389,Val Whiting,1611661324,Minnesota Lynx,2,1,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,58,51,1,0,20010612,MIN,IND,2001-02
+Shot Chart Detail,1020100053,173,100389,Val Whiting,1611661324,Minnesota Lynx,1,2,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-58,38,1,0,20010616,IND,MIN,2001-02
+Shot Chart Detail,1020100059,24,100389,Val Whiting,1611661324,Minnesota Lynx,1,16,26,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010617,DET,MIN,2001-02
+Shot Chart Detail,1020100059,26,100389,Val Whiting,1611661324,Minnesota Lynx,1,16,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010617,DET,MIN,2001-02
+Shot Chart Detail,1020100059,173,100389,Val Whiting,1611661324,Minnesota Lynx,1,10,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010617,DET,MIN,2001-02
+Shot Chart Detail,1020100059,84,100389,Val Whiting,1611661324,Minnesota Lynx,1,10,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010617,DET,MIN,2001-02
+Shot Chart Detail,1020100059,113,100389,Val Whiting,1611661324,Minnesota Lynx,1,6,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,102,99,1,0,20010617,DET,MIN,2001-02
+Shot Chart Detail,1020100059,181,100389,Val Whiting,1611661324,Minnesota Lynx,1,2,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,9,1,0,20010617,DET,MIN,2001-02
+Shot Chart Detail,1020100059,294,100389,Val Whiting,1611661324,Minnesota Lynx,2,6,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010617,DET,MIN,2001-02
+Shot Chart Detail,1020100073,102,100389,Val Whiting,1611661324,Minnesota Lynx,1,9,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,87,95,1,0,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,208,100389,Val Whiting,1611661324,Minnesota Lynx,1,2,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,0,72,1,1,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,218,100389,Val Whiting,1611661324,Minnesota Lynx,1,0,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,377,100389,Val Whiting,1611661324,Minnesota Lynx,2,1,53,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-14,66,1,0,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100079,14,100389,Val Whiting,1611661324,Minnesota Lynx,1,18,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010623,UTA,MIN,2001-02
+Shot Chart Detail,1020100079,142,100389,Val Whiting,1611661324,Minnesota Lynx,1,5,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010623,UTA,MIN,2001-02
+Shot Chart Detail,1020100079,152,100389,Val Whiting,1611661324,Minnesota Lynx,1,4,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,-23,1,0,20010623,UTA,MIN,2001-02
+Shot Chart Detail,1020100079,187,100389,Val Whiting,1611661324,Minnesota Lynx,1,1,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010623,UTA,MIN,2001-02
+Shot Chart Detail,1020100079,188,100389,Val Whiting,1611661324,Minnesota Lynx,1,1,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010623,UTA,MIN,2001-02
+Shot Chart Detail,1020100079,196,100389,Val Whiting,1611661324,Minnesota Lynx,1,0,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-119,108,1,0,20010623,UTA,MIN,2001-02
+Shot Chart Detail,1020100079,198,100389,Val Whiting,1611661324,Minnesota Lynx,1,0,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,100,141,1,0,20010623,UTA,MIN,2001-02
+Shot Chart Detail,1020100083,28,100389,Val Whiting,1611661324,Minnesota Lynx,1,16,33,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,37,-13,1,0,20010625,WAS,MIN,2001-02
+Shot Chart Detail,1020100083,36,100389,Val Whiting,1611661324,Minnesota Lynx,1,15,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,30,93,1,0,20010625,WAS,MIN,2001-02
+Shot Chart Detail,1020100083,89,100389,Val Whiting,1611661324,Minnesota Lynx,1,9,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-113,106,1,0,20010625,WAS,MIN,2001-02
+Shot Chart Detail,1020100083,93,100389,Val Whiting,1611661324,Minnesota Lynx,1,9,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,7,1,1,20010625,WAS,MIN,2001-02
+Shot Chart Detail,1020100083,166,100389,Val Whiting,1611661324,Minnesota Lynx,1,2,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,-2,1,1,20010625,WAS,MIN,2001-02
+Shot Chart Detail,1020100083,213,100389,Val Whiting,1611661324,Minnesota Lynx,1,0,30,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-33,-2,1,0,20010625,WAS,MIN,2001-02
+Shot Chart Detail,1020100083,240,100389,Val Whiting,1611661324,Minnesota Lynx,2,14,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-42,-13,1,0,20010625,WAS,MIN,2001-02
+Shot Chart Detail,1020100092,2,100389,Val Whiting,1611661324,Minnesota Lynx,1,19,42,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,16,34,1,0,20010628,MIN,SEA,2001-02
+Shot Chart Detail,1020100092,201,100389,Val Whiting,1611661324,Minnesota Lynx,2,16,17,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-42,45,1,0,20010628,MIN,SEA,2001-02
+Shot Chart Detail,1020100100,31,100389,Val Whiting,1611661324,Minnesota Lynx,1,16,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-44,49,1,0,20010630,MIN,HOU,2001-02
+Shot Chart Detail,1020100103,70,100389,Val Whiting,1611661324,Minnesota Lynx,1,10,5,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-33,30,1,0,20010701,CLE,MIN,2001-02
+Shot Chart Detail,1020100118,81,100389,Val Whiting,1611661324,Minnesota Lynx,1,10,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-88,114,1,0,20010706,MIN,NYL,2001-02
+Shot Chart Detail,1020100118,198,100389,Val Whiting,1611661324,Minnesota Lynx,1,2,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,102,53,1,0,20010706,MIN,NYL,2001-02
+Shot Chart Detail,1020100128,106,100389,Val Whiting,1611661324,Minnesota Lynx,1,9,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-18,30,1,0,20010708,LAS,MIN,2001-02
+Shot Chart Detail,1020100128,312,100389,Val Whiting,1611661324,Minnesota Lynx,2,10,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-105,108,1,0,20010708,LAS,MIN,2001-02
+Shot Chart Detail,1020100133,116,100389,Val Whiting,1611661324,Minnesota Lynx,1,9,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,23,1,0,20010710,MIN,POR,2001-02
+Shot Chart Detail,1020100143,76,100389,Val Whiting,1611661324,Minnesota Lynx,1,9,22,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,26,1,0,20010713,NYL,MIN,2001-02
+Shot Chart Detail,1020100143,244,100389,Val Whiting,1611661324,Minnesota Lynx,2,10,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,85,49,1,1,20010713,NYL,MIN,2001-02
+Shot Chart Detail,1020100143,246,100389,Val Whiting,1611661324,Minnesota Lynx,2,9,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-39,42,1,0,20010713,NYL,MIN,2001-02
+Shot Chart Detail,1020100143,256,100389,Val Whiting,1611661324,Minnesota Lynx,2,8,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-90,0,1,1,20010713,NYL,MIN,2001-02
+Shot Chart Detail,1020100143,262,100389,Val Whiting,1611661324,Minnesota Lynx,2,7,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,150,-15,1,1,20010713,NYL,MIN,2001-02
+Shot Chart Detail,1020100151,69,100389,Val Whiting,1611661324,Minnesota Lynx,1,12,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-35,38,1,0,20010714,MIN,PHO,2001-02
+Shot Chart Detail,1020100151,76,100389,Val Whiting,1611661324,Minnesota Lynx,1,12,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,83,87,1,0,20010714,MIN,PHO,2001-02
+Shot Chart Detail,1020100151,179,100389,Val Whiting,1611661324,Minnesota Lynx,1,2,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-71,91,1,0,20010714,MIN,PHO,2001-02
+Shot Chart Detail,1020100151,203,100389,Val Whiting,1611661324,Minnesota Lynx,1,0,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,83,120,1,0,20010714,MIN,PHO,2001-02
+Shot Chart Detail,1020100165,240,100389,Val Whiting,1611661324,Minnesota Lynx,1,1,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-162,15,1,0,20010721,ORL,MIN,2001-02
+Shot Chart Detail,1020100173,51,100389,Val Whiting,1611661324,Minnesota Lynx,1,14,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010723,MIN,HOU,2001-02
+Shot Chart Detail,1020100173,155,100389,Val Whiting,1611661324,Minnesota Lynx,1,4,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-44,116,1,0,20010723,MIN,HOU,2001-02
+Shot Chart Detail,1020100173,441,100389,Val Whiting,1611661324,Minnesota Lynx,2,0,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010723,MIN,HOU,2001-02
+Shot Chart Detail,1020100186,47,100389,Val Whiting,1611661324,Minnesota Lynx,1,15,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-79,55,1,0,20010727,MIN,WAS,2001-02
+Shot Chart Detail,1020100186,184,100389,Val Whiting,1611661324,Minnesota Lynx,1,2,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-101,114,1,0,20010727,MIN,WAS,2001-02
+Shot Chart Detail,1020100186,262,100389,Val Whiting,1611661324,Minnesota Lynx,2,15,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010727,MIN,WAS,2001-02
+Shot Chart Detail,1020100186,264,100389,Val Whiting,1611661324,Minnesota Lynx,2,15,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010727,MIN,WAS,2001-02
+Shot Chart Detail,1020100186,268,100389,Val Whiting,1611661324,Minnesota Lynx,2,15,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,4,1,1,20010727,MIN,WAS,2001-02
+Shot Chart Detail,1020100186,425,100389,Val Whiting,1611661324,Minnesota Lynx,2,1,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010727,MIN,WAS,2001-02
+Shot Chart Detail,1020100192,30,100389,Val Whiting,1611661324,Minnesota Lynx,1,16,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-130,72,1,0,20010728,UTA,MIN,2001-02
+Shot Chart Detail,1020100192,232,100389,Val Whiting,1611661324,Minnesota Lynx,2,15,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-50,55,1,0,20010728,UTA,MIN,2001-02
+Shot Chart Detail,1020100192,441,100389,Val Whiting,1611661324,Minnesota Lynx,3,3,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-23,171,1,0,20010728,UTA,MIN,2001-02
+Shot Chart Detail,1020100192,490,100389,Val Whiting,1611661324,Minnesota Lynx,3,0,5,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,218,-8,1,0,20010728,UTA,MIN,2001-02
+Shot Chart Detail,1020100199,88,100389,Val Whiting,1611661324,Minnesota Lynx,1,11,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,94,47,1,0,20010730,LAS,MIN,2001-02
+Shot Chart Detail,1020100199,112,100389,Val Whiting,1611661324,Minnesota Lynx,1,7,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-105,148,1,1,20010730,LAS,MIN,2001-02
+Shot Chart Detail,1020100199,122,100389,Val Whiting,1611661324,Minnesota Lynx,1,7,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,-13,1,1,20010730,LAS,MIN,2001-02
+Shot Chart Detail,1020100199,180,100389,Val Whiting,1611661324,Minnesota Lynx,1,2,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-134,91,1,0,20010730,LAS,MIN,2001-02
+Shot Chart Detail,1020100199,217,100389,Val Whiting,1611661324,Minnesota Lynx,1,0,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,129,118,1,1,20010730,LAS,MIN,2001-02
+Shot Chart Detail,1020100205,14,100389,Val Whiting,1611661324,Minnesota Lynx,1,17,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010801,PHO,MIN,2001-02
+Shot Chart Detail,1020100205,281,100389,Val Whiting,1611661324,Minnesota Lynx,2,11,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,104,70,1,0,20010801,PHO,MIN,2001-02
+Shot Chart Detail,1020100205,310,100389,Val Whiting,1611661324,Minnesota Lynx,2,8,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010801,PHO,MIN,2001-02
+Shot Chart Detail,1020100209,77,100389,Val Whiting,1611661324,Minnesota Lynx,1,11,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-117,89,1,1,20010803,MIN,CHA,2001-02
+Shot Chart Detail,1020100246,281,100389,Val Whiting,1611661324,Minnesota Lynx,2,12,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-58,152,1,0,20010812,MIN,UTA,2001-02
+Shot Chart Detail,1020100246,290,100389,Val Whiting,1611661324,Minnesota Lynx,2,11,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-29,47,1,0,20010812,MIN,UTA,2001-02

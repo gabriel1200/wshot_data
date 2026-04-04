@@ -1,0 +1,135 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1029800003,13,100047,Tammi Reiss,1611661319,Utah Starzz,1,18,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980611,UTA,LAS,1998-99
+Shot Chart Detail,1029800003,49,100047,Tammi Reiss,1611661319,Utah Starzz,1,15,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,83,136,1,0,19980611,UTA,LAS,1998-99
+Shot Chart Detail,1029800003,148,100047,Tammi Reiss,1611661319,Utah Starzz,1,7,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980611,UTA,LAS,1998-99
+Shot Chart Detail,1029800003,155,100047,Tammi Reiss,1611661319,Utah Starzz,1,6,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,10,93,1,0,19980611,UTA,LAS,1998-99
+Shot Chart Detail,1029800003,166,100047,Tammi Reiss,1611661319,Utah Starzz,1,5,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980611,UTA,LAS,1998-99
+Shot Chart Detail,1029800003,188,100047,Tammi Reiss,1611661319,Utah Starzz,1,3,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,20,173,106,1,0,19980611,UTA,LAS,1998-99
+Shot Chart Detail,1029800003,227,100047,Tammi Reiss,1611661319,Utah Starzz,1,2,28,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,20,203,10,1,0,19980611,UTA,LAS,1998-99
+Shot Chart Detail,1029800003,236,100047,Tammi Reiss,1611661319,Utah Starzz,1,1,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980611,UTA,LAS,1998-99
+Shot Chart Detail,1029800003,260,100047,Tammi Reiss,1611661319,Utah Starzz,2,16,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980611,UTA,LAS,1998-99
+Shot Chart Detail,1029800003,309,100047,Tammi Reiss,1611661319,Utah Starzz,2,11,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,19,72,186,1,0,19980611,UTA,LAS,1998-99
+Shot Chart Detail,1029800007,10,100047,Tammi Reiss,1611661319,Utah Starzz,1,19,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,-3,1,1,19980613,UTA,WAS,1998-99
+Shot Chart Detail,1029800007,117,100047,Tammi Reiss,1611661319,Utah Starzz,1,10,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,-42,201,1,1,19980613,UTA,WAS,1998-99
+Shot Chart Detail,1029800007,126,100047,Tammi Reiss,1611661319,Utah Starzz,1,9,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-147,145,1,1,19980613,UTA,WAS,1998-99
+Shot Chart Detail,1029800007,135,100047,Tammi Reiss,1611661319,Utah Starzz,1,8,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,-1,1,1,19980613,UTA,WAS,1998-99
+Shot Chart Detail,1029800007,152,100047,Tammi Reiss,1611661319,Utah Starzz,1,6,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980613,UTA,WAS,1998-99
+Shot Chart Detail,1029800007,215,100047,Tammi Reiss,1611661319,Utah Starzz,1,1,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980613,UTA,WAS,1998-99
+Shot Chart Detail,1029800007,261,100047,Tammi Reiss,1611661319,Utah Starzz,1,0,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,117,166,1,0,19980613,UTA,WAS,1998-99
+Shot Chart Detail,1029800007,395,100047,Tammi Reiss,1611661319,Utah Starzz,2,2,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,91,113,1,0,19980613,UTA,WAS,1998-99
+Shot Chart Detail,1029800011,16,100047,Tammi Reiss,1611661319,Utah Starzz,1,17,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,-44,205,1,1,19980615,UTA,NYL,1998-99
+Shot Chart Detail,1029800011,27,100047,Tammi Reiss,1611661319,Utah Starzz,1,16,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980615,UTA,NYL,1998-99
+Shot Chart Detail,1029800011,62,100047,Tammi Reiss,1611661319,Utah Starzz,1,12,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980615,UTA,NYL,1998-99
+Shot Chart Detail,1029800011,96,100047,Tammi Reiss,1611661319,Utah Starzz,1,7,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,14,222,1,0,19980615,UTA,NYL,1998-99
+Shot Chart Detail,1029800011,206,100047,Tammi Reiss,1611661319,Utah Starzz,1,2,53,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980615,UTA,NYL,1998-99
+Shot Chart Detail,1029800011,223,100047,Tammi Reiss,1611661319,Utah Starzz,1,0,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980615,UTA,NYL,1998-99
+Shot Chart Detail,1029800011,248,100047,Tammi Reiss,1611661319,Utah Starzz,2,14,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,38,201,1,1,19980615,UTA,NYL,1998-99
+Shot Chart Detail,1029800011,258,100047,Tammi Reiss,1611661319,Utah Starzz,2,13,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,0,1,1,19980615,UTA,NYL,1998-99
+Shot Chart Detail,1029800011,296,100047,Tammi Reiss,1611661319,Utah Starzz,2,8,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,115,164,1,0,19980615,UTA,NYL,1998-99
+Shot Chart Detail,1029800017,227,100047,Tammi Reiss,1611661319,Utah Starzz,1,2,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,-5,1,1,19980619,WAS,UTA,1998-99
+Shot Chart Detail,1029800017,232,100047,Tammi Reiss,1611661319,Utah Starzz,1,1,13,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,220,21,1,0,19980619,WAS,UTA,1998-99
+Shot Chart Detail,1029800017,207,100047,Tammi Reiss,1611661319,Utah Starzz,1,1,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,96,188,1,0,19980619,WAS,UTA,1998-99
+Shot Chart Detail,1029800017,401,100047,Tammi Reiss,1611661319,Utah Starzz,2,0,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,149,156,1,0,19980619,WAS,UTA,1998-99
+Shot Chart Detail,1029800021,185,100047,Tammi Reiss,1611661319,Utah Starzz,1,1,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-143,-1,1,1,19980621,NYL,UTA,1998-99
+Shot Chart Detail,1029800021,156,100047,Tammi Reiss,1611661319,Utah Starzz,1,0,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,1,186,1,0,19980621,NYL,UTA,1998-99
+Shot Chart Detail,1029800021,166,100047,Tammi Reiss,1611661319,Utah Starzz,1,0,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,36,1,0,19980621,NYL,UTA,1998-99
+Shot Chart Detail,1029800021,201,100047,Tammi Reiss,1611661319,Utah Starzz,2,16,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980621,NYL,UTA,1998-99
+Shot Chart Detail,1029800021,248,100047,Tammi Reiss,1611661319,Utah Starzz,2,11,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,-14,1,0,19980621,NYL,UTA,1998-99
+Shot Chart Detail,1029800021,376,100047,Tammi Reiss,1611661319,Utah Starzz,2,0,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,20,196,57,1,1,19980621,NYL,UTA,1998-99
+Shot Chart Detail,1029800021,384,100047,Tammi Reiss,1611661319,Utah Starzz,2,0,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,164,23,1,0,19980621,NYL,UTA,1998-99
+Shot Chart Detail,1029800025,159,100047,Tammi Reiss,1611661319,Utah Starzz,1,5,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,111,8,1,1,19980622,CLE,UTA,1998-99
+Shot Chart Detail,1029800025,244,100047,Tammi Reiss,1611661319,Utah Starzz,2,16,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,61,61,1,0,19980622,CLE,UTA,1998-99
+Shot Chart Detail,1029800025,294,100047,Tammi Reiss,1611661319,Utah Starzz,2,12,2,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-216,3,1,1,19980622,CLE,UTA,1998-99
+Shot Chart Detail,1029800025,318,100047,Tammi Reiss,1611661319,Utah Starzz,2,10,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,177,184,1,1,19980622,CLE,UTA,1998-99
+Shot Chart Detail,1029800025,347,100047,Tammi Reiss,1611661319,Utah Starzz,2,7,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,12,1,0,19980622,CLE,UTA,1998-99
+Shot Chart Detail,1029800025,360,100047,Tammi Reiss,1611661319,Utah Starzz,2,6,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,19980622,CLE,UTA,1998-99
+Shot Chart Detail,1029800025,364,100047,Tammi Reiss,1611661319,Utah Starzz,2,6,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,98,78,1,0,19980622,CLE,UTA,1998-99
+Shot Chart Detail,1029800025,374,100047,Tammi Reiss,1611661319,Utah Starzz,2,5,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,1,224,1,0,19980622,CLE,UTA,1998-99
+Shot Chart Detail,1029800025,412,100047,Tammi Reiss,1611661319,Utah Starzz,2,2,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,59,42,1,0,19980622,CLE,UTA,1998-99
+Shot Chart Detail,1029800025,439,100047,Tammi Reiss,1611661319,Utah Starzz,2,1,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,145,149,1,0,19980622,CLE,UTA,1998-99
+Shot Chart Detail,1029800031,30,100047,Tammi Reiss,1611661319,Utah Starzz,1,15,1,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,-8,1,1,19980625,UTA,CHA,1998-99
+Shot Chart Detail,1029800031,43,100047,Tammi Reiss,1611661319,Utah Starzz,1,13,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-143,162,1,1,19980625,UTA,CHA,1998-99
+Shot Chart Detail,1029800031,48,100047,Tammi Reiss,1611661319,Utah Starzz,1,12,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-111,177,1,0,19980625,UTA,CHA,1998-99
+Shot Chart Detail,1029800031,173,100047,Tammi Reiss,1611661319,Utah Starzz,1,3,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,14,233,1,0,19980625,UTA,CHA,1998-99
+Shot Chart Detail,1029800031,158,100047,Tammi Reiss,1611661319,Utah Starzz,1,1,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980625,UTA,CHA,1998-99
+Shot Chart Detail,1029800031,188,100047,Tammi Reiss,1611661319,Utah Starzz,1,0,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-143,151,1,1,19980625,UTA,CHA,1998-99
+Shot Chart Detail,1029800031,230,100047,Tammi Reiss,1611661319,Utah Starzz,2,11,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-119,-12,1,0,19980625,UTA,CHA,1998-99
+Shot Chart Detail,1029800031,239,100047,Tammi Reiss,1611661319,Utah Starzz,2,10,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980625,UTA,CHA,1998-99
+Shot Chart Detail,1029800031,350,100047,Tammi Reiss,1611661319,Utah Starzz,2,0,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-156,224,1,0,19980625,UTA,CHA,1998-99
+Shot Chart Detail,1029800033,6,100047,Tammi Reiss,1611661319,Utah Starzz,1,18,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980626,PHO,UTA,1998-99
+Shot Chart Detail,1029800033,9,100047,Tammi Reiss,1611661319,Utah Starzz,1,18,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,111,186,1,0,19980626,PHO,UTA,1998-99
+Shot Chart Detail,1029800033,12,100047,Tammi Reiss,1611661319,Utah Starzz,1,18,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-87,93,1,0,19980626,PHO,UTA,1998-99
+Shot Chart Detail,1029800033,159,100047,Tammi Reiss,1611661319,Utah Starzz,1,3,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980626,PHO,UTA,1998-99
+Shot Chart Detail,1029800033,166,100047,Tammi Reiss,1611661319,Utah Starzz,1,2,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,76,154,1,0,19980626,PHO,UTA,1998-99
+Shot Chart Detail,1029800033,176,100047,Tammi Reiss,1611661319,Utah Starzz,1,2,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980626,PHO,UTA,1998-99
+Shot Chart Detail,1029800033,277,100047,Tammi Reiss,1611661319,Utah Starzz,2,14,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980626,PHO,UTA,1998-99
+Shot Chart Detail,1029800033,294,100047,Tammi Reiss,1611661319,Utah Starzz,2,12,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980626,PHO,UTA,1998-99
+Shot Chart Detail,1029800033,303,100047,Tammi Reiss,1611661319,Utah Starzz,2,11,9,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,70,124,1,1,19980626,PHO,UTA,1998-99
+Shot Chart Detail,1029800041,12,100047,Tammi Reiss,1611661319,Utah Starzz,1,18,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,-48,196,1,1,19980630,UTA,HOU,1998-99
+Shot Chart Detail,1029800041,40,100047,Tammi Reiss,1611661319,Utah Starzz,1,14,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980630,UTA,HOU,1998-99
+Shot Chart Detail,1029800041,191,100047,Tammi Reiss,1611661319,Utah Starzz,1,1,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980630,UTA,HOU,1998-99
+Shot Chart Detail,1029800041,379,100047,Tammi Reiss,1611661319,Utah Starzz,3,2,54,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-212,25,1,0,19980630,UTA,HOU,1998-99
+Shot Chart Detail,1029800046,23,100047,Tammi Reiss,1611661319,Utah Starzz,1,17,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,209,48,1,1,19980702,LAS,UTA,1998-99
+Shot Chart Detail,1029800046,63,100047,Tammi Reiss,1611661319,Utah Starzz,1,12,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980702,LAS,UTA,1998-99
+Shot Chart Detail,1029800046,161,100047,Tammi Reiss,1611661319,Utah Starzz,1,2,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,23,-201,121,1,1,19980702,LAS,UTA,1998-99
+Shot Chart Detail,1029800046,200,100047,Tammi Reiss,1611661319,Utah Starzz,1,2,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),24+ ft.,22,222,38,1,0,19980702,LAS,UTA,1998-99
+Shot Chart Detail,1029800046,215,100047,Tammi Reiss,1611661319,Utah Starzz,1,0,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-70,14,1,0,19980702,LAS,UTA,1998-99
+Shot Chart Detail,1029800046,257,100047,Tammi Reiss,1611661319,Utah Starzz,2,13,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,40,220,1,0,19980702,LAS,UTA,1998-99
+Shot Chart Detail,1029800046,385,100047,Tammi Reiss,1611661319,Utah Starzz,2,0,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-132,169,1,0,19980702,LAS,UTA,1998-99
+Shot Chart Detail,1029800051,12,100047,Tammi Reiss,1611661319,Utah Starzz,1,16,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-207,44,1,0,19980705,SAC,UTA,1998-99
+Shot Chart Detail,1029800051,56,100047,Tammi Reiss,1611661319,Utah Starzz,1,12,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980705,SAC,UTA,1998-99
+Shot Chart Detail,1029800051,161,100047,Tammi Reiss,1611661319,Utah Starzz,1,2,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-149,156,1,0,19980705,SAC,UTA,1998-99
+Shot Chart Detail,1029800051,209,100047,Tammi Reiss,1611661319,Utah Starzz,1,1,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,61,119,1,0,19980705,SAC,UTA,1998-99
+Shot Chart Detail,1029800051,214,100047,Tammi Reiss,1611661319,Utah Starzz,1,1,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980705,SAC,UTA,1998-99
+Shot Chart Detail,1029800051,213,100047,Tammi Reiss,1611661319,Utah Starzz,1,0,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980705,SAC,UTA,1998-99
+Shot Chart Detail,1029800051,300,100047,Tammi Reiss,1611661319,Utah Starzz,2,6,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,93,194,1,0,19980705,SAC,UTA,1998-99
+Shot Chart Detail,1029800051,320,100047,Tammi Reiss,1611661319,Utah Starzz,2,4,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980705,SAC,UTA,1998-99
+Shot Chart Detail,1029800054,23,100047,Tammi Reiss,1611661319,Utah Starzz,1,15,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,35,201,1,0,19980706,UTA,SAC,1998-99
+Shot Chart Detail,1029800054,54,100047,Tammi Reiss,1611661319,Utah Starzz,1,12,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,151,139,1,1,19980706,UTA,SAC,1998-99
+Shot Chart Detail,1029800054,68,100047,Tammi Reiss,1611661319,Utah Starzz,1,11,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-149,184,1,0,19980706,UTA,SAC,1998-99
+Shot Chart Detail,1029800054,83,100047,Tammi Reiss,1611661319,Utah Starzz,1,8,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,113,184,1,0,19980706,UTA,SAC,1998-99
+Shot Chart Detail,1029800054,86,100047,Tammi Reiss,1611661319,Utah Starzz,1,7,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,117,109,1,1,19980706,UTA,SAC,1998-99
+Shot Chart Detail,1029800054,223,100047,Tammi Reiss,1611661319,Utah Starzz,1,1,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-130,102,1,0,19980706,UTA,SAC,1998-99
+Shot Chart Detail,1029800054,234,100047,Tammi Reiss,1611661319,Utah Starzz,1,0,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980706,UTA,SAC,1998-99
+Shot Chart Detail,1029800065,96,100047,Tammi Reiss,1611661319,Utah Starzz,1,8,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-48,143,1,1,19980711,HOU,UTA,1998-99
+Shot Chart Detail,1029800065,109,100047,Tammi Reiss,1611661319,Utah Starzz,1,7,24,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,149,53,1,1,19980711,HOU,UTA,1998-99
+Shot Chart Detail,1029800099,157,100047,Tammi Reiss,1611661319,Utah Starzz,1,1,50,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,29,1,1,19980727,UTA,PHO,1998-99
+Shot Chart Detail,1029800099,341,100047,Tammi Reiss,1611661319,Utah Starzz,2,6,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,25,201,1,1,19980727,UTA,PHO,1998-99
+Shot Chart Detail,1029800099,371,100047,Tammi Reiss,1611661319,Utah Starzz,2,4,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980727,UTA,PHO,1998-99
+Shot Chart Detail,1029800099,377,100047,Tammi Reiss,1611661319,Utah Starzz,2,3,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,25,117,1,0,19980727,UTA,PHO,1998-99
+Shot Chart Detail,1029800104,79,100047,Tammi Reiss,1611661319,Utah Starzz,1,10,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,3,70,1,0,19980730,HOU,UTA,1998-99
+Shot Chart Detail,1029800104,107,100047,Tammi Reiss,1611661319,Utah Starzz,1,7,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-85,121,1,0,19980730,HOU,UTA,1998-99
+Shot Chart Detail,1029800104,163,100047,Tammi Reiss,1611661319,Utah Starzz,1,1,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-169,124,1,0,19980730,HOU,UTA,1998-99
+Shot Chart Detail,1029800104,272,100047,Tammi Reiss,1611661319,Utah Starzz,2,9,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,-1,1,1,19980730,HOU,UTA,1998-99
+Shot Chart Detail,1029800104,300,100047,Tammi Reiss,1611661319,Utah Starzz,2,8,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980730,HOU,UTA,1998-99
+Shot Chart Detail,1029800104,313,100047,Tammi Reiss,1611661319,Utah Starzz,2,6,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-79,196,1,0,19980730,HOU,UTA,1998-99
+Shot Chart Detail,1029800109,91,100047,Tammi Reiss,1611661319,Utah Starzz,1,10,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980801,UTA,LAS,1998-99
+Shot Chart Detail,1029800109,102,100047,Tammi Reiss,1611661319,Utah Starzz,1,8,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980801,UTA,LAS,1998-99
+Shot Chart Detail,1029800109,268,100047,Tammi Reiss,1611661319,Utah Starzz,2,14,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980801,UTA,LAS,1998-99
+Shot Chart Detail,1029800109,342,100047,Tammi Reiss,1611661319,Utah Starzz,2,6,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,20,207,1,0,19980801,UTA,LAS,1998-99
+Shot Chart Detail,1029800109,420,100047,Tammi Reiss,1611661319,Utah Starzz,2,0,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980801,UTA,LAS,1998-99
+Shot Chart Detail,1029800114,10,100047,Tammi Reiss,1611661319,Utah Starzz,1,18,12,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980804,UTA,HOU,1998-99
+Shot Chart Detail,1029800114,16,100047,Tammi Reiss,1611661319,Utah Starzz,1,17,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980804,UTA,HOU,1998-99
+Shot Chart Detail,1029800114,20,100047,Tammi Reiss,1611661319,Utah Starzz,1,17,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,-12,231,1,1,19980804,UTA,HOU,1998-99
+Shot Chart Detail,1029800114,112,100047,Tammi Reiss,1611661319,Utah Starzz,1,4,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-154,14,1,1,19980804,UTA,HOU,1998-99
+Shot Chart Detail,1029800114,118,100047,Tammi Reiss,1611661319,Utah Starzz,1,3,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980804,UTA,HOU,1998-99
+Shot Chart Detail,1029800114,148,100047,Tammi Reiss,1611661319,Utah Starzz,1,2,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-136,126,1,0,19980804,UTA,HOU,1998-99
+Shot Chart Detail,1029800114,127,100047,Tammi Reiss,1611661319,Utah Starzz,1,1,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,87,199,1,0,19980804,UTA,HOU,1998-99
+Shot Chart Detail,1029800114,165,100047,Tammi Reiss,1611661319,Utah Starzz,1,0,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,115,192,1,0,19980804,UTA,HOU,1998-99
+Shot Chart Detail,1029800120,8,100047,Tammi Reiss,1611661319,Utah Starzz,1,19,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,-57,196,1,0,19980806,UTA,CLE,1998-99
+Shot Chart Detail,1029800120,18,100047,Tammi Reiss,1611661319,Utah Starzz,1,17,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980806,UTA,CLE,1998-99
+Shot Chart Detail,1029800120,28,100047,Tammi Reiss,1611661319,Utah Starzz,1,16,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,-31,205,1,0,19980806,UTA,CLE,1998-99
+Shot Chart Detail,1029800120,53,100047,Tammi Reiss,1611661319,Utah Starzz,1,13,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,76,156,1,0,19980806,UTA,CLE,1998-99
+Shot Chart Detail,1029800134,35,100047,Tammi Reiss,1611661319,Utah Starzz,1,14,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-121,173,1,0,19980812,UTA,SAC,1998-99
+Shot Chart Detail,1029800134,92,100047,Tammi Reiss,1611661319,Utah Starzz,1,10,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,68,141,1,0,19980812,UTA,SAC,1998-99
+Shot Chart Detail,1029800134,94,100047,Tammi Reiss,1611661319,Utah Starzz,1,10,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,20,171,104,1,0,19980812,UTA,SAC,1998-99
+Shot Chart Detail,1029800134,98,100047,Tammi Reiss,1611661319,Utah Starzz,1,9,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-117,175,1,0,19980812,UTA,SAC,1998-99
+Shot Chart Detail,1029800138,440,100047,Tammi Reiss,1611661319,Utah Starzz,2,0,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,106,190,1,0,19980814,LAS,UTA,1998-99
+Shot Chart Detail,1029800141,4,100047,Tammi Reiss,1611661319,Utah Starzz,1,19,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,20,181,104,1,0,19980815,SAC,UTA,1998-99
+Shot Chart Detail,1029800141,61,100047,Tammi Reiss,1611661319,Utah Starzz,1,12,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-201,87,1,1,19980815,SAC,UTA,1998-99
+Shot Chart Detail,1029800141,215,100047,Tammi Reiss,1611661319,Utah Starzz,1,2,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,173,8,1,1,19980815,SAC,UTA,1998-99
+Shot Chart Detail,1029800141,192,100047,Tammi Reiss,1611661319,Utah Starzz,1,0,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-177,8,1,1,19980815,SAC,UTA,1998-99
+Shot Chart Detail,1029800141,321,100047,Tammi Reiss,1611661319,Utah Starzz,2,8,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,20,181,96,1,0,19980815,SAC,UTA,1998-99
+Shot Chart Detail,1029800146,29,100047,Tammi Reiss,1611661319,Utah Starzz,1,17,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,1,66,1,0,19980817,UTA,PHO,1998-99
+Shot Chart Detail,1029800146,76,100047,Tammi Reiss,1611661319,Utah Starzz,1,11,51,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980817,UTA,PHO,1998-99
+Shot Chart Detail,1029800146,237,100047,Tammi Reiss,1611661319,Utah Starzz,2,16,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980817,UTA,PHO,1998-99

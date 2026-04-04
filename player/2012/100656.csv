@@ -1,0 +1,96 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1021200004,162,100656,Ruth Riley,1611661329,Chicago Sky,2,3,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-8,58,1,0,20120519,WAS,CHI,2012-13
+Shot Chart Detail,1021200004,196,100656,Ruth Riley,1611661329,Chicago Sky,2,1,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,92,112,1,1,20120519,WAS,CHI,2012-13
+Shot Chart Detail,1021200014,17,100656,Ruth Riley,1611661329,Chicago Sky,1,7,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-60,153,1,0,20120525,CHI,IND,2012-13
+Shot Chart Detail,1021200014,37,100656,Ruth Riley,1611661329,Chicago Sky,1,6,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-24,216,1,0,20120525,CHI,IND,2012-13
+Shot Chart Detail,1021200014,79,100656,Ruth Riley,1611661329,Chicago Sky,1,2,23,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,75,135,1,1,20120525,CHI,IND,2012-13
+Shot Chart Detail,1021200014,103,100656,Ruth Riley,1611661329,Chicago Sky,2,8,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,43,197,1,0,20120525,CHI,IND,2012-13
+Shot Chart Detail,1021200014,326,100656,Ruth Riley,1611661329,Chicago Sky,4,9,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,15,172,1,0,20120525,CHI,IND,2012-13
+Shot Chart Detail,1021200021,16,100656,Ruth Riley,1611661329,Chicago Sky,1,8,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-120,175,1,1,20120530,SAN,CHI,2012-13
+Shot Chart Detail,1021200021,89,100656,Ruth Riley,1611661329,Chicago Sky,1,0,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,88,89,1,1,20120530,SAN,CHI,2012-13
+Shot Chart Detail,1021200021,217,100656,Ruth Riley,1611661329,Chicago Sky,3,9,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,-3,1,1,20120530,SAN,CHI,2012-13
+Shot Chart Detail,1021200021,231,100656,Ruth Riley,1611661329,Chicago Sky,3,7,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,51,208,1,1,20120530,SAN,CHI,2012-13
+Shot Chart Detail,1021200025,54,100656,Ruth Riley,1611661329,Chicago Sky,1,5,8,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-109,17,1,0,20120601,CHI,WAS,2012-13
+Shot Chart Detail,1021200025,126,100656,Ruth Riley,1611661329,Chicago Sky,2,7,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,21,242,1,0,20120601,CHI,WAS,2012-13
+Shot Chart Detail,1021200025,175,100656,Ruth Riley,1611661329,Chicago Sky,2,2,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,91,176,1,0,20120601,CHI,WAS,2012-13
+Shot Chart Detail,1021200025,235,100656,Ruth Riley,1611661329,Chicago Sky,3,6,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-8,85,1,0,20120601,CHI,WAS,2012-13
+Shot Chart Detail,1021200025,247,100656,Ruth Riley,1611661329,Chicago Sky,3,4,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,7,1,1,20120601,CHI,WAS,2012-13
+Shot Chart Detail,1021200025,249,100656,Ruth Riley,1611661329,Chicago Sky,3,3,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-117,184,1,0,20120601,CHI,WAS,2012-13
+Shot Chart Detail,1021200025,337,100656,Ruth Riley,1611661329,Chicago Sky,4,6,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,54,148,1,0,20120601,CHI,WAS,2012-13
+Shot Chart Detail,1021200027,252,100656,Ruth Riley,1611661329,Chicago Sky,3,8,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,28,228,1,0,20120602,ATL,CHI,2012-13
+Shot Chart Detail,1021200027,368,100656,Ruth Riley,1611661329,Chicago Sky,4,8,10,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,9,1,0,20120602,ATL,CHI,2012-13
+Shot Chart Detail,1021200039,6,100656,Ruth Riley,1611661329,Chicago Sky,1,9,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-112,183,1,0,20120608,CHI,TUL,2012-13
+Shot Chart Detail,1021200039,25,100656,Ruth Riley,1611661329,Chicago Sky,1,6,26,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,14,1,1,20120608,CHI,TUL,2012-13
+Shot Chart Detail,1021200039,228,100656,Ruth Riley,1611661329,Chicago Sky,2,2,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,15,153,1,1,20120608,CHI,TUL,2012-13
+Shot Chart Detail,1021200039,262,100656,Ruth Riley,1611661329,Chicago Sky,3,8,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,31,181,1,0,20120608,CHI,TUL,2012-13
+Shot Chart Detail,1021200043,45,100656,Ruth Riley,1611661329,Chicago Sky,1,4,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-76,153,1,0,20120610,NYL,CHI,2012-13
+Shot Chart Detail,1021200043,234,100656,Ruth Riley,1611661329,Chicago Sky,3,8,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,97,1,1,0,20120610,NYL,CHI,2012-13
+Shot Chart Detail,1021200043,341,100656,Ruth Riley,1611661329,Chicago Sky,4,7,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,40,165,1,1,20120610,NYL,CHI,2012-13
+Shot Chart Detail,1021200043,398,100656,Ruth Riley,1611661329,Chicago Sky,4,2,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,-13,1,1,20120610,NYL,CHI,2012-13
+Shot Chart Detail,1021200045,2,100656,Ruth Riley,1611661329,Chicago Sky,1,9,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,113,123,1,0,20120613,CHI,SEA,2012-13
+Shot Chart Detail,1021200045,21,100656,Ruth Riley,1611661329,Chicago Sky,1,7,43,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,15,1,1,20120613,CHI,SEA,2012-13
+Shot Chart Detail,1021200045,99,100656,Ruth Riley,1611661329,Chicago Sky,2,9,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-138,175,1,1,20120613,CHI,SEA,2012-13
+Shot Chart Detail,1021200045,112,100656,Ruth Riley,1611661329,Chicago Sky,2,8,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-46,179,1,1,20120613,CHI,SEA,2012-13
+Shot Chart Detail,1021200045,296,100656,Ruth Riley,1611661329,Chicago Sky,4,9,38,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,4,108,1,0,20120613,CHI,SEA,2012-13
+Shot Chart Detail,1021200045,311,100656,Ruth Riley,1611661329,Chicago Sky,4,8,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-93,187,1,1,20120613,CHI,SEA,2012-13
+Shot Chart Detail,1021200045,323,100656,Ruth Riley,1611661329,Chicago Sky,4,7,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-86,50,1,0,20120613,CHI,SEA,2012-13
+Shot Chart Detail,1021200052,31,100656,Ruth Riley,1611661329,Chicago Sky,1,6,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,-19,1,1,20120616,IND,CHI,2012-13
+Shot Chart Detail,1021200052,151,100656,Ruth Riley,1611661329,Chicago Sky,2,4,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,17,145,1,0,20120616,IND,CHI,2012-13
+Shot Chart Detail,1021200052,205,100656,Ruth Riley,1611661329,Chicago Sky,2,0,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,4,146,1,0,20120616,IND,CHI,2012-13
+Shot Chart Detail,1021200052,227,100656,Ruth Riley,1611661329,Chicago Sky,3,7,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-70,203,1,1,20120616,IND,CHI,2012-13
+Shot Chart Detail,1021200052,359,100656,Ruth Riley,1611661329,Chicago Sky,4,4,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-100,195,1,0,20120616,IND,CHI,2012-13
+Shot Chart Detail,1021200065,11,100656,Ruth Riley,1611661329,Chicago Sky,1,8,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-4,121,1,0,20120623,MIN,CHI,2012-13
+Shot Chart Detail,1021200065,41,100656,Ruth Riley,1611661329,Chicago Sky,1,5,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,34,162,1,0,20120623,MIN,CHI,2012-13
+Shot Chart Detail,1021200065,228,100656,Ruth Riley,1611661329,Chicago Sky,3,9,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,21,222,1,0,20120623,MIN,CHI,2012-13
+Shot Chart Detail,1021200074,45,100656,Ruth Riley,1611661329,Chicago Sky,1,4,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,10,200,1,0,20120627,CHI,IND,2012-13
+Shot Chart Detail,1021200074,75,100656,Ruth Riley,1611661329,Chicago Sky,1,1,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-136,-6,1,0,20120627,CHI,IND,2012-13
+Shot Chart Detail,1021200074,255,100656,Ruth Riley,1611661329,Chicago Sky,3,7,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,47,179,1,0,20120627,CHI,IND,2012-13
+Shot Chart Detail,1021200074,351,100656,Ruth Riley,1611661329,Chicago Sky,4,9,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,10,187,1,1,20120627,CHI,IND,2012-13
+Shot Chart Detail,1021200079,162,100656,Ruth Riley,1611661329,Chicago Sky,2,4,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-150,154,1,0,20120629,CHI,PHO,2012-13
+Shot Chart Detail,1021200079,175,100656,Ruth Riley,1611661329,Chicago Sky,2,3,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-57,187,1,1,20120629,CHI,PHO,2012-13
+Shot Chart Detail,1021200084,14,100656,Ruth Riley,1611661329,Chicago Sky,1,8,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,1,1,0,20120701,CHI,ATL,2012-13
+Shot Chart Detail,1021200084,31,100656,Ruth Riley,1611661329,Chicago Sky,1,7,16,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,48,1,0,20120701,CHI,ATL,2012-13
+Shot Chart Detail,1021200084,222,100656,Ruth Riley,1611661329,Chicago Sky,3,7,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,12,146,1,0,20120701,CHI,ATL,2012-13
+Shot Chart Detail,1021200090,8,100656,Ruth Riley,1611661329,Chicago Sky,1,9,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,0,1,0,20120706,CHI,NYL,2012-13
+Shot Chart Detail,1021200090,265,100656,Ruth Riley,1611661329,Chicago Sky,3,6,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-139,85,1,0,20120706,CHI,NYL,2012-13
+Shot Chart Detail,1021200103,240,100656,Ruth Riley,1611661329,Chicago Sky,3,7,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-101,151,1,1,20120711,CHI,SAN,2012-13
+Shot Chart Detail,1021200103,373,100656,Ruth Riley,1611661329,Chicago Sky,4,5,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,-2,1,1,20120711,CHI,SAN,2012-13
+Shot Chart Detail,1021200110,14,100656,Ruth Riley,1611661329,Chicago Sky,1,8,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,125,36,1,1,20120713,CHI,CON,2012-13
+Shot Chart Detail,1021200110,34,100656,Ruth Riley,1611661329,Chicago Sky,1,6,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-112,183,1,0,20120713,CHI,CON,2012-13
+Shot Chart Detail,1021200110,150,100656,Ruth Riley,1611661329,Chicago Sky,2,5,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-158,149,1,0,20120713,CHI,CON,2012-13
+Shot Chart Detail,1021200110,314,100656,Ruth Riley,1611661329,Chicago Sky,4,8,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,-6,1,0,20120713,CHI,CON,2012-13
+Shot Chart Detail,1021200134,49,100656,Ruth Riley,1611661329,Chicago Sky,1,4,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,65,17,1,0,20120824,TUL,CHI,2012-13
+Shot Chart Detail,1021200134,69,100656,Ruth Riley,1611661329,Chicago Sky,1,3,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,0,91,1,0,20120824,TUL,CHI,2012-13
+Shot Chart Detail,1021200139,39,100656,Ruth Riley,1611661329,Chicago Sky,1,5,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,28,165,1,1,20120826,CON,CHI,2012-13
+Shot Chart Detail,1021200139,64,100656,Ruth Riley,1611661329,Chicago Sky,1,3,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-119,9,1,1,20120826,CON,CHI,2012-13
+Shot Chart Detail,1021200139,278,100656,Ruth Riley,1611661329,Chicago Sky,3,5,0,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,0,20120826,CON,CHI,2012-13
+Shot Chart Detail,1021200139,369,100656,Ruth Riley,1611661329,Chicago Sky,4,4,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,3,1,0,20120826,CON,CHI,2012-13
+Shot Chart Detail,1021200139,377,100656,Ruth Riley,1611661329,Chicago Sky,4,3,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-2,1,0,20120826,CON,CHI,2012-13
+Shot Chart Detail,1021200143,173,100656,Ruth Riley,1611661329,Chicago Sky,2,5,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-24,134,1,0,20120828,CHI,CON,2012-13
+Shot Chart Detail,1021200152,115,100656,Ruth Riley,1611661329,Chicago Sky,1,0,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-10,99,1,0,20120901,IND,CHI,2012-13
+Shot Chart Detail,1021200163,317,100656,Ruth Riley,1611661329,Chicago Sky,3,3,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,10,217,1,0,20120907,NYL,CHI,2012-13
+Shot Chart Detail,1021200163,323,100656,Ruth Riley,1611661329,Chicago Sky,3,3,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,15,1,1,20120907,NYL,CHI,2012-13
+Shot Chart Detail,1021200170,64,100656,Ruth Riley,1611661329,Chicago Sky,1,2,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,113,135,1,0,20120909,CON,CHI,2012-13
+Shot Chart Detail,1021200170,77,100656,Ruth Riley,1611661329,Chicago Sky,1,1,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,37,159,1,1,20120909,CON,CHI,2012-13
+Shot Chart Detail,1021200170,106,100656,Ruth Riley,1611661329,Chicago Sky,2,8,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-18,146,1,1,20120909,CON,CHI,2012-13
+Shot Chart Detail,1021200173,62,100656,Ruth Riley,1611661329,Chicago Sky,1,4,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,58,1,0,20120911,CHI,MIN,2012-13
+Shot Chart Detail,1021200178,69,100656,Ruth Riley,1611661329,Chicago Sky,1,4,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-112,6,1,0,20120913,LAS,CHI,2012-13
+Shot Chart Detail,1021200178,88,100656,Ruth Riley,1611661329,Chicago Sky,1,2,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-108,108,1,1,20120913,LAS,CHI,2012-13
+Shot Chart Detail,1021200178,238,100656,Ruth Riley,1611661329,Chicago Sky,2,0,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-4,25,1,0,20120913,LAS,CHI,2012-13
+Shot Chart Detail,1021200178,358,100656,Ruth Riley,1611661329,Chicago Sky,4,9,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,9,1,1,20120913,LAS,CHI,2012-13
+Shot Chart Detail,1021200178,380,100656,Ruth Riley,1611661329,Chicago Sky,4,6,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-11,164,1,1,20120913,LAS,CHI,2012-13
+Shot Chart Detail,1021200186,75,100656,Ruth Riley,1611661329,Chicago Sky,1,4,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-75,197,1,0,20120916,PHO,CHI,2012-13
+Shot Chart Detail,1021200186,318,100656,Ruth Riley,1611661329,Chicago Sky,3,3,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,6,219,1,0,20120916,PHO,CHI,2012-13
+Shot Chart Detail,1021200186,331,100656,Ruth Riley,1611661329,Chicago Sky,3,2,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,2,172,1,1,20120916,PHO,CHI,2012-13
+Shot Chart Detail,1021200186,421,100656,Ruth Riley,1611661329,Chicago Sky,4,5,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,6,1,1,20120916,PHO,CHI,2012-13
+Shot Chart Detail,1021200186,454,100656,Ruth Riley,1611661329,Chicago Sky,4,2,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-49,170,1,0,20120916,PHO,CHI,2012-13
+Shot Chart Detail,1021200186,466,100656,Ruth Riley,1611661329,Chicago Sky,4,1,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-100,146,1,0,20120916,PHO,CHI,2012-13
+Shot Chart Detail,1021200190,102,100656,Ruth Riley,1611661329,Chicago Sky,1,0,11,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-103,12,1,1,20120918,SEA,CHI,2012-13
+Shot Chart Detail,1021200190,195,100656,Ruth Riley,1611661329,Chicago Sky,2,2,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,7,1,1,20120918,SEA,CHI,2012-13
+Shot Chart Detail,1021200190,219,100656,Ruth Riley,1611661329,Chicago Sky,2,0,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-128,126,1,0,20120918,SEA,CHI,2012-13
+Shot Chart Detail,1021200190,292,100656,Ruth Riley,1611661329,Chicago Sky,3,3,36,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,65,50,1,1,20120918,SEA,CHI,2012-13
+Shot Chart Detail,1021200190,359,100656,Ruth Riley,1611661329,Chicago Sky,4,7,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-82,113,1,0,20120918,SEA,CHI,2012-13
+Shot Chart Detail,1021200193,36,100656,Ruth Riley,1611661329,Chicago Sky,1,5,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,-5,1,0,20120920,CHI,ATL,2012-13
+Shot Chart Detail,1021200200,214,100656,Ruth Riley,1611661329,Chicago Sky,2,0,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-5,50,1,0,20120922,CHI,WAS,2012-13
+Shot Chart Detail,1021200200,322,100656,Ruth Riley,1611661329,Chicago Sky,4,9,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-29,170,1,1,20120922,CHI,WAS,2012-13
+Shot Chart Detail,1021200200,418,100656,Ruth Riley,1611661329,Chicago Sky,4,1,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,45,162,1,0,20120922,CHI,WAS,2012-13

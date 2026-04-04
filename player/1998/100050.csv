@@ -1,0 +1,224 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1029800003,92,100050,Kim Williams,1611661319,Utah Starzz,1,12,8,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,46,23,1,1,19980611,UTA,LAS,1998-99
+Shot Chart Detail,1029800003,95,100050,Kim Williams,1611661319,Utah Starzz,1,11,35,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980611,UTA,LAS,1998-99
+Shot Chart Detail,1029800003,140,100050,Kim Williams,1611661319,Utah Starzz,1,8,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,31,164,1,0,19980611,UTA,LAS,1998-99
+Shot Chart Detail,1029800003,352,100050,Kim Williams,1611661319,Utah Starzz,2,7,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980611,UTA,LAS,1998-99
+Shot Chart Detail,1029800003,363,100050,Kim Williams,1611661319,Utah Starzz,2,5,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-109,128,1,0,19980611,UTA,LAS,1998-99
+Shot Chart Detail,1029800007,47,100050,Kim Williams,1611661319,Utah Starzz,1,16,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980613,UTA,WAS,1998-99
+Shot Chart Detail,1029800007,71,100050,Kim Williams,1611661319,Utah Starzz,1,14,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-119,109,1,0,19980613,UTA,WAS,1998-99
+Shot Chart Detail,1029800007,283,100050,Kim Williams,1611661319,Utah Starzz,2,15,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980613,UTA,WAS,1998-99
+Shot Chart Detail,1029800007,306,100050,Kim Williams,1611661319,Utah Starzz,2,11,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,136,147,1,0,19980613,UTA,WAS,1998-99
+Shot Chart Detail,1029800007,320,100050,Kim Williams,1611661319,Utah Starzz,2,11,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980613,UTA,WAS,1998-99
+Shot Chart Detail,1029800007,346,100050,Kim Williams,1611661319,Utah Starzz,2,8,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,19,117,160,1,1,19980613,UTA,WAS,1998-99
+Shot Chart Detail,1029800007,392,100050,Kim Williams,1611661319,Utah Starzz,2,2,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980613,UTA,WAS,1998-99
+Shot Chart Detail,1029800007,408,100050,Kim Williams,1611661319,Utah Starzz,2,1,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-171,134,1,0,19980613,UTA,WAS,1998-99
+Shot Chart Detail,1029800007,418,100050,Kim Williams,1611661319,Utah Starzz,2,0,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980613,UTA,WAS,1998-99
+Shot Chart Detail,1029800007,427,100050,Kim Williams,1611661319,Utah Starzz,2,0,9,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-25,68,1,1,19980613,UTA,WAS,1998-99
+Shot Chart Detail,1029800011,335,100050,Kim Williams,1611661319,Utah Starzz,2,5,26,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980615,UTA,NYL,1998-99
+Shot Chart Detail,1029800017,92,100050,Kim Williams,1611661319,Utah Starzz,1,11,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,-16,1,0,19980619,WAS,UTA,1998-99
+Shot Chart Detail,1029800017,98,100050,Kim Williams,1611661319,Utah Starzz,1,10,22,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,-29,1,0,19980619,WAS,UTA,1998-99
+Shot Chart Detail,1029800017,139,100050,Kim Williams,1611661319,Utah Starzz,1,6,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-72,-18,1,0,19980619,WAS,UTA,1998-99
+Shot Chart Detail,1029800017,148,100050,Kim Williams,1611661319,Utah Starzz,1,6,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-6,214,1,0,19980619,WAS,UTA,1998-99
+Shot Chart Detail,1029800017,287,100050,Kim Williams,1611661319,Utah Starzz,2,12,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,0,1,1,19980619,WAS,UTA,1998-99
+Shot Chart Detail,1029800017,302,100050,Kim Williams,1611661319,Utah Starzz,2,10,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,-1,1,1,19980619,WAS,UTA,1998-99
+Shot Chart Detail,1029800017,331,100050,Kim Williams,1611661319,Utah Starzz,2,8,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,16,1,1,19980619,WAS,UTA,1998-99
+Shot Chart Detail,1029800021,217,100050,Kim Williams,1611661319,Utah Starzz,2,14,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,143,81,1,1,19980621,NYL,UTA,1998-99
+Shot Chart Detail,1029800021,233,100050,Kim Williams,1611661319,Utah Starzz,2,12,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980621,NYL,UTA,1998-99
+Shot Chart Detail,1029800021,271,100050,Kim Williams,1611661319,Utah Starzz,2,8,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-111,27,1,1,19980621,NYL,UTA,1998-99
+Shot Chart Detail,1029800031,100,100050,Kim Williams,1611661319,Utah Starzz,1,7,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-87,59,1,0,19980625,UTA,CHA,1998-99
+Shot Chart Detail,1029800031,129,100050,Kim Williams,1611661319,Utah Starzz,1,4,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980625,UTA,CHA,1998-99
+Shot Chart Detail,1029800031,138,100050,Kim Williams,1611661319,Utah Starzz,1,3,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,87,115,1,1,19980625,UTA,CHA,1998-99
+Shot Chart Detail,1029800031,273,100050,Kim Williams,1611661319,Utah Starzz,2,6,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980625,UTA,CHA,1998-99
+Shot Chart Detail,1029800031,274,100050,Kim Williams,1611661319,Utah Starzz,2,6,42,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980625,UTA,CHA,1998-99
+Shot Chart Detail,1029800031,283,100050,Kim Williams,1611661319,Utah Starzz,2,5,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980625,UTA,CHA,1998-99
+Shot Chart Detail,1029800031,299,100050,Kim Williams,1611661319,Utah Starzz,2,3,40,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,3,119,1,1,19980625,UTA,CHA,1998-99
+Shot Chart Detail,1029800031,306,100050,Kim Williams,1611661319,Utah Starzz,2,2,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980625,UTA,CHA,1998-99
+Shot Chart Detail,1029800033,106,100050,Kim Williams,1611661319,Utah Starzz,1,8,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,119,23,1,0,19980626,PHO,UTA,1998-99
+Shot Chart Detail,1029800033,358,100050,Kim Williams,1611661319,Utah Starzz,2,5,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980626,PHO,UTA,1998-99
+Shot Chart Detail,1029800033,360,100050,Kim Williams,1611661319,Utah Starzz,2,4,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,68,158,1,1,19980626,PHO,UTA,1998-99
+Shot Chart Detail,1029800033,376,100050,Kim Williams,1611661319,Utah Starzz,2,3,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-115,117,1,0,19980626,PHO,UTA,1998-99
+Shot Chart Detail,1029800041,397,100050,Kim Williams,1611661319,Utah Starzz,3,1,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980630,UTA,HOU,1998-99
+Shot Chart Detail,1029800041,401,100050,Kim Williams,1611661319,Utah Starzz,3,1,5,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980630,UTA,HOU,1998-99
+Shot Chart Detail,1029800041,418,100050,Kim Williams,1611661319,Utah Starzz,3,0,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980630,UTA,HOU,1998-99
+Shot Chart Detail,1029800041,465,100050,Kim Williams,1611661319,Utah Starzz,4,0,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980630,UTA,HOU,1998-99
+Shot Chart Detail,1029800041,470,100050,Kim Williams,1611661319,Utah Starzz,4,0,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980630,UTA,HOU,1998-99
+Shot Chart Detail,1029800046,105,100050,Kim Williams,1611661319,Utah Starzz,1,7,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-12,115,1,1,19980702,LAS,UTA,1998-99
+Shot Chart Detail,1029800046,122,100050,Kim Williams,1611661319,Utah Starzz,1,7,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980702,LAS,UTA,1998-99
+Shot Chart Detail,1029800046,261,100050,Kim Williams,1611661319,Utah Starzz,2,12,42,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-48,106,1,1,19980702,LAS,UTA,1998-99
+Shot Chart Detail,1029800046,279,100050,Kim Williams,1611661319,Utah Starzz,2,11,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980702,LAS,UTA,1998-99
+Shot Chart Detail,1029800046,294,100050,Kim Williams,1611661319,Utah Starzz,2,9,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,100,209,1,0,19980702,LAS,UTA,1998-99
+Shot Chart Detail,1029800046,305,100050,Kim Williams,1611661319,Utah Starzz,2,9,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,57,1,1,0,19980702,LAS,UTA,1998-99
+Shot Chart Detail,1029800051,72,100050,Kim Williams,1611661319,Utah Starzz,1,10,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-68,72,1,0,19980705,SAC,UTA,1998-99
+Shot Chart Detail,1029800051,74,100050,Kim Williams,1611661319,Utah Starzz,1,10,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,108,139,1,0,19980705,SAC,UTA,1998-99
+Shot Chart Detail,1029800051,75,100050,Kim Williams,1611661319,Utah Starzz,1,10,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,111,117,1,1,19980705,SAC,UTA,1998-99
+Shot Chart Detail,1029800051,100,100050,Kim Williams,1611661319,Utah Starzz,1,7,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,18,59,1,0,19980705,SAC,UTA,1998-99
+Shot Chart Detail,1029800051,130,100050,Kim Williams,1611661319,Utah Starzz,1,4,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-111,78,1,0,19980705,SAC,UTA,1998-99
+Shot Chart Detail,1029800051,237,100050,Kim Williams,1611661319,Utah Starzz,2,12,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,132,192,1,0,19980705,SAC,UTA,1998-99
+Shot Chart Detail,1029800051,257,100050,Kim Williams,1611661319,Utah Starzz,2,11,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,-16,1,1,19980705,SAC,UTA,1998-99
+Shot Chart Detail,1029800051,288,100050,Kim Williams,1611661319,Utah Starzz,2,6,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980705,SAC,UTA,1998-99
+Shot Chart Detail,1029800054,96,100050,Kim Williams,1611661319,Utah Starzz,1,7,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-48,109,1,0,19980706,UTA,SAC,1998-99
+Shot Chart Detail,1029800054,145,100050,Kim Williams,1611661319,Utah Starzz,1,3,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-96,149,1,0,19980706,UTA,SAC,1998-99
+Shot Chart Detail,1029800054,292,100050,Kim Williams,1611661319,Utah Starzz,2,8,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980706,UTA,SAC,1998-99
+Shot Chart Detail,1029800054,300,100050,Kim Williams,1611661319,Utah Starzz,2,7,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980706,UTA,SAC,1998-99
+Shot Chart Detail,1029800054,352,100050,Kim Williams,1611661319,Utah Starzz,2,1,0,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,8,51,1,0,19980706,UTA,SAC,1998-99
+Shot Chart Detail,1029800059,4,100050,Kim Williams,1611661319,Utah Starzz,1,19,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980708,UTA,CHA,1998-99
+Shot Chart Detail,1029800059,29,100050,Kim Williams,1611661319,Utah Starzz,1,16,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,29,1,0,19980708,UTA,CHA,1998-99
+Shot Chart Detail,1029800059,39,100050,Kim Williams,1611661319,Utah Starzz,1,15,51,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,3,1,1,19980708,UTA,CHA,1998-99
+Shot Chart Detail,1029800059,49,100050,Kim Williams,1611661319,Utah Starzz,1,14,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980708,UTA,CHA,1998-99
+Shot Chart Detail,1029800059,211,100050,Kim Williams,1611661319,Utah Starzz,1,2,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980708,UTA,CHA,1998-99
+Shot Chart Detail,1029800059,174,100050,Kim Williams,1611661319,Utah Starzz,1,1,21,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,19,199,0,1,1,19980708,UTA,CHA,1998-99
+Shot Chart Detail,1029800059,189,100050,Kim Williams,1611661319,Utah Starzz,1,0,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980708,UTA,CHA,1998-99
+Shot Chart Detail,1029800059,373,100050,Kim Williams,1611661319,Utah Starzz,2,1,9,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,20,205,8,1,0,19980708,UTA,CHA,1998-99
+Shot Chart Detail,1029800065,8,100050,Kim Williams,1611661319,Utah Starzz,1,19,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,27,1,0,19980711,HOU,UTA,1998-99
+Shot Chart Detail,1029800065,18,100050,Kim Williams,1611661319,Utah Starzz,1,17,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,169,149,1,1,19980711,HOU,UTA,1998-99
+Shot Chart Detail,1029800065,31,100050,Kim Williams,1611661319,Utah Starzz,1,16,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-96,162,1,1,19980711,HOU,UTA,1998-99
+Shot Chart Detail,1029800065,180,100050,Kim Williams,1611661319,Utah Starzz,1,0,34,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980711,HOU,UTA,1998-99
+Shot Chart Detail,1029800065,184,100050,Kim Williams,1611661319,Utah Starzz,1,0,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,61,139,1,1,19980711,HOU,UTA,1998-99
+Shot Chart Detail,1029800065,220,100050,Kim Williams,1611661319,Utah Starzz,2,16,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-21,139,1,0,19980711,HOU,UTA,1998-99
+Shot Chart Detail,1029800065,227,100050,Kim Williams,1611661319,Utah Starzz,2,15,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-6,147,1,0,19980711,HOU,UTA,1998-99
+Shot Chart Detail,1029800069,20,100050,Kim Williams,1611661319,Utah Starzz,1,17,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-111,102,1,0,19980713,UTA,DET,1998-99
+Shot Chart Detail,1029800069,58,100050,Kim Williams,1611661319,Utah Starzz,1,12,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-3,70,1,0,19980713,UTA,DET,1998-99
+Shot Chart Detail,1029800069,233,100050,Kim Williams,1611661319,Utah Starzz,1,0,2,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980713,UTA,DET,1998-99
+Shot Chart Detail,1029800069,355,100050,Kim Williams,1611661319,Utah Starzz,2,6,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,8,147,1,0,19980713,UTA,DET,1998-99
+Shot Chart Detail,1029800077,11,100050,Kim Williams,1611661319,Utah Starzz,1,18,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980717,DET,UTA,1998-99
+Shot Chart Detail,1029800077,22,100050,Kim Williams,1611661319,Utah Starzz,1,16,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,91,59,1,1,19980717,DET,UTA,1998-99
+Shot Chart Detail,1029800077,29,100050,Kim Williams,1611661319,Utah Starzz,1,15,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,72,85,1,1,19980717,DET,UTA,1998-99
+Shot Chart Detail,1029800077,209,100050,Kim Williams,1611661319,Utah Starzz,1,1,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980717,DET,UTA,1998-99
+Shot Chart Detail,1029800077,311,100050,Kim Williams,1611661319,Utah Starzz,2,7,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980717,DET,UTA,1998-99
+Shot Chart Detail,1029800077,341,100050,Kim Williams,1611661319,Utah Starzz,2,4,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980717,DET,UTA,1998-99
+Shot Chart Detail,1029800077,344,100050,Kim Williams,1611661319,Utah Starzz,2,4,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980717,DET,UTA,1998-99
+Shot Chart Detail,1029800077,347,100050,Kim Williams,1611661319,Utah Starzz,2,4,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-44,130,1,1,19980717,DET,UTA,1998-99
+Shot Chart Detail,1029800077,369,100050,Kim Williams,1611661319,Utah Starzz,2,2,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980717,DET,UTA,1998-99
+Shot Chart Detail,1029800082,7,100050,Kim Williams,1611661319,Utah Starzz,1,19,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,-5,1,0,19980719,WAS,UTA,1998-99
+Shot Chart Detail,1029800082,24,100050,Kim Williams,1611661319,Utah Starzz,1,17,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,1,1,0,19980719,WAS,UTA,1998-99
+Shot Chart Detail,1029800082,81,100050,Kim Williams,1611661319,Utah Starzz,1,11,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-8,1,1,19980719,WAS,UTA,1998-99
+Shot Chart Detail,1029800082,102,100050,Kim Williams,1611661319,Utah Starzz,1,9,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,-5,1,1,19980719,WAS,UTA,1998-99
+Shot Chart Detail,1029800082,104,100050,Kim Williams,1611661319,Utah Starzz,1,8,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,-8,1,1,19980719,WAS,UTA,1998-99
+Shot Chart Detail,1029800082,186,100050,Kim Williams,1611661319,Utah Starzz,1,1,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,8,1,0,19980719,WAS,UTA,1998-99
+Shot Chart Detail,1029800082,204,100050,Kim Williams,1611661319,Utah Starzz,1,0,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,-5,1,1,19980719,WAS,UTA,1998-99
+Shot Chart Detail,1029800082,259,100050,Kim Williams,1611661319,Utah Starzz,2,15,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,12,1,1,19980719,WAS,UTA,1998-99
+Shot Chart Detail,1029800082,339,100050,Kim Williams,1611661319,Utah Starzz,2,10,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,40,1,0,19980719,WAS,UTA,1998-99
+Shot Chart Detail,1029800082,346,100050,Kim Williams,1611661319,Utah Starzz,2,9,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,42,12,1,1,19980719,WAS,UTA,1998-99
+Shot Chart Detail,1029800082,358,100050,Kim Williams,1611661319,Utah Starzz,2,8,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,115,61,1,0,19980719,WAS,UTA,1998-99
+Shot Chart Detail,1029800082,386,100050,Kim Williams,1611661319,Utah Starzz,2,6,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,44,33,1,0,19980719,WAS,UTA,1998-99
+Shot Chart Detail,1029800088,9,100050,Kim Williams,1611661319,Utah Starzz,1,18,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-192,104,1,0,19980722,CHA,UTA,1998-99
+Shot Chart Detail,1029800088,33,100050,Kim Williams,1611661319,Utah Starzz,1,15,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-104,3,1,1,19980722,CHA,UTA,1998-99
+Shot Chart Detail,1029800088,43,100050,Kim Williams,1611661319,Utah Starzz,1,14,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980722,CHA,UTA,1998-99
+Shot Chart Detail,1029800088,150,100050,Kim Williams,1611661319,Utah Starzz,1,4,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-81,-10,1,0,19980722,CHA,UTA,1998-99
+Shot Chart Detail,1029800088,165,100050,Kim Williams,1611661319,Utah Starzz,1,2,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,20,177,96,1,1,19980722,CHA,UTA,1998-99
+Shot Chart Detail,1029800088,219,100050,Kim Williams,1611661319,Utah Starzz,1,1,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980722,CHA,UTA,1998-99
+Shot Chart Detail,1029800088,179,100050,Kim Williams,1611661319,Utah Starzz,1,1,2,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-36,10,1,0,19980722,CHA,UTA,1998-99
+Shot Chart Detail,1029800088,183,100050,Kim Williams,1611661319,Utah Starzz,1,0,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-115,-3,1,0,19980722,CHA,UTA,1998-99
+Shot Chart Detail,1029800088,226,100050,Kim Williams,1611661319,Utah Starzz,1,0,40,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,48,44,1,1,19980722,CHA,UTA,1998-99
+Shot Chart Detail,1029800088,241,100050,Kim Williams,1611661319,Utah Starzz,2,15,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980722,CHA,UTA,1998-99
+Shot Chart Detail,1029800088,280,100050,Kim Williams,1611661319,Utah Starzz,2,12,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,27,3,1,0,19980722,CHA,UTA,1998-99
+Shot Chart Detail,1029800088,329,100050,Kim Williams,1611661319,Utah Starzz,2,5,46,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980722,CHA,UTA,1998-99
+Shot Chart Detail,1029800088,342,100050,Kim Williams,1611661319,Utah Starzz,2,4,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980722,CHA,UTA,1998-99
+Shot Chart Detail,1029800093,14,100050,Kim Williams,1611661319,Utah Starzz,1,17,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-81,23,1,0,19980725,CLE,UTA,1998-99
+Shot Chart Detail,1029800093,29,100050,Kim Williams,1611661319,Utah Starzz,1,15,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,128,5,1,1,19980725,CLE,UTA,1998-99
+Shot Chart Detail,1029800093,43,100050,Kim Williams,1611661319,Utah Starzz,1,13,36,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,18,1,1,19980725,CLE,UTA,1998-99
+Shot Chart Detail,1029800093,68,100050,Kim Williams,1611661319,Utah Starzz,1,11,8,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,12,1,0,19980725,CLE,UTA,1998-99
+Shot Chart Detail,1029800093,188,100050,Kim Williams,1611661319,Utah Starzz,1,1,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,108,33,1,0,19980725,CLE,UTA,1998-99
+Shot Chart Detail,1029800093,313,100050,Kim Williams,1611661319,Utah Starzz,2,4,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,14,5,1,0,19980725,CLE,UTA,1998-99
+Shot Chart Detail,1029800093,327,100050,Kim Williams,1611661319,Utah Starzz,2,2,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-132,-3,1,0,19980725,CLE,UTA,1998-99
+Shot Chart Detail,1029800093,349,100050,Kim Williams,1611661319,Utah Starzz,2,0,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,-10,1,0,19980725,CLE,UTA,1998-99
+Shot Chart Detail,1029800099,48,100050,Kim Williams,1611661319,Utah Starzz,1,14,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-48,115,1,0,19980727,UTA,PHO,1998-99
+Shot Chart Detail,1029800099,70,100050,Kim Williams,1611661319,Utah Starzz,1,11,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,115,93,1,1,19980727,UTA,PHO,1998-99
+Shot Chart Detail,1029800099,72,100050,Kim Williams,1611661319,Utah Starzz,1,10,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,143,70,1,0,19980727,UTA,PHO,1998-99
+Shot Chart Detail,1029800099,89,100050,Kim Williams,1611661319,Utah Starzz,1,8,44,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-38,1,1,0,19980727,UTA,PHO,1998-99
+Shot Chart Detail,1029800099,106,100050,Kim Williams,1611661319,Utah Starzz,1,6,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980727,UTA,PHO,1998-99
+Shot Chart Detail,1029800099,150,100050,Kim Williams,1611661319,Utah Starzz,1,2,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-117,59,1,1,19980727,UTA,PHO,1998-99
+Shot Chart Detail,1029800099,165,100050,Kim Williams,1611661319,Utah Starzz,1,1,13,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980727,UTA,PHO,1998-99
+Shot Chart Detail,1029800099,231,100050,Kim Williams,1611661319,Utah Starzz,2,14,32,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980727,UTA,PHO,1998-99
+Shot Chart Detail,1029800099,241,100050,Kim Williams,1611661319,Utah Starzz,2,14,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980727,UTA,PHO,1998-99
+Shot Chart Detail,1029800099,267,100050,Kim Williams,1611661319,Utah Starzz,2,12,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,102,115,1,0,19980727,UTA,PHO,1998-99
+Shot Chart Detail,1029800099,269,100050,Kim Williams,1611661319,Utah Starzz,2,12,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980727,UTA,PHO,1998-99
+Shot Chart Detail,1029800099,403,100050,Kim Williams,1611661319,Utah Starzz,2,1,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980727,UTA,PHO,1998-99
+Shot Chart Detail,1029800099,431,100050,Kim Williams,1611661319,Utah Starzz,2,0,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980727,UTA,PHO,1998-99
+Shot Chart Detail,1029800104,8,100050,Kim Williams,1611661319,Utah Starzz,1,18,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980730,HOU,UTA,1998-99
+Shot Chart Detail,1029800104,187,100050,Kim Williams,1611661319,Utah Starzz,1,2,30,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,20,-205,-5,1,1,19980730,HOU,UTA,1998-99
+Shot Chart Detail,1029800104,202,100050,Kim Williams,1611661319,Utah Starzz,1,1,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,106,5,1,0,19980730,HOU,UTA,1998-99
+Shot Chart Detail,1029800104,208,100050,Kim Williams,1611661319,Utah Starzz,1,0,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-102,181,1,1,19980730,HOU,UTA,1998-99
+Shot Chart Detail,1029800104,227,100050,Kim Williams,1611661319,Utah Starzz,2,14,55,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,55,16,1,1,19980730,HOU,UTA,1998-99
+Shot Chart Detail,1029800104,236,100050,Kim Williams,1611661319,Utah Starzz,2,13,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-111,179,1,0,19980730,HOU,UTA,1998-99
+Shot Chart Detail,1029800104,317,100050,Kim Williams,1611661319,Utah Starzz,2,6,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,-3,1,1,19980730,HOU,UTA,1998-99
+Shot Chart Detail,1029800109,5,100050,Kim Williams,1611661319,Utah Starzz,1,19,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,35,164,1,1,19980801,UTA,LAS,1998-99
+Shot Chart Detail,1029800109,24,100050,Kim Williams,1611661319,Utah Starzz,1,17,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980801,UTA,LAS,1998-99
+Shot Chart Detail,1029800109,48,100050,Kim Williams,1611661319,Utah Starzz,1,14,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,104,121,1,0,19980801,UTA,LAS,1998-99
+Shot Chart Detail,1029800109,179,100050,Kim Williams,1611661319,Utah Starzz,1,2,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,173,121,1,1,19980801,UTA,LAS,1998-99
+Shot Chart Detail,1029800109,215,100050,Kim Williams,1611661319,Utah Starzz,1,2,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,126,164,1,0,19980801,UTA,LAS,1998-99
+Shot Chart Detail,1029800109,230,100050,Kim Williams,1611661319,Utah Starzz,1,0,49,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,20,205,21,1,1,19980801,UTA,LAS,1998-99
+Shot Chart Detail,1029800109,328,100050,Kim Williams,1611661319,Utah Starzz,2,8,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,102,134,1,1,19980801,UTA,LAS,1998-99
+Shot Chart Detail,1029800109,338,100050,Kim Williams,1611661319,Utah Starzz,2,7,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-76,113,1,1,19980801,UTA,LAS,1998-99
+Shot Chart Detail,1029800109,353,100050,Kim Williams,1611661319,Utah Starzz,2,5,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980801,UTA,LAS,1998-99
+Shot Chart Detail,1029800114,254,100050,Kim Williams,1611661319,Utah Starzz,2,8,9,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980804,UTA,HOU,1998-99
+Shot Chart Detail,1029800114,263,100050,Kim Williams,1611661319,Utah Starzz,2,6,46,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-36,12,1,0,19980804,UTA,HOU,1998-99
+Shot Chart Detail,1029800114,265,100050,Kim Williams,1611661319,Utah Starzz,2,6,40,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980804,UTA,HOU,1998-99
+Shot Chart Detail,1029800120,131,100050,Kim Williams,1611661319,Utah Starzz,1,7,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-16,46,1,0,19980806,UTA,CLE,1998-99
+Shot Chart Detail,1029800120,148,100050,Kim Williams,1611661319,Utah Starzz,1,5,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-1,175,1,0,19980806,UTA,CLE,1998-99
+Shot Chart Detail,1029800120,182,100050,Kim Williams,1611661319,Utah Starzz,1,1,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980806,UTA,CLE,1998-99
+Shot Chart Detail,1029800120,238,100050,Kim Williams,1611661319,Utah Starzz,2,14,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980806,UTA,CLE,1998-99
+Shot Chart Detail,1029800120,250,100050,Kim Williams,1611661319,Utah Starzz,2,13,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980806,UTA,CLE,1998-99
+Shot Chart Detail,1029800120,254,100050,Kim Williams,1611661319,Utah Starzz,2,12,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980806,UTA,CLE,1998-99
+Shot Chart Detail,1029800120,278,100050,Kim Williams,1611661319,Utah Starzz,2,10,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980806,UTA,CLE,1998-99
+Shot Chart Detail,1029800120,281,100050,Kim Williams,1611661319,Utah Starzz,2,9,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,44,145,1,0,19980806,UTA,CLE,1998-99
+Shot Chart Detail,1029800120,301,100050,Kim Williams,1611661319,Utah Starzz,2,7,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980806,UTA,CLE,1998-99
+Shot Chart Detail,1029800120,369,100050,Kim Williams,1611661319,Utah Starzz,2,0,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,1,207,1,0,19980806,UTA,CLE,1998-99
+Shot Chart Detail,1029800125,134,100050,Kim Williams,1611661319,Utah Starzz,1,7,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,27,40,1,0,19980808,PHO,UTA,1998-99
+Shot Chart Detail,1029800125,171,100050,Kim Williams,1611661319,Utah Starzz,1,4,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,98,177,1,0,19980808,PHO,UTA,1998-99
+Shot Chart Detail,1029800125,224,100050,Kim Williams,1611661319,Utah Starzz,1,0,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,18,91,1,0,19980808,PHO,UTA,1998-99
+Shot Chart Detail,1029800125,328,100050,Kim Williams,1611661319,Utah Starzz,2,8,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,5,53,1,0,19980808,PHO,UTA,1998-99
+Shot Chart Detail,1029800125,334,100050,Kim Williams,1611661319,Utah Starzz,2,7,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980808,PHO,UTA,1998-99
+Shot Chart Detail,1029800125,350,100050,Kim Williams,1611661319,Utah Starzz,2,7,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-83,16,1,0,19980808,PHO,UTA,1998-99
+Shot Chart Detail,1029800125,407,100050,Kim Williams,1611661319,Utah Starzz,2,2,24,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,20,48,1,1,19980808,PHO,UTA,1998-99
+Shot Chart Detail,1029800125,427,100050,Kim Williams,1611661319,Utah Starzz,2,0,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980808,PHO,UTA,1998-99
+Shot Chart Detail,1029800125,429,100050,Kim Williams,1611661319,Utah Starzz,2,0,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980808,PHO,UTA,1998-99
+Shot Chart Detail,1029800129,95,100050,Kim Williams,1611661319,Utah Starzz,1,9,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,128,57,1,0,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,111,100050,Kim Williams,1611661319,Utah Starzz,1,7,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,-48,199,1,0,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,128,100050,Kim Williams,1611661319,Utah Starzz,1,6,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,147,100050,Kim Williams,1611661319,Utah Starzz,1,4,51,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,158,100050,Kim Williams,1611661319,Utah Starzz,1,4,10,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,48,66,1,0,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,225,100050,Kim Williams,1611661319,Utah Starzz,1,1,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,98,12,1,0,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,184,100050,Kim Williams,1611661319,Utah Starzz,1,0,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,187,100050,Kim Williams,1611661319,Utah Starzz,1,0,27,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,271,100050,Kim Williams,1611661319,Utah Starzz,2,15,8,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,40,117,1,1,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,288,100050,Kim Williams,1611661319,Utah Starzz,2,13,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-115,0,1,1,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,309,100050,Kim Williams,1611661319,Utah Starzz,2,12,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,360,100050,Kim Williams,1611661319,Utah Starzz,2,6,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,111,48,1,1,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,369,100050,Kim Williams,1611661319,Utah Starzz,2,6,5,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,383,100050,Kim Williams,1611661319,Utah Starzz,2,4,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,405,100050,Kim Williams,1611661319,Utah Starzz,2,2,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,455,100050,Kim Williams,1611661319,Utah Starzz,2,0,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,87,188,1,0,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,457,100050,Kim Williams,1611661319,Utah Starzz,2,0,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,20,201,40,1,0,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800129,464,100050,Kim Williams,1611661319,Utah Starzz,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,30,-184,246,1,0,19980810,UTA,DET,1998-99
+Shot Chart Detail,1029800134,103,100050,Kim Williams,1611661319,Utah Starzz,1,9,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980812,UTA,SAC,1998-99
+Shot Chart Detail,1029800134,128,100050,Kim Williams,1611661319,Utah Starzz,1,5,44,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980812,UTA,SAC,1998-99
+Shot Chart Detail,1029800134,322,100050,Kim Williams,1611661319,Utah Starzz,2,8,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980812,UTA,SAC,1998-99
+Shot Chart Detail,1029800138,391,100050,Kim Williams,1611661319,Utah Starzz,2,3,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,154,134,1,1,19980814,LAS,UTA,1998-99
+Shot Chart Detail,1029800138,400,100050,Kim Williams,1611661319,Utah Starzz,2,2,14,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980814,LAS,UTA,1998-99
+Shot Chart Detail,1029800138,410,100050,Kim Williams,1611661319,Utah Starzz,2,1,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-53,-8,1,0,19980814,LAS,UTA,1998-99
+Shot Chart Detail,1029800138,421,100050,Kim Williams,1611661319,Utah Starzz,2,1,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980814,LAS,UTA,1998-99
+Shot Chart Detail,1029800138,426,100050,Kim Williams,1611661319,Utah Starzz,2,0,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,-10,1,0,19980814,LAS,UTA,1998-99
+Shot Chart Detail,1029800138,446,100050,Kim Williams,1611661319,Utah Starzz,2,0,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980814,LAS,UTA,1998-99
+Shot Chart Detail,1029800141,115,100050,Kim Williams,1611661319,Utah Starzz,1,7,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,98,5,1,1,19980815,SAC,UTA,1998-99
+Shot Chart Detail,1029800141,164,100050,Kim Williams,1611661319,Utah Starzz,1,2,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980815,SAC,UTA,1998-99
+Shot Chart Detail,1029800141,172,100050,Kim Williams,1611661319,Utah Starzz,1,2,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980815,SAC,UTA,1998-99
+Shot Chart Detail,1029800141,182,100050,Kim Williams,1611661319,Utah Starzz,1,1,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,16,1,1,19980815,SAC,UTA,1998-99
+Shot Chart Detail,1029800141,246,100050,Kim Williams,1611661319,Utah Starzz,2,15,10,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,31,1,0,19980815,SAC,UTA,1998-99
+Shot Chart Detail,1029800141,258,100050,Kim Williams,1611661319,Utah Starzz,2,13,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,20,203,51,1,0,19980815,SAC,UTA,1998-99
+Shot Chart Detail,1029800141,262,100050,Kim Williams,1611661319,Utah Starzz,2,12,40,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,38,23,1,0,19980815,SAC,UTA,1998-99
+Shot Chart Detail,1029800141,304,100050,Kim Williams,1611661319,Utah Starzz,2,9,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,108,186,1,0,19980815,SAC,UTA,1998-99
+Shot Chart Detail,1029800141,329,100050,Kim Williams,1611661319,Utah Starzz,2,7,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980815,SAC,UTA,1998-99
+Shot Chart Detail,1029800141,344,100050,Kim Williams,1611661319,Utah Starzz,2,4,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,14,117,1,1,19980815,SAC,UTA,1998-99
+Shot Chart Detail,1029800141,363,100050,Kim Williams,1611661319,Utah Starzz,2,2,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980815,SAC,UTA,1998-99
+Shot Chart Detail,1029800146,102,100050,Kim Williams,1611661319,Utah Starzz,1,9,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,87,81,1,0,19980817,UTA,PHO,1998-99
+Shot Chart Detail,1029800146,147,100050,Kim Williams,1611661319,Utah Starzz,1,5,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980817,UTA,PHO,1998-99
+Shot Chart Detail,1029800146,157,100050,Kim Williams,1611661319,Utah Starzz,1,3,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,0,130,1,0,19980817,UTA,PHO,1998-99
+Shot Chart Detail,1029800146,181,100050,Kim Williams,1611661319,Utah Starzz,1,2,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980817,UTA,PHO,1998-99
+Shot Chart Detail,1029800146,182,100050,Kim Williams,1611661319,Utah Starzz,1,2,7,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980817,UTA,PHO,1998-99
+Shot Chart Detail,1029800146,185,100050,Kim Williams,1611661319,Utah Starzz,1,1,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980817,UTA,PHO,1998-99
+Shot Chart Detail,1029800146,195,100050,Kim Williams,1611661319,Utah Starzz,1,0,33,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-40,106,1,1,19980817,UTA,PHO,1998-99
+Shot Chart Detail,1029800146,200,100050,Kim Williams,1611661319,Utah Starzz,1,0,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,134,160,1,0,19980817,UTA,PHO,1998-99
+Shot Chart Detail,1029800146,281,100050,Kim Williams,1611661319,Utah Starzz,2,12,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,106,-10,1,0,19980817,UTA,PHO,1998-99
+Shot Chart Detail,1029800146,358,100050,Kim Williams,1611661319,Utah Starzz,2,6,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-76,63,1,0,19980817,UTA,PHO,1998-99
+Shot Chart Detail,1029800146,375,100050,Kim Williams,1611661319,Utah Starzz,2,3,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980817,UTA,PHO,1998-99

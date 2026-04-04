@@ -1,0 +1,50 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020800001,17,100414,Elaine Powell,1611661321,Detroit Shock,1,7,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-161,20,1,0,20080517,DET,HOU,2008-09
+Shot Chart Detail,1020800001,147,100414,Elaine Powell,1611661321,Detroit Shock,2,5,8,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080517,DET,HOU,2008-09
+Shot Chart Detail,1020800001,251,100414,Elaine Powell,1611661321,Detroit Shock,3,6,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080517,DET,HOU,2008-09
+Shot Chart Detail,1020800001,350,100414,Elaine Powell,1611661321,Detroit Shock,4,8,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080517,DET,HOU,2008-09
+Shot Chart Detail,1020800008,8,100414,Elaine Powell,1611661321,Detroit Shock,1,9,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,33,1,0,20080518,MIN,DET,2008-09
+Shot Chart Detail,1020800008,44,100414,Elaine Powell,1611661321,Detroit Shock,1,4,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080518,MIN,DET,2008-09
+Shot Chart Detail,1020800008,94,100414,Elaine Powell,1611661321,Detroit Shock,1,0,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-49,100,1,1,20080518,MIN,DET,2008-09
+Shot Chart Detail,1020800008,105,100414,Elaine Powell,1611661321,Detroit Shock,2,8,56,Missed Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-61,45,1,0,20080518,MIN,DET,2008-09
+Shot Chart Detail,1020800008,244,100414,Elaine Powell,1611661321,Detroit Shock,3,6,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080518,MIN,DET,2008-09
+Shot Chart Detail,1020800011,4,100414,Elaine Powell,1611661321,Detroit Shock,1,9,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-115,28,1,0,20080521,DET,IND,2008-09
+Shot Chart Detail,1020800011,210,100414,Elaine Powell,1611661321,Detroit Shock,3,7,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,158,63,1,0,20080521,DET,IND,2008-09
+Shot Chart Detail,1020800011,269,100414,Elaine Powell,1611661321,Detroit Shock,3,1,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-148,15,1,0,20080521,DET,IND,2008-09
+Shot Chart Detail,1020800015,277,100414,Elaine Powell,1611661321,Detroit Shock,3,8,8,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080523,ATL,DET,2008-09
+Shot Chart Detail,1020800015,294,100414,Elaine Powell,1611661321,Detroit Shock,3,6,23,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080523,ATL,DET,2008-09
+Shot Chart Detail,1020800015,358,100414,Elaine Powell,1611661321,Detroit Shock,3,1,33,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080523,ATL,DET,2008-09
+Shot Chart Detail,1020800015,422,100414,Elaine Powell,1611661321,Detroit Shock,4,5,2,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080523,ATL,DET,2008-09
+Shot Chart Detail,1020800020,23,100414,Elaine Powell,1611661321,Detroit Shock,1,6,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-107,61,1,1,20080525,DET,NYL,2008-09
+Shot Chart Detail,1020800020,232,100414,Elaine Powell,1611661321,Detroit Shock,3,4,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080525,DET,NYL,2008-09
+Shot Chart Detail,1020800020,241,100414,Elaine Powell,1611661321,Detroit Shock,3,3,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080525,DET,NYL,2008-09
+Shot Chart Detail,1020800020,269,100414,Elaine Powell,1611661321,Detroit Shock,3,1,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,163,59,1,1,20080525,DET,NYL,2008-09
+Shot Chart Detail,1020800020,352,100414,Elaine Powell,1611661321,Detroit Shock,4,3,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-8,120,1,0,20080525,DET,NYL,2008-09
+Shot Chart Detail,1020800030,13,100414,Elaine Powell,1611661321,Detroit Shock,1,7,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,5,1,1,20080531,IND,DET,2008-09
+Shot Chart Detail,1020800030,165,100414,Elaine Powell,1611661321,Detroit Shock,2,3,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,94,-6,1,0,20080531,IND,DET,2008-09
+Shot Chart Detail,1020800030,196,100414,Elaine Powell,1611661321,Detroit Shock,2,0,0,Made Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,Back Court(BC),Back Court Shot,41,-94,404,1,1,20080531,IND,DET,2008-09
+Shot Chart Detail,1020800030,201,100414,Elaine Powell,1611661321,Detroit Shock,3,9,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-9,1,1,20080531,IND,DET,2008-09
+Shot Chart Detail,1020800030,221,100414,Elaine Powell,1611661321,Detroit Shock,3,7,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,17,1,0,20080531,IND,DET,2008-09
+Shot Chart Detail,1020800030,319,100414,Elaine Powell,1611661321,Detroit Shock,4,8,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,-14,1,0,20080531,IND,DET,2008-09
+Shot Chart Detail,1020800030,364,100414,Elaine Powell,1611661321,Detroit Shock,4,4,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,-8,1,1,20080531,IND,DET,2008-09
+Shot Chart Detail,1020800039,229,100414,Elaine Powell,1611661321,Detroit Shock,3,6,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,105,56,1,1,20080604,DET,SEA,2008-09
+Shot Chart Detail,1020800039,236,100414,Elaine Powell,1611661321,Detroit Shock,3,5,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080604,DET,SEA,2008-09
+Shot Chart Detail,1020800039,330,100414,Elaine Powell,1611661321,Detroit Shock,4,7,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,117,46,1,0,20080604,DET,SEA,2008-09
+Shot Chart Detail,1020800044,8,100414,Elaine Powell,1611661321,Detroit Shock,1,9,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080606,SAC,DET,2008-09
+Shot Chart Detail,1020800044,14,100414,Elaine Powell,1611661321,Detroit Shock,1,8,31,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,38,15,1,1,20080606,SAC,DET,2008-09
+Shot Chart Detail,1020800044,247,100414,Elaine Powell,1611661321,Detroit Shock,3,5,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,20,1,1,20080606,SAC,DET,2008-09
+Shot Chart Detail,1020800044,276,100414,Elaine Powell,1611661321,Detroit Shock,3,2,30,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080606,SAC,DET,2008-09
+Shot Chart Detail,1020800048,8,100414,Elaine Powell,1611661321,Detroit Shock,1,8,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,0,1,1,20080607,SEA,DET,2008-09
+Shot Chart Detail,1020800048,237,100414,Elaine Powell,1611661321,Detroit Shock,3,8,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080607,SEA,DET,2008-09
+Shot Chart Detail,1020800057,51,100414,Elaine Powell,1611661321,Detroit Shock,1,5,9,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080611,LAS,DET,2008-09
+Shot Chart Detail,1020800057,127,100414,Elaine Powell,1611661321,Detroit Shock,2,9,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,20,61,1,0,20080611,LAS,DET,2008-09
+Shot Chart Detail,1020800198,22,100414,Elaine Powell,1611661321,Detroit Shock,1,6,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080831,CHI,DET,2008-09
+Shot Chart Detail,1020800198,57,100414,Elaine Powell,1611661321,Detroit Shock,1,3,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080831,CHI,DET,2008-09
+Shot Chart Detail,1020800198,233,100414,Elaine Powell,1611661321,Detroit Shock,3,8,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080831,CHI,DET,2008-09
+Shot Chart Detail,1020800210,31,100414,Elaine Powell,1611661321,Detroit Shock,1,6,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-15,66,1,0,20080906,WAS,DET,2008-09
+Shot Chart Detail,1020800210,268,100414,Elaine Powell,1611661321,Detroit Shock,3,7,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,17,1,0,20080906,WAS,DET,2008-09
+Shot Chart Detail,1020800210,362,100414,Elaine Powell,1611661321,Detroit Shock,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,38,-26,380,1,0,20080906,WAS,DET,2008-09
+Shot Chart Detail,1020800218,23,100414,Elaine Powell,1611661321,Detroit Shock,1,6,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,24,74,1,0,20080909,DET,PHO,2008-09
+Shot Chart Detail,1020800225,6,100414,Elaine Powell,1611661321,Detroit Shock,1,9,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080911,DET,WAS,2008-09
+Shot Chart Detail,1020800225,17,100414,Elaine Powell,1611661321,Detroit Shock,1,7,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-87,8,1,1,20080911,DET,WAS,2008-09
+Shot Chart Detail,1020800225,414,100414,Elaine Powell,1611661321,Detroit Shock,4,2,16,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-90,20,1,0,20080911,DET,WAS,2008-09

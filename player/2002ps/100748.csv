@@ -1,0 +1,10 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1040200121,277,100748,Felicia Ragland,1611661328,Seattle Storm,2,5,52,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,14,28,1,0,20020815,SEA,LAS,2002-03
+Shot Chart Detail,1040200122,237,100748,Felicia Ragland,1611661328,Seattle Storm,2,13,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-113,19,1,0,20020817,LAS,SEA,2002-03
+Shot Chart Detail,1040200122,244,100748,Felicia Ragland,1611661328,Seattle Storm,2,12,31,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,210,15,1,0,20020817,LAS,SEA,2002-03
+Shot Chart Detail,1040200122,263,100748,Felicia Ragland,1611661328,Seattle Storm,2,11,3,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,0,1,0,20020817,LAS,SEA,2002-03
+Shot Chart Detail,1040200122,281,100748,Felicia Ragland,1611661328,Seattle Storm,2,8,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020817,LAS,SEA,2002-03
+Shot Chart Detail,1040200122,308,100748,Felicia Ragland,1611661328,Seattle Storm,2,6,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020817,LAS,SEA,2002-03
+Shot Chart Detail,1040200122,310,100748,Felicia Ragland,1611661328,Seattle Storm,2,5,49,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-214,-19,1,1,20020817,LAS,SEA,2002-03
+Shot Chart Detail,1040200122,314,100748,Felicia Ragland,1611661328,Seattle Storm,2,5,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-113,4,1,0,20020817,LAS,SEA,2002-03
+Shot Chart Detail,1040200122,383,100748,Felicia Ragland,1611661328,Seattle Storm,2,0,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,19,1,0,20020817,LAS,SEA,2002-03

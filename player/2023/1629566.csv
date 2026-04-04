@@ -1,0 +1,21 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1022300002,466,1629566,Han Xu,1611661313,New York Liberty,4,7,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-68,243,1,0,20230519,WAS,NYL,2023-24
+Shot Chart Detail,1022300008,513,1629566,Han Xu,1611661313,New York Liberty,4,6,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-113,221,1,0,20230521,NYL,IND,2023-24
+Shot Chart Detail,1022300008,521,1629566,Han Xu,1611661313,New York Liberty,4,5,22,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,15,237,1,0,20230521,NYL,IND,2023-24
+Shot Chart Detail,1022300008,535,1629566,Han Xu,1611661313,New York Liberty,4,4,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,24,138,1,0,20230521,NYL,IND,2023-24
+Shot Chart Detail,1022300016,538,1629566,Han Xu,1611661313,New York Liberty,4,1,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,123,217,1,0,20230527,NYL,CON,2023-24
+Shot Chart Detail,1022300016,547,1629566,Han Xu,1611661313,New York Liberty,4,0,31,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,22,1,1,20230527,NYL,CON,2023-24
+Shot Chart Detail,1022300041,565,1629566,Han Xu,1611661313,New York Liberty,4,3,11,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-91,52,1,0,20230609,ATL,NYL,2023-24
+Shot Chart Detail,1022300041,595,1629566,Han Xu,1611661313,New York Liberty,4,1,18,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,6,76,1,1,20230609,ATL,NYL,2023-24
+Shot Chart Detail,1022300046,592,1629566,Han Xu,1611661313,New York Liberty,4,0,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-115,75,1,0,20230611,NYL,DAL,2023-24
+Shot Chart Detail,1022300204,412,1629566,Han Xu,1611661313,New York Liberty,4,8,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,12,1,1,20230826,MIN,NYL,2023-24
+Shot Chart Detail,1022300204,423,1629566,Han Xu,1611661313,New York Liberty,4,7,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,118,215,1,0,20230826,MIN,NYL,2023-24
+Shot Chart Detail,1022300204,450,1629566,Han Xu,1611661313,New York Liberty,4,5,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,20,97,1,0,20230826,MIN,NYL,2023-24
+Shot Chart Detail,1022300204,452,1629566,Han Xu,1611661313,New York Liberty,4,5,21,Made Shot,Putback Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-4,53,1,1,20230826,MIN,NYL,2023-24
+Shot Chart Detail,1022300204,456,1629566,Han Xu,1611661313,New York Liberty,4,4,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,38,243,1,0,20230826,MIN,NYL,2023-24
+Shot Chart Detail,1022300204,483,1629566,Han Xu,1611661313,New York Liberty,4,1,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,139,43,1,1,20230826,MIN,NYL,2023-24
+Shot Chart Detail,1022300217,465,1629566,Han Xu,1611661313,New York Liberty,4,4,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,68,133,1,1,20230901,NYL,CON,2023-24
+Shot Chart Detail,1022300217,503,1629566,Han Xu,1611661313,New York Liberty,4,1,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-144,195,1,0,20230901,NYL,CON,2023-24
+Shot Chart Detail,1022300220,502,1629566,Han Xu,1611661313,New York Liberty,4,1,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,6,1,0,20230903,CHI,NYL,2023-24
+Shot Chart Detail,1022300220,510,1629566,Han Xu,1611661313,New York Liberty,4,0,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,48,72,1,0,20230903,CHI,NYL,2023-24
+Shot Chart Detail,1022300220,513,1629566,Han Xu,1611661313,New York Liberty,4,0,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-129,27,1,0,20230903,CHI,NYL,2023-24

@@ -1,0 +1,188 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020100003,131,100359,Debbie Black,1611661326,Miami Sol,1,4,7,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010531,MIA,NYL,2001-02
+Shot Chart Detail,1020100003,138,100359,Debbie Black,1611661326,Miami Sol,1,2,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,7,1,1,20010531,MIA,NYL,2001-02
+Shot Chart Detail,1020100003,212,100359,Debbie Black,1611661326,Miami Sol,2,13,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-75,163,1,1,20010531,MIA,NYL,2001-02
+Shot Chart Detail,1020100003,222,100359,Debbie Black,1611661326,Miami Sol,2,12,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010531,MIA,NYL,2001-02
+Shot Chart Detail,1020100003,252,100359,Debbie Black,1611661326,Miami Sol,2,8,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-162,68,1,0,20010531,MIA,NYL,2001-02
+Shot Chart Detail,1020100003,310,100359,Debbie Black,1611661326,Miami Sol,2,3,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,115,114,1,1,20010531,MIA,NYL,2001-02
+Shot Chart Detail,1020100019,57,100359,Debbie Black,1611661326,Miami Sol,1,12,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,91,152,1,0,20010605,MIA,IND,2001-02
+Shot Chart Detail,1020100019,82,100359,Debbie Black,1611661326,Miami Sol,1,9,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,37,125,1,0,20010605,MIA,IND,2001-02
+Shot Chart Detail,1020100019,187,100359,Debbie Black,1611661326,Miami Sol,1,1,47,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010605,MIA,IND,2001-02
+Shot Chart Detail,1020100019,226,100359,Debbie Black,1611661326,Miami Sol,2,12,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010605,MIA,IND,2001-02
+Shot Chart Detail,1020100019,254,100359,Debbie Black,1611661326,Miami Sol,2,9,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,136,125,1,0,20010605,MIA,IND,2001-02
+Shot Chart Detail,1020100019,289,100359,Debbie Black,1611661326,Miami Sol,2,6,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-189,0,1,0,20010605,MIA,IND,2001-02
+Shot Chart Detail,1020100027,16,100359,Debbie Black,1611661326,Miami Sol,1,17,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,157,4,1,0,20010607,SEA,MIA,2001-02
+Shot Chart Detail,1020100027,69,100359,Debbie Black,1611661326,Miami Sol,1,12,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-46,152,1,0,20010607,SEA,MIA,2001-02
+Shot Chart Detail,1020100027,280,100359,Debbie Black,1611661326,Miami Sol,2,9,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,85,91,1,1,20010607,SEA,MIA,2001-02
+Shot Chart Detail,1020100027,315,100359,Debbie Black,1611661326,Miami Sol,2,4,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,17,1,1,20010607,SEA,MIA,2001-02
+Shot Chart Detail,1020100034,4,100359,Debbie Black,1611661326,Miami Sol,1,19,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,15,1,1,20010609,SAC,MIA,2001-02
+Shot Chart Detail,1020100034,35,100359,Debbie Black,1611661326,Miami Sol,1,16,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,70,7,1,0,20010609,SAC,MIA,2001-02
+Shot Chart Detail,1020100034,166,100359,Debbie Black,1611661326,Miami Sol,1,2,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-10,122,1,0,20010609,SAC,MIA,2001-02
+Shot Chart Detail,1020100034,224,100359,Debbie Black,1611661326,Miami Sol,1,0,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,15,1,1,20010609,SAC,MIA,2001-02
+Shot Chart Detail,1020100034,290,100359,Debbie Black,1611661326,Miami Sol,2,9,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,129,112,1,1,20010609,SAC,MIA,2001-02
+Shot Chart Detail,1020100039,4,100359,Debbie Black,1611661326,Miami Sol,1,19,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,157,-2,1,0,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100039,23,100359,Debbie Black,1611661326,Miami Sol,1,16,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,85,125,1,1,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100039,28,100359,Debbie Black,1611661326,Miami Sol,1,15,2,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-18,108,1,1,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100039,74,100359,Debbie Black,1611661326,Miami Sol,1,9,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100039,76,100359,Debbie Black,1611661326,Miami Sol,1,9,31,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,58,101,1,0,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100039,80,100359,Debbie Black,1611661326,Miami Sol,1,8,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-63,173,1,0,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100039,89,100359,Debbie Black,1611661326,Miami Sol,1,7,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,100,125,1,1,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100039,141,100359,Debbie Black,1611661326,Miami Sol,1,2,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-12,213,1,0,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100039,145,100359,Debbie Black,1611661326,Miami Sol,1,2,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-18,152,1,1,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100039,214,100359,Debbie Black,1611661326,Miami Sol,2,14,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-27,169,1,0,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100039,272,100359,Debbie Black,1611661326,Miami Sol,2,7,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,115,129,1,0,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100039,291,100359,Debbie Black,1611661326,Miami Sol,2,5,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100039,314,100359,Debbie Black,1611661326,Miami Sol,2,2,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-162,23,1,0,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100039,335,100359,Debbie Black,1611661326,Miami Sol,2,0,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,0,1,0,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100039,367,100359,Debbie Black,1611661326,Miami Sol,3,2,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,100,114,1,0,20010612,MIA,DET,2001-02
+Shot Chart Detail,1020100052,41,100359,Debbie Black,1611661326,Miami Sol,1,14,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-94,118,1,0,20010616,CLE,MIA,2001-02
+Shot Chart Detail,1020100052,68,100359,Debbie Black,1611661326,Miami Sol,1,12,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,-17,1,0,20010616,CLE,MIA,2001-02
+Shot Chart Detail,1020100052,203,100359,Debbie Black,1611661326,Miami Sol,1,2,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-88,118,1,1,20010616,CLE,MIA,2001-02
+Shot Chart Detail,1020100052,205,100359,Debbie Black,1611661326,Miami Sol,1,1,11,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,70,42,1,0,20010616,CLE,MIA,2001-02
+Shot Chart Detail,1020100052,253,100359,Debbie Black,1611661326,Miami Sol,2,16,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,142,9,1,0,20010616,CLE,MIA,2001-02
+Shot Chart Detail,1020100052,259,100359,Debbie Black,1611661326,Miami Sol,2,15,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-94,148,1,1,20010616,CLE,MIA,2001-02
+Shot Chart Detail,1020100052,300,100359,Debbie Black,1611661326,Miami Sol,2,10,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,106,125,1,0,20010616,CLE,MIA,2001-02
+Shot Chart Detail,1020100052,317,100359,Debbie Black,1611661326,Miami Sol,2,8,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,127,-17,1,0,20010616,CLE,MIA,2001-02
+Shot Chart Detail,1020100058,30,100359,Debbie Black,1611661326,Miami Sol,1,15,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-63,101,1,0,20010617,MIA,NYL,2001-02
+Shot Chart Detail,1020100058,49,100359,Debbie Black,1611661326,Miami Sol,1,13,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-69,13,1,0,20010617,MIA,NYL,2001-02
+Shot Chart Detail,1020100058,199,100359,Debbie Black,1611661326,Miami Sol,1,2,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-42,-1,1,1,20010617,MIA,NYL,2001-02
+Shot Chart Detail,1020100058,212,100359,Debbie Black,1611661326,Miami Sol,1,0,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,129,118,1,0,20010617,MIA,NYL,2001-02
+Shot Chart Detail,1020100058,251,100359,Debbie Black,1611661326,Miami Sol,2,12,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-153,169,1,0,20010617,MIA,NYL,2001-02
+Shot Chart Detail,1020100058,254,100359,Debbie Black,1611661326,Miami Sol,2,12,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,121,125,1,1,20010617,MIA,NYL,2001-02
+Shot Chart Detail,1020100058,405,100359,Debbie Black,1611661326,Miami Sol,2,0,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-4,173,1,0,20010617,MIA,NYL,2001-02
+Shot Chart Detail,1020100068,2,100359,Debbie Black,1611661326,Miami Sol,1,19,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,153,177,1,0,20010621,WAS,MIA,2001-02
+Shot Chart Detail,1020100068,11,100359,Debbie Black,1611661326,Miami Sol,1,18,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-2,1,1,20010621,WAS,MIA,2001-02
+Shot Chart Detail,1020100068,42,100359,Debbie Black,1611661326,Miami Sol,1,14,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,-13,1,0,20010621,WAS,MIA,2001-02
+Shot Chart Detail,1020100068,189,100359,Debbie Black,1611661326,Miami Sol,1,1,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-98,154,1,1,20010621,WAS,MIA,2001-02
+Shot Chart Detail,1020100068,285,100359,Debbie Black,1611661326,Miami Sol,2,6,19,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,16,34,1,0,20010621,WAS,MIA,2001-02
+Shot Chart Detail,1020100073,69,100359,Debbie Black,1611661326,Miami Sol,1,12,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,51,74,1,0,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100073,224,100359,Debbie Black,1611661326,Miami Sol,2,16,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,106,222,1,0,20010622,MIN,MIA,2001-02
+Shot Chart Detail,1020100082,54,100359,Debbie Black,1611661326,Miami Sol,1,14,11,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,37,47,1,0,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100082,187,100359,Debbie Black,1611661326,Miami Sol,1,1,56,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,28,47,1,0,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100082,229,100359,Debbie Black,1611661326,Miami Sol,1,1,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,-13,1,0,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100082,252,100359,Debbie Black,1611661326,Miami Sol,2,16,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-153,114,1,0,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100082,317,100359,Debbie Black,1611661326,Miami Sol,2,8,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,142,63,1,1,20010624,MIA,CLE,2001-02
+Shot Chart Detail,1020100090,8,100359,Debbie Black,1611661326,Miami Sol,1,18,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,100,125,1,0,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,26,100359,Debbie Black,1611661326,Miami Sol,1,15,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-147,91,1,0,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,211,100359,Debbie Black,1611661326,Miami Sol,1,2,7,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-4,129,1,1,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,225,100359,Debbie Black,1611661326,Miami Sol,1,0,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,121,114,1,0,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100090,249,100359,Debbie Black,1611661326,Miami Sol,2,14,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,178,30,1,1,20010627,MIA,UTA,2001-02
+Shot Chart Detail,1020100095,10,100359,Debbie Black,1611661326,Miami Sol,1,17,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-12,125,1,0,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100095,180,100359,Debbie Black,1611661326,Miami Sol,1,2,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-138,163,1,0,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100095,196,100359,Debbie Black,1611661326,Miami Sol,1,0,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-84,148,1,0,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100095,233,100359,Debbie Black,1611661326,Miami Sol,2,12,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-4,148,1,1,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100095,356,100359,Debbie Black,1611661326,Miami Sol,2,0,47,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-27,34,1,1,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100095,373,100359,Debbie Black,1611661326,Miami Sol,2,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-138,30,1,1,20010629,MIA,POR,2001-02
+Shot Chart Detail,1020100105,9,100359,Debbie Black,1611661326,Miami Sol,1,18,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-77,135,1,1,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100105,17,100359,Debbie Black,1611661326,Miami Sol,1,17,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-4,219,1,0,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100105,215,100359,Debbie Black,1611661326,Miami Sol,1,0,42,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,22,125,1,1,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100105,188,100359,Debbie Black,1611661326,Miami Sol,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,100,129,1,0,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100105,248,100359,Debbie Black,1611661326,Miami Sol,2,14,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,167,-13,1,1,20010701,LAS,MIA,2001-02
+Shot Chart Detail,1020100108,9,100359,Debbie Black,1611661326,Miami Sol,1,18,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-6,169,1,0,20010702,UTA,MIA,2001-02
+Shot Chart Detail,1020100108,21,100359,Debbie Black,1611661326,Miami Sol,1,17,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,150,-17,1,0,20010702,UTA,MIA,2001-02
+Shot Chart Detail,1020100108,224,100359,Debbie Black,1611661326,Miami Sol,2,13,36,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,19,199,19,1,0,20010702,UTA,MIA,2001-02
+Shot Chart Detail,1020100108,233,100359,Debbie Black,1611661326,Miami Sol,2,12,12,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-79,59,1,1,20010702,UTA,MIA,2001-02
+Shot Chart Detail,1020100108,308,100359,Debbie Black,1611661326,Miami Sol,2,4,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,142,0,1,0,20010702,UTA,MIA,2001-02
+Shot Chart Detail,1020100108,329,100359,Debbie Black,1611661326,Miami Sol,2,1,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,56,141,1,1,20010702,UTA,MIA,2001-02
+Shot Chart Detail,1020100113,57,100359,Debbie Black,1611661326,Miami Sol,1,11,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,-13,1,0,20010704,PHO,MIA,2001-02
+Shot Chart Detail,1020100113,138,100359,Debbie Black,1611661326,Miami Sol,1,3,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,7,144,1,0,20010704,PHO,MIA,2001-02
+Shot Chart Detail,1020100113,181,100359,Debbie Black,1611661326,Miami Sol,1,1,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,37,156,1,0,20010704,PHO,MIA,2001-02
+Shot Chart Detail,1020100113,193,100359,Debbie Black,1611661326,Miami Sol,2,15,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010704,PHO,MIA,2001-02
+Shot Chart Detail,1020100113,215,100359,Debbie Black,1611661326,Miami Sol,2,13,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-4,177,1,1,20010704,PHO,MIA,2001-02
+Shot Chart Detail,1020100131,31,100359,Debbie Black,1611661326,Miami Sol,1,15,55,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,16,55,1,0,20010710,ORL,MIA,2001-02
+Shot Chart Detail,1020100131,89,100359,Debbie Black,1611661326,Miami Sol,1,10,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,119,85,1,0,20010710,ORL,MIA,2001-02
+Shot Chart Detail,1020100131,218,100359,Debbie Black,1611661326,Miami Sol,1,1,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,140,85,1,1,20010710,ORL,MIA,2001-02
+Shot Chart Detail,1020100131,194,100359,Debbie Black,1611661326,Miami Sol,1,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,188,154,1,0,20010710,ORL,MIA,2001-02
+Shot Chart Detail,1020100144,7,100359,Debbie Black,1611661326,Miami Sol,1,18,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,91,127,1,1,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,21,100359,Debbie Black,1611661326,Miami Sol,1,16,32,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-27,82,1,1,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,28,100359,Debbie Black,1611661326,Miami Sol,1,15,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-69,133,1,1,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,172,100359,Debbie Black,1611661326,Miami Sol,1,1,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,91,127,1,0,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,180,100359,Debbie Black,1611661326,Miami Sol,1,0,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,129,82,1,0,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,159,100359,Debbie Black,1611661326,Miami Sol,1,0,24,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,37,120,1,1,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,265,100359,Debbie Black,1611661326,Miami Sol,2,6,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,142,9,1,1,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100144,295,100359,Debbie Black,1611661326,Miami Sol,2,3,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,85,127,1,0,20010713,DET,MIA,2001-02
+Shot Chart Detail,1020100150,31,100359,Debbie Black,1611661326,Miami Sol,1,15,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-12,192,1,0,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100150,200,100359,Debbie Black,1611661326,Miami Sol,2,16,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,169,-2,1,1,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100150,251,100359,Debbie Black,1611661326,Miami Sol,2,10,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,121,114,1,1,20010714,MIA,DET,2001-02
+Shot Chart Detail,1020100154,23,100359,Debbie Black,1611661326,Miami Sol,1,15,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-12,148,1,0,20010718,MIA,CHA,2001-02
+Shot Chart Detail,1020100154,28,100359,Debbie Black,1611661326,Miami Sol,1,14,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,23,1,0,20010718,MIA,CHA,2001-02
+Shot Chart Detail,1020100154,116,100359,Debbie Black,1611661326,Miami Sol,1,3,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-18,169,1,1,20010718,MIA,CHA,2001-02
+Shot Chart Detail,1020100154,169,100359,Debbie Black,1611661326,Miami Sol,1,2,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-33,152,1,0,20010718,MIA,CHA,2001-02
+Shot Chart Detail,1020100162,16,100359,Debbie Black,1611661326,Miami Sol,1,16,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,142,7,1,0,20010720,MIA,HOU,2001-02
+Shot Chart Detail,1020100162,35,100359,Debbie Black,1611661326,Miami Sol,1,14,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-27,209,1,1,20010720,MIA,HOU,2001-02
+Shot Chart Detail,1020100162,77,100359,Debbie Black,1611661326,Miami Sol,1,12,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010720,MIA,HOU,2001-02
+Shot Chart Detail,1020100162,113,100359,Debbie Black,1611661326,Miami Sol,2,16,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-12,179,1,0,20010720,MIA,HOU,2001-02
+Shot Chart Detail,1020100162,162,100359,Debbie Black,1611661326,Miami Sol,2,11,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,169,-13,1,0,20010720,MIA,HOU,2001-02
+Shot Chart Detail,1020100162,218,100359,Debbie Black,1611661326,Miami Sol,2,6,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-189,-2,1,0,20010720,MIA,HOU,2001-02
+Shot Chart Detail,1020100170,2,100359,Debbie Black,1611661326,Miami Sol,1,19,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,-4,1,1,20010722,NYL,MIA,2001-02
+Shot Chart Detail,1020100170,22,100359,Debbie Black,1611661326,Miami Sol,1,15,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-126,30,1,1,20010722,NYL,MIA,2001-02
+Shot Chart Detail,1020100170,47,100359,Debbie Black,1611661326,Miami Sol,1,11,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010722,NYL,MIA,2001-02
+Shot Chart Detail,1020100170,64,100359,Debbie Black,1611661326,Miami Sol,1,9,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,123,112,1,0,20010722,NYL,MIA,2001-02
+Shot Chart Detail,1020100170,68,100359,Debbie Black,1611661326,Miami Sol,1,9,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,108,106,1,0,20010722,NYL,MIA,2001-02
+Shot Chart Detail,1020100170,124,100359,Debbie Black,1611661326,Miami Sol,1,3,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,91,141,1,1,20010722,NYL,MIA,2001-02
+Shot Chart Detail,1020100170,174,100359,Debbie Black,1611661326,Miami Sol,2,16,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,62,148,1,1,20010722,NYL,MIA,2001-02
+Shot Chart Detail,1020100170,212,100359,Debbie Black,1611661326,Miami Sol,2,12,44,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010722,NYL,MIA,2001-02
+Shot Chart Detail,1020100170,296,100359,Debbie Black,1611661326,Miami Sol,2,1,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-162,7,1,1,20010722,NYL,MIA,2001-02
+Shot Chart Detail,1020100179,38,100359,Debbie Black,1611661326,Miami Sol,1,14,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-31,177,1,1,20010725,CLE,MIA,2001-02
+Shot Chart Detail,1020100179,47,100359,Debbie Black,1611661326,Miami Sol,1,12,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,134,160,1,0,20010725,CLE,MIA,2001-02
+Shot Chart Detail,1020100179,115,100359,Debbie Black,1611661326,Miami Sol,1,5,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,91,112,1,0,20010725,CLE,MIA,2001-02
+Shot Chart Detail,1020100179,243,100359,Debbie Black,1611661326,Miami Sol,2,10,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-132,-8,1,1,20010725,CLE,MIA,2001-02
+Shot Chart Detail,1020100179,245,100359,Debbie Black,1611661326,Miami Sol,2,9,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-109,55,1,0,20010725,CLE,MIA,2001-02
+Shot Chart Detail,1020100179,306,100359,Debbie Black,1611661326,Miami Sol,2,4,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-82,154,1,0,20010725,CLE,MIA,2001-02
+Shot Chart Detail,1020100179,354,100359,Debbie Black,1611661326,Miami Sol,3,4,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,106,106,1,0,20010725,CLE,MIA,2001-02
+Shot Chart Detail,1020100184,5,100359,Debbie Black,1611661326,Miami Sol,1,19,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,49,129,1,0,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,129,100359,Debbie Black,1611661326,Miami Sol,1,6,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,28,51,1,0,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,147,100359,Debbie Black,1611661326,Miami Sol,1,4,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,169,23,1,0,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,159,100359,Debbie Black,1611661326,Miami Sol,1,3,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,49,179,1,1,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,198,100359,Debbie Black,1611661326,Miami Sol,1,3,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-69,158,1,0,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,347,100359,Debbie Black,1611661326,Miami Sol,2,4,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,121,129,1,0,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,355,100359,Debbie Black,1611661326,Miami Sol,2,3,13,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-8,1,0,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,383,100359,Debbie Black,1611661326,Miami Sol,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,7,1,0,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100184,391,100359,Debbie Black,1611661326,Miami Sol,3,4,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,0,1,0,20010727,MIA,ORL,2001-02
+Shot Chart Detail,1020100190,53,100359,Debbie Black,1611661326,Miami Sol,1,12,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,89,141,1,0,20010728,IND,MIA,2001-02
+Shot Chart Detail,1020100190,286,100359,Debbie Black,1611661326,Miami Sol,2,7,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,83,141,1,1,20010728,IND,MIA,2001-02
+Shot Chart Detail,1020100190,300,100359,Debbie Black,1611661326,Miami Sol,2,4,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,-15,1,1,20010728,IND,MIA,2001-02
+Shot Chart Detail,1020100201,8,100359,Debbie Black,1611661326,Miami Sol,1,18,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,58,112,1,0,20010731,CHA,MIA,2001-02
+Shot Chart Detail,1020100201,15,100359,Debbie Black,1611661326,Miami Sol,1,17,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-119,133,1,0,20010731,CHA,MIA,2001-02
+Shot Chart Detail,1020100201,45,100359,Debbie Black,1611661326,Miami Sol,1,13,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,73,122,1,0,20010731,CHA,MIA,2001-02
+Shot Chart Detail,1020100201,55,100359,Debbie Black,1611661326,Miami Sol,1,11,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,23,1,0,20010731,CHA,MIA,2001-02
+Shot Chart Detail,1020100201,138,100359,Debbie Black,1611661326,Miami Sol,1,3,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,129,23,1,0,20010731,CHA,MIA,2001-02
+Shot Chart Detail,1020100201,189,100359,Debbie Black,1611661326,Miami Sol,2,16,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,7,219,1,0,20010731,CHA,MIA,2001-02
+Shot Chart Detail,1020100201,207,100359,Debbie Black,1611661326,Miami Sol,2,14,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,100,209,1,0,20010731,CHA,MIA,2001-02
+Shot Chart Detail,1020100201,214,100359,Debbie Black,1611661326,Miami Sol,2,13,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,94,127,1,0,20010731,CHA,MIA,2001-02
+Shot Chart Detail,1020100208,11,100359,Debbie Black,1611661326,Miami Sol,1,17,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,91,118,1,1,20010803,MIA,PHO,2001-02
+Shot Chart Detail,1020100208,20,100359,Debbie Black,1611661326,Miami Sol,1,16,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,0,1,0,20010803,MIA,PHO,2001-02
+Shot Chart Detail,1020100208,36,100359,Debbie Black,1611661326,Miami Sol,1,14,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,1,158,1,0,20010803,MIA,PHO,2001-02
+Shot Chart Detail,1020100208,90,100359,Debbie Black,1611661326,Miami Sol,1,7,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-132,125,1,1,20010803,MIA,PHO,2001-02
+Shot Chart Detail,1020100208,224,100359,Debbie Black,1611661326,Miami Sol,2,13,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,70,203,1,1,20010803,MIA,PHO,2001-02
+Shot Chart Detail,1020100208,278,100359,Debbie Black,1611661326,Miami Sol,2,6,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-147,163,1,0,20010803,MIA,PHO,2001-02
+Shot Chart Detail,1020100208,299,100359,Debbie Black,1611661326,Miami Sol,2,5,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,157,51,1,0,20010803,MIA,PHO,2001-02
+Shot Chart Detail,1020100208,326,100359,Debbie Black,1611661326,Miami Sol,2,1,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-4,141,1,1,20010803,MIA,PHO,2001-02
+Shot Chart Detail,1020100219,55,100359,Debbie Black,1611661326,Miami Sol,1,12,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,108,135,1,1,20010805,MIA,WAS,2001-02
+Shot Chart Detail,1020100219,165,100359,Debbie Black,1611661326,Miami Sol,1,0,41,Missed Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,22,51,1,0,20010805,MIA,WAS,2001-02
+Shot Chart Detail,1020100219,208,100359,Debbie Black,1611661326,Miami Sol,2,16,34,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,37,74,1,0,20010805,MIA,WAS,2001-02
+Shot Chart Detail,1020100219,264,100359,Debbie Black,1611661326,Miami Sol,2,9,49,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010805,MIA,WAS,2001-02
+Shot Chart Detail,1020100219,337,100359,Debbie Black,1611661326,Miami Sol,2,0,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,16,135,1,1,20010805,MIA,WAS,2001-02
+Shot Chart Detail,1020100228,14,100359,Debbie Black,1611661326,Miami Sol,1,18,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,98,125,1,1,20010808,WAS,MIA,2001-02
+Shot Chart Detail,1020100228,17,100359,Debbie Black,1611661326,Miami Sol,1,17,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-115,125,1,0,20010808,WAS,MIA,2001-02
+Shot Chart Detail,1020100228,203,100359,Debbie Black,1611661326,Miami Sol,1,0,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-136,110,1,1,20010808,WAS,MIA,2001-02
+Shot Chart Detail,1020100228,228,100359,Debbie Black,1611661326,Miami Sol,2,13,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,62,152,1,1,20010808,WAS,MIA,2001-02
+Shot Chart Detail,1020100228,262,100359,Debbie Black,1611661326,Miami Sol,2,9,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,157,-15,1,0,20010808,WAS,MIA,2001-02
+Shot Chart Detail,1020100228,276,100359,Debbie Black,1611661326,Miami Sol,2,7,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,113,110,1,0,20010808,WAS,MIA,2001-02
+Shot Chart Detail,1020100234,16,100359,Debbie Black,1611661326,Miami Sol,1,17,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010810,MIA,IND,2001-02
+Shot Chart Detail,1020100234,164,100359,Debbie Black,1611661326,Miami Sol,1,2,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-189,-2,1,1,20010810,MIA,IND,2001-02
+Shot Chart Detail,1020100234,172,100359,Debbie Black,1611661326,Miami Sol,1,1,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-132,74,1,1,20010810,MIA,IND,2001-02
+Shot Chart Detail,1020100234,236,100359,Debbie Black,1611661326,Miami Sol,2,10,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,7,1,0,20010810,MIA,IND,2001-02
+Shot Chart Detail,1020100240,2,100359,Debbie Black,1611661326,Miami Sol,1,19,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,91,137,1,1,20010811,ORL,MIA,2001-02
+Shot Chart Detail,1020100240,86,100359,Debbie Black,1611661326,Miami Sol,1,8,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-75,156,1,1,20010811,ORL,MIA,2001-02
+Shot Chart Detail,1020100240,205,100359,Debbie Black,1611661326,Miami Sol,2,15,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,157,144,1,1,20010811,ORL,MIA,2001-02
+Shot Chart Detail,1020100240,282,100359,Debbie Black,1611661326,Miami Sol,2,5,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,85,194,1,0,20010811,ORL,MIA,2001-02
+Shot Chart Detail,1020100240,293,100359,Debbie Black,1611661326,Miami Sol,2,5,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,9,1,1,20010811,ORL,MIA,2001-02
+Shot Chart Detail,1020100252,14,100359,Debbie Black,1611661326,Miami Sol,1,18,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-147,101,1,0,20010814,MIA,CHA,2001-02
+Shot Chart Detail,1020100252,74,100359,Debbie Black,1611661326,Miami Sol,1,10,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,136,158,1,0,20010814,MIA,CHA,2001-02
+Shot Chart Detail,1020100252,78,100359,Debbie Black,1611661326,Miami Sol,1,10,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,121,148,1,1,20010814,MIA,CHA,2001-02
+Shot Chart Detail,1020100252,84,100359,Debbie Black,1611661326,Miami Sol,1,9,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,7,1,0,20010814,MIA,CHA,2001-02
+Shot Chart Detail,1020100252,172,100359,Debbie Black,1611661326,Miami Sol,1,2,10,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-19,1,0,20010814,MIA,CHA,2001-02
+Shot Chart Detail,1020100252,294,100359,Debbie Black,1611661326,Miami Sol,2,3,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-18,213,1,0,20010814,MIA,CHA,2001-02
+Shot Chart Detail,1020100252,310,100359,Debbie Black,1611661326,Miami Sol,2,1,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-4,169,1,0,20010814,MIA,CHA,2001-02
+Shot Chart Detail,1020100252,333,100359,Debbie Black,1611661326,Miami Sol,2,0,32,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010814,MIA,CHA,2001-02

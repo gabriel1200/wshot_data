@@ -1,0 +1,10 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1029700004,159,100036,Monique Ambers,1611661317,Phoenix Mercury,1,4,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,2,1,0,19970622,PHO,CHA,1997-98
+Shot Chart Detail,1029700021,84,100036,Monique Ambers,1611661317,Phoenix Mercury,1,11,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-66,-16,1,0,19970703,UTA,PHO,1997-98
+Shot Chart Detail,1029700021,103,100036,Monique Ambers,1611661317,Phoenix Mercury,1,9,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970703,UTA,PHO,1997-98
+Shot Chart Detail,1029700021,276,100036,Monique Ambers,1611661317,Phoenix Mercury,2,13,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,120,54,1,0,19970703,UTA,PHO,1997-98
+Shot Chart Detail,1029700026,99,100036,Monique Ambers,1611661317,Phoenix Mercury,1,10,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-25,54,1,0,19970707,PHO,NYL,1997-98
+Shot Chart Detail,1029700030,290,100036,Monique Ambers,1611661317,Phoenix Mercury,2,10,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970709,PHO,HOU,1997-98
+Shot Chart Detail,1029700043,51,100036,Monique Ambers,1611661317,Phoenix Mercury,1,14,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970716,PHO,SAC,1997-98
+Shot Chart Detail,1029700067,196,100036,Monique Ambers,1611661317,Phoenix Mercury,1,0,0,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,21,23,1,1,19970731,CLE,PHO,1997-98
+Shot Chart Detail,1029700081,140,100036,Monique Ambers,1611661317,Phoenix Mercury,1,2,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,58,17,1,0,19970807,HOU,PHO,1997-98

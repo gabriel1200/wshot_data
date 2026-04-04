@@ -1,0 +1,18 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1029900122,82,100074,Wanda Guyton,1611661321,Detroit Shock,1,9,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990728,CHA,DET,1999-00
+Shot Chart Detail,1029900122,235,100074,Wanda Guyton,1611661321,Detroit Shock,2,9,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990728,CHA,DET,1999-00
+Shot Chart Detail,1029900142,246,100074,Wanda Guyton,1611661321,Detroit Shock,2,12,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990804,DET,MIN,1999-00
+Shot Chart Detail,1029900142,274,100074,Wanda Guyton,1611661321,Detroit Shock,2,9,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990804,DET,MIN,1999-00
+Shot Chart Detail,1029900148,168,100074,Wanda Guyton,1611661321,Detroit Shock,1,1,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,44,27,1,0,19990806,SAC,DET,1999-00
+Shot Chart Detail,1029900148,186,100074,Wanda Guyton,1611661321,Detroit Shock,1,0,19,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,35,16,1,1,19990806,SAC,DET,1999-00
+Shot Chart Detail,1029900158,195,100074,Wanda Guyton,1611661321,Detroit Shock,1,2,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990809,LAS,DET,1999-00
+Shot Chart Detail,1029900158,291,100074,Wanda Guyton,1611661321,Detroit Shock,2,13,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990809,LAS,DET,1999-00
+Shot Chart Detail,1029900162,90,100074,Wanda Guyton,1611661321,Detroit Shock,1,8,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990811,PHO,DET,1999-00
+Shot Chart Detail,1029900162,96,100074,Wanda Guyton,1611661321,Detroit Shock,1,7,52,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,14,16,1,0,19990811,PHO,DET,1999-00
+Shot Chart Detail,1029900162,165,100074,Wanda Guyton,1611661321,Detroit Shock,1,0,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990811,PHO,DET,1999-00
+Shot Chart Detail,1029900162,276,100074,Wanda Guyton,1611661321,Detroit Shock,2,10,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990811,PHO,DET,1999-00
+Shot Chart Detail,1029900165,372,100074,Wanda Guyton,1611661321,Detroit Shock,2,2,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990813,DET,NYL,1999-00
+Shot Chart Detail,1029900172,269,100074,Wanda Guyton,1611661321,Detroit Shock,2,9,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990815,NYL,DET,1999-00
+Shot Chart Detail,1029900184,56,100074,Wanda Guyton,1611661321,Detroit Shock,1,11,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990820,CHA,DET,1999-00
+Shot Chart Detail,1029900184,89,100074,Wanda Guyton,1611661321,Detroit Shock,1,7,28,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-33,3,1,0,19990820,CHA,DET,1999-00
+Shot Chart Detail,1029900190,118,100074,Wanda Guyton,1611661321,Detroit Shock,1,5,56,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990821,DET,ORL,1999-00

@@ -1,0 +1,35 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020500005,160,100378,Lisa Harrison,1611661317,Phoenix Mercury,1,4,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,209,53,1,0,20050521,PHO,SAC,2005-06
+Shot Chart Detail,1020500005,250,100378,Lisa Harrison,1611661317,Phoenix Mercury,2,16,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050521,PHO,SAC,2005-06
+Shot Chart Detail,1020500030,241,100378,Lisa Harrison,1611661317,Phoenix Mercury,2,12,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-16,156,1,1,20050604,HOU,PHO,2005-06
+Shot Chart Detail,1020500030,279,100378,Lisa Harrison,1611661317,Phoenix Mercury,2,7,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,-3,1,0,20050604,HOU,PHO,2005-06
+Shot Chart Detail,1020500047,333,100378,Lisa Harrison,1611661317,Phoenix Mercury,2,6,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-103,0,1,1,20050610,SAC,PHO,2005-06
+Shot Chart Detail,1020500047,396,100378,Lisa Harrison,1611661317,Phoenix Mercury,2,1,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050610,SAC,PHO,2005-06
+Shot Chart Detail,1020500059,70,100378,Lisa Harrison,1611661317,Phoenix Mercury,1,9,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,57,2,1,0,20050618,NYL,PHO,2005-06
+Shot Chart Detail,1020500066,375,100378,Lisa Harrison,1611661317,Phoenix Mercury,2,1,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,38,163,1,0,20050621,WAS,PHO,2005-06
+Shot Chart Detail,1020500076,80,100378,Lisa Harrison,1611661317,Phoenix Mercury,1,11,19,Missed Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-87,40,1,0,20050625,PHO,CON,2005-06
+Shot Chart Detail,1020500076,85,100378,Lisa Harrison,1611661317,Phoenix Mercury,1,10,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050625,PHO,CON,2005-06
+Shot Chart Detail,1020500092,134,100378,Lisa Harrison,1611661317,Phoenix Mercury,1,3,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,20,1,1,20050702,LAS,PHO,2005-06
+Shot Chart Detail,1020500095,316,100378,Lisa Harrison,1611661317,Phoenix Mercury,2,6,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-149,-18,1,0,20050705,SAN,PHO,2005-06
+Shot Chart Detail,1020500131,390,100378,Lisa Harrison,1611661317,Phoenix Mercury,2,2,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-177,-3,1,1,20050723,SAN,PHO,2005-06
+Shot Chart Detail,1020500145,125,100378,Lisa Harrison,1611661317,Phoenix Mercury,1,3,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050729,MIN,PHO,2005-06
+Shot Chart Detail,1020500145,297,100378,Lisa Harrison,1611661317,Phoenix Mercury,2,4,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050729,MIN,PHO,2005-06
+Shot Chart Detail,1020500145,301,100378,Lisa Harrison,1611661317,Phoenix Mercury,2,3,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050729,MIN,PHO,2005-06
+Shot Chart Detail,1020500151,44,100378,Lisa Harrison,1611661317,Phoenix Mercury,1,15,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,112,120,1,1,20050731,DET,PHO,2005-06
+Shot Chart Detail,1020500151,292,100378,Lisa Harrison,1611661317,Phoenix Mercury,2,6,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-128,92,1,0,20050731,DET,PHO,2005-06
+Shot Chart Detail,1020500158,363,100378,Lisa Harrison,1611661317,Phoenix Mercury,2,1,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,10,1,0,20050803,PHO,MIN,2005-06
+Shot Chart Detail,1020500165,122,100378,Lisa Harrison,1611661317,Phoenix Mercury,1,6,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-184,71,1,1,20050805,PHO,HOU,2005-06
+Shot Chart Detail,1020500180,284,100378,Lisa Harrison,1611661317,Phoenix Mercury,2,9,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,22,1,0,20050812,PHO,SAC,2005-06
+Shot Chart Detail,1020500186,72,100378,Lisa Harrison,1611661317,Phoenix Mercury,1,10,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050814,PHO,IND,2005-06
+Shot Chart Detail,1020500186,107,100378,Lisa Harrison,1611661317,Phoenix Mercury,1,7,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,95,118,1,0,20050814,PHO,IND,2005-06
+Shot Chart Detail,1020500189,82,100378,Lisa Harrison,1611661317,Phoenix Mercury,1,11,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050816,PHO,DET,2005-06
+Shot Chart Detail,1020500196,174,100378,Lisa Harrison,1611661317,Phoenix Mercury,1,0,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,0,143,1,0,20050819,PHO,SAN,2005-06
+Shot Chart Detail,1020500196,319,100378,Lisa Harrison,1611661317,Phoenix Mercury,2,7,39,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-99,43,1,0,20050819,PHO,SAN,2005-06
+Shot Chart Detail,1020500196,336,100378,Lisa Harrison,1611661317,Phoenix Mercury,2,6,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,36,1,0,20050819,PHO,SAN,2005-06
+Shot Chart Detail,1020500196,392,100378,Lisa Harrison,1611661317,Phoenix Mercury,2,0,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-136,18,1,1,20050819,PHO,SAN,2005-06
+Shot Chart Detail,1020500202,51,100378,Lisa Harrison,1611661317,Phoenix Mercury,1,11,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,0,1,1,20050821,PHO,MIN,2005-06
+Shot Chart Detail,1020500202,213,100378,Lisa Harrison,1611661317,Phoenix Mercury,2,14,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,0,71,1,1,20050821,PHO,MIN,2005-06
+Shot Chart Detail,1020500202,216,100378,Lisa Harrison,1611661317,Phoenix Mercury,2,14,17,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,62,123,1,1,20050821,PHO,MIN,2005-06
+Shot Chart Detail,1020500202,320,100378,Lisa Harrison,1611661317,Phoenix Mercury,2,3,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,18,82,1,1,20050821,PHO,MIN,2005-06
+Shot Chart Detail,1020500209,15,100378,Lisa Harrison,1611661317,Phoenix Mercury,1,17,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,8,1,0,20050823,SAC,PHO,2005-06
+Shot Chart Detail,1020500212,194,100378,Lisa Harrison,1611661317,Phoenix Mercury,2,16,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,67,72,1,0,20050825,PHO,HOU,2005-06

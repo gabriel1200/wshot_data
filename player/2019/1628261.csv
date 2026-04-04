@@ -1,0 +1,11 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1021900005,591,1628261,Shao Ting,1611661324,Minnesota Lynx,4,2,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,9,1,0,20190525,MIN,CHI,2019-20
+Shot Chart Detail,1021900008,566,1628261,Shao Ting,1611661324,Minnesota Lynx,4,1,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-165,13,1,0,20190529,MIN,SEA,2019-20
+Shot Chart Detail,1021900008,571,1628261,Shao Ting,1611661324,Minnesota Lynx,4,1,4,Missed Shot,Putback Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,2,72,1,0,20190529,MIN,SEA,2019-20
+Shot Chart Detail,1021900070,86,1628261,Shao Ting,1611661324,Minnesota Lynx,1,2,54,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-52,55,1,0,20190630,DAL,MIN,2019-20
+Shot Chart Detail,1021900070,90,1628261,Shao Ting,1611661324,Minnesota Lynx,1,2,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,16,30,1,1,20190630,DAL,MIN,2019-20
+Shot Chart Detail,1021900070,430,1628261,Shao Ting,1611661324,Minnesota Lynx,4,9,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,30,11,1,0,20190630,DAL,MIN,2019-20
+Shot Chart Detail,1021900074,117,1628261,Shao Ting,1611661324,Minnesota Lynx,2,9,43,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-17,51,1,1,20190702,MIN,ATL,2019-20
+Shot Chart Detail,1021900074,133,1628261,Shao Ting,1611661324,Minnesota Lynx,2,8,12,Missed Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-25,58,1,0,20190702,MIN,ATL,2019-20
+Shot Chart Detail,1021900074,369,1628261,Shao Ting,1611661324,Minnesota Lynx,3,0,19,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-55,-21,1,0,20190702,MIN,ATL,2019-20
+Shot Chart Detail,1021900080,98,1628261,Shao Ting,1611661324,Minnesota Lynx,1,1,37,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-48,16,1,0,20190706,CON,MIN,2019-20

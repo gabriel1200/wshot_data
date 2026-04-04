@@ -1,0 +1,8 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1042200131,15,202252,Alysha Clark,1611661322,Washington Mystics,1,8,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,23,-233,30,1,0,20220818,SEA,WAS,2022-23
+Shot Chart Detail,1042200131,282,202252,Alysha Clark,1611661322,Washington Mystics,3,6,29,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,32,27,1,1,20220818,SEA,WAS,2022-23
+Shot Chart Detail,1042200132,191,202252,Alysha Clark,1611661322,Washington Mystics,2,5,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,116,217,1,1,20220821,SEA,WAS,2022-23
+Shot Chart Detail,1042200132,274,202252,Alysha Clark,1611661322,Washington Mystics,3,7,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,82,238,1,0,20220821,SEA,WAS,2022-23
+Shot Chart Detail,1042200132,279,202252,Alysha Clark,1611661322,Washington Mystics,3,6,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,154,198,1,1,20220821,SEA,WAS,2022-23
+Shot Chart Detail,1042200132,288,202252,Alysha Clark,1611661322,Washington Mystics,3,6,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,-3,1,0,20220821,SEA,WAS,2022-23
+Shot Chart Detail,1042200132,328,202252,Alysha Clark,1611661322,Washington Mystics,3,3,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,5,1,1,20220821,SEA,WAS,2022-23

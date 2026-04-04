@@ -1,0 +1,15 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1040100007,266,100340,Kara Wolters,1611661318,Sacramento Monarchs,2,12,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-109,85,1,0,20010817,UTA,SAC,2001-02
+Shot Chart Detail,1040100007,293,100340,Kara Wolters,1611661318,Sacramento Monarchs,2,9,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,19,1,0,20010817,UTA,SAC,2001-02
+Shot Chart Detail,1040100009,224,100340,Kara Wolters,1611661318,Sacramento Monarchs,1,0,42,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-65,23,1,1,20010819,SAC,UTA,2001-02
+Shot Chart Detail,1040100009,232,100340,Kara Wolters,1611661318,Sacramento Monarchs,2,16,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,110,82,1,0,20010819,SAC,UTA,2001-02
+Shot Chart Detail,1040100009,248,100340,Kara Wolters,1611661318,Sacramento Monarchs,2,15,9,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-79,15,1,0,20010819,SAC,UTA,2001-02
+Shot Chart Detail,1040100009,269,100340,Kara Wolters,1611661318,Sacramento Monarchs,2,13,19,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-4,76,1,0,20010819,SAC,UTA,2001-02
+Shot Chart Detail,1040100009,299,100340,Kara Wolters,1611661318,Sacramento Monarchs,2,10,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010819,SAC,UTA,2001-02
+Shot Chart Detail,1040100014,140,100340,Kara Wolters,1611661318,Sacramento Monarchs,1,5,37,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,85,0,1,1,20010826,LAS,SAC,2001-02
+Shot Chart Detail,1040100014,152,100340,Kara Wolters,1611661318,Sacramento Monarchs,1,4,10,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,16,36,1,0,20010826,LAS,SAC,2001-02
+Shot Chart Detail,1040100015,115,100340,Kara Wolters,1611661318,Sacramento Monarchs,1,5,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010827,LAS,SAC,2001-02
+Shot Chart Detail,1040100015,117,100340,Kara Wolters,1611661318,Sacramento Monarchs,1,5,30,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,16,53,1,0,20010827,LAS,SAC,2001-02
+Shot Chart Detail,1040100015,289,100340,Kara Wolters,1611661318,Sacramento Monarchs,2,7,49,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,22,53,1,1,20010827,LAS,SAC,2001-02
+Shot Chart Detail,1040100015,306,100340,Kara Wolters,1611661318,Sacramento Monarchs,2,5,47,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,79,15,1,0,20010827,LAS,SAC,2001-02
+Shot Chart Detail,1040100015,364,100340,Kara Wolters,1611661318,Sacramento Monarchs,2,0,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-113,108,1,1,20010827,LAS,SAC,2001-02

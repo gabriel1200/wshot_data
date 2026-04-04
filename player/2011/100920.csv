@@ -1,0 +1,13 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1021100009,263,100920,Kelly Mazzante,1611661330,Atlanta Dream,2,0,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,196,86,1,0,20110609,ATL,WAS,2011-12
+Shot Chart Detail,1021100020,179,100920,Kelly Mazzante,1611661330,Atlanta Dream,2,2,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-54,208,1,0,20110614,NYL,ATL,2011-12
+Shot Chart Detail,1021100020,182,100920,Kelly Mazzante,1611661330,Atlanta Dream,2,1,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,160,162,1,1,20110614,NYL,ATL,2011-12
+Shot Chart Detail,1021100020,185,100920,Kelly Mazzante,1611661330,Atlanta Dream,2,1,16,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,217,-22,1,0,20110614,NYL,ATL,2011-12
+Shot Chart Detail,1021100020,422,100920,Kelly Mazzante,1611661330,Atlanta Dream,4,1,35,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,-11,1,0,20110614,NYL,ATL,2011-12
+Shot Chart Detail,1021100028,380,100920,Kelly Mazzante,1611661330,Atlanta Dream,3,1,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,91,209,1,0,20110619,ATL,MIN,2011-12
+Shot Chart Detail,1021100028,394,100920,Kelly Mazzante,1611661330,Atlanta Dream,3,0,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,22,-223,47,1,0,20110619,ATL,MIN,2011-12
+Shot Chart Detail,1021100028,465,100920,Kelly Mazzante,1611661330,Atlanta Dream,4,4,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-109,197,1,0,20110619,ATL,MIN,2011-12
+Shot Chart Detail,1021100028,485,100920,Kelly Mazzante,1611661330,Atlanta Dream,4,3,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,146,181,1,0,20110619,ATL,MIN,2011-12
+Shot Chart Detail,1021100028,508,100920,Kelly Mazzante,1611661330,Atlanta Dream,4,2,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,56,216,1,0,20110619,ATL,MIN,2011-12
+Shot Chart Detail,1021100028,511,100920,Kelly Mazzante,1611661330,Atlanta Dream,4,1,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-38,220,1,0,20110619,ATL,MIN,2011-12
+Shot Chart Detail,1021100038,495,100920,Kelly Mazzante,1611661330,Atlanta Dream,4,2,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,184,126,1,0,20110624,ATL,PHO,2011-12

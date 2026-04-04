@@ -1,0 +1,164 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1021100004,98,100835,Erin Thorn,1611661329,Chicago Sky,1,1,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,162,-8,1,0,20110604,IND,CHI,2011-12
+Shot Chart Detail,1021100004,122,100835,Erin Thorn,1611661329,Chicago Sky,2,8,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,-19,1,0,20110604,IND,CHI,2011-12
+Shot Chart Detail,1021100004,212,100835,Erin Thorn,1611661329,Chicago Sky,2,0,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,-8,1,1,20110604,IND,CHI,2011-12
+Shot Chart Detail,1021100004,298,100835,Erin Thorn,1611661329,Chicago Sky,3,3,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,121,190,1,0,20110604,IND,CHI,2011-12
+Shot Chart Detail,1021100013,90,100835,Erin Thorn,1611661329,Chicago Sky,1,0,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,-43,205,1,0,20110610,CHI,CON,2011-12
+Shot Chart Detail,1021100013,138,100835,Erin Thorn,1611661329,Chicago Sky,2,6,21,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,-11,1,0,20110610,CHI,CON,2011-12
+Shot Chart Detail,1021100023,138,100835,Erin Thorn,1611661329,Chicago Sky,2,8,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,190,110,1,0,20110617,CHI,NYL,2011-12
+Shot Chart Detail,1021100023,141,100835,Erin Thorn,1611661329,Chicago Sky,2,7,35,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-215,-6,1,1,20110617,CHI,NYL,2011-12
+Shot Chart Detail,1021100027,88,100835,Erin Thorn,1611661329,Chicago Sky,1,0,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,99,165,1,0,20110619,CON,CHI,2011-12
+Shot Chart Detail,1021100031,408,100835,Erin Thorn,1611661329,Chicago Sky,4,9,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-56,170,1,0,20110621,ATL,CHI,2011-12
+Shot Chart Detail,1021100037,86,100835,Erin Thorn,1611661329,Chicago Sky,1,1,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-127,192,1,0,20110623,CHI,CON,2011-12
+Shot Chart Detail,1021100037,115,100835,Erin Thorn,1611661329,Chicago Sky,2,7,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,125,78,1,0,20110623,CHI,CON,2011-12
+Shot Chart Detail,1021100042,78,100835,Erin Thorn,1611661329,Chicago Sky,1,2,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-190,-6,1,0,20110625,CHI,PHO,2011-12
+Shot Chart Detail,1021100042,94,100835,Erin Thorn,1611661329,Chicago Sky,1,0,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,116,195,1,0,20110625,CHI,PHO,2011-12
+Shot Chart Detail,1021100042,113,100835,Erin Thorn,1611661329,Chicago Sky,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,42,185,384,1,0,20110625,CHI,PHO,2011-12
+Shot Chart Detail,1021100042,312,100835,Erin Thorn,1611661329,Chicago Sky,3,1,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,124,173,1,1,20110625,CHI,PHO,2011-12
+Shot Chart Detail,1021100042,468,100835,Erin Thorn,1611661329,Chicago Sky,4,0,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-144,-25,1,0,20110625,CHI,PHO,2011-12
+Shot Chart Detail,1021100048,28,100835,Erin Thorn,1611661329,Chicago Sky,1,6,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,0,181,1,1,20110628,CHI,SAN,2011-12
+Shot Chart Detail,1021100048,83,100835,Erin Thorn,1611661329,Chicago Sky,1,0,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,218,34,1,0,20110628,CHI,SAN,2011-12
+Shot Chart Detail,1021100048,100,100835,Erin Thorn,1611661329,Chicago Sky,2,8,59,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-106,61,1,0,20110628,CHI,SAN,2011-12
+Shot Chart Detail,1021100048,157,100835,Erin Thorn,1611661329,Chicago Sky,2,5,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,209,80,1,0,20110628,CHI,SAN,2011-12
+Shot Chart Detail,1021100048,165,100835,Erin Thorn,1611661329,Chicago Sky,2,3,55,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,39,1,1,20110628,CHI,SAN,2011-12
+Shot Chart Detail,1021100048,170,100835,Erin Thorn,1611661329,Chicago Sky,2,3,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-130,172,1,0,20110628,CHI,SAN,2011-12
+Shot Chart Detail,1021100048,183,100835,Erin Thorn,1611661329,Chicago Sky,2,3,1,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-155,58,1,0,20110628,CHI,SAN,2011-12
+Shot Chart Detail,1021100048,328,100835,Erin Thorn,1611661329,Chicago Sky,3,1,19,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,42,214,1,1,20110628,CHI,SAN,2011-12
+Shot Chart Detail,1021100048,403,100835,Erin Thorn,1611661329,Chicago Sky,4,4,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,119,142,1,1,20110628,CHI,SAN,2011-12
+Shot Chart Detail,1021100048,405,100835,Erin Thorn,1611661329,Chicago Sky,4,4,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-130,104,1,0,20110628,CHI,SAN,2011-12
+Shot Chart Detail,1021100048,447,100835,Erin Thorn,1611661329,Chicago Sky,4,0,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-27,220,1,1,20110628,CHI,SAN,2011-12
+Shot Chart Detail,1021100054,89,100835,Erin Thorn,1611661329,Chicago Sky,1,3,24,Missed Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,118,22,1,0,20110701,PHO,CHI,2011-12
+Shot Chart Detail,1021100054,188,100835,Erin Thorn,1611661329,Chicago Sky,2,5,24,Made Shot,Running Bank shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,23,1,1,20110701,PHO,CHI,2011-12
+Shot Chart Detail,1021100054,192,100835,Erin Thorn,1611661329,Chicago Sky,2,4,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,17,225,1,0,20110701,PHO,CHI,2011-12
+Shot Chart Detail,1021100054,364,100835,Erin Thorn,1611661329,Chicago Sky,3,1,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,12,217,1,0,20110701,PHO,CHI,2011-12
+Shot Chart Detail,1021100057,250,100835,Erin Thorn,1611661329,Chicago Sky,3,6,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,168,37,1,1,20110705,CHI,WAS,2011-12
+Shot Chart Detail,1021100057,338,100835,Erin Thorn,1611661329,Chicago Sky,4,9,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-10,165,1,1,20110705,CHI,WAS,2011-12
+Shot Chart Detail,1021100057,460,100835,Erin Thorn,1611661329,Chicago Sky,4,1,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-30,77,1,0,20110705,CHI,WAS,2011-12
+Shot Chart Detail,1021100057,470,100835,Erin Thorn,1611661329,Chicago Sky,4,0,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-8,55,1,0,20110705,CHI,WAS,2011-12
+Shot Chart Detail,1021100062,60,100835,Erin Thorn,1611661329,Chicago Sky,1,4,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,198,-21,1,0,20110709,CHI,ATL,2011-12
+Shot Chart Detail,1021100062,64,100835,Erin Thorn,1611661329,Chicago Sky,1,4,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,124,183,1,0,20110709,CHI,ATL,2011-12
+Shot Chart Detail,1021100062,149,100835,Erin Thorn,1611661329,Chicago Sky,2,7,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,114,192,1,1,20110709,CHI,ATL,2011-12
+Shot Chart Detail,1021100062,306,100835,Erin Thorn,1611661329,Chicago Sky,3,3,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-131,93,1,0,20110709,CHI,ATL,2011-12
+Shot Chart Detail,1021100062,355,100835,Erin Thorn,1611661329,Chicago Sky,3,0,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,135,170,1,0,20110709,CHI,ATL,2011-12
+Shot Chart Detail,1021100062,365,100835,Erin Thorn,1611661329,Chicago Sky,4,9,40,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-10,64,1,1,20110709,CHI,ATL,2011-12
+Shot Chart Detail,1021100062,370,100835,Erin Thorn,1611661329,Chicago Sky,4,8,30,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),16-24 ft.,21,-215,-3,1,0,20110709,CHI,ATL,2011-12
+Shot Chart Detail,1021100065,72,100835,Erin Thorn,1611661329,Chicago Sky,1,2,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,1,1,1,20110710,NYL,CHI,2011-12
+Shot Chart Detail,1021100065,74,100835,Erin Thorn,1611661329,Chicago Sky,1,2,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,1,235,1,1,20110710,NYL,CHI,2011-12
+Shot Chart Detail,1021100065,96,100835,Erin Thorn,1611661329,Chicago Sky,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,40,-81,392,1,0,20110710,NYL,CHI,2011-12
+Shot Chart Detail,1021100065,119,100835,Erin Thorn,1611661329,Chicago Sky,2,8,16,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-54,107,1,1,20110710,NYL,CHI,2011-12
+Shot Chart Detail,1021100065,124,100835,Erin Thorn,1611661329,Chicago Sky,2,7,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-73,78,1,0,20110710,NYL,CHI,2011-12
+Shot Chart Detail,1021100065,226,100835,Erin Thorn,1611661329,Chicago Sky,2,0,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,6,173,1,0,20110710,NYL,CHI,2011-12
+Shot Chart Detail,1021100065,412,100835,Erin Thorn,1611661329,Chicago Sky,4,2,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-122,99,1,1,20110710,NYL,CHI,2011-12
+Shot Chart Detail,1021100070,115,100835,Erin Thorn,1611661329,Chicago Sky,2,9,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-123,30,1,1,20110713,CHI,TUL,2011-12
+Shot Chart Detail,1021100070,126,100835,Erin Thorn,1611661329,Chicago Sky,2,8,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-155,112,1,0,20110713,CHI,TUL,2011-12
+Shot Chart Detail,1021100070,190,100835,Erin Thorn,1611661329,Chicago Sky,2,0,43,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-21,58,1,0,20110713,CHI,TUL,2011-12
+Shot Chart Detail,1021100070,217,100835,Erin Thorn,1611661329,Chicago Sky,3,7,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-157,159,1,0,20110713,CHI,TUL,2011-12
+Shot Chart Detail,1021100070,388,100835,Erin Thorn,1611661329,Chicago Sky,4,2,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-142,69,1,1,20110713,CHI,TUL,2011-12
+Shot Chart Detail,1021100078,89,100835,Erin Thorn,1611661329,Chicago Sky,1,2,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-142,66,1,1,20110716,ATL,CHI,2011-12
+Shot Chart Detail,1021100078,97,100835,Erin Thorn,1611661329,Chicago Sky,1,0,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-117,101,1,0,20110716,ATL,CHI,2011-12
+Shot Chart Detail,1021100078,111,100835,Erin Thorn,1611661329,Chicago Sky,2,9,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-171,145,1,1,20110716,ATL,CHI,2011-12
+Shot Chart Detail,1021100078,123,100835,Erin Thorn,1611661329,Chicago Sky,2,8,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,84,206,1,0,20110716,ATL,CHI,2011-12
+Shot Chart Detail,1021100078,250,100835,Erin Thorn,1611661329,Chicago Sky,3,5,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,215,75,1,0,20110716,ATL,CHI,2011-12
+Shot Chart Detail,1021100078,365,100835,Erin Thorn,1611661329,Chicago Sky,4,6,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-190,119,1,1,20110716,ATL,CHI,2011-12
+Shot Chart Detail,1021100078,372,100835,Erin Thorn,1611661329,Chicago Sky,4,6,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,160,64,1,0,20110716,ATL,CHI,2011-12
+Shot Chart Detail,1021100078,395,100835,Erin Thorn,1611661329,Chicago Sky,4,4,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,102,183,1,0,20110716,ATL,CHI,2011-12
+Shot Chart Detail,1021100078,446,100835,Erin Thorn,1611661329,Chicago Sky,4,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,51,100,507,1,0,20110716,ATL,CHI,2011-12
+Shot Chart Detail,1021100085,186,100835,Erin Thorn,1611661329,Chicago Sky,2,3,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-16,135,1,0,20110719,CHI,SEA,2011-12
+Shot Chart Detail,1021100089,145,100835,Erin Thorn,1611661329,Chicago Sky,2,5,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),24+ ft.,22,226,37,1,0,20110721,IND,CHI,2011-12
+Shot Chart Detail,1021100089,169,100835,Erin Thorn,1611661329,Chicago Sky,2,2,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-217,110,1,0,20110721,IND,CHI,2011-12
+Shot Chart Detail,1021100089,261,100835,Erin Thorn,1611661329,Chicago Sky,3,4,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-4,153,1,1,20110721,IND,CHI,2011-12
+Shot Chart Detail,1021100089,301,100835,Erin Thorn,1611661329,Chicago Sky,3,0,12,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,214,-8,1,1,20110721,IND,CHI,2011-12
+Shot Chart Detail,1021100089,308,100835,Erin Thorn,1611661329,Chicago Sky,4,9,39,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-152,71,1,1,20110721,IND,CHI,2011-12
+Shot Chart Detail,1021100089,312,100835,Erin Thorn,1611661329,Chicago Sky,4,8,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-41,115,1,0,20110721,IND,CHI,2011-12
+Shot Chart Detail,1021100089,319,100835,Erin Thorn,1611661329,Chicago Sky,4,8,0,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-149,64,1,1,20110721,IND,CHI,2011-12
+Shot Chart Detail,1021100089,360,100835,Erin Thorn,1611661329,Chicago Sky,4,5,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,138,44,1,0,20110721,IND,CHI,2011-12
+Shot Chart Detail,1021100089,390,100835,Erin Thorn,1611661329,Chicago Sky,4,2,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-112,0,1,0,20110721,IND,CHI,2011-12
+Shot Chart Detail,1021100089,406,100835,Erin Thorn,1611661329,Chicago Sky,4,1,27,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-163,157,1,1,20110721,IND,CHI,2011-12
+Shot Chart Detail,1021100089,408,100835,Erin Thorn,1611661329,Chicago Sky,4,1,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,102,131,1,0,20110721,IND,CHI,2011-12
+Shot Chart Detail,1021100089,412,100835,Erin Thorn,1611661329,Chicago Sky,4,0,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,-8,1,0,20110721,IND,CHI,2011-12
+Shot Chart Detail,1021100092,86,100835,Erin Thorn,1611661329,Chicago Sky,1,0,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-166,167,1,0,20110726,CHI,CON,2011-12
+Shot Chart Detail,1021100092,261,100835,Erin Thorn,1611661329,Chicago Sky,3,3,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,102,143,1,1,20110726,CHI,CON,2011-12
+Shot Chart Detail,1021100092,267,100835,Erin Thorn,1611661329,Chicago Sky,3,3,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-153,157,1,0,20110726,CHI,CON,2011-12
+Shot Chart Detail,1021100100,130,100835,Erin Thorn,1611661329,Chicago Sky,2,9,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,196,-14,1,1,20110728,TUL,CHI,2011-12
+Shot Chart Detail,1021100100,207,100835,Erin Thorn,1611661329,Chicago Sky,2,0,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,207,77,1,1,20110728,TUL,CHI,2011-12
+Shot Chart Detail,1021100100,299,100835,Erin Thorn,1611661329,Chicago Sky,3,1,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-180,119,1,0,20110728,TUL,CHI,2011-12
+Shot Chart Detail,1021100104,144,100835,Erin Thorn,1611661329,Chicago Sky,2,4,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,177,124,1,1,20110730,CHI,LAS,2011-12
+Shot Chart Detail,1021100104,175,100835,Erin Thorn,1611661329,Chicago Sky,2,2,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,152,173,1,0,20110730,CHI,LAS,2011-12
+Shot Chart Detail,1021100104,274,100835,Erin Thorn,1611661329,Chicago Sky,3,1,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-168,134,1,1,20110730,CHI,LAS,2011-12
+Shot Chart Detail,1021100104,283,100835,Erin Thorn,1611661329,Chicago Sky,3,0,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,-14,1,1,20110730,CHI,LAS,2011-12
+Shot Chart Detail,1021100104,291,100835,Erin Thorn,1611661329,Chicago Sky,4,9,43,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,212,-10,1,1,20110730,CHI,LAS,2011-12
+Shot Chart Detail,1021100104,306,100835,Erin Thorn,1611661329,Chicago Sky,4,8,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,20,-93,183,1,1,20110730,CHI,LAS,2011-12
+Shot Chart Detail,1021100104,345,100835,Erin Thorn,1611661329,Chicago Sky,4,1,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,103,123,1,0,20110730,CHI,LAS,2011-12
+Shot Chart Detail,1021100104,353,100835,Erin Thorn,1611661329,Chicago Sky,4,0,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,36,216,1,1,20110730,CHI,LAS,2011-12
+Shot Chart Detail,1021100113,98,100835,Erin Thorn,1611661329,Chicago Sky,1,0,23,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,72,145,1,1,20110804,NYL,CHI,2011-12
+Shot Chart Detail,1021100113,100,100835,Erin Thorn,1611661329,Chicago Sky,1,0,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-101,34,1,0,20110804,NYL,CHI,2011-12
+Shot Chart Detail,1021100113,311,100835,Erin Thorn,1611661329,Chicago Sky,3,0,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-198,107,1,0,20110804,NYL,CHI,2011-12
+Shot Chart Detail,1021100113,334,100835,Erin Thorn,1611661329,Chicago Sky,4,8,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-103,142,1,0,20110804,NYL,CHI,2011-12
+Shot Chart Detail,1021100121,182,100835,Erin Thorn,1611661329,Chicago Sky,2,3,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-128,124,1,0,20110807,CHI,IND,2011-12
+Shot Chart Detail,1021100121,192,100835,Erin Thorn,1611661329,Chicago Sky,2,2,6,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,220,-16,1,0,20110807,CHI,IND,2011-12
+Shot Chart Detail,1021100121,212,100835,Erin Thorn,1611661329,Chicago Sky,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,136,179,1,0,20110807,CHI,IND,2011-12
+Shot Chart Detail,1021100121,327,100835,Erin Thorn,1611661329,Chicago Sky,4,9,14,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,58,129,1,1,20110807,CHI,IND,2011-12
+Shot Chart Detail,1021100125,174,100835,Erin Thorn,1611661329,Chicago Sky,2,4,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-122,205,1,0,20110809,CON,CHI,2011-12
+Shot Chart Detail,1021100138,96,100835,Erin Thorn,1611661329,Chicago Sky,1,0,2,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-70,143,1,1,20110814,SAN,CHI,2011-12
+Shot Chart Detail,1021100138,137,100835,Erin Thorn,1611661329,Chicago Sky,2,7,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-128,77,1,0,20110814,SAN,CHI,2011-12
+Shot Chart Detail,1021100138,272,100835,Erin Thorn,1611661329,Chicago Sky,3,6,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-111,47,1,0,20110814,SAN,CHI,2011-12
+Shot Chart Detail,1021100138,282,100835,Erin Thorn,1611661329,Chicago Sky,3,5,1,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,3,1,0,20110814,SAN,CHI,2011-12
+Shot Chart Detail,1021100138,291,100835,Erin Thorn,1611661329,Chicago Sky,3,3,42,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,12,1,1,20110814,SAN,CHI,2011-12
+Shot Chart Detail,1021100138,293,100835,Erin Thorn,1611661329,Chicago Sky,3,3,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,20,-204,41,1,1,20110814,SAN,CHI,2011-12
+Shot Chart Detail,1021100138,321,100835,Erin Thorn,1611661329,Chicago Sky,3,0,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,110,127,1,0,20110814,SAN,CHI,2011-12
+Shot Chart Detail,1021100138,368,100835,Erin Thorn,1611661329,Chicago Sky,4,6,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-108,0,1,0,20110814,SAN,CHI,2011-12
+Shot Chart Detail,1021100138,380,100835,Erin Thorn,1611661329,Chicago Sky,4,5,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,4,1,0,20110814,SAN,CHI,2011-12
+Shot Chart Detail,1021100149,99,100835,Erin Thorn,1611661329,Chicago Sky,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,36,39,362,1,0,20110820,WAS,CHI,2011-12
+Shot Chart Detail,1021100149,106,100835,Erin Thorn,1611661329,Chicago Sky,2,9,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,129,104,1,0,20110820,WAS,CHI,2011-12
+Shot Chart Detail,1021100149,158,100835,Erin Thorn,1611661329,Chicago Sky,2,4,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-163,175,1,1,20110820,WAS,CHI,2011-12
+Shot Chart Detail,1021100149,254,100835,Erin Thorn,1611661329,Chicago Sky,3,4,24,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,31,1,0,20110820,WAS,CHI,2011-12
+Shot Chart Detail,1021100157,94,100835,Erin Thorn,1611661329,Chicago Sky,1,0,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-95,134,1,0,20110823,CHI,ATL,2011-12
+Shot Chart Detail,1021100164,29,100835,Erin Thorn,1611661329,Chicago Sky,1,6,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,132,173,1,1,20110826,CHI,WAS,2011-12
+Shot Chart Detail,1021100164,58,100835,Erin Thorn,1611661329,Chicago Sky,1,4,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,152,162,1,0,20110826,CHI,WAS,2011-12
+Shot Chart Detail,1021100164,76,100835,Erin Thorn,1611661329,Chicago Sky,1,2,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-62,216,1,1,20110826,CHI,WAS,2011-12
+Shot Chart Detail,1021100164,161,100835,Erin Thorn,1611661329,Chicago Sky,2,5,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,147,164,1,0,20110826,CHI,WAS,2011-12
+Shot Chart Detail,1021100164,197,100835,Erin Thorn,1611661329,Chicago Sky,2,2,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-49,170,1,0,20110826,CHI,WAS,2011-12
+Shot Chart Detail,1021100164,372,100835,Erin Thorn,1611661329,Chicago Sky,4,4,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,125,113,1,0,20110826,CHI,WAS,2011-12
+Shot Chart Detail,1021100170,6,100835,Erin Thorn,1611661329,Chicago Sky,1,9,1,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-24,83,1,1,20110828,CHI,NYL,2011-12
+Shot Chart Detail,1021100170,39,100835,Erin Thorn,1611661329,Chicago Sky,1,4,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,166,175,1,0,20110828,CHI,NYL,2011-12
+Shot Chart Detail,1021100170,205,100835,Erin Thorn,1611661329,Chicago Sky,2,0,8,Missed Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-108,15,1,0,20110828,CHI,NYL,2011-12
+Shot Chart Detail,1021100170,223,100835,Erin Thorn,1611661329,Chicago Sky,3,7,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-141,160,1,1,20110828,CHI,NYL,2011-12
+Shot Chart Detail,1021100170,237,100835,Erin Thorn,1611661329,Chicago Sky,3,5,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-97,164,1,1,20110828,CHI,NYL,2011-12
+Shot Chart Detail,1021100170,256,100835,Erin Thorn,1611661329,Chicago Sky,3,3,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,20,-198,67,1,0,20110828,CHI,NYL,2011-12
+Shot Chart Detail,1021100170,293,100835,Erin Thorn,1611661329,Chicago Sky,4,8,34,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,-14,1,1,20110828,CHI,NYL,2011-12
+Shot Chart Detail,1021100170,301,100835,Erin Thorn,1611661329,Chicago Sky,4,7,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-188,0,1,1,20110828,CHI,NYL,2011-12
+Shot Chart Detail,1021100170,309,100835,Erin Thorn,1611661329,Chicago Sky,4,6,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,0,1,1,20110828,CHI,NYL,2011-12
+Shot Chart Detail,1021100170,312,100835,Erin Thorn,1611661329,Chicago Sky,4,6,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-166,134,1,1,20110828,CHI,NYL,2011-12
+Shot Chart Detail,1021100170,332,100835,Erin Thorn,1611661329,Chicago Sky,4,3,21,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-139,4,1,0,20110828,CHI,NYL,2011-12
+Shot Chart Detail,1021100172,44,100835,Erin Thorn,1611661329,Chicago Sky,1,5,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-79,200,1,0,20110830,NYL,CHI,2011-12
+Shot Chart Detail,1021100172,263,100835,Erin Thorn,1611661329,Chicago Sky,3,8,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,4,213,1,1,20110830,NYL,CHI,2011-12
+Shot Chart Detail,1021100172,348,100835,Erin Thorn,1611661329,Chicago Sky,4,9,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-161,104,1,1,20110830,NYL,CHI,2011-12
+Shot Chart Detail,1021100189,11,100835,Erin Thorn,1611661329,Chicago Sky,1,8,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-141,176,1,0,20110904,CHI,IND,2011-12
+Shot Chart Detail,1021100189,69,100835,Erin Thorn,1611661329,Chicago Sky,1,2,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,135,157,1,1,20110904,CHI,IND,2011-12
+Shot Chart Detail,1021100189,223,100835,Erin Thorn,1611661329,Chicago Sky,3,7,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,42,208,1,0,20110904,CHI,IND,2011-12
+Shot Chart Detail,1021100193,18,100835,Erin Thorn,1611661329,Chicago Sky,1,7,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,106,197,1,0,20110908,MIN,CHI,2011-12
+Shot Chart Detail,1021100193,26,100835,Erin Thorn,1611661329,Chicago Sky,1,6,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-171,126,1,0,20110908,MIN,CHI,2011-12
+Shot Chart Detail,1021100193,35,100835,Erin Thorn,1611661329,Chicago Sky,1,5,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,141,63,1,1,20110908,MIN,CHI,2011-12
+Shot Chart Detail,1021100193,37,100835,Erin Thorn,1611661329,Chicago Sky,1,5,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,127,77,1,0,20110908,MIN,CHI,2011-12
+Shot Chart Detail,1021100193,154,100835,Erin Thorn,1611661329,Chicago Sky,2,3,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-188,107,1,0,20110908,MIN,CHI,2011-12
+Shot Chart Detail,1021100193,217,100835,Erin Thorn,1611661329,Chicago Sky,3,7,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,20,203,48,1,1,20110908,MIN,CHI,2011-12
+Shot Chart Detail,1021100193,226,100835,Erin Thorn,1611661329,Chicago Sky,3,6,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-67,142,1,1,20110908,MIN,CHI,2011-12
+Shot Chart Detail,1021100193,234,100835,Erin Thorn,1611661329,Chicago Sky,3,5,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-120,118,1,0,20110908,MIN,CHI,2011-12
+Shot Chart Detail,1021100193,343,100835,Erin Thorn,1611661329,Chicago Sky,4,5,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,218,45,1,1,20110908,MIN,CHI,2011-12
+Shot Chart Detail,1021100193,349,100835,Erin Thorn,1611661329,Chicago Sky,4,4,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-111,184,1,1,20110908,MIN,CHI,2011-12
+Shot Chart Detail,1021100193,395,100835,Erin Thorn,1611661329,Chicago Sky,4,0,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,136,175,1,1,20110908,MIN,CHI,2011-12
+Shot Chart Detail,1021100199,32,100835,Erin Thorn,1611661329,Chicago Sky,1,6,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,40,239,1,1,20110910,LAS,CHI,2011-12
+Shot Chart Detail,1021100199,49,100835,Erin Thorn,1611661329,Chicago Sky,1,5,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-168,175,1,0,20110910,LAS,CHI,2011-12
+Shot Chart Detail,1021100199,108,100835,Erin Thorn,1611661329,Chicago Sky,1,0,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-93,108,1,1,20110910,LAS,CHI,2011-12
+Shot Chart Detail,1021100199,126,100835,Erin Thorn,1611661329,Chicago Sky,2,9,4,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,22,1,0,20110910,LAS,CHI,2011-12
+Shot Chart Detail,1021100199,188,100835,Erin Thorn,1611661329,Chicago Sky,2,2,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,61,219,1,0,20110910,LAS,CHI,2011-12
+Shot Chart Detail,1021100199,262,100835,Erin Thorn,1611661329,Chicago Sky,3,4,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-93,146,1,1,20110910,LAS,CHI,2011-12
+Shot Chart Detail,1021100199,285,100835,Erin Thorn,1611661329,Chicago Sky,3,2,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,22,218,37,1,0,20110910,LAS,CHI,2011-12
+Shot Chart Detail,1021100199,366,100835,Erin Thorn,1611661329,Chicago Sky,4,6,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,-14,1,1,20110910,LAS,CHI,2011-12
+Shot Chart Detail,1021100199,405,100835,Erin Thorn,1611661329,Chicago Sky,4,3,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,108,205,1,0,20110910,LAS,CHI,2011-12
+Shot Chart Detail,1021100199,430,100835,Erin Thorn,1611661329,Chicago Sky,4,0,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,23,-59,228,1,1,20110910,LAS,CHI,2011-12
+Shot Chart Detail,1021100204,40,100835,Erin Thorn,1611661329,Chicago Sky,1,5,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-67,167,1,0,20110911,SEA,CHI,2011-12
+Shot Chart Detail,1021100204,94,100835,Erin Thorn,1611661329,Chicago Sky,2,8,49,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-51,154,1,1,20110911,SEA,CHI,2011-12
+Shot Chart Detail,1021100204,194,100835,Erin Thorn,1611661329,Chicago Sky,3,9,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-29,225,1,0,20110911,SEA,CHI,2011-12
+Shot Chart Detail,1021100204,200,100835,Erin Thorn,1611661329,Chicago Sky,3,8,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,174,156,1,0,20110911,SEA,CHI,2011-12
+Shot Chart Detail,1021100204,388,100835,Erin Thorn,1611661329,Chicago Sky,4,0,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-138,-5,1,0,20110911,SEA,CHI,2011-12

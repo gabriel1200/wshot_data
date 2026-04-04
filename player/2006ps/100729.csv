@@ -1,0 +1,18 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1040600131,14,100729,Michelle Snow,1611661316,Houston Comets,1,7,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,85,102,1,0,20060817,HOU,SAC,2006-07
+Shot Chart Detail,1040600131,60,100729,Michelle Snow,1611661316,Houston Comets,1,2,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060817,HOU,SAC,2006-07
+Shot Chart Detail,1040600131,113,100729,Michelle Snow,1611661316,Houston Comets,2,8,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060817,HOU,SAC,2006-07
+Shot Chart Detail,1040600131,213,100729,Michelle Snow,1611661316,Houston Comets,3,8,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060817,HOU,SAC,2006-07
+Shot Chart Detail,1040600131,227,100729,Michelle Snow,1611661316,Houston Comets,3,7,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20060817,HOU,SAC,2006-07
+Shot Chart Detail,1040600131,298,100729,Michelle Snow,1611661316,Houston Comets,3,0,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060817,HOU,SAC,2006-07
+Shot Chart Detail,1040600131,341,100729,Michelle Snow,1611661316,Houston Comets,4,6,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060817,HOU,SAC,2006-07
+Shot Chart Detail,1040600132,38,100729,Michelle Snow,1611661316,Houston Comets,1,6,7,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,44,15,1,1,20060819,SAC,HOU,2006-07
+Shot Chart Detail,1040600132,40,100729,Michelle Snow,1611661316,Houston Comets,1,5,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,7,1,0,20060819,SAC,HOU,2006-07
+Shot Chart Detail,1040600132,116,100729,Michelle Snow,1611661316,Houston Comets,2,7,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060819,SAC,HOU,2006-07
+Shot Chart Detail,1040600132,145,100729,Michelle Snow,1611661316,Houston Comets,2,2,41,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060819,SAC,HOU,2006-07
+Shot Chart Detail,1040600132,174,100729,Michelle Snow,1611661316,Houston Comets,2,0,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,107,81,1,0,20060819,SAC,HOU,2006-07
+Shot Chart Detail,1040600132,191,100729,Michelle Snow,1611661316,Houston Comets,3,8,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,23,1,0,20060819,SAC,HOU,2006-07
+Shot Chart Detail,1040600132,264,100729,Michelle Snow,1611661316,Houston Comets,3,0,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060819,SAC,HOU,2006-07
+Shot Chart Detail,1040600132,275,100729,Michelle Snow,1611661316,Houston Comets,4,9,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-85,12,1,0,20060819,SAC,HOU,2006-07
+Shot Chart Detail,1040600132,278,100729,Michelle Snow,1611661316,Houston Comets,4,8,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20060819,SAC,HOU,2006-07
+Shot Chart Detail,1040600132,286,100729,Michelle Snow,1611661316,Houston Comets,4,8,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060819,SAC,HOU,2006-07

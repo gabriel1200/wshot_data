@@ -1,0 +1,40 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1041500131,5,203824,Odyssey Sims,1611661321,Tulsa Shock,1,9,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-142,181,1,1,20150917,PHO,TUL,2015-16
+Shot Chart Detail,1041500131,19,203824,Odyssey Sims,1611661321,Tulsa Shock,1,7,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,6,1,1,20150917,PHO,TUL,2015-16
+Shot Chart Detail,1041500131,21,203824,Odyssey Sims,1611661321,Tulsa Shock,1,7,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,193,143,1,0,20150917,PHO,TUL,2015-16
+Shot Chart Detail,1041500131,32,203824,Odyssey Sims,1611661321,Tulsa Shock,1,5,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,1,20150917,PHO,TUL,2015-16
+Shot Chart Detail,1041500131,48,203824,Odyssey Sims,1611661321,Tulsa Shock,1,4,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,22,1,1,20150917,PHO,TUL,2015-16
+Shot Chart Detail,1041500131,51,203824,Odyssey Sims,1611661321,Tulsa Shock,1,3,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,6,1,1,20150917,PHO,TUL,2015-16
+Shot Chart Detail,1041500131,65,203824,Odyssey Sims,1611661321,Tulsa Shock,1,2,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-3,1,0,20150917,PHO,TUL,2015-16
+Shot Chart Detail,1041500131,107,203824,Odyssey Sims,1611661321,Tulsa Shock,2,8,42,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,4,58,1,0,20150917,PHO,TUL,2015-16
+Shot Chart Detail,1041500131,117,203824,Odyssey Sims,1611661321,Tulsa Shock,2,8,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-207,138,1,0,20150917,PHO,TUL,2015-16
+Shot Chart Detail,1041500131,130,203824,Odyssey Sims,1611661321,Tulsa Shock,2,7,4,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,15,1,0,20150917,PHO,TUL,2015-16
+Shot Chart Detail,1041500131,167,203824,Odyssey Sims,1611661321,Tulsa Shock,2,4,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,12,1,0,20150917,PHO,TUL,2015-16
+Shot Chart Detail,1041500131,185,203824,Odyssey Sims,1611661321,Tulsa Shock,2,2,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,0,20150917,PHO,TUL,2015-16
+Shot Chart Detail,1041500131,194,203824,Odyssey Sims,1611661321,Tulsa Shock,2,1,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-116,31,1,0,20150917,PHO,TUL,2015-16
+Shot Chart Detail,1041500131,240,203824,Odyssey Sims,1611661321,Tulsa Shock,3,8,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,6,1,0,20150917,PHO,TUL,2015-16
+Shot Chart Detail,1041500131,261,203824,Odyssey Sims,1611661321,Tulsa Shock,3,6,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-106,224,1,0,20150917,PHO,TUL,2015-16
+Shot Chart Detail,1041500131,282,203824,Odyssey Sims,1611661321,Tulsa Shock,3,4,30,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,0,1,0,20150917,PHO,TUL,2015-16
+Shot Chart Detail,1041500131,284,203824,Odyssey Sims,1611661321,Tulsa Shock,3,4,23,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,-17,1,1,20150917,PHO,TUL,2015-16
+Shot Chart Detail,1041500131,291,203824,Odyssey Sims,1611661321,Tulsa Shock,3,3,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,23,-149,178,1,0,20150917,PHO,TUL,2015-16
+Shot Chart Detail,1041500131,375,203824,Odyssey Sims,1611661321,Tulsa Shock,4,6,44,Missed Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-5,34,1,0,20150917,PHO,TUL,2015-16
+Shot Chart Detail,1041500131,379,203824,Odyssey Sims,1611661321,Tulsa Shock,4,6,14,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-5,71,1,1,20150917,PHO,TUL,2015-16
+Shot Chart Detail,1041500131,392,203824,Odyssey Sims,1611661321,Tulsa Shock,4,4,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,20,1,0,20150917,PHO,TUL,2015-16
+Shot Chart Detail,1041500132,19,203824,Odyssey Sims,1611661321,Tulsa Shock,1,7,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,22,1,0,20150919,TUL,PHO,2015-16
+Shot Chart Detail,1041500132,31,203824,Odyssey Sims,1611661321,Tulsa Shock,1,6,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,23,-188,135,1,1,20150919,TUL,PHO,2015-16
+Shot Chart Detail,1041500132,66,203824,Odyssey Sims,1611661321,Tulsa Shock,1,3,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,14,1,0,20150919,TUL,PHO,2015-16
+Shot Chart Detail,1041500132,108,203824,Odyssey Sims,1611661321,Tulsa Shock,1,0,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,17,1,1,20150919,TUL,PHO,2015-16
+Shot Chart Detail,1041500132,114,203824,Odyssey Sims,1611661321,Tulsa Shock,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,138,187,1,0,20150919,TUL,PHO,2015-16
+Shot Chart Detail,1041500132,122,203824,Odyssey Sims,1611661321,Tulsa Shock,2,9,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,14,1,1,20150919,TUL,PHO,2015-16
+Shot Chart Detail,1041500132,166,203824,Odyssey Sims,1611661321,Tulsa Shock,2,5,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,26,1,0,20150919,TUL,PHO,2015-16
+Shot Chart Detail,1041500132,171,203824,Odyssey Sims,1611661321,Tulsa Shock,2,4,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,91,131,1,0,20150919,TUL,PHO,2015-16
+Shot Chart Detail,1041500132,183,203824,Odyssey Sims,1611661321,Tulsa Shock,2,3,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,17,1,0,20150919,TUL,PHO,2015-16
+Shot Chart Detail,1041500132,225,203824,Odyssey Sims,1611661321,Tulsa Shock,2,1,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,14,1,0,20150919,TUL,PHO,2015-16
+Shot Chart Detail,1041500132,236,203824,Odyssey Sims,1611661321,Tulsa Shock,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-119,37,1,0,20150919,TUL,PHO,2015-16
+Shot Chart Detail,1041500132,273,203824,Odyssey Sims,1611661321,Tulsa Shock,3,6,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-86,99,1,1,20150919,TUL,PHO,2015-16
+Shot Chart Detail,1041500132,296,203824,Odyssey Sims,1611661321,Tulsa Shock,3,3,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,2,228,1,0,20150919,TUL,PHO,2015-16
+Shot Chart Detail,1041500132,328,203824,Odyssey Sims,1611661321,Tulsa Shock,3,0,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,17,1,1,20150919,TUL,PHO,2015-16
+Shot Chart Detail,1041500132,361,203824,Odyssey Sims,1611661321,Tulsa Shock,4,7,22,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,56,72,1,0,20150919,TUL,PHO,2015-16
+Shot Chart Detail,1041500132,386,203824,Odyssey Sims,1611661321,Tulsa Shock,4,6,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,43,222,1,0,20150919,TUL,PHO,2015-16
+Shot Chart Detail,1041500132,416,203824,Odyssey Sims,1611661321,Tulsa Shock,4,4,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,23,198,127,1,0,20150919,TUL,PHO,2015-16
+Shot Chart Detail,1041500132,460,203824,Odyssey Sims,1611661321,Tulsa Shock,4,1,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,15,1,1,20150919,TUL,PHO,2015-16
