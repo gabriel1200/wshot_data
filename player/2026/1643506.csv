@@ -1,0 +1,13 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1022600042,227,1643506,Teja Oblak,1611661327,Portland Fire,2,4,30,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,-7,1,0,20260523,TOR,PDX,2026-27
+Shot Chart Detail,1022600042,246,1643506,Teja Oblak,1611661327,Portland Fire,2,3,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),24+ ft.,23,222,76,1,1,20260523,TOR,PDX,2026-27
+Shot Chart Detail,1022600042,254,1643506,Teja Oblak,1611661327,Portland Fire,2,2,58,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,27,4,1,0,20260523,TOR,PDX,2026-27
+Shot Chart Detail,1022600042,450,1643506,Teja Oblak,1611661327,Portland Fire,3,0,37,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-24,83,1,0,20260523,TOR,PDX,2026-27
+Shot Chart Detail,1022600047,92,1643506,Teja Oblak,1611661327,Portland Fire,1,2,55,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-10,1,1,20260525,NYL,PDX,2026-27
+Shot Chart Detail,1022600047,209,1643506,Teja Oblak,1611661327,Portland Fire,2,5,41,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,49,1,0,20260525,NYL,PDX,2026-27
+Shot Chart Detail,1022600047,266,1643506,Teja Oblak,1611661327,Portland Fire,2,2,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,157,183,1,1,20260525,NYL,PDX,2026-27
+Shot Chart Detail,1022600047,274,1643506,Teja Oblak,1611661327,Portland Fire,2,1,55,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,7,1,0,20260525,NYL,PDX,2026-27
+Shot Chart Detail,1022600047,503,1643506,Teja Oblak,1611661327,Portland Fire,4,7,14,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-6,147,1,1,20260525,NYL,PDX,2026-27
+Shot Chart Detail,1022600047,524,1643506,Teja Oblak,1611661327,Portland Fire,4,5,43,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-40,121,1,1,20260525,NYL,PDX,2026-27
+Shot Chart Detail,1022600047,531,1643506,Teja Oblak,1611661327,Portland Fire,4,4,49,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-26,28,1,0,20260525,NYL,PDX,2026-27
+Shot Chart Detail,1022600047,551,1643506,Teja Oblak,1611661327,Portland Fire,4,3,41,Missed Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-18,65,1,0,20260525,NYL,PDX,2026-27

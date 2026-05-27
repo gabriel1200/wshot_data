@@ -1,0 +1,7 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1022600026,511,1643469,Indya Nivar,1611661330,Atlanta Dream,4,9,28,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-4,26,1,0,20260517,ATL,LVA,2026-27
+Shot Chart Detail,1022600026,615,1643469,Indya Nivar,1611661330,Atlanta Dream,4,2,32,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,10,1,0,20260517,ATL,LVA,2026-27
+Shot Chart Detail,1022600038,50,1643469,Indya Nivar,1611661330,Atlanta Dream,1,5,38,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-12,29,1,0,20260522,ATL,DAL,2026-27
+Shot Chart Detail,1022600038,419,1643469,Indya Nivar,1611661330,Atlanta Dream,3,1,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,1,241,1,0,20260522,ATL,DAL,2026-27
+Shot Chart Detail,1022600038,569,1643469,Indya Nivar,1611661330,Atlanta Dream,4,0,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,9,1,1,20260522,ATL,DAL,2026-27
+Shot Chart Detail,1022600044,305,1643469,Indya Nivar,1611661330,Atlanta Dream,2,0,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,85,227,1,1,20260524,ATL,PHX,2026-27

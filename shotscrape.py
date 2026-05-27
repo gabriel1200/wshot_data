@@ -45,10 +45,10 @@ except Exception as e:
 # 2. Setup Scraper Parameters
 # ---------------------------------------------------------
 WNBA_LEAGUE_ID = "10"
-CURRENT_SEASON_TYPE = "Playoffs" # Toggle to 'Playoffs' when needed
+CURRENT_SEASON_TYPE = "Regular Season" # Toggle to 'Playoffs' when needed
 
-start_year = 2000
-end_year = 2025
+start_year = 2026
+end_year = 2026
 seasons = [f"{year}-{str(year+1)[-2:]}" for year in range(start_year, end_year + 1)]
 
 # ---------------------------------------------------------
