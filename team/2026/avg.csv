@@ -1,29 +1,30 @@
 GRID_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,FGA,FGM,FG_PCT,SEASON
-League Averages,Above the Break 3,Back Court(BC),Back Court Shot,2,0,0.0,2026-27
-League Averages,Above the Break 3,Center(C),16-24 ft.,104,38,0.365,2026-27
-League Averages,Above the Break 3,Center(C),24+ ft.,734,245,0.334,2026-27
-League Averages,Above the Break 3,Left Side Center(LC),24+ ft.,1350,433,0.321,2026-27
-League Averages,Above the Break 3,Left Side Center(LC),16-24 ft.,160,55,0.344,2026-27
-League Averages,Above the Break 3,Left Side(L),16-24 ft.,116,29,0.25,2026-27
-League Averages,Above the Break 3,Left Side(L),24+ ft.,208,71,0.341,2026-27
-League Averages,Above the Break 3,Right Side Center(RC),24+ ft.,1268,440,0.347,2026-27
-League Averages,Above the Break 3,Right Side Center(RC),16-24 ft.,100,35,0.35,2026-27
-League Averages,Above the Break 3,Right Side(R),16-24 ft.,95,32,0.337,2026-27
-League Averages,Above the Break 3,Right Side(R),24+ ft.,183,66,0.361,2026-27
-League Averages,Backcourt,Back Court(BC),Back Court Shot,37,1,0.027,2026-27
-League Averages,In The Paint (Non-RA),Center(C),8-16 ft.,720,287,0.399,2026-27
-League Averages,In The Paint (Non-RA),Center(C),Less Than 8 ft.,2005,849,0.423,2026-27
-League Averages,In The Paint (Non-RA),Left Side(L),8-16 ft.,109,31,0.284,2026-27
-League Averages,In The Paint (Non-RA),Right Side(R),8-16 ft.,102,34,0.333,2026-27
-League Averages,Left Corner 3,Left Side(L),24+ ft.,432,156,0.361,2026-27
-League Averages,Mid-Range,Center(C),8-16 ft.,145,69,0.476,2026-27
-League Averages,Mid-Range,Center(C),16-24 ft.,249,88,0.353,2026-27
-League Averages,Mid-Range,Left Side Center(LC),16-24 ft.,248,93,0.375,2026-27
-League Averages,Mid-Range,Left Side(L),16-24 ft.,81,32,0.395,2026-27
-League Averages,Mid-Range,Left Side(L),8-16 ft.,342,128,0.374,2026-27
-League Averages,Mid-Range,Right Side Center(RC),16-24 ft.,205,81,0.395,2026-27
-League Averages,Mid-Range,Right Side(R),8-16 ft.,315,114,0.362,2026-27
-League Averages,Mid-Range,Right Side(R),16-24 ft.,74,23,0.311,2026-27
-League Averages,Restricted Area,Center(C),Less Than 8 ft.,4161,2600,0.625,2026-27
-League Averages,Right Corner 3,Right Side(R),24+ ft.,285,93,0.326,2026-27
+League Averages,Above the Break 3,Back Court(BC),Back Court Shot,4,0,0.0,2026-27
+League Averages,Above the Break 3,Center(C),16-24 ft.,136,54,0.397,2026-27
+League Averages,Above the Break 3,Center(C),24+ ft.,991,341,0.344,2026-27
+League Averages,Above the Break 3,Left Side Center(LC),16-24 ft.,200,65,0.325,2026-27
+League Averages,Above the Break 3,Left Side Center(LC),24+ ft.,1774,581,0.328,2026-27
+League Averages,Above the Break 3,Left Side(L),24+ ft.,281,97,0.345,2026-27
+League Averages,Above the Break 3,Left Side(L),16-24 ft.,151,46,0.305,2026-27
+League Averages,Above the Break 3,Right Side Center(RC),16-24 ft.,149,46,0.309,2026-27
+League Averages,Above the Break 3,Right Side Center(RC),24+ ft.,1661,571,0.344,2026-27
+League Averages,Above the Break 3,Right Side(R),24+ ft.,237,87,0.367,2026-27
+League Averages,Above the Break 3,Right Side(R),16-24 ft.,125,43,0.344,2026-27
+League Averages,Backcourt,Back Court(BC),Back Court Shot,49,1,0.02,2026-27
+League Averages,In The Paint (Non-RA),Center(C),8-16 ft.,936,377,0.403,2026-27
+League Averages,In The Paint (Non-RA),Center(C),Less Than 8 ft.,2611,1129,0.432,2026-27
+League Averages,In The Paint (Non-RA),Left Side(L),8-16 ft.,148,43,0.291,2026-27
+League Averages,In The Paint (Non-RA),Right Side(R),8-16 ft.,135,52,0.385,2026-27
+League Averages,Left Corner 3,Left Side(L),24+ ft.,545,190,0.349,2026-27
+League Averages,Left Corner 3,Left Side(L),16-24 ft.,1,1,1.0,2026-27
+League Averages,Mid-Range,Center(C),8-16 ft.,171,81,0.474,2026-27
+League Averages,Mid-Range,Center(C),16-24 ft.,315,105,0.333,2026-27
+League Averages,Mid-Range,Left Side Center(LC),16-24 ft.,306,115,0.376,2026-27
+League Averages,Mid-Range,Left Side(L),8-16 ft.,433,160,0.37,2026-27
+League Averages,Mid-Range,Left Side(L),16-24 ft.,100,39,0.39,2026-27
+League Averages,Mid-Range,Right Side Center(RC),16-24 ft.,266,107,0.402,2026-27
+League Averages,Mid-Range,Right Side(R),8-16 ft.,413,146,0.354,2026-27
+League Averages,Mid-Range,Right Side(R),16-24 ft.,91,30,0.33,2026-27
+League Averages,Restricted Area,Center(C),Less Than 8 ft.,5487,3454,0.629,2026-27
+League Averages,Right Corner 3,Right Side(R),24+ ft.,374,132,0.353,2026-27
 League Averages,Right Corner 3,Right Side(R),16-24 ft.,1,1,1.0,2026-27
