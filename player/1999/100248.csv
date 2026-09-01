@@ -1,4 +1,36 @@
 GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1029900132,68,100248,Cindy Brown,1611661319,Utah Starzz,1,12,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,147,179,1,0,19990731,UTA,SAC,1999-00
+Shot Chart Detail,1029900132,238,100248,Cindy Brown,1611661319,Utah Starzz,2,14,29,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990731,UTA,SAC,1999-00
+Shot Chart Detail,1029900132,354,100248,Cindy Brown,1611661319,Utah Starzz,2,3,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990731,UTA,SAC,1999-00
+Shot Chart Detail,1029900139,59,100248,Cindy Brown,1611661319,Utah Starzz,1,13,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-6,214,1,0,19990803,UTA,NYL,1999-00
+Shot Chart Detail,1029900139,160,100248,Cindy Brown,1611661319,Utah Starzz,1,3,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990803,UTA,NYL,1999-00
+Shot Chart Detail,1029900139,161,100248,Cindy Brown,1611661319,Utah Starzz,1,3,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990803,UTA,NYL,1999-00
+Shot Chart Detail,1029900139,196,100248,Cindy Brown,1611661319,Utah Starzz,1,0,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-197,98,1,0,19990803,UTA,NYL,1999-00
+Shot Chart Detail,1029900144,77,100248,Cindy Brown,1611661319,Utah Starzz,1,11,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-51,57,1,0,19990805,UTA,LAS,1999-00
+Shot Chart Detail,1029900144,84,100248,Cindy Brown,1611661319,Utah Starzz,1,11,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,154,169,1,0,19990805,UTA,LAS,1999-00
+Shot Chart Detail,1029900144,127,100248,Cindy Brown,1611661319,Utah Starzz,1,7,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990805,UTA,LAS,1999-00
+Shot Chart Detail,1029900151,69,100248,Cindy Brown,1611661319,Utah Starzz,1,11,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,18,214,1,0,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,288,100248,Cindy Brown,1611661319,Utah Starzz,2,8,41,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-51,42,1,1,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,320,100248,Cindy Brown,1611661319,Utah Starzz,2,4,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,331,100248,Cindy Brown,1611661319,Utah Starzz,2,3,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900151,356,100248,Cindy Brown,1611661319,Utah Starzz,2,1,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-38,38,1,1,19990807,UTA,MIN,1999-00
+Shot Chart Detail,1029900156,93,100248,Cindy Brown,1611661319,Utah Starzz,1,8,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,147,151,1,0,19990809,UTA,CHA,1999-00
+Shot Chart Detail,1029900156,129,100248,Cindy Brown,1611661319,Utah Starzz,1,5,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990809,UTA,CHA,1999-00
+Shot Chart Detail,1029900156,220,100248,Cindy Brown,1611661319,Utah Starzz,2,15,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,29,57,1,0,19990809,UTA,CHA,1999-00
+Shot Chart Detail,1029900161,99,100248,Cindy Brown,1611661319,Utah Starzz,1,9,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990811,MIN,UTA,1999-00
+Shot Chart Detail,1029900161,114,100248,Cindy Brown,1611661319,Utah Starzz,1,8,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,40,207,1,0,19990811,MIN,UTA,1999-00
+Shot Chart Detail,1029900161,417,100248,Cindy Brown,1611661319,Utah Starzz,2,1,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,115,179,1,1,19990811,MIN,UTA,1999-00
+Shot Chart Detail,1029900166,48,100248,Cindy Brown,1611661319,Utah Starzz,1,14,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-6,158,1,0,19990813,UTA,PHO,1999-00
+Shot Chart Detail,1029900166,69,100248,Cindy Brown,1611661319,Utah Starzz,1,11,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990813,UTA,PHO,1999-00
+Shot Chart Detail,1029900166,70,100248,Cindy Brown,1611661319,Utah Starzz,1,11,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990813,UTA,PHO,1999-00
+Shot Chart Detail,1029900166,112,100248,Cindy Brown,1611661319,Utah Starzz,1,7,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990813,UTA,PHO,1999-00
+Shot Chart Detail,1029900166,332,100248,Cindy Brown,1611661319,Utah Starzz,2,3,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,117,179,1,0,19990813,UTA,PHO,1999-00
+Shot Chart Detail,1029900171,123,100248,Cindy Brown,1611661319,Utah Starzz,1,7,50,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-36,16,1,0,19990814,SAC,UTA,1999-00
+Shot Chart Detail,1029900171,124,100248,Cindy Brown,1611661319,Utah Starzz,1,7,47,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990814,SAC,UTA,1999-00
+Shot Chart Detail,1029900171,277,100248,Cindy Brown,1611661319,Utah Starzz,2,13,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-57,203,1,0,19990814,SAC,UTA,1999-00
+Shot Chart Detail,1029900171,288,100248,Cindy Brown,1611661319,Utah Starzz,2,11,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,35,23,1,0,19990814,SAC,UTA,1999-00
+Shot Chart Detail,1029900171,308,100248,Cindy Brown,1611661319,Utah Starzz,2,9,33,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,23,23,1,0,19990814,SAC,UTA,1999-00
+Shot Chart Detail,1029900171,310,100248,Cindy Brown,1611661319,Utah Starzz,2,9,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,23,46,1,1,19990814,SAC,UTA,1999-00
 Shot Chart Detail,1029900007,31,100248,Cindy Brown,1611661321,Detroit Shock,1,16,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,20,18,209,1,0,19990612,MIN,DET,1999-00
 Shot Chart Detail,1029900007,151,100248,Cindy Brown,1611661321,Detroit Shock,1,4,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,21,-81,194,1,0,19990612,MIN,DET,1999-00
 Shot Chart Detail,1029900007,224,100248,Cindy Brown,1611661321,Detroit Shock,1,0,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,-7,1,0,19990612,MIN,DET,1999-00
@@ -145,35 +177,3 @@ Shot Chart Detail,1029900122,177,100248,Cindy Brown,1611661321,Detroit Shock,1,1
 Shot Chart Detail,1029900122,187,100248,Cindy Brown,1611661321,Detroit Shock,2,15,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990728,CHA,DET,1999-00
 Shot Chart Detail,1029900122,189,100248,Cindy Brown,1611661321,Detroit Shock,2,15,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990728,CHA,DET,1999-00
 Shot Chart Detail,1029900122,192,100248,Cindy Brown,1611661321,Detroit Shock,2,15,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990728,CHA,DET,1999-00
-Shot Chart Detail,1029900132,68,100248,Cindy Brown,1611661319,Utah Starzz,1,12,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,23,147,179,1,0,19990731,UTA,SAC,1999-00
-Shot Chart Detail,1029900132,238,100248,Cindy Brown,1611661319,Utah Starzz,2,14,29,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990731,UTA,SAC,1999-00
-Shot Chart Detail,1029900132,354,100248,Cindy Brown,1611661319,Utah Starzz,2,3,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990731,UTA,SAC,1999-00
-Shot Chart Detail,1029900139,59,100248,Cindy Brown,1611661319,Utah Starzz,1,13,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-6,214,1,0,19990803,UTA,NYL,1999-00
-Shot Chart Detail,1029900139,160,100248,Cindy Brown,1611661319,Utah Starzz,1,3,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990803,UTA,NYL,1999-00
-Shot Chart Detail,1029900139,161,100248,Cindy Brown,1611661319,Utah Starzz,1,3,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990803,UTA,NYL,1999-00
-Shot Chart Detail,1029900139,196,100248,Cindy Brown,1611661319,Utah Starzz,1,0,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-197,98,1,0,19990803,UTA,NYL,1999-00
-Shot Chart Detail,1029900144,77,100248,Cindy Brown,1611661319,Utah Starzz,1,11,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-51,57,1,0,19990805,UTA,LAS,1999-00
-Shot Chart Detail,1029900144,84,100248,Cindy Brown,1611661319,Utah Starzz,1,11,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,154,169,1,0,19990805,UTA,LAS,1999-00
-Shot Chart Detail,1029900144,127,100248,Cindy Brown,1611661319,Utah Starzz,1,7,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990805,UTA,LAS,1999-00
-Shot Chart Detail,1029900151,69,100248,Cindy Brown,1611661319,Utah Starzz,1,11,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,18,214,1,0,19990807,UTA,MIN,1999-00
-Shot Chart Detail,1029900151,288,100248,Cindy Brown,1611661319,Utah Starzz,2,8,41,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-51,42,1,1,19990807,UTA,MIN,1999-00
-Shot Chart Detail,1029900151,320,100248,Cindy Brown,1611661319,Utah Starzz,2,4,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990807,UTA,MIN,1999-00
-Shot Chart Detail,1029900151,331,100248,Cindy Brown,1611661319,Utah Starzz,2,3,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990807,UTA,MIN,1999-00
-Shot Chart Detail,1029900151,356,100248,Cindy Brown,1611661319,Utah Starzz,2,1,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-38,38,1,1,19990807,UTA,MIN,1999-00
-Shot Chart Detail,1029900156,93,100248,Cindy Brown,1611661319,Utah Starzz,1,8,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,147,151,1,0,19990809,UTA,CHA,1999-00
-Shot Chart Detail,1029900156,129,100248,Cindy Brown,1611661319,Utah Starzz,1,5,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990809,UTA,CHA,1999-00
-Shot Chart Detail,1029900156,220,100248,Cindy Brown,1611661319,Utah Starzz,2,15,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,29,57,1,0,19990809,UTA,CHA,1999-00
-Shot Chart Detail,1029900161,99,100248,Cindy Brown,1611661319,Utah Starzz,1,9,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990811,MIN,UTA,1999-00
-Shot Chart Detail,1029900161,114,100248,Cindy Brown,1611661319,Utah Starzz,1,8,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,40,207,1,0,19990811,MIN,UTA,1999-00
-Shot Chart Detail,1029900161,417,100248,Cindy Brown,1611661319,Utah Starzz,2,1,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,115,179,1,1,19990811,MIN,UTA,1999-00
-Shot Chart Detail,1029900166,48,100248,Cindy Brown,1611661319,Utah Starzz,1,14,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-6,158,1,0,19990813,UTA,PHO,1999-00
-Shot Chart Detail,1029900166,69,100248,Cindy Brown,1611661319,Utah Starzz,1,11,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990813,UTA,PHO,1999-00
-Shot Chart Detail,1029900166,70,100248,Cindy Brown,1611661319,Utah Starzz,1,11,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990813,UTA,PHO,1999-00
-Shot Chart Detail,1029900166,112,100248,Cindy Brown,1611661319,Utah Starzz,1,7,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990813,UTA,PHO,1999-00
-Shot Chart Detail,1029900166,332,100248,Cindy Brown,1611661319,Utah Starzz,2,3,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,117,179,1,0,19990813,UTA,PHO,1999-00
-Shot Chart Detail,1029900171,123,100248,Cindy Brown,1611661319,Utah Starzz,1,7,50,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-36,16,1,0,19990814,SAC,UTA,1999-00
-Shot Chart Detail,1029900171,124,100248,Cindy Brown,1611661319,Utah Starzz,1,7,47,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990814,SAC,UTA,1999-00
-Shot Chart Detail,1029900171,277,100248,Cindy Brown,1611661319,Utah Starzz,2,13,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,21,-57,203,1,0,19990814,SAC,UTA,1999-00
-Shot Chart Detail,1029900171,288,100248,Cindy Brown,1611661319,Utah Starzz,2,11,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,35,23,1,0,19990814,SAC,UTA,1999-00
-Shot Chart Detail,1029900171,308,100248,Cindy Brown,1611661319,Utah Starzz,2,9,33,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,23,23,1,0,19990814,SAC,UTA,1999-00
-Shot Chart Detail,1029900171,310,100248,Cindy Brown,1611661319,Utah Starzz,2,9,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,23,46,1,1,19990814,SAC,UTA,1999-00

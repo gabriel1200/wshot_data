@@ -1,7 +1,4 @@
 GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
-Shot Chart Detail,1021800007,145,1628920,Mercedes Russell,1611661313,New York Liberty,2,9,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-125,160,1,0,20180520,CHI,NYL,2018-19
-Shot Chart Detail,1021800016,373,1628920,Mercedes Russell,1611661313,New York Liberty,3,2,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,15,1,1,20180525,NYL,MIN,2018-19
-Shot Chart Detail,1021800016,449,1628920,Mercedes Russell,1611661313,New York Liberty,4,7,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-175,-10,1,0,20180525,NYL,MIN,2018-19
 Shot Chart Detail,1021800027,181,1628920,Mercedes Russell,1611661328,Seattle Storm,2,6,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,0,20180531,SEA,LVA,2018-19
 Shot Chart Detail,1021800027,465,1628920,Mercedes Russell,1611661328,Seattle Storm,4,6,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,3,1,1,20180531,SEA,LVA,2018-19
 Shot Chart Detail,1021800027,495,1628920,Mercedes Russell,1611661328,Seattle Storm,4,3,56,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-7,95,1,0,20180531,SEA,LVA,2018-19
@@ -33,3 +30,6 @@ Shot Chart Detail,1021800203,450,1628920,Mercedes Russell,1611661328,Seattle Sto
 Shot Chart Detail,1021800203,454,1628920,Mercedes Russell,1611661328,Seattle Storm,4,6,58,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-65,76,1,0,20180819,SEA,DAL,2018-19
 Shot Chart Detail,1021800203,495,1628920,Mercedes Russell,1611661328,Seattle Storm,4,3,55,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20180819,SEA,DAL,2018-19
 Shot Chart Detail,1021800203,513,1628920,Mercedes Russell,1611661328,Seattle Storm,4,1,24,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,0,20180819,SEA,DAL,2018-19
+Shot Chart Detail,1021800007,145,1628920,Mercedes Russell,1611661313,New York Liberty,2,9,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-125,160,1,0,20180520,CHI,NYL,2018-19
+Shot Chart Detail,1021800016,373,1628920,Mercedes Russell,1611661313,New York Liberty,3,2,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,15,1,1,20180525,NYL,MIN,2018-19
+Shot Chart Detail,1021800016,449,1628920,Mercedes Russell,1611661313,New York Liberty,4,7,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-175,-10,1,0,20180525,NYL,MIN,2018-19

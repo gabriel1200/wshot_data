@@ -1,15 +1,4 @@
 GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
-Shot Chart Detail,1020200179,264,100204,Rita Williams,1611661316,Houston Comets,2,11,18,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,85,15,1,0,20020723,HOU,SEA,2002-03
-Shot Chart Detail,1020200194,33,100204,Rita Williams,1611661316,Houston Comets,1,14,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,85,192,1,0,20020728,NYL,HOU,2002-03
-Shot Chart Detail,1020200194,58,100204,Rita Williams,1611661316,Houston Comets,1,12,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,127,57,1,0,20020728,NYL,HOU,2002-03
-Shot Chart Detail,1020200194,244,100204,Rita Williams,1611661316,Houston Comets,2,8,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,161,152,1,0,20020728,NYL,HOU,2002-03
-Shot Chart Detail,1020200227,90,100204,Rita Williams,1611661316,Houston Comets,1,7,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,20,-185,80,1,0,20020806,HOU,CLE,2002-03
-Shot Chart Detail,1020200254,94,100204,Rita Williams,1611661316,Houston Comets,1,8,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-200,91,1,0,20020813,HOU,MIN,2002-03
-Shot Chart Detail,1020200254,109,100204,Rita Williams,1611661316,Houston Comets,1,7,9,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-27,135,1,1,20020813,HOU,MIN,2002-03
-Shot Chart Detail,1020200254,123,100204,Rita Williams,1611661316,Houston Comets,1,5,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,15,1,1,20020813,HOU,MIN,2002-03
-Shot Chart Detail,1020200254,231,100204,Rita Williams,1611661316,Houston Comets,2,12,45,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,210,26,1,1,20020813,HOU,MIN,2002-03
-Shot Chart Detail,1020200254,284,100204,Rita Williams,1611661316,Houston Comets,2,6,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-200,91,1,1,20020813,HOU,MIN,2002-03
-Shot Chart Detail,1020200254,353,100204,Rita Williams,1611661316,Houston Comets,2,0,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020813,HOU,MIN,2002-03
 Shot Chart Detail,1020200014,40,100204,Rita Williams,1611661325,Indiana Fever,1,14,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,85,150,1,0,20020601,IND,DET,2002-03
 Shot Chart Detail,1020200014,66,100204,Rita Williams,1611661325,Indiana Fever,1,11,56,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,37,0,1,0,20020601,IND,DET,2002-03
 Shot Chart Detail,1020200014,75,100204,Rita Williams,1611661325,Indiana Fever,1,10,46,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,30,-4,1,0,20020601,IND,DET,2002-03
@@ -145,3 +134,14 @@ Shot Chart Detail,1020200156,263,100204,Rita Williams,1611661325,Indiana Fever,2
 Shot Chart Detail,1020200156,291,100204,Rita Williams,1611661325,Indiana Fever,2,6,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),16-24 ft.,22,-29,224,1,0,20020717,IND,LAS,2002-03
 Shot Chart Detail,1020200156,313,100204,Rita Williams,1611661325,Indiana Fever,2,4,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),16-24 ft.,22,-130,179,1,0,20020717,IND,LAS,2002-03
 Shot Chart Detail,1020200164,131,100204,Rita Williams,1611661325,Indiana Fever,1,1,49,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,-13,1,0,20020719,IND,NYL,2002-03
+Shot Chart Detail,1020200179,264,100204,Rita Williams,1611661316,Houston Comets,2,11,18,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,85,15,1,0,20020723,HOU,SEA,2002-03
+Shot Chart Detail,1020200194,33,100204,Rita Williams,1611661316,Houston Comets,1,14,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,20,85,192,1,0,20020728,NYL,HOU,2002-03
+Shot Chart Detail,1020200194,58,100204,Rita Williams,1611661316,Houston Comets,1,12,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,127,57,1,0,20020728,NYL,HOU,2002-03
+Shot Chart Detail,1020200194,244,100204,Rita Williams,1611661316,Houston Comets,2,8,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,22,161,152,1,0,20020728,NYL,HOU,2002-03
+Shot Chart Detail,1020200227,90,100204,Rita Williams,1611661316,Houston Comets,1,7,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,20,-185,80,1,0,20020806,HOU,CLE,2002-03
+Shot Chart Detail,1020200254,94,100204,Rita Williams,1611661316,Houston Comets,1,8,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-200,91,1,0,20020813,HOU,MIN,2002-03
+Shot Chart Detail,1020200254,109,100204,Rita Williams,1611661316,Houston Comets,1,7,9,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-27,135,1,1,20020813,HOU,MIN,2002-03
+Shot Chart Detail,1020200254,123,100204,Rita Williams,1611661316,Houston Comets,1,5,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,15,1,1,20020813,HOU,MIN,2002-03
+Shot Chart Detail,1020200254,231,100204,Rita Williams,1611661316,Houston Comets,2,12,45,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),16-24 ft.,21,210,26,1,1,20020813,HOU,MIN,2002-03
+Shot Chart Detail,1020200254,284,100204,Rita Williams,1611661316,Houston Comets,2,6,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,21,-200,91,1,1,20020813,HOU,MIN,2002-03
+Shot Chart Detail,1020200254,353,100204,Rita Williams,1611661316,Houston Comets,2,0,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020813,HOU,MIN,2002-03

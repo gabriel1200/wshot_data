@@ -1,4 +1,8 @@
 GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1020900199,86,101026,Katie Mattera,1611661329,Chicago Sky,1,2,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090904,CHI,WAS,2009-10
+Shot Chart Detail,1020900199,412,101026,Katie Mattera,1611661329,Chicago Sky,4,5,14,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,1,1,0,20090904,CHI,WAS,2009-10
+Shot Chart Detail,1020900199,437,101026,Katie Mattera,1611661329,Chicago Sky,4,3,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090904,CHI,WAS,2009-10
+Shot Chart Detail,1020900205,315,101026,Katie Mattera,1611661329,Chicago Sky,3,2,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090906,DET,CHI,2009-10
 Shot Chart Detail,1020900006,97,101026,Katie Mattera,1611661319,San Antonio Silver Stars,2,9,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090606,PHO,SAN,2009-10
 Shot Chart Detail,1020900006,122,101026,Katie Mattera,1611661319,San Antonio Silver Stars,2,7,4,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,1,64,1,1,20090606,PHO,SAN,2009-10
 Shot Chart Detail,1020900006,331,101026,Katie Mattera,1611661319,San Antonio Silver Stars,4,9,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-18,85,1,0,20090606,PHO,SAN,2009-10
@@ -20,7 +24,3 @@ Shot Chart Detail,1020900072,387,101026,Katie Mattera,1611661319,San Antonio Sil
 Shot Chart Detail,1020900078,252,101026,Katie Mattera,1611661319,San Antonio Silver Stars,3,3,28,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,0,1,0,20090712,SAN,MIN,2009-10
 Shot Chart Detail,1020900087,195,101026,Katie Mattera,1611661319,San Antonio Silver Stars,2,0,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,73,7,1,0,20090717,SAN,CON,2009-10
 Shot Chart Detail,1020900094,102,101026,Katie Mattera,1611661319,San Antonio Silver Stars,2,9,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,99,-2,1,1,20090719,CHI,SAN,2009-10
-Shot Chart Detail,1020900199,86,101026,Katie Mattera,1611661329,Chicago Sky,1,2,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090904,CHI,WAS,2009-10
-Shot Chart Detail,1020900199,412,101026,Katie Mattera,1611661329,Chicago Sky,4,5,14,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,1,1,0,20090904,CHI,WAS,2009-10
-Shot Chart Detail,1020900199,437,101026,Katie Mattera,1611661329,Chicago Sky,4,3,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090904,CHI,WAS,2009-10
-Shot Chart Detail,1020900205,315,101026,Katie Mattera,1611661329,Chicago Sky,3,2,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090906,DET,CHI,2009-10

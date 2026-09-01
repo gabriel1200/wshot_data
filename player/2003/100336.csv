@@ -1,5 +1,4 @@
 GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
-Shot Chart Detail,1020300003,388,100336,Sonja Henning,1611661322,Washington Mystics,2,2,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-8,84,1,0,20030523,CHA,WAS,2003-04
 Shot Chart Detail,1020300033,248,100336,Sonja Henning,1611661325,Indiana Fever,2,11,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,-21,1,1,20030607,IND,NYL,2003-04
 Shot Chart Detail,1020300041,140,100336,Sonja Henning,1611661325,Indiana Fever,1,2,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-74,26,1,1,20030610,SEA,IND,2003-04
 Shot Chart Detail,1020300041,326,100336,Sonja Henning,1611661325,Indiana Fever,2,2,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,57,168,1,0,20030610,SEA,IND,2003-04
@@ -42,3 +41,4 @@ Shot Chart Detail,1020300170,321,100336,Sonja Henning,1611661325,Indiana Fever,2
 Shot Chart Detail,1020300174,104,100336,Sonja Henning,1611661325,Indiana Fever,1,8,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-41,12,1,0,20030803,CON,IND,2003-04
 Shot Chart Detail,1020300174,131,100336,Sonja Henning,1611661325,Indiana Fever,1,5,39,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-8,36,1,0,20030803,CON,IND,2003-04
 Shot Chart Detail,1020300174,300,100336,Sonja Henning,1611661325,Indiana Fever,2,8,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,8,1,0,20030803,CON,IND,2003-04
+Shot Chart Detail,1020300003,388,100336,Sonja Henning,1611661322,Washington Mystics,2,2,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-8,84,1,0,20030523,CHA,WAS,2003-04

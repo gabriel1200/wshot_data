@@ -1,4 +1,6 @@
 GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
+Shot Chart Detail,1022600005,536,1630993,Anneli Maley,1611661317,Phoenix Mercury,4,2,16,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,38,11,1,0,20260509,LVA,PHX,2026-27
+Shot Chart Detail,1022600005,545,1630993,Anneli Maley,1611661317,Phoenix Mercury,4,1,45,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,22,178,1,0,20260509,LVA,PHX,2026-27
 Shot Chart Detail,1022600045,544,1630993,Anneli Maley,1611661313,New York Liberty,4,1,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),24+ ft.,23,-234,47,1,0,20260524,NYL,DAL,2026-27
 Shot Chart Detail,1022600045,563,1630993,Anneli Maley,1611661313,New York Liberty,4,0,37,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,11,1,0,20260524,NYL,DAL,2026-27
 Shot Chart Detail,1022600171,605,1630993,Anneli Maley,1611661313,New York Liberty,4,1,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-102,42,1,0,20260712,TOR,NYL,2026-27
@@ -10,5 +12,5 @@ Shot Chart Detail,1022600188,636,1630993,Anneli Maley,1611661313,New York Libert
 Shot Chart Detail,1022600256,168,1630993,Anneli Maley,1611661313,New York Liberty,2,7,52,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-84,32,1,0,20260815,CON,NYL,2026-27
 Shot Chart Detail,1022600256,377,1630993,Anneli Maley,1611661313,New York Liberty,3,1,59,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,7,1,0,20260815,CON,NYL,2026-27
 Shot Chart Detail,1022600265,489,1630993,Anneli Maley,1611661313,New York Liberty,4,6,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,211,123,1,0,20260818,CHI,NYL,2026-27
-Shot Chart Detail,1022600005,536,1630993,Anneli Maley,1611661317,Phoenix Mercury,4,2,16,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,38,11,1,0,20260509,LVA,PHX,2026-27
-Shot Chart Detail,1022600005,545,1630993,Anneli Maley,1611661317,Phoenix Mercury,4,1,45,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,22,178,1,0,20260509,LVA,PHX,2026-27
+Shot Chart Detail,1022600295,563,1630993,Anneli Maley,1611661313,New York Liberty,4,2,1,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,33,44,1,0,20260829,NYL,CHI,2026-27
+Shot Chart Detail,1022600295,572,1630993,Anneli Maley,1611661313,New York Liberty,4,1,25,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,18,1,0,20260829,NYL,CHI,2026-27

@@ -1,31 +1,4 @@
 GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM,SEASON
-Shot Chart Detail,1020900004,165,201477,Tamera Young,1611661330,Atlanta Dream,2,4,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,200,71,1,0,20090606,ATL,IND,2009-10
-Shot Chart Detail,1020900008,317,201477,Tamera Young,1611661330,Atlanta Dream,3,2,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,37,52,1,0,20090607,WAS,ATL,2009-10
-Shot Chart Detail,1020900008,382,201477,Tamera Young,1611661330,Atlanta Dream,4,7,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-35,60,1,0,20090607,WAS,ATL,2009-10
-Shot Chart Detail,1020900008,390,201477,Tamera Young,1611661330,Atlanta Dream,4,6,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-46,82,1,1,20090607,WAS,ATL,2009-10
-Shot Chart Detail,1020900018,96,201477,Tamera Young,1611661330,Atlanta Dream,1,0,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090612,CHI,ATL,2009-10
-Shot Chart Detail,1020900018,108,201477,Tamera Young,1611661330,Atlanta Dream,2,9,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-215,50,1,0,20090612,CHI,ATL,2009-10
-Shot Chart Detail,1020900018,399,201477,Tamera Young,1611661330,Atlanta Dream,4,5,54,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-220,0,1,1,20090612,CHI,ATL,2009-10
-Shot Chart Detail,1020900018,403,201477,Tamera Young,1611661330,Atlanta Dream,4,4,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090612,CHI,ATL,2009-10
-Shot Chart Detail,1020900018,409,201477,Tamera Young,1611661330,Atlanta Dream,4,4,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090612,CHI,ATL,2009-10
-Shot Chart Detail,1020900018,415,201477,Tamera Young,1611661330,Atlanta Dream,4,3,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090612,CHI,ATL,2009-10
-Shot Chart Detail,1020900029,175,201477,Tamera Young,1611661330,Atlanta Dream,2,7,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-139,42,1,0,20090619,ATL,WAS,2009-10
-Shot Chart Detail,1020900035,191,201477,Tamera Young,1611661330,Atlanta Dream,2,3,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-79,31,1,0,20090621,ATL,NYL,2009-10
-Shot Chart Detail,1020900035,201,201477,Tamera Young,1611661330,Atlanta Dream,2,3,25,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090621,ATL,NYL,2009-10
-Shot Chart Detail,1020900039,251,201477,Tamera Young,1611661330,Atlanta Dream,3,3,54,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,47,102,1,1,20090623,ATL,CHI,2009-10
-Shot Chart Detail,1020900039,260,201477,Tamera Young,1611661330,Atlanta Dream,3,2,46,Missed Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-4,60,1,0,20090623,ATL,CHI,2009-10
-Shot Chart Detail,1020900039,302,201477,Tamera Young,1611661330,Atlanta Dream,3,0,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,10,140,1,0,20090623,ATL,CHI,2009-10
-Shot Chart Detail,1020900039,353,201477,Tamera Young,1611661330,Atlanta Dream,4,5,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,4,1,1,20090623,ATL,CHI,2009-10
-Shot Chart Detail,1020900039,361,201477,Tamera Young,1611661330,Atlanta Dream,4,5,21,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,-8,1,1,20090623,ATL,CHI,2009-10
-Shot Chart Detail,1020900039,367,201477,Tamera Young,1611661330,Atlanta Dream,4,4,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),24+ ft.,22,222,47,1,0,20090623,ATL,CHI,2009-10
-Shot Chart Detail,1020900039,413,201477,Tamera Young,1611661330,Atlanta Dream,4,0,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-40,113,1,0,20090623,ATL,CHI,2009-10
-Shot Chart Detail,1020900093,148,201477,Tamera Young,1611661330,Atlanta Dream,2,5,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090719,NYL,ATL,2009-10
-Shot Chart Detail,1020900093,160,201477,Tamera Young,1611661330,Atlanta Dream,2,4,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-161,-6,1,0,20090719,NYL,ATL,2009-10
-Shot Chart Detail,1020900093,164,201477,Tamera Young,1611661330,Atlanta Dream,2,4,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,154,156,1,0,20090719,NYL,ATL,2009-10
-Shot Chart Detail,1020900116,441,201477,Tamera Young,1611661330,Atlanta Dream,4,5,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,10,157,1,0,20090730,ATL,PHO,2009-10
-Shot Chart Detail,1020900116,479,201477,Tamera Young,1611661330,Atlanta Dream,4,2,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,113,116,1,0,20090730,ATL,PHO,2009-10
-Shot Chart Detail,1020900116,487,201477,Tamera Young,1611661330,Atlanta Dream,4,2,15,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090730,ATL,PHO,2009-10
-Shot Chart Detail,1020900134,482,201477,Tamera Young,1611661330,Atlanta Dream,4,0,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,91,124,1,1,20090808,ATL,CHI,2009-10
 Shot Chart Detail,1020900153,88,201477,Tamera Young,1611661329,Chicago Sky,1,0,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090815,CHI,MIN,2009-10
 Shot Chart Detail,1020900158,9,201477,Tamera Young,1611661329,Chicago Sky,1,8,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,7,110,1,0,20090818,CHI,PHO,2009-10
 Shot Chart Detail,1020900158,19,201477,Tamera Young,1611661329,Chicago Sky,1,7,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090818,CHI,PHO,2009-10
@@ -72,3 +45,30 @@ Shot Chart Detail,1020900216,17,201477,Tamera Young,1611661329,Chicago Sky,1,8,2
 Shot Chart Detail,1020900216,25,201477,Tamera Young,1611661329,Chicago Sky,1,7,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,70,115,1,0,20090912,CHI,DET,2009-10
 Shot Chart Detail,1020900216,235,201477,Tamera Young,1611661329,Chicago Sky,3,9,5,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,15,86,1,1,20090912,CHI,DET,2009-10
 Shot Chart Detail,1020900216,253,201477,Tamera Young,1611661329,Chicago Sky,3,6,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,6,86,1,0,20090912,CHI,DET,2009-10
+Shot Chart Detail,1020900004,165,201477,Tamera Young,1611661330,Atlanta Dream,2,4,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),16-24 ft.,21,200,71,1,0,20090606,ATL,IND,2009-10
+Shot Chart Detail,1020900008,317,201477,Tamera Young,1611661330,Atlanta Dream,3,2,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,37,52,1,0,20090607,WAS,ATL,2009-10
+Shot Chart Detail,1020900008,382,201477,Tamera Young,1611661330,Atlanta Dream,4,7,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-35,60,1,0,20090607,WAS,ATL,2009-10
+Shot Chart Detail,1020900008,390,201477,Tamera Young,1611661330,Atlanta Dream,4,6,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-46,82,1,1,20090607,WAS,ATL,2009-10
+Shot Chart Detail,1020900018,96,201477,Tamera Young,1611661330,Atlanta Dream,1,0,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090612,CHI,ATL,2009-10
+Shot Chart Detail,1020900018,108,201477,Tamera Young,1611661330,Atlanta Dream,2,9,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side(L),16-24 ft.,22,-215,50,1,0,20090612,CHI,ATL,2009-10
+Shot Chart Detail,1020900018,399,201477,Tamera Young,1611661330,Atlanta Dream,4,5,54,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-220,0,1,1,20090612,CHI,ATL,2009-10
+Shot Chart Detail,1020900018,403,201477,Tamera Young,1611661330,Atlanta Dream,4,4,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090612,CHI,ATL,2009-10
+Shot Chart Detail,1020900018,409,201477,Tamera Young,1611661330,Atlanta Dream,4,4,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090612,CHI,ATL,2009-10
+Shot Chart Detail,1020900018,415,201477,Tamera Young,1611661330,Atlanta Dream,4,3,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090612,CHI,ATL,2009-10
+Shot Chart Detail,1020900029,175,201477,Tamera Young,1611661330,Atlanta Dream,2,7,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-139,42,1,0,20090619,ATL,WAS,2009-10
+Shot Chart Detail,1020900035,191,201477,Tamera Young,1611661330,Atlanta Dream,2,3,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-79,31,1,0,20090621,ATL,NYL,2009-10
+Shot Chart Detail,1020900035,201,201477,Tamera Young,1611661330,Atlanta Dream,2,3,25,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090621,ATL,NYL,2009-10
+Shot Chart Detail,1020900039,251,201477,Tamera Young,1611661330,Atlanta Dream,3,3,54,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,47,102,1,1,20090623,ATL,CHI,2009-10
+Shot Chart Detail,1020900039,260,201477,Tamera Young,1611661330,Atlanta Dream,3,2,46,Missed Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-4,60,1,0,20090623,ATL,CHI,2009-10
+Shot Chart Detail,1020900039,302,201477,Tamera Young,1611661330,Atlanta Dream,3,0,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,10,140,1,0,20090623,ATL,CHI,2009-10
+Shot Chart Detail,1020900039,353,201477,Tamera Young,1611661330,Atlanta Dream,4,5,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,4,1,1,20090623,ATL,CHI,2009-10
+Shot Chart Detail,1020900039,361,201477,Tamera Young,1611661330,Atlanta Dream,4,5,21,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,-8,1,1,20090623,ATL,CHI,2009-10
+Shot Chart Detail,1020900039,367,201477,Tamera Young,1611661330,Atlanta Dream,4,4,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side(R),24+ ft.,22,222,47,1,0,20090623,ATL,CHI,2009-10
+Shot Chart Detail,1020900039,413,201477,Tamera Young,1611661330,Atlanta Dream,4,0,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-40,113,1,0,20090623,ATL,CHI,2009-10
+Shot Chart Detail,1020900093,148,201477,Tamera Young,1611661330,Atlanta Dream,2,5,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090719,NYL,ATL,2009-10
+Shot Chart Detail,1020900093,160,201477,Tamera Young,1611661330,Atlanta Dream,2,4,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-161,-6,1,0,20090719,NYL,ATL,2009-10
+Shot Chart Detail,1020900093,164,201477,Tamera Young,1611661330,Atlanta Dream,2,4,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),16-24 ft.,21,154,156,1,0,20090719,NYL,ATL,2009-10
+Shot Chart Detail,1020900116,441,201477,Tamera Young,1611661330,Atlanta Dream,4,5,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,10,157,1,0,20090730,ATL,PHO,2009-10
+Shot Chart Detail,1020900116,479,201477,Tamera Young,1611661330,Atlanta Dream,4,2,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,113,116,1,0,20090730,ATL,PHO,2009-10
+Shot Chart Detail,1020900116,487,201477,Tamera Young,1611661330,Atlanta Dream,4,2,15,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090730,ATL,PHO,2009-10
+Shot Chart Detail,1020900134,482,201477,Tamera Young,1611661330,Atlanta Dream,4,0,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,91,124,1,1,20090808,ATL,CHI,2009-10
