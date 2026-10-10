@@ -45,7 +45,7 @@ except Exception as e:
 # 2. Setup Scraper Parameters
 # ---------------------------------------------------------
 WNBA_LEAGUE_ID = "10"
-CURRENT_SEASON_TYPE = "Regular Season" # Toggle to 'Playoffs' when needed
+CURRENT_SEASON_TYPE = "Playoffs" # Toggle to 'Playoffs' when needed
 
 start_year = 2026
 end_year = 2026

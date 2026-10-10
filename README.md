@@ -60,6 +60,36 @@ but a sample must use one season/type and cannot overwrite season files containi
 other games. `--input`, `--output`, and `--cache` accept absolute paths. Output
 must differ from input so a candidate build cannot overwrite the original data.
 
+## Build and update the repository
+
+From this directory, run the wrapper to build a season and copy its exports into
+the repository's `team/`, `player/`, `rotations/`, and `assists/` directories:
+
+```bash
+/home/gaber/basketball/web_app/venv/bin/python update_repo.py --season 2026
+```
+
+Regular season is the default; use `--season-type playoffs` for playoffs.
+The wrapper uses a fresh `build/wnba-update-{season}-*/` directory and the existing
+response cache. It merges the selected season into the repository's WNBA indexes
+and game dates, preserving other seasons. Replaced files are backed up under the
+build directory's `backup/`, with a manifest of replaced and newly created files.
+Existing unindexed files are not deleted. It does not commit or push changes.
+
+By default, partial or failed builds stop before repository data is replaced.
+Some existing seasons have known source disagreements or unresolved lineups.
+If you accept these explicitly flagged gaps, use:
+
+```bash
+/home/gaber/basketball/web_app/venv/bin/python update_repo.py --season 2026 --allow-partial
+```
+
+Even with `--allow-partial`, every expected game must be exported. Reports and
+shot-issue CSVs remain in the printed build directory. Add `--refresh` to refetch
+cached responses, or `--stats-host stats.nba.com` to try the alternate host.
+File replacements are atomic individually, not across the whole season; let the
+script finish before consuming the output. Review changes with `git diff --stat`.
+
 ## Sources and headers
 
 The HTTP client imports `NBA_STATS_HEADERS` directly from `shotscrape.py`, so
