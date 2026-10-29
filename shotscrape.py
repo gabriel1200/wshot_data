@@ -6,27 +6,27 @@ from nba_api.stats.endpoints import ShotChartDetail, leaguedashteamstats
 # ---------------------------------------------------------
 # 1. Apply your custom NBA API Headers / Patch
 # ---------------------------------------------------------
+# The browser headers stats.nba.com / stats.wnba.com currently answer (copied 2026-10-29 from ~/basketball/nba_headers.py, verified
+# 2026-10-21; web_app/nba_headers.py is the same set). Outdated headers are not rejected: the request just never answers, so a hang means
+# refresh these from a browser request on nba.com/stats. The Chrome 131 / Windows set used until now hung on both hosts on 2026-10-29.
 NBA_STATS_HEADERS = {
-    "Accept": "application/json, text/plain, */*",
-    "Accept-Encoding": "gzip, deflate, br",
-    "Accept-Language": "en-US,en;q=0.9",
-    "Cache-Control": "no-cache",
-    "Connection": "keep-alive",
     "Host": "stats.nba.com",
-    "Origin": "https://www.nba.com",
+    "Connection": "keep-alive",
     "Pragma": "no-cache",
-    "Referer": "https://www.nba.com/",
-    "Sec-Ch-Ua": '"Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"',
-    "Sec-Ch-Ua-Mobile": "?0",
-    "Sec-Ch-Ua-Platform": '"Windows"',
-    "Sec-Fetch-Dest": "empty",
-    "Sec-Fetch-Mode": "cors",
+    "Cache-Control": "no-cache",
+    "Dnt": "1",
+    "Sec-Ch-Ua": '"Not=A?Brand";v="99", "Google Chrome";v="151", "Chromium";v="151"',
+    "Sec-Ch-Ua-Mobile": "?1",
+    "Sec-Ch-Ua-Platform": '"Android"',
+    "User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
+    "Accept": "*/*",
+    "Origin": "https://www.nba.com",
     "Sec-Fetch-Site": "same-site",
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/131.0.0.0 Safari/537.36"
-    ),
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Dest": "empty",
+    "Referer": "https://www.nba.com/",
+    "Accept-Encoding": "gzip, deflate, br, zstd",
+    "Accept-Language": "en-US,en;q=0.9",
 }
 
 try:
