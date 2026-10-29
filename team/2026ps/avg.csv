@@ -1,28 +1,28 @@
 GRID_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,FGA,FGM,FG_PCT
-League Averages,Above the Break 3,Center(C),24+ ft.,140,48,0.343
-League Averages,Above the Break 3,Center(C),16-24 ft.,16,9,0.563
-League Averages,Above the Break 3,Left Side Center(LC),16-24 ft.,22,8,0.364
-League Averages,Above the Break 3,Left Side Center(LC),24+ ft.,226,88,0.389
-League Averages,Above the Break 3,Left Side(L),24+ ft.,33,12,0.364
-League Averages,Above the Break 3,Left Side(L),16-24 ft.,12,3,0.25
-League Averages,Above the Break 3,Right Side Center(RC),24+ ft.,178,62,0.348
-League Averages,Above the Break 3,Right Side Center(RC),16-24 ft.,14,7,0.5
-League Averages,Above the Break 3,Right Side(R),24+ ft.,42,16,0.381
-League Averages,Above the Break 3,Right Side(R),16-24 ft.,10,3,0.3
-League Averages,Backcourt,Back Court(BC),Back Court Shot,5,0,0.0
-League Averages,In The Paint (Non-RA),Center(C),8-16 ft.,158,65,0.411
-League Averages,In The Paint (Non-RA),Center(C),Less Than 8 ft.,310,110,0.355
-League Averages,In The Paint (Non-RA),Left Side(L),8-16 ft.,28,10,0.357
-League Averages,In The Paint (Non-RA),Right Side(R),8-16 ft.,20,5,0.25
-League Averages,Left Corner 3,Left Side(L),24+ ft.,54,25,0.463
+League Averages,Above the Break 3,Center(C),24+ ft.,187,65,0.348
+League Averages,Above the Break 3,Center(C),16-24 ft.,20,9,0.45
+League Averages,Above the Break 3,Left Side Center(LC),16-24 ft.,24,8,0.333
+League Averages,Above the Break 3,Left Side Center(LC),24+ ft.,301,104,0.346
+League Averages,Above the Break 3,Left Side(L),16-24 ft.,15,3,0.2
+League Averages,Above the Break 3,Left Side(L),24+ ft.,46,15,0.326
+League Averages,Above the Break 3,Right Side Center(RC),24+ ft.,248,79,0.319
+League Averages,Above the Break 3,Right Side Center(RC),16-24 ft.,20,9,0.45
+League Averages,Above the Break 3,Right Side(R),24+ ft.,52,20,0.385
+League Averages,Above the Break 3,Right Side(R),16-24 ft.,14,3,0.214
+League Averages,Backcourt,Back Court(BC),Back Court Shot,7,0,0.0
+League Averages,In The Paint (Non-RA),Center(C),8-16 ft.,217,89,0.41
+League Averages,In The Paint (Non-RA),Center(C),Less Than 8 ft.,441,149,0.338
+League Averages,In The Paint (Non-RA),Left Side(L),8-16 ft.,36,13,0.361
+League Averages,In The Paint (Non-RA),Right Side(R),8-16 ft.,22,6,0.273
+League Averages,Left Corner 3,Left Side(L),24+ ft.,65,27,0.415
 League Averages,Left Corner 3,Left Side(L),16-24 ft.,1,0,0.0
-League Averages,Mid-Range,Center(C),16-24 ft.,57,21,0.368
-League Averages,Mid-Range,Center(C),8-16 ft.,24,8,0.333
-League Averages,Mid-Range,Left Side Center(LC),16-24 ft.,39,16,0.41
-League Averages,Mid-Range,Left Side(L),8-16 ft.,60,24,0.4
-League Averages,Mid-Range,Left Side(L),16-24 ft.,14,2,0.143
-League Averages,Mid-Range,Right Side Center(RC),16-24 ft.,34,9,0.265
-League Averages,Mid-Range,Right Side(R),8-16 ft.,56,22,0.393
-League Averages,Mid-Range,Right Side(R),16-24 ft.,8,3,0.375
-League Averages,Restricted Area,Center(C),Less Than 8 ft.,545,346,0.635
-League Averages,Right Corner 3,Right Side(R),24+ ft.,41,14,0.341
+League Averages,Mid-Range,Center(C),16-24 ft.,64,22,0.344
+League Averages,Mid-Range,Center(C),8-16 ft.,27,8,0.296
+League Averages,Mid-Range,Left Side Center(LC),16-24 ft.,44,19,0.432
+League Averages,Mid-Range,Left Side(L),8-16 ft.,76,29,0.382
+League Averages,Mid-Range,Left Side(L),16-24 ft.,16,4,0.25
+League Averages,Mid-Range,Right Side Center(RC),16-24 ft.,39,11,0.282
+League Averages,Mid-Range,Right Side(R),8-16 ft.,77,33,0.429
+League Averages,Mid-Range,Right Side(R),16-24 ft.,9,3,0.333
+League Averages,Restricted Area,Center(C),Less Than 8 ft.,683,422,0.618
+League Averages,Right Corner 3,Right Side(R),24+ ft.,51,19,0.373
